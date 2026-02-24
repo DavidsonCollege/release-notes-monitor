@@ -1,21 +1,103 @@
 {
   "digital-campus": {
-    "windows": [],
-    "macos": [],
-    "slack": [],
-    "papercut": [],
+    "windows": [
+      "c440efec81b11dd0",
+      "9adcfc3dae90c373",
+      "24f1ab0064d313dd",
+      "dfaf1eebc46df37a",
+      "8e26788429b0880b",
+      "b15f340a891ed05e",
+      "59d764f94b49fd85",
+      "1f7d232f46a95407",
+      "c34666bd9c63e933",
+      "b4c71d9a4921fb61"
+    ],
+    "macos": [
+      "4540265dc8ff88f6",
+      "da7c7f7499c056bb"
+    ],
+    "slack": [
+      "c0c6a955164475c6",
+      "72622c02c8d547de",
+      "7caa75daca5d26c0",
+      "7a520a4bf1417222",
+      "103ac9c4c824744c",
+      "27cd9729360773a6",
+      "e60e7b448903404b",
+      "9ea2c6acf7e3ca36",
+      "8daa949d882156e7",
+      "c200419922b033e5"
+    ],
+    "papercut": [
+      "65ecd64f5ffcce91",
+      "ba97a2ed3b9b7f42",
+      "cd09958763e3594f"
+    ],
     "canva": [],
     "zoom": [],
-    "scribe": [],
+    "scribe": [
+      "e01cdf6739129daa",
+      "959e218e8672766a",
+      "63a36d61193f5ac1",
+      "a63276bc417bac7a",
+      "ac0670f0ed081e8b",
+      "bab1f160f4526f34",
+      "aef27e910b92bed3",
+      "20f4803a01f81725",
+      "a1694654eb68dad0",
+      "353a37dafca9d946"
+    ],
     "clickup": [],
-    "microsoft-office": [],
-    "google-workspace": [],
-    "ninjaone": [],
-    "smartdeploy": [],
-    "1password": [],
-    "ems": [],
+    "microsoft-office": [
+      "bb7993b77a1101a9",
+      "8f2885091136ab69",
+      "b9360485c3e61f3c",
+      "185d4d7625c4f74e",
+      "813b1ad089721490",
+      "324fe31ac188c1d9",
+      "d1abde94d208108e",
+      "db143e81c3cf0659",
+      "446e830fcedef6e0",
+      "4ae5102fb73a6fdc"
+    ],
+    "google-workspace": [
+      "ec4a45972eeea500",
+      "612caa89c0b172eb",
+      "3063845986739893",
+      "ddc581e30235c487",
+      "db2eba8dee06c4f0",
+      "76520547bf9909d1",
+      "e4cf929ba8f3a475",
+      "3e937cf2ea3bf27f",
+      "da8756eb7e34a669",
+      "7a8bd25c13f3913b"
+    ],
+    "ninjaone": [
+      "ae3c888576a00241"
+    ],
+    "smartdeploy": [
+      "0ec88b01128c2331"
+    ],
+    "1password": [
+      "22c8d8bd099eb12b",
+      "9b4a49c55cd1a750",
+      "9c09b21f403ecfc4"
+    ],
+    "ems": [
+      "4e77c97f9cb5c500",
+      "84ad65f4de20750b",
+      "128489c3fd0084da",
+      "70913ccdd4a66570",
+      "dcdc7a4816d8fd4b"
+    ],
     "ad-astra": [],
-    "korbyt": [],
-    "screencloud": []
+    "korbyt": [
+      "1028af79104b0cdb"
+    ],
+    "screencloud": [
+      "686f8c35d076b2ee",
+      "2aa849835f5901d8",
+      "8aedd0d8861972f1"
+    ]
   }
 }

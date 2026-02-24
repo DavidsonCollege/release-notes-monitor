@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>All Teams - Release Notes</title>
+    <description>Combined release notes from all teams</description>
+    <link>https://DavidsonCollege.github.io/release-notes-monitor/feeds/all.xml</link>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Feb 2026 14:25:17 +0000</lastBuildDate>
+    <atom:link href="https://DavidsonCollege.github.io/release-notes-monitor/feeds/all.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>macOS - This update has no published CVE entries.</title>
+      <link>https://support.apple.com/en-us/100100</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;macOS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This update has no published CVE entries.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.apple.com/en-us/100100&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">da7c7f7499c056bb</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scribe - Purchase and manage licenses in-product</title>
+      <link>https://scribe.launchnotes.io/announcements/purchase-and-manage-licenses-in-product</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enterprise Purchase and manage licenses in-product Enterprise Org Admins can now purchase and manage licenses directly in product. The new billing page provides clear visibility into how licenses... September 24, 2025&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/purchase-and-manage-licenses-in-product&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">ac0670f0ed081e8b</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scribe - Translate guides into 10 languages</title>
+      <link>https://scribe.launchnotes.io/announcements/translation</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enterprise Viewing Sharing Translate guides into 10 languages Scribe now translates your guides in 10 high-demand languages — instantly. Instead of creating duplicate documents or relying on unproven... September 18, 2025&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/translation&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">bab1f160f4526f34</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scribe - Ensure only approved documentation is shared</title>
+      <link>https://scribe.launchnotes.io/announcements/approval-workflows</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enterprise Editing Ensure only approved documentation is shared Scribe’s new approval workflows guarantee that only reviewed and approved content goes live. This gives Team Admins stricter control over... September 15, 2025&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/approval-workflows&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">aef27e910b92bed3</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scribe - See, analyze, and improve the workflows that power your business</title>
+      <link>https://scribe.launchnotes.io/announcements/optimize</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Optimize See, analyze, and improve the workflows that power your business Scribe’s newest product, Optimize, helps you understand and improve how work actually happens across your organization. Instead of relying on... November 12, 2025&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/optimize&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">a63276bc417bac7a</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS - NameandinformationlinkAvailable forReleasedateiOS 26.3 and iPadOS 26.3iPhone 11 and later, iPad Pro 12.9-inch 3rd generation and later, iPad Pro 11-in</title>
+      <link>https://support.apple.com/en-us/126346</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;macOS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nameandinformationlink Available for Releasedate&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.apple.com/en-us/126346&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">4540265dc8ff88f6</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - 24H21</title>
+      <link>https://support.microsoft.com/help/5077181</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2024-10-01&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.microsoft.com/help/5077181&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">59d764f94b49fd85</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scribe - Preview your guide live as you capture on desktop</title>
+      <link>https://scribe.launchnotes.io/announcements/preview-your-guide-live-as-you-capture-on-desktop</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pro Pro Team Enterprise Capturing Preview your guide live as you capture on desktop Scribe now shows you a live preview of your guide while you’re capturing it in the Scribe desktop application. As you work, each screenshot and... January 12, 2026&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/preview-your-guide-live-as-you-capture-on-desktop&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">959e218e8672766a</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scribe - Customize click target shapes for clearer guides</title>
+      <link>https://scribe.launchnotes.io/announcements/customize-click-target-shapes-for-clearer-guides</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pro Pro Team Enterprise Editing Customize click target shapes for clearer guides Scribe now lets you change the shape of click targets, so highlights match the buttons, fields, and menus on screen. Instead of always using a... January 12, 2026&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/customize-click-target-shapes-for-clearer-guides&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">63a36d61193f5ac1</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - 26H1</title>
+      <link>https://support.microsoft.com/help/5077179</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2026-02-10&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.microsoft.com/help/5077179&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">9adcfc3dae90c373</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - 25H2</title>
+      <link>https://support.microsoft.com/help/5077181</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2025-09-30&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.microsoft.com/help/5077181&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">24f1ab0064d313dd</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - 24H2</title>
+      <link>https://support.microsoft.com/help/5077181</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2024-10-01&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.microsoft.com/help/5077181&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">dfaf1eebc46df37a</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - 23H2</title>
+      <link>https://support.microsoft.com/help/5075941</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2023-10-31&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.microsoft.com/help/5075941&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">8e26788429b0880b</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scribe - Add tables within Pages</title>
+      <link>https://scribe.launchnotes.io/announcements/add-tables-within-pages</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pro Pro Team Enterprise Pages Add tables within Pages Scribe now lets you add tables to Pages, so you can organize information in rows and columns and make your guide easier... February 6, 2026&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/add-tables-within-pages&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">e01cdf6739129daa</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scribe - Improve your workflows with AI to work more efficiently</title>
+      <link>https://scribe.launchnotes.io/announcements/improve-workflows-with-ai</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Improve your workflows with AI to work more efficiently Use Scribe to analyze any of your workflows and suggest ways to improve it for speed and efficiency. From turning seven clicks into one, to... August 20, 2025&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/improve-workflows-with-ai&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">20f4803a01f81725</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scribe - Control when edits go live with publishing changes</title>
+      <link>https://scribe.launchnotes.io/announcements/publishing-changes</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enterprise Editing Control when edits go live with publishing changes Teams can now have more control over when updates to their Scribes become visible by keeping new edits separate from publicly visible content.... August 18, 2025&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/publishing-changes&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">a1694654eb68dad0</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scribe - Bring Scribes into your AI workflows with the enterprise search API</title>
+      <link>https://scribe.launchnotes.io/announcements/enterprise-search-api</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enterprise Viewing Sharing Bring Scribes into your AI workflows with the enterprise search API Scribe’s newest search API makes critical process knowledge easy to find, right where people work. Employees can surface trusted Scribe guides... August 12, 2025&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/enterprise-search-api&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">353a37dafca9d946</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office - Feedback</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Feedback&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">4ae5102fb73a6fdc</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office - Related topics</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Related topics&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">446e830fcedef6e0</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office - Office for Mac Release Information</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Office for Mac Release Information&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">db143e81c3cf0659</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office - Release History for Office Deployment Tool</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Release History for Office Deployment Tool&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">d1abde94d208108e</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office - Release Notes for Microsoft 365 Insiders</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Release Notes for Microsoft 365 Insiders&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">324fe31ac188c1d9</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office - Release Notes for Microsoft 365 Apps Releases</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Release Notes for Microsoft 365 Apps Releases&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">813b1ad089721490</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office - Download Sizes for Microsoft 365 Apps Releases</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Download Sizes for Microsoft 365 Apps Releases&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">185d4d7625c4f74e</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office - History for Microsoft 365 Apps Releases</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;History for Microsoft 365 Apps Releases&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">b9360485c3e61f3c</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office - Security Updates for Microsoft 365 Apps Releases</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Security Updates for Microsoft 365 Apps Releases&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">8f2885091136ab69</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office - In this article</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this article&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">bb7993b77a1101a9</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>PaperCut - Products PaperCut MF PaperCut NG PaperCut Hive PaperCut Pocket Product overview Products Product overview Features PaperC</title>
+      <link>https://www.papercut.com/products/mf/</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=papercut.com&amp;sz=64&quot; alt=&quot;PaperCut&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;PaperCut&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Products PaperCut MF PaperCut NG&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.papercut.com/products/mf/&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">cd09958763e3594f</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>PaperCut - Other products Print Deploy release history Job Ticketing release history PaperCut MF Cloud Services release history</title>
+      <link>https://www.papercut.com/help/manuals/print-deploy/release-history/</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=papercut.com&amp;sz=64&quot; alt=&quot;PaperCut&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;PaperCut&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Other products Print Deploy release history Job Ticketing release history&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.papercut.com/help/manuals/print-deploy/release-history/&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">ba97a2ed3b9b7f42</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>PaperCut - PaperCut NG release history</title>
+      <link>https://www.papercut.com/products/ng/release-history/</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=papercut.com&amp;sz=64&quot; alt=&quot;PaperCut&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;PaperCut&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Take a look under the hood and see what's new with the latest version of PaperCut NG, and find out what things we've fixed along the way. Take a look under the hood and see what's new with the latest version of PaperCut MF, and find out what things we've fixed along the way. See what's new with the...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.papercut.com/products/ng/release-history/&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">65ecd64f5ffcce91</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Slack 4.46.99</title>
+      <link>https://slack.com/help/articles/360048367814-Update-the-Slack-desktop-app#security-guidance</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;September 22, 2025 This release includes security improvements. Updating is recommended.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://slack.com/help/articles/360048367814-Update-the-Slack-desktop-app#security-guidance&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">c200419922b033e5</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Slack 4.46.101</title>
+      <link>https://slack.com/release-notes/mac</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;October 6, 2025 A little reminder as you go about your day: The world is a more unique place simply because you’re a part of it, and you’ve affected others in ways you can’t imagine. Oh, and no big changes to the app this time. Happy messaging!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://slack.com/release-notes/mac&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">8daa949d882156e7</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Slack 4.46.104</title>
+      <link>https://slack.com/release-notes/mac</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;October 21, 2025 All bugs that were fixed in this release were too small for the eye to see or too fiddly for human words to describe. Nevertheless, work was done, things tinkered with and the app became subtly better.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://slack.com/release-notes/mac&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">9ea2c6acf7e3ca36</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Slack 4.47.59</title>
+      <link>https://slack.com/release-notes/mac</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;November 10, 2025 Bugs were squashed, performance was improved, work was done, and the result was good. Please enjoy Slack responsibly.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://slack.com/release-notes/mac&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">e60e7b448903404b</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Slack 4.47.65</title>
+      <link>https://slack.com/help/articles/360048367814-Update-the-Slack-desktop-app#security-guidance</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;November 24, 2025 This release includes security improvements. Updating is recommended.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://slack.com/help/articles/360048367814-Update-the-Slack-desktop-app#security-guidance&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">27cd9729360773a6</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Slack 4.47.69</title>
+      <link>https://slack.com/release-notes/mac</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;December 8, 2025 Don’t mind us — just making a few small adjustments to keep the app in tip-top shape. More to come soon. Cheerio!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://slack.com/release-notes/mac&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">103ac9c4c824744c</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Slack 4.47.72</title>
+      <link>https://slack.com/help/articles/360048367814-Update-the-Slack-desktop-app#security-guidance</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;December 12, 2025 This release includes minor security improvements. Updating is beneficial.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://slack.com/help/articles/360048367814-Update-the-Slack-desktop-app#security-guidance&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">7a520a4bf1417222</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Slack 4.48.92</title>
+      <link>https://slack.com/release-notes/mac</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;February 13, 2026 Hard work is happening this week, but nothing we can easily describe. It’s like a duck swimming on a pond. Under the water, the duck is paddling furiously, but on top all that can be seen is the gentle gliding of a bird on water. This week, Slack is the duck.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://slack.com/release-notes/mac&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">7caa75daca5d26c0</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Slack 4.48.94</title>
+      <link>https://slack.com/help/articles/360048367814-Update-the-Slack-desktop-app#security-guidance</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;February 18, 2026 This release includes minor security improvements. Updating is beneficial.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://slack.com/help/articles/360048367814-Update-the-Slack-desktop-app#security-guidance&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">72622c02c8d547de</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Slack 4.48.95</title>
+      <link>https://slack.com/release-notes/mac</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;February 19, 2026 We tidied the shelves, cleaned the windows and ran a white-gloved finger over every flat surface. Just a little routine maintenance to ensure that everything is shipshape. Full steam ahead!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://slack.com/release-notes/mac&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">c0c6a955164475c6</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - General Availability Channel</title>
+      <link>https://learn.microsoft.com/en-us/windows/release-health/</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2026-02-10&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/windows/release-health/&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">b4c71d9a4921fb61</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - Servicing optionUpdate typeAvailability dateBuildKB article</title>
+      <link>https://learn.microsoft.com/en-us/windows/release-health/</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Servicing optionUpdate typeAvailability dateBuildKB article&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/windows/release-health/&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">1f7d232f46a95407</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - VersionServicing optionAvailability dateMainstream support end dateExtended support end dateLatest update for ESULatest revision dateLatest build</title>
+      <link>https://learn.microsoft.com/en-us/windows/release-health/</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VersionServicing optionAvailability dateMainstream support end dateExtended support end dateLatest update for ESULatest revision dateLatest build&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/windows/release-health/&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">b15f340a891ed05e</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - VersionServicing optionAvailability dateEnd of updates: Home, Pro, Pro Education, and Pro for WorkstationsEnd of updates: Enterprise, Education, IoT E</title>
+      <link>https://learn.microsoft.com/en-us/windows/release-health/</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VersionServicing optionAvailability dateEnd of updates: Home, Pro, Pro Education, and Pro for WorkstationsEnd of updates: Enterprise, Education, IoT Enterprise, and Enterprise multi-sessionLatest update for ESULatest revision dateLatest build&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/windows/release-health/&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">c440efec81b11dd0</guid>
+      <pubDate>Tue, 24 Feb 2026 14:24:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace - Save PDFs to your Google Drive</title>
+      <link>http://workspaceupdates.googleblog.com/2026/02/save-pdfs-to-your-google-drive.html</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Google Workspace&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On Chrome on your computer, you can now save PDFs directly to Drive without leaving the page, and easily get back to them later in the “Saved from Chrome” folder. Visit the Help Center to learn more.Getting startedAdmins: Chrome admins can control this feature using this policy, starting from...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/02/save-pdfs-to-your-google-drive.html&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">ec4a45972eeea500</guid>
+      <pubDate>Mon, 23 Feb 2026 21:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace - New internal and external membership classifications for Google Groups</title>
+      <link>http://workspaceupdates.googleblog.com/2026/02/new-internal-and-external-membership-classifications.html</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Google Workspace&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To ensure better data security, starting in Q2 2026, Google Groups will launch stricter internal and external classifications on group memberships. Groups with the Allow members outside your organization setting disabled will be limited only to members of your organization.Currently, groups with...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/02/new-internal-and-external-membership-classifications.html&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">612caa89c0b172eb</guid>
+      <pubDate>Mon, 23 Feb 2026 21:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace - Two new functions in Google Sheets</title>
+      <link>http://workspaceupdates.googleblog.com/2026/02/two-new-functions-in-google-sheets.html</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Google Workspace&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are adding two new functions to Google Sheets, =SHEET and =SHEETS. These additions help users manage and reference spreadsheets with multiple tabs more effectively. The new functions operate as follows:=SHEET(value): Returns the sheet number of a specified sheet name or reference. If the...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/02/two-new-functions-in-google-sheets.html&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">3063845986739893</guid>
+      <pubDate>Mon, 23 Feb 2026 17:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace - Google Workspace Updates Weekly Recap - February 20, 2026</title>
+      <link>http://workspaceupdates.googleblog.com/2026/02/weekly-recap-02-20-2026.html</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Google Workspace&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;View Gemini feature usage and threshold reports in the Admin consoleToday, we’re releasing new adoption and usage metrics to our Gemini reports in the Admin console. These new reports offer administrators comprehensive visibility into AI feature usage and thresholds to help them better manage their...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/02/weekly-recap-02-20-2026.html&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">ddc581e30235c487</guid>
+      <pubDate>Fri, 20 Feb 2026 21:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace - Manage permission to edit group details and changes to groups settings</title>
+      <link>http://workspaceupdates.googleblog.com/2026/02/manage-permission-to-edit-group-details.html</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Google Workspace&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We’re introducing a new permission in Google Groups: &quot;Who can modify group details.&quot; This update allows group owners and managers to grant specific roles the ability to edit a group's name and description.Previously, the ability to edit a group’s name and description was limited to the owner and...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/02/manage-permission-to-edit-group-details.html&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">db2eba8dee06c4f0</guid>
+      <pubDate>Thu, 19 Feb 2026 19:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - General Availability Channel</title>
+      <link>https://support.microsoft.com/help/5077179</link>
+      <description>&lt;p&gt;
+&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;
+&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2026-02-10&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.microsoft.com/help/5077179&quot;&gt;Read more &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">c34666bd9c63e933</guid>
+      <pubDate>Tue, 24 Feb 2026 14:25:17 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
