@@ -680,6 +680,7 @@
                                     <span class="source-type ${p.source.type === 'rss' ? 'source-rss' : 'source-scrape'}">
                                         ${p.source.type === 'rss' ? '📡 RSS' : '🔍 Scrape'}
                                     </span>
+                                    ${p.filter ? '<span class="source-type" style="background:#3b82f620;color:var(--accent)">Filtered</span>' : ''}
                                 </div>
                                 <div>
                                     <button class="btn-sm btn-preview" onclick="previewProduct(${ti}, ${pi})" title="Preview feed items">👁 Preview</button>
@@ -878,6 +879,18 @@
                     <input type="text" id="m-prod-summary-sel" value="${esc(p.source?.summary_selector || 'p')}" placeholder="p, ul li" />
                 </div>
             </div>
+            <div style="border-top:1px solid var(--border);margin-top:16px;padding-top:16px">
+                <div class="form-group">
+                    <label>Include Keywords</label>
+                    <input type="text" id="m-prod-include" value="${esc((p.filter?.include || []).join(', '))}" placeholder="e.g., macOS, Sonoma, Sequoia" />
+                    <div class="help-text">Only keep items whose title contains at least one of these words. Comma-separated. Leave blank to include everything.</div>
+                </div>
+                <div class="form-group">
+                    <label>Exclude Keywords</label>
+                    <input type="text" id="m-prod-exclude" value="${esc((p.filter?.exclude || []).join(', '))}" placeholder="e.g., beta, preview, visionOS" />
+                    <div class="help-text">Drop items whose title contains any of these words. Comma-separated.</div>
+                </div>
+            </div>
         `;
     }
 
@@ -920,6 +933,17 @@
             product.source.title_selector = document.getElementById("m-prod-title-sel").value.trim() || "h2, h3";
             product.source.date_selector = "time, .date";
             product.source.summary_selector = document.getElementById("m-prod-summary-sel").value.trim() || "p";
+        }
+
+        // Keyword filters
+        const includeRaw = document.getElementById("m-prod-include").value.trim();
+        const excludeRaw = document.getElementById("m-prod-exclude").value.trim();
+        const includeKeys = includeRaw ? includeRaw.split(",").map(k => k.trim()).filter(Boolean) : [];
+        const excludeKeys = excludeRaw ? excludeRaw.split(",").map(k => k.trim()).filter(Boolean) : [];
+        if (includeKeys.length || excludeKeys.length) {
+            product.filter = {};
+            if (includeKeys.length) product.filter.include = includeKeys;
+            if (excludeKeys.length) product.filter.exclude = excludeKeys;
         }
 
         return product;
