@@ -29,10 +29,10 @@
           "source": {
             "type": "scrape",
             "url": "https://support.apple.com/en-us/100100",
-            "selector": "div#sections div",
-            "title_selector": "h2, h3, strong",
-            "date_selector": "p",
-            "summary_selector": "p"
+            "selector": "li",
+            "title_selector": "a",
+            "date_selector": null,
+            "summary_selector": "a"
           }
         },
         {
