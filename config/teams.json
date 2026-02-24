@@ -27,12 +27,8 @@
           "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
           "release_notes_url": "https://support.apple.com/en-us/100100",
           "source": {
-            "type": "scrape",
-            "url": "https://support.apple.com/en-us/100100",
-            "selector": "li",
-            "title_selector": "a",
-            "date_selector": null,
-            "summary_selector": "a"
+            "type": "rss",
+            "feed_url": "https://developer.apple.com/news/releases/rss/releases.rss"
           }
         },
         {
