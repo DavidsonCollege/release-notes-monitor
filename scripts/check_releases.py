@@ -27,6 +27,7 @@ CONFIG_FILE = BASE_DIR / "config" / "teams.json"
 SEEN_FILE = BASE_DIR / "data" / "seen.json"
 FEEDS_DIR = BASE_DIR / "docs" / "feeds"
 MAX_FEED_ITEMS = 50  # Max items to keep in each team's RSS feed
+RECENT_PER_PRODUCT = 5  # Always keep latest N items per product in feed
 REQUEST_TIMEOUT = 30
 USER_AGENT = "ReleaseNotesMonitor/1.0 (+https://github.com)"
 
@@ -489,6 +490,7 @@ def main():
                 existing_items = []
 
         new_team_items = []
+        recent_items = []  # Always-included latest items per product
 
         for product in products:
             product_id = product["id"]
@@ -502,24 +504,34 @@ def main():
                 if product_id not in seen[team_id]:
                     seen[team_id][product_id] = []
 
-                for raw_item in raw_items:
+                # Always enrich the latest items for the feed
+                for i, raw_item in enumerate(raw_items[:RECENT_PER_PRODUCT]):
                     item_id = generate_item_id(product_id, raw_item["title"], raw_item["link"])
+                    enriched_item = {
+                        "id": item_id,
+                        "product_id": product_id,
+                        "product_name": product_name,
+                        "icon_url": product.get("icon_url", ""),
+                        "title": raw_item["title"],
+                        "link": raw_item["link"],
+                        "summary": raw_item.get("summary", ""),
+                        "date": raw_item.get("date", datetime.now(timezone.utc).isoformat()),
+                    }
+                    recent_items.append(enriched_item)
 
+                    # Track new vs seen
                     if item_id not in seen[team_id][product_id]:
-                        # New item!
                         seen[team_id][product_id].append(item_id)
-                        enriched_item = {
-                            "id": item_id,
-                            "product_id": product_id,
-                            "product_name": product_name,
-                            "icon_url": product.get("icon_url", ""),
-                            "title": raw_item["title"],
-                            "link": raw_item["link"],
-                            "summary": raw_item.get("summary", ""),
-                            "date": raw_item.get("date", datetime.now(timezone.utc).isoformat()),
-                        }
                         new_team_items.append(enriched_item)
                         print(f"    NEW: {raw_item['title'][:80]}")
+                    else:
+                        print(f"    OK:  {raw_item['title'][:80]}")
+
+                # Also track remaining items beyond the top 5 for seen
+                for raw_item in raw_items[RECENT_PER_PRODUCT:]:
+                    item_id = generate_item_id(product_id, raw_item["title"], raw_item["link"])
+                    if item_id not in seen[team_id][product_id]:
+                        seen[team_id][product_id].append(item_id)
 
                 # Keep seen list from growing unbounded
                 seen[team_id][product_id] = seen[team_id][product_id][-200:]
@@ -531,8 +543,8 @@ def main():
             # Be polite to servers
             time.sleep(1)
 
-        # Combine new items with existing, deduplicate, and limit
-        all_items = new_team_items + existing_items
+        # Combine: recent items (always fresh) + existing history, deduplicate
+        all_items = recent_items + existing_items
         seen_ids = set()
         deduped_items = []
         for item in all_items:
