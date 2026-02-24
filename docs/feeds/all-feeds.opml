@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Release Notes Monitor - All Feeds</title>
-    <dateCreated>Tue, 24 Feb 2026 20:11:37 +0000</dateCreated>
+    <dateCreated>Tue, 24 Feb 2026 21:24:55 +0000</dateCreated>
   </head>
   <body>
     <outline text="Digital Campus Release Notes" title="Digital Campus Release Notes" type="rss" xmlUrl="https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml" htmlUrl="https://davidsoncollege.github.io/release-notes-monitor"/>

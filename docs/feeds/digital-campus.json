@@ -1,5 +1,115 @@
 [
   {
+    "id": "677dba7875fa4724",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v3.13.0",
+    "link": "https://docs.slack.dev/changelog/2026/02/19/slack-cli",
+    "summary": "Version 3.13.0 of the developer tools for the Slack platform has arrived!",
+    "date": "2026-02-19T00:00:00+00:00"
+  },
+  {
+    "id": "8ee4018a9aa3532b",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Announcing the Slack MCP server and Real-time Search API",
+    "link": "https://docs.slack.dev/changelog/2026/02/17/slack-mcp",
+    "summary": "We're excited to announce the release of not one, but two, major components designed to significantly enhance how Large Language Models (LLMs) and AI agents interact with your workspace data: the Slack Model Context Protocol (MCP) server and the Real-time Search (RTS) API!",
+    "date": "2026-02-17T00:00:00+00:00"
+  },
+  {
+    "id": "6dfd587dc5b637f7",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Apps can now display thinking steps to users!",
+    "link": "https://docs.slack.dev/changelog/2026/02/11/task-cards-plan-blocks",
+    "summary": "Display your apps' and agents' actions with three new Block Kit components:",
+    "date": "2026-02-11T00:00:00+00:00"
+  },
+  {
+    "id": "71590f5049c2346f",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Retry delayed events feature now available",
+    "link": "https://docs.slack.dev/changelog/2026/02/05/retry-events-feature",
+    "summary": "You can now replay events that your app might have missed! In case of an outage where your app may have missed events, we've released a Delayed Events feature that lets you replay past events. Read all about it in the Events API docs.",
+    "date": "2026-02-05T00:00:00+00:00"
+  },
+  {
+    "id": "d6687af3c62d7016",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v3.12.0",
+    "link": "https://docs.slack.dev/changelog/2026/02/05/slack-cli",
+    "summary": "Version 3.12.0 of the developer tools for the Slack platform has landed!",
+    "date": "2026-02-05T00:00:00+00:00"
+  },
+  {
+    "id": "7dd8edf6be4744b8",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v3.11.0",
+    "link": "https://docs.slack.dev/changelog/2026/01/22/slack-cli",
+    "summary": "Version 3.11.0 of the developer tools for the Slack platform has arrived!",
+    "date": "2026-01-22T00:00:00+00:00"
+  },
+  {
+    "id": "d14876f6d06f40a5",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Classic apps deprecation paused",
+    "link": "https://docs.slack.dev/changelog/2025/12/08/classic-apps-deprecation-paused",
+    "summary": "We want to update you about our previous announcement regarding support for classic apps. Based on feedback from our customers and developer community, we have decided to pause this migration.",
+    "date": "2025-12-08T00:00:00+00:00"
+  },
+  {
+    "id": "9d9817fd4b09baef",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v3.10.0",
+    "link": "https://docs.slack.dev/changelog/2025/12/04/slack-cli",
+    "summary": "Version 3.10.0 of the developer tools for the Slack platform is here!",
+    "date": "2025-12-04T00:00:00+00:00"
+  },
+  {
+    "id": "17697ffeb174fb64",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v3.9.2",
+    "link": "https://docs.slack.dev/changelog/2025/11/20/slack-cli",
+    "summary": "Version 3.9.2 of the developer tools for the Slack platform has landed!",
+    "date": "2025-11-20T00:00:00+00:00"
+  },
+  {
+    "id": "412cfa9f177e7fc0",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v3.9.1",
+    "link": "https://docs.slack.dev/changelog/2025/11/06/slack-cli",
+    "summary": "Version 3.9.1 of the developer tools for the Slack platform is here!",
+    "date": "2025-11-06T00:00:00+00:00"
+  },
+  {
+    "id": "0448a83c1fa0f490",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Sending larger attachments in Gmail: New 50MB limits for Enterprise Plus customers",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/ending-larger-attachments-in-gmail-new-50MB-limit-for-Enterprise-Plus.html",
+    "summary": "We are introducing a significant enhancement to Gmail’s storage and delivery capabilities for Enterprise Plus customers. To support seamless collaboration and high-fidelity file sharing, we are increasing the file size limits for both sending and receiving emails.Sending larger files: Users can now...",
+    "date": "2026-02-24T18:37:00+00:00"
+  },
+  {
     "id": "d530d36a32e7a0ce",
     "product_id": "macos",
     "product_name": "macOS",

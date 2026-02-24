@@ -5,8 +5,15 @@
     <description>Technology products managed by the Digital Campus team</description>
     <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 20:11:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 21:24:55 +0000</lastBuildDate>
     <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google Workspace - Sending larger attachments in Gmail: New 50MB limits for Enterprise Plus customers</title>
+      <link>http://workspaceupdates.googleblog.com/2026/02/ending-larger-attachments-in-gmail-new-50MB-limit-for-Enterprise-Plus.html</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Google Workspace&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We are introducing a significant enhancement to Gmail’s storage and delivery capabilities for Enterprise Plus customers. To support seamless collaboration and high-fidelity file sharing, we are increasing the file size limits for both sending and receiving emails.Sending larger files: Users can now...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/02/ending-larger-attachments-in-gmail-new-50MB-limit-for-Enterprise-Plus.html&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">0448a83c1fa0f490</guid>
+      <pubDate>Tue, 24 Feb 2026 18:37:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google Workspace - AI avatars and AI voiceovers in Google Vids now available in seven new languages</title>
       <link>http://workspaceupdates.googleblog.com/2026/02/vids-avatars-voiceovers-new-languages.html</link>
@@ -92,11 +99,81 @@
       <pubDate>Fri, 20 Feb 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Slack - Release: Slack CLI v3.13.0</title>
+      <link>https://docs.slack.dev/changelog/2026/02/19/slack-cli</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Version 3.13.0 of the developer tools for the Slack platform has arrived!&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2026/02/19/slack-cli&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">677dba7875fa4724</guid>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>macOS - TestFlight Update</title>
       <link>https://developer.apple.com/news/releases/?id=02172026a</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;macOS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;View release notes&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.apple.com/news/releases/?id=02172026a&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">b2fe11dcfd018512</guid>
       <pubDate>Tue, 17 Feb 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Announcing the Slack MCP server and Real-time Search API</title>
+      <link>https://docs.slack.dev/changelog/2026/02/17/slack-mcp</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We're excited to announce the release of not one, but two, major components designed to significantly enhance how Large Language Models (LLMs) and AI agents interact with your workspace data: the Slack Model Context Protocol (MCP) server and the Real-time Search (RTS) API!&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2026/02/17/slack-mcp&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">8ee4018a9aa3532b</guid>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Apps can now display thinking steps to users!</title>
+      <link>https://docs.slack.dev/changelog/2026/02/11/task-cards-plan-blocks</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Display your apps' and agents' actions with three new Block Kit components:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2026/02/11/task-cards-plan-blocks&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">6dfd587dc5b637f7</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Retry delayed events feature now available</title>
+      <link>https://docs.slack.dev/changelog/2026/02/05/retry-events-feature</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You can now replay events that your app might have missed! In case of an outage where your app may have missed events, we've released a Delayed Events feature that lets you replay past events. Read all about it in the Events API docs.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2026/02/05/retry-events-feature&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">71590f5049c2346f</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Release: Slack CLI v3.12.0</title>
+      <link>https://docs.slack.dev/changelog/2026/02/05/slack-cli</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Version 3.12.0 of the developer tools for the Slack platform has landed!&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2026/02/05/slack-cli&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">d6687af3c62d7016</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Release: Slack CLI v3.11.0</title>
+      <link>https://docs.slack.dev/changelog/2026/01/22/slack-cli</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Version 3.11.0 of the developer tools for the Slack platform has arrived!&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2026/01/22/slack-cli&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">7dd8edf6be4744b8</guid>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Classic apps deprecation paused</title>
+      <link>https://docs.slack.dev/changelog/2025/12/08/classic-apps-deprecation-paused</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We want to update you about our previous announcement regarding support for classic apps. Based on feedback from our customers and developer community, we have decided to pause this migration.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2025/12/08/classic-apps-deprecation-paused&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">d14876f6d06f40a5</guid>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Release: Slack CLI v3.10.0</title>
+      <link>https://docs.slack.dev/changelog/2025/12/04/slack-cli</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Version 3.10.0 of the developer tools for the Slack platform is here!&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2025/12/04/slack-cli&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">9d9817fd4b09baef</guid>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Release: Slack CLI v3.9.2</title>
+      <link>https://docs.slack.dev/changelog/2025/11/20/slack-cli</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Version 3.9.2 of the developer tools for the Slack platform has landed!&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2025/11/20/slack-cli&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">17697ffeb174fb64</guid>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack - Release: Slack CLI v3.9.1</title>
+      <link>https://docs.slack.dev/changelog/2025/11/06/slack-cli</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Slack&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Version 3.9.1 of the developer tools for the Slack platform is here!&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2025/11/06/slack-cli&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">412cfa9f177e7fc0</guid>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
