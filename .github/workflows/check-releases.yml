@@ -1,0 +1,68 @@
+name: Check Release Notes
+
+on:
+  # Run every 4 hours
+  schedule:
+    - cron: '0 */4 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+  # Also run when config changes
+  push:
+    paths:
+      - 'config/teams.json'
+
+# Permissions needed to commit generated feeds and deploy Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  check-releases:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run release notes checker
+        env:
+          BASE_URL: ${{ vars.BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+        run: python scripts/check_releases.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "Release Notes Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/ public/feeds/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update release notes feeds [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi
+```
+
+4. Scroll down and click **Commit changes**
+
+After that, you should also do the same thing for the `.gitignore` file — click **Add file → Create new file**, name it `.gitignore`, and paste this:
+```
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+*.egg-info/
