@@ -1,0 +1,262 @@
+{
+  "teams": [
+    {
+      "id": "digital-campus",
+      "name": "Digital Campus",
+      "description": "Technology products managed by the Digital Campus team",
+      "products": [
+        {
+          "id": "windows",
+          "name": "Windows",
+          "domain": "microsoft.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+          "release_notes_url": "https://learn.microsoft.com/en-us/windows/release-health/",
+          "source": {
+            "type": "scrape",
+            "url": "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information",
+            "selector": "tr",
+            "title_selector": "td:first-child",
+            "date_selector": "td:nth-child(2)",
+            "summary_selector": "td:nth-child(3)"
+          }
+        },
+        {
+          "id": "macos",
+          "name": "macOS",
+          "domain": "apple.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+          "release_notes_url": "https://support.apple.com/en-us/100100",
+          "source": {
+            "type": "scrape",
+            "url": "https://support.apple.com/en-us/100100",
+            "selector": "div#sections div",
+            "title_selector": "h2, h3, strong",
+            "date_selector": "p",
+            "summary_selector": "p"
+          }
+        },
+        {
+          "id": "slack",
+          "name": "Slack",
+          "domain": "slack.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+          "release_notes_url": "https://slack.com/release-notes/mac",
+          "source": {
+            "type": "scrape",
+            "url": "https://slack.com/release-notes/mac",
+            "selector": ".p-release_notes_section",
+            "title_selector": "h2, h3",
+            "date_selector": ".p-release_notes_section__date",
+            "summary_selector": "ul li, p"
+          }
+        },
+        {
+          "id": "papercut",
+          "name": "PaperCut",
+          "domain": "papercut.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+          "release_notes_url": "https://www.papercut.com/help/release-history/",
+          "source": {
+            "type": "scrape",
+            "url": "https://www.papercut.com/help/release-history/",
+            "selector": ".release-entry, article, .content-block, section",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .date, span",
+            "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "canva",
+          "name": "Canva",
+          "domain": "canva.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+          "release_notes_url": "https://www.canva.com/launches/",
+          "source": {
+            "type": "scrape",
+            "url": "https://www.canva.com/launches/",
+            "selector": "article, .launch-item, .card",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .date",
+            "summary_selector": "p"
+          }
+        },
+        {
+          "id": "zoom",
+          "name": "Zoom",
+          "domain": "zoom.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0061222",
+          "source": {
+            "type": "scrape",
+            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0061222",
+            "selector": "article section, .article-body h2, .article-body h3",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .meta",
+            "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "scribe",
+          "name": "Scribe",
+          "domain": "scribehow.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+          "release_notes_url": "https://scribe.launchnotes.io/",
+          "source": {
+            "type": "scrape",
+            "url": "https://scribe.launchnotes.io/",
+            "selector": "article, .announcement, .post",
+            "title_selector": "h2, h3, .title",
+            "date_selector": "time, .date",
+            "summary_selector": "p"
+          }
+        },
+        {
+          "id": "clickup",
+          "name": "ClickUp",
+          "domain": "clickup.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+          "release_notes_url": "https://clickup.com/changelog",
+          "source": {
+            "type": "scrape",
+            "url": "https://clickup.com/changelog",
+            "selector": "article, .changelog-entry, .post",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .date",
+            "summary_selector": "p"
+          }
+        },
+        {
+          "id": "microsoft-office",
+          "name": "Microsoft Office",
+          "domain": "microsoft.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
+          "release_notes_url": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
+          "source": {
+            "type": "scrape",
+            "url": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
+            "selector": "h2, h3",
+            "title_selector": "h2, h3",
+            "date_selector": null,
+            "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "google-workspace",
+          "name": "Google Workspace",
+          "domain": "google.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+          "release_notes_url": "https://workspace.google.com/whatsnew/calendar/",
+          "source": {
+            "type": "rss",
+            "feed_url": "https://workspaceupdates.googleblog.com/feeds/posts/default?alt=rss"
+          }
+        },
+        {
+          "id": "ninjaone",
+          "name": "NinjaOne",
+          "domain": "ninjaone.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
+          "release_notes_url": "https://www.ninjaone.com/docs/new-to-ninjaone/getting-started/release-version-information/",
+          "source": {
+            "type": "scrape",
+            "url": "https://www.ninjaone.com/docs/new-to-ninjaone/getting-started/release-version-information/",
+            "selector": "article, .release-entry, section",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .date",
+            "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "smartdeploy",
+          "name": "SmartDeploy",
+          "domain": "smartdeploy.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
+          "release_notes_url": "https://smartdeploy.pdq.com/hc/en-us/articles/12982168116251-Release-Notes-and-Schedule",
+          "source": {
+            "type": "scrape",
+            "url": "https://smartdeploy.pdq.com/hc/en-us/articles/12982168116251-Release-Notes-and-Schedule",
+            "selector": "article .article-body h2, article .article-body h3",
+            "title_selector": "h2, h3",
+            "date_selector": null,
+            "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "1password",
+          "name": "1Password",
+          "domain": "1password.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+          "release_notes_url": "https://releases.1password.com/",
+          "source": {
+            "type": "scrape",
+            "url": "https://releases.1password.com/",
+            "selector": "article, .release, section",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .date",
+            "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "ems",
+          "name": "EMS",
+          "domain": "accruent.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
+          "release_notes_url": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
+          "source": {
+            "type": "scrape",
+            "url": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
+            "selector": "a, li",
+            "title_selector": "a",
+            "date_selector": null,
+            "summary_selector": null
+          }
+        },
+        {
+          "id": "ad-astra",
+          "name": "Ad Astra",
+          "domain": "aais.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+          "release_notes_url": "https://help.adastra.live/",
+          "source": {
+            "type": "scrape",
+            "url": "https://help.adastra.live/",
+            "selector": "article, .post, section",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .date",
+            "summary_selector": "p"
+          }
+        },
+        {
+          "id": "korbyt",
+          "name": "Korbyt",
+          "domain": "gokorbyt.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+          "release_notes_url": "https://product.korbyt.com/help",
+          "source": {
+            "type": "scrape",
+            "url": "https://product.korbyt.com/help",
+            "selector": "article, .release-note, section",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .date",
+            "summary_selector": "p"
+          }
+        },
+        {
+          "id": "screencloud",
+          "name": "ScreenCloud",
+          "domain": "screencloud.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
+          "release_notes_url": "https://help.screencloud.com/en/articles/10120811-screencloud-os-changelogs",
+          "source": {
+            "type": "scrape",
+            "url": "https://help.screencloud.com/en/articles/10120811-screencloud-os-changelogs",
+            "selector": "article section, .intercom-force-break",
+            "title_selector": "h2, h3, strong",
+            "date_selector": null,
+            "summary_selector": "p, ul li"
+          }
+        }
+      ]
+    }
+  ]
+}
