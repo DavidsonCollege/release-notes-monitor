@@ -1,13 +1,19 @@
 name: Check Release Notes
 
 on:
+  # Run every 4 hours
   schedule:
     - cron: '0 */4 * * *'
+
+  # Allow manual trigger
   workflow_dispatch:
+
+  # Also run when config changes
   push:
     paths:
       - 'config/teams.json'
 
+# Permissions needed to commit generated feeds and deploy Pages
 permissions:
   contents: write
   pages: write
@@ -16,6 +22,7 @@ permissions:
 jobs:
   check-releases:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -40,10 +47,11 @@ jobs:
         run: |
           git config user.name "Release Notes Bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data/ public/feeds/
+          git add data/ docs/feeds/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
+            git pull --rebase origin main
             git commit -m "Update release notes feeds [$(date -u '+%Y-%m-%d %H:%M UTC')]"
             git push
           fi
