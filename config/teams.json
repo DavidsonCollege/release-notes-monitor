@@ -13,7 +13,7 @@
           "release_notes_url": "https://learn.microsoft.com/en-us/windows/release-health/",
           "source": {
             "type": "scrape",
-            "url": "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information",
+            "url": "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information"
             "selector": "tr",
             "title_selector": "td:first-child",
             "date_selector": "td:nth-child(2)",
@@ -146,14 +146,13 @@
           "name": "NinjaOne",
           "domain": "ninjaone.com",
           "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
-          "release_notes_url": "https://www.ninjaone.com/docs/new-to-ninjaone/getting-started/release-version-information/",
+          "release_notes_url": "https://www.ninjaone.com/roadmap/",
           "source": {
-            "type": "scrape",
-            "url": "https://www.ninjaone.com/docs/new-to-ninjaone/getting-started/release-version-information/",
-            "selector": "article, .release-entry, section",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .date",
-            "summary_selector": "p, ul li"
+            "type": "rss",
+            "feed_url": "https://www.ninjaone.com/blog/category/ninjaone/feed/"
+          },
+          "filter": {
+            "include": ["release", "update", "new feature", "launched", "announcing"]
           }
         },
         {
