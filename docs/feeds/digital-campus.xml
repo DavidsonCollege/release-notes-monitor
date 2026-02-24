@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Digital Campus - Release Notes</title>
+    <description>Technology products managed by the Digital Campus team</description>
+    <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml</link>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Feb 2026 17:13:55 +0000</lastBuildDate>
+    <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google Workspace - AI avatars and AI voiceovers in Google Vids now available in seven new languages</title>
+      <link>http://workspaceupdates.googleblog.com/2026/02/vids-avatars-voiceovers-new-languages.html</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Google Workspace&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Google Vids is thrilled to announce that AI avatars and voiceovers now support more than just English. Users can now provide input in seven additional languages: French, German, Italian, Korean, Portuguese, Spanish, and Japanese. The specific details of each feature are outlined below.AI avatarsAI...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/02/vids-avatars-voiceovers-new-languages.html&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">6660dc4be5cd532b</guid>
+      <pubDate>Tue, 24 Feb 2026 17:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace - New cartoon avatars in Google Vids</title>
+      <link>http://workspaceupdates.googleblog.com/2026/02/new-cartoon-avatars-in-google-vids.html</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Google Workspace&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AI avatars in Google Vids provide a fast, cost-effective way to generate high-quality digital speakers. While photorealistic avatars are ideal for formal business, we are introducing new 2D and 3D cartoon-styled avatars that utilize expressive, stylized features to enhance emotional resonance and...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/02/new-cartoon-avatars-in-google-vids.html&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">1a0e534da347f2c7</guid>
+      <pubDate>Tue, 24 Feb 2026 17:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace - Get quantitative insights from text responses with Gemini in Google Forms</title>
+      <link>http://workspaceupdates.googleblog.com/2026/02/get-quantitative-insights-from-text-responses-with-gemini-in-forms.html</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Google Workspace&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Last year, we announced proactive Gemini-generated insights in Forms for short answer and paragraph questions helping form creators summarize responses to longer questions and quickly understand sentiment and feedback.Today, we are enhancing that experience to show quantitative insights about...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/02/get-quantitative-insights-from-text-responses-with-gemini-in-forms.html&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">ab61073bd1915655</guid>
+      <pubDate>Tue, 24 Feb 2026 16:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS - Xcode 26.4 beta 2 (17E5170d)</title>
+      <link>https://developer.apple.com/news/releases/?id=02232026g</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;macOS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;View downloadsView release notes&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.apple.com/news/releases/?id=02232026g&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">d530d36a32e7a0ce</guid>
+      <pubDate>Mon, 23 Feb 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS - iOS 26.4 beta 2 (23E5218e)</title>
+      <link>https://developer.apple.com/news/releases/?id=02232026a</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;macOS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;View downloadsView release notes&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.apple.com/news/releases/?id=02232026a&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">8496836abf5c5eb5</guid>
+      <pubDate>Mon, 23 Feb 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS - iPadOS 26.4 beta 2 (23E5218e)</title>
+      <link>https://developer.apple.com/news/releases/?id=02232026b</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;macOS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;View downloadsView release notes&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.apple.com/news/releases/?id=02232026b&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">d3af7365d4a6afb0</guid>
+      <pubDate>Mon, 23 Feb 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS - macOS 26.4 beta 2 (25E5218f)</title>
+      <link>https://developer.apple.com/news/releases/?id=02232026c</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;macOS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;View downloadsView release notes&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.apple.com/news/releases/?id=02232026c&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">69f85ffa732b0c0d</guid>
+      <pubDate>Mon, 23 Feb 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS - tvOS 26.4 beta 2 (23L5219e)</title>
+      <link>https://developer.apple.com/news/releases/?id=02232026d</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;macOS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;View downloadsView release notes&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.apple.com/news/releases/?id=02232026d&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">e32a2189a841adf2</guid>
+      <pubDate>Mon, 23 Feb 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS - visionOS 26.4 beta 2 (23O5220e)</title>
+      <link>https://developer.apple.com/news/releases/?id=02232026e</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;macOS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;View downloadsView release notes&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.apple.com/news/releases/?id=02232026e&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">d33b367337073249</guid>
+      <pubDate>Mon, 23 Feb 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS - watchOS 26.4 beta 2 (23T5221e)</title>
+      <link>https://developer.apple.com/news/releases/?id=02232026f</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;macOS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;View downloadsView release notes&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.apple.com/news/releases/?id=02232026f&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">6e69b7fa00f171e6</guid>
+      <pubDate>Mon, 23 Feb 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS - App Store Connect Update</title>
+      <link>https://developer.apple.com/news/releases/?id=02202026b</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;macOS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;View release notes&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.apple.com/news/releases/?id=02202026b&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">f781e19f54c9f94b</guid>
+      <pubDate>Fri, 20 Feb 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS - Xcode 26.3 Release Candidate 2 (17C528)</title>
+      <link>https://developer.apple.com/news/releases/?id=02202026a</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;macOS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;View downloadsView release notes&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.apple.com/news/releases/?id=02202026a&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">719cc9930e9d4787</guid>
+      <pubDate>Fri, 20 Feb 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS - TestFlight Update</title>
+      <link>https://developer.apple.com/news/releases/?id=02172026a</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;macOS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;View release notes&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://developer.apple.com/news/releases/?id=02172026a&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">b2fe11dcfd018512</guid>
+      <pubDate>Tue, 17 Feb 2026 18:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

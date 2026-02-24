@@ -1,0 +1,132 @@
+[
+  {
+    "id": "d530d36a32e7a0ce",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "Xcode 26.4 beta 2 (17E5170d)",
+    "link": "https://developer.apple.com/news/releases/?id=02232026g",
+    "summary": "View downloadsView release notes",
+    "date": "2026-02-23T17:00:00+00:00"
+  },
+  {
+    "id": "8496836abf5c5eb5",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "iOS 26.4 beta 2 (23E5218e)",
+    "link": "https://developer.apple.com/news/releases/?id=02232026a",
+    "summary": "View downloadsView release notes",
+    "date": "2026-02-23T17:00:00+00:00"
+  },
+  {
+    "id": "d3af7365d4a6afb0",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "iPadOS 26.4 beta 2 (23E5218e)",
+    "link": "https://developer.apple.com/news/releases/?id=02232026b",
+    "summary": "View downloadsView release notes",
+    "date": "2026-02-23T17:00:00+00:00"
+  },
+  {
+    "id": "69f85ffa732b0c0d",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.4 beta 2 (25E5218f)",
+    "link": "https://developer.apple.com/news/releases/?id=02232026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-02-23T17:00:00+00:00"
+  },
+  {
+    "id": "e32a2189a841adf2",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "tvOS 26.4 beta 2 (23L5219e)",
+    "link": "https://developer.apple.com/news/releases/?id=02232026d",
+    "summary": "View downloadsView release notes",
+    "date": "2026-02-23T17:00:00+00:00"
+  },
+  {
+    "id": "d33b367337073249",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "visionOS 26.4 beta 2 (23O5220e)",
+    "link": "https://developer.apple.com/news/releases/?id=02232026e",
+    "summary": "View downloadsView release notes",
+    "date": "2026-02-23T17:00:00+00:00"
+  },
+  {
+    "id": "6e69b7fa00f171e6",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "watchOS 26.4 beta 2 (23T5221e)",
+    "link": "https://developer.apple.com/news/releases/?id=02232026f",
+    "summary": "View downloadsView release notes",
+    "date": "2026-02-23T17:00:00+00:00"
+  },
+  {
+    "id": "f781e19f54c9f94b",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "App Store Connect Update",
+    "link": "https://developer.apple.com/news/releases/?id=02202026b",
+    "summary": "View release notes",
+    "date": "2026-02-20T17:00:00+00:00"
+  },
+  {
+    "id": "719cc9930e9d4787",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "Xcode 26.3 Release Candidate 2 (17C528)",
+    "link": "https://developer.apple.com/news/releases/?id=02202026a",
+    "summary": "View downloadsView release notes",
+    "date": "2026-02-20T17:00:00+00:00"
+  },
+  {
+    "id": "b2fe11dcfd018512",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "TestFlight Update",
+    "link": "https://developer.apple.com/news/releases/?id=02172026a",
+    "summary": "View release notes",
+    "date": "2026-02-17T18:00:00+00:00"
+  },
+  {
+    "id": "6660dc4be5cd532b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "AI avatars and AI voiceovers in Google Vids now available in seven new languages",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/vids-avatars-voiceovers-new-languages.html",
+    "summary": "Google Vids is thrilled to announce that AI avatars and voiceovers now support more than just English. Users can now provide input in seven additional languages: French, German, Italian, Korean, Portuguese, Spanish, and Japanese. The specific details of each feature are outlined below.AI avatarsAI...",
+    "date": "2026-02-24T17:04:00+00:00"
+  },
+  {
+    "id": "1a0e534da347f2c7",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New cartoon avatars in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/new-cartoon-avatars-in-google-vids.html",
+    "summary": "AI avatars in Google Vids provide a fast, cost-effective way to generate high-quality digital speakers. While photorealistic avatars are ideal for formal business, we are introducing new 2D and 3D cartoon-styled avatars that utilize expressive, stylized features to enhance emotional resonance and...",
+    "date": "2026-02-24T17:01:00+00:00"
+  },
+  {
+    "id": "ab61073bd1915655",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Get quantitative insights from text responses with Gemini in Google Forms",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/get-quantitative-insights-from-text-responses-with-gemini-in-forms.html",
+    "summary": "Last year, we announced proactive Gemini-generated insights in Forms for short answer and paragraph questions helping form creators summarize responses to longer questions and quickly understand sentiment and feedback.Today, we are enhancing that experience to show quantitative insights about...",
+    "date": "2026-02-24T16:09:00+00:00"
+  }
+]
