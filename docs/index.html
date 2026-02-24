@@ -228,15 +228,21 @@
         }
 
         .product-info .source-type {
-            font-size: 11px;
-            padding: 1px 6px;
-            border-radius: 4px;
+            font-size: 10px;
+            padding: 2px 8px;
+            border-radius: 10px;
             display: inline-block;
             margin-top: 2px;
+            font-weight: 600;
+            letter-spacing: 0.3px;
+            text-transform: uppercase;
+            border: none;
+            cursor: default;
+            user-select: none;
         }
 
-        .source-rss { background: #065f4620; color: var(--success); border: 1px solid var(--success); }
-        .source-scrape { background: #f59e0b20; color: var(--warning); border: 1px solid var(--warning); }
+        .source-rss { background: #065f4630; color: var(--success); }
+        .source-scrape { background: #f59e0b25; color: var(--warning); }
 
         /* Forms / Modals */
         .modal-overlay {
@@ -450,15 +456,17 @@
         }
 
         .btn-preview {
-            background: transparent;
+            background: var(--accent);
             border: 1px solid var(--accent);
-            color: var(--accent);
-            padding: 4px 10px;
+            color: white;
+            padding: 5px 12px;
             font-size: 12px;
+            font-weight: 600;
+            border-radius: 6px;
         }
         .btn-preview:hover {
-            background: var(--accent);
-            color: white;
+            background: var(--accent-hover);
+            border-color: var(--accent-hover);
         }
     </style>
 </head>
