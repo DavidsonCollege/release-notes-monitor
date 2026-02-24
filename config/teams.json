@@ -18,6 +18,9 @@
             "title_selector": "td:first-child",
             "date_selector": "td:nth-child(2)",
             "summary_selector": "td:nth-child(3)"
+          },
+          "filter": {
+            "include": ["Windows 11"]
           }
         },
         {
@@ -29,6 +32,9 @@
           "source": {
             "type": "rss",
             "feed_url": "https://developer.apple.com/news/releases/rss/releases.rss"
+          },
+          "filter": {
+            "include": ["macOS"]
           }
         },
         {
@@ -36,14 +42,10 @@
           "name": "Slack",
           "domain": "slack.com",
           "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-          "release_notes_url": "https://slack.com/release-notes/mac",
+          "release_notes_url": "https://docs.slack.dev/changelog/",
           "source": {
-            "type": "scrape",
-            "url": "https://slack.com/release-notes/mac",
-            "selector": ".p-release_notes_section",
-            "title_selector": "h2, h3",
-            "date_selector": ".p-release_notes_section__date",
-            "summary_selector": "ul li, p"
+            "type": "rss",
+            "feed_url": "https://docs.slack.dev/changelog/rss.xml"
           }
         },
         {
@@ -98,12 +100,8 @@
           "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
           "release_notes_url": "https://scribe.launchnotes.io/",
           "source": {
-            "type": "scrape",
-            "url": "https://scribe.launchnotes.io/",
-            "selector": "article, .announcement, .post",
-            "title_selector": "h2, h3, .title",
-            "date_selector": "time, .date",
-            "summary_selector": "p"
+            "type": "rss",
+            "feed_url": "https://scribe.launchnotes.io/feed.rss"
           }
         },
         {
@@ -111,14 +109,10 @@
           "name": "ClickUp",
           "domain": "clickup.com",
           "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-          "release_notes_url": "https://clickup.com/changelog",
+          "release_notes_url": "https://clickup.canny.io/changelog",
           "source": {
-            "type": "scrape",
-            "url": "https://clickup.com/changelog",
-            "selector": "article, .changelog-entry, .post",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .date",
-            "summary_selector": "p"
+            "type": "rss",
+            "feed_url": "https://clickup.canny.io/changelog.rss"
           }
         },
         {
