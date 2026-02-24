@@ -1,5 +1,95 @@
 [
   {
+    "id": "b54ef6e117a83576",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "Apple",
+    "link": "https://www.apple.com/",
+    "summary": "Apple",
+    "date": "2026-02-24T16:14:48.641728+00:00"
+  },
+  {
+    "id": "9479045d914f60f2",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "Store",
+    "link": "https://www.apple.com/us/shop/goto/store",
+    "summary": "Store Mac iPad",
+    "date": "2026-02-24T16:14:48.642074+00:00"
+  },
+  {
+    "id": "630f0ab955a4f33e",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "Mac",
+    "link": "https://www.apple.com/mac/",
+    "summary": "Mac",
+    "date": "2026-02-24T16:14:48.642284+00:00"
+  },
+  {
+    "id": "e19e237f5f13aa71",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "iPad",
+    "link": "https://www.apple.com/ipad/",
+    "summary": "iPad",
+    "date": "2026-02-24T16:14:48.642385+00:00"
+  },
+  {
+    "id": "bc717b2a8c8add57",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "iPhone",
+    "link": "https://www.apple.com/iphone/",
+    "summary": "iPhone",
+    "date": "2026-02-24T16:14:48.642488+00:00"
+  },
+  {
+    "id": "34f7c97652352c35",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "Watch",
+    "link": "https://www.apple.com/watch/",
+    "summary": "Watch",
+    "date": "2026-02-24T16:14:48.642587+00:00"
+  },
+  {
+    "id": "880fe37ee8947c49",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "Vision",
+    "link": "https://www.apple.com/apple-vision-pro/",
+    "summary": "Vision",
+    "date": "2026-02-24T16:14:48.642713+00:00"
+  },
+  {
+    "id": "202110074651972b",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "AirPods",
+    "link": "https://www.apple.com/airpods/",
+    "summary": "AirPods",
+    "date": "2026-02-24T16:14:48.642817+00:00"
+  },
+  {
+    "id": "e788722d4219f755",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "TV & Home",
+    "link": "https://www.apple.com/tv-home/",
+    "summary": "TV & Home",
+    "date": "2026-02-24T16:14:48.642920+00:00"
+  },
+  {
     "id": "c440efec81b11dd0",
     "product_id": "windows",
     "product_name": "Windows",
@@ -408,95 +498,5 @@
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "Release Notes for Microsoft 365 Insiders",
     "date": "2026-02-24T14:25:03.643676+00:00"
-  },
-  {
-    "id": "d1abde94d208108e",
-    "product_id": "microsoft-office",
-    "product_name": "Microsoft Office",
-    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-    "title": "Release History for Office Deployment Tool",
-    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-    "summary": "Release History for Office Deployment Tool",
-    "date": "2026-02-24T14:25:03.643748+00:00"
-  },
-  {
-    "id": "db143e81c3cf0659",
-    "product_id": "microsoft-office",
-    "product_name": "Microsoft Office",
-    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-    "title": "Office for Mac Release Information",
-    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-    "summary": "Office for Mac Release Information",
-    "date": "2026-02-24T14:25:03.643813+00:00"
-  },
-  {
-    "id": "446e830fcedef6e0",
-    "product_id": "microsoft-office",
-    "product_name": "Microsoft Office",
-    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-    "title": "Related topics",
-    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-    "summary": "Related topics",
-    "date": "2026-02-24T14:25:03.643874+00:00"
-  },
-  {
-    "id": "4ae5102fb73a6fdc",
-    "product_id": "microsoft-office",
-    "product_name": "Microsoft Office",
-    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-    "title": "Feedback",
-    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-    "summary": "Feedback",
-    "date": "2026-02-24T14:25:03.643936+00:00"
-  },
-  {
-    "id": "ec4a45972eeea500",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Save PDFs to your Google Drive",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/save-pdfs-to-your-google-drive.html",
-    "summary": "On Chrome on your computer, you can now save PDFs directly to Drive without leaving the page, and easily get back to them later in the “Saved from Chrome” folder. Visit the Help Center to learn more.Getting startedAdmins: Chrome admins can control this feature using this policy, starting from...",
-    "date": "2026-02-23T21:49:00+00:00"
-  },
-  {
-    "id": "612caa89c0b172eb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New internal and external membership classifications for Google Groups",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/new-internal-and-external-membership-classifications.html",
-    "summary": "To ensure better data security, starting in Q2 2026, Google Groups will launch stricter internal and external classifications on group memberships. Groups with the Allow members outside your organization setting disabled will be limited only to members of your organization.Currently, groups with...",
-    "date": "2026-02-23T21:28:00+00:00"
-  },
-  {
-    "id": "3063845986739893",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Two new functions in Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/two-new-functions-in-google-sheets.html",
-    "summary": "We are adding two new functions to Google Sheets, =SHEET and =SHEETS. These additions help users manage and reference spreadsheets with multiple tabs more effectively. The new functions operate as follows:=SHEET(value): Returns the sheet number of a specified sheet name or reference. If the...",
-    "date": "2026-02-23T17:46:00+00:00"
-  },
-  {
-    "id": "ddc581e30235c487",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - February 20, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/weekly-recap-02-20-2026.html",
-    "summary": "View Gemini feature usage and threshold reports in the Admin consoleToday, we’re releasing new adoption and usage metrics to our Gemini reports in the Admin console. These new reports offer administrators comprehensive visibility into AI feature usage and thresholds to help them better manage their...",
-    "date": "2026-02-20T21:48:00+00:00"
-  },
-  {
-    "id": "db2eba8dee06c4f0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Manage permission to edit group details and changes to groups settings",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/manage-permission-to-edit-group-details.html",
-    "summary": "We’re introducing a new permission in Google Groups: \"Who can modify group details.\" This update allows group owners and managers to grant specific roles the ability to edit a group's name and description.Previously, the ability to edit a group’s name and description was limited to the owner and...",
-    "date": "2026-02-19T19:58:00+00:00"
   }
 ]
