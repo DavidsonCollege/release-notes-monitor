@@ -1,19 +1,13 @@
 name: Check Release Notes
 
 on:
-  # Run every 4 hours
   schedule:
     - cron: '0 */4 * * *'
-
-  # Allow manual trigger
   workflow_dispatch:
-
-  # Also run when config changes
   push:
     paths:
       - 'config/teams.json'
 
-# Permissions needed to commit generated feeds and deploy Pages
 permissions:
   contents: write
   pages: write
@@ -22,7 +16,6 @@ permissions:
 jobs:
   check-releases:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -54,15 +47,3 @@ jobs:
             git commit -m "Update release notes feeds [$(date -u '+%Y-%m-%d %H:%M UTC')]"
             git push
           fi
-```
-
-4. Scroll down and click **Commit changes**
-
-After that, you should also do the same thing for the `.gitignore` file — click **Add file → Create new file**, name it `.gitignore`, and paste this:
-```
-__pycache__/
-*.pyc
-.env
-.venv/
-venv/
-*.egg-info/
