@@ -87,7 +87,8 @@
       "d1abde94d208108e",
       "db143e81c3cf0659",
       "446e830fcedef6e0",
-      "4ae5102fb73a6fdc"
+      "4ae5102fb73a6fdc",
+      "4efcc7a7800b34d1"
     ],
     "google-workspace": [
       "ec4a45972eeea500",
@@ -106,10 +107,12 @@
       "0448a83c1fa0f490"
     ],
     "ninjaone": [
-      "ae3c888576a00241"
+      "ae3c888576a00241",
+      "13b69fc50bdefbf2"
     ],
     "smartdeploy": [
-      "0ec88b01128c2331"
+      "0ec88b01128c2331",
+      "b4b81d74d1093460"
     ],
     "1password": [
       "22c8d8bd099eb12b",
@@ -121,7 +124,12 @@
       "84ad65f4de20750b",
       "128489c3fd0084da",
       "70913ccdd4a66570",
-      "dcdc7a4816d8fd4b"
+      "dcdc7a4816d8fd4b",
+      "c0b4ae4d90bd1347",
+      "1313b2c1a3dd1eea",
+      "8b05ee4e129e0438",
+      "cf159429fbcb9400",
+      "151fb112cc075dbd"
     ],
     "ad-astra": [],
     "korbyt": [
@@ -130,7 +138,8 @@
     "screencloud": [
       "686f8c35d076b2ee",
       "2aa849835f5901d8",
-      "8aedd0d8861972f1"
+      "8aedd0d8861972f1",
+      "ed2c66460bf4aa0f"
     ]
   }
 }
