@@ -129,6 +129,8 @@ def check_rss_source(product: dict) -> list[dict]:
 
 def check_scrape_source(product: dict) -> list[dict]:
     """Scrape a web page for release notes."""
+    from urllib.parse import urljoin
+
     source = product["source"]
     url = source["url"]
     print(f"  Scraping page: {url}")
@@ -137,31 +139,61 @@ def check_scrape_source(product: dict) -> list[dict]:
     if not resp:
         return []
 
+    # Check if page is mostly empty (JS-rendered)
     soup = BeautifulSoup(resp.content, "html.parser")
+
+    # Remove script, style, nav, footer, header elements to focus on content
+    for tag in soup.select("script, style, nav, footer, header, noscript, svg, iframe"):
+        tag.decompose()
+
+    body_text = clean_text(soup.get_text()) if soup.body else ""
+    if len(body_text) < 100:
+        print(f"  [WARN] Page appears JS-rendered or empty ({len(body_text)} chars). Scraping may fail.")
+
     items = []
 
-    # Strategy 1: Try to find items using the configured selector
+    # Strategy 1: Try configured selector
     selector = source.get("selector", "article")
     elements = soup.select(selector)
+    if elements:
+        print(f"  Found {len(elements)} elements with selector: {selector}")
 
+    # Strategy 2: Common changelog patterns
     if not elements:
-        # Strategy 2: Fall back to looking for common changelog patterns
         for fallback_selector in ["article", ".changelog-entry", ".release-note",
-                                   ".post", "section", ".entry", ".update"]:
+                                   ".post", "section:not(:empty)", ".entry", ".update",
+                                   "[class*='release']", "[class*='changelog']", "[class*='update']"]:
             elements = soup.select(fallback_selector)
             if elements:
+                print(f"  Fallback selector matched: {fallback_selector} ({len(elements)} elements)")
                 break
 
+    # Strategy 3: Headings as entry markers
     if not elements:
-        # Strategy 3: Use headings as entry markers
         elements = soup.select("h2, h3")
+        if elements:
+            print(f"  Using headings as entries ({len(elements)} found)")
 
-    for el in elements[:10]:  # Process up to 10 entries
+    # Strategy 4: Links that look like changelog entries
+    if not elements:
+        all_links = soup.select("a[href]")
+        version_pattern = re.compile(r'(v?\d+\.\d+|release|update|version|changelog|what.?s.new)', re.I)
+        elements = [a for a in all_links if version_pattern.search(a.get_text() + " " + a.get("href", ""))]
+        if elements:
+            print(f"  Found {len(elements)} version-like links")
+
+    if not elements:
+        print(f"  [WARN] No elements found on page. Site may require JavaScript.")
+        return []
+
+    for el in elements[:10]:
         # Extract title
         title_sel = source.get("title_selector", "h2, h3")
         title_el = el.select_one(title_sel) if title_sel else None
         if title_el:
             title = clean_text(title_el.get_text())
+        elif el.name in ("a", "h2", "h3", "h4", "td", "strong"):
+            title = clean_text(el.get_text()[:150])
         else:
             title = clean_text(el.get_text()[:150])
 
@@ -175,6 +207,11 @@ def check_scrape_source(product: dict) -> list[dict]:
             date_el = el.select_one(date_sel)
             if date_el:
                 date_text = clean_text(date_el.get_text())
+        # Also check for time/datetime attributes
+        if not date_text:
+            time_el = el.select_one("time[datetime]")
+            if time_el:
+                date_text = time_el.get("datetime", "")
 
         # Extract summary
         summary_sel = source.get("summary_selector", "p")
@@ -185,26 +222,46 @@ def check_scrape_source(product: dict) -> list[dict]:
                 summary_parts = [clean_text(s.get_text()) for s in summary_els[:3]]
                 summary = " ".join(summary_parts)
         if not summary:
-            summary = clean_text(el.get_text()[:500])
+            # Get next sibling text if element is a heading
+            if el.name in ("h2", "h3", "h4", "strong"):
+                sibling = el.find_next_sibling()
+                if sibling and sibling.name in ("p", "ul", "div"):
+                    summary = clean_text(sibling.get_text()[:500])
+            if not summary:
+                summary = clean_text(el.get_text()[:500])
+                # Don't use the title as the summary
+                if summary == title:
+                    summary = ""
 
         summary = truncate_text(summary)
 
         # Extract link
-        link_el = el.select_one("a[href]")
-        if link_el:
-            href = link_el.get("href", "")
-            if href.startswith("/"):
-                # Make absolute URL
-                from urllib.parse import urljoin
-                href = urljoin(url, href)
-            link = href
+        link = product["release_notes_url"]
+        if el.name == "a" and el.get("href"):
+            href = el.get("href", "")
+            if href.startswith(("http://", "https://")):
+                link = href
+            elif href.startswith("/"):
+                link = urljoin(url, href)
         else:
-            link = product["release_notes_url"]
+            link_el = el.select_one("a[href]")
+            if link_el:
+                href = link_el.get("href", "")
+                if href.startswith(("http://", "https://")):
+                    link = href
+                elif href.startswith("/"):
+                    link = urljoin(url, href)
 
-        # Skip if title is too generic or looks like navigation
-        skip_words = {"menu", "navigation", "sidebar", "footer", "header", "cookie", "privacy"}
-        if any(w in title.lower() for w in skip_words):
+        # Skip generic/navigation items
+        skip_words = {"menu", "navigation", "sidebar", "footer", "header", "cookie",
+                      "privacy", "sign in", "log in", "subscribe", "contact", "about us"}
+        title_lower = title.lower()
+        if any(w in title_lower for w in skip_words):
             continue
+
+        # Skip very long titles (likely scraped whole paragraphs)
+        if len(title) > 200:
+            title = title[:197] + "..."
 
         items.append({
             "title": title,
@@ -213,7 +270,43 @@ def check_scrape_source(product: dict) -> list[dict]:
             "date": date_text or datetime.now(timezone.utc).isoformat(),
         })
 
+    print(f"  Scraped {len(items)} items from page")
     return items
+
+
+def apply_keyword_filters(items: list[dict], product: dict) -> list[dict]:
+    """Filter items based on include/exclude keyword rules."""
+    filters = product.get("filter", {})
+    include_keywords = [k.lower() for k in filters.get("include", [])]
+    exclude_keywords = [k.lower() for k in filters.get("exclude", [])]
+
+    if not include_keywords and not exclude_keywords:
+        return items
+
+    filtered = []
+    for item in items:
+        title_lower = item["title"].lower()
+        summary_lower = item.get("summary", "").lower()
+        text = title_lower + " " + summary_lower
+
+        # Include filter: item must match at least one keyword
+        if include_keywords:
+            if not any(kw in text for kw in include_keywords):
+                print(f"    SKIP (no include match): {item['title'][:60]}")
+                continue
+
+        # Exclude filter: item must not match any keyword
+        if exclude_keywords:
+            if any(kw in text for kw in exclude_keywords):
+                print(f"    SKIP (exclude match): {item['title'][:60]}")
+                continue
+
+        filtered.append(item)
+
+    if len(filtered) != len(items):
+        print(f"  Keyword filter: {len(items)} -> {len(filtered)} items")
+
+    return filtered
 
 
 def check_product(product: dict) -> list[dict]:
@@ -221,12 +314,14 @@ def check_product(product: dict) -> list[dict]:
     source_type = product["source"]["type"]
 
     if source_type == "rss":
-        return check_rss_source(product)
+        items = check_rss_source(product)
     elif source_type == "scrape":
-        return check_scrape_source(product)
+        items = check_scrape_source(product)
     else:
         print(f"  [WARN] Unknown source type: {source_type}")
         return []
+
+    return apply_keyword_filters(items, product)
 
 
 # --- RSS Feed Generation ---
