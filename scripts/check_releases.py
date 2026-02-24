@@ -25,7 +25,7 @@ import feedparser
 BASE_DIR = Path(__file__).resolve().parent.parent
 CONFIG_FILE = BASE_DIR / "config" / "teams.json"
 SEEN_FILE = BASE_DIR / "data" / "seen.json"
-FEEDS_DIR = BASE_DIR / "public" / "feeds"
+FEEDS_DIR = BASE_DIR / "docs" / "feeds"
 MAX_FEED_ITEMS = 50  # Max items to keep in each team's RSS feed
 REQUEST_TIMEOUT = 30
 USER_AGENT = "ReleaseNotesMonitor/1.0 (+https://github.com)"
