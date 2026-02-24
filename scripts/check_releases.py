@@ -271,11 +271,18 @@ def generate_rss_feed(team: dict, all_items: list[dict], base_url: str) -> str:
         SubElement(item, "title").text = display_title
         SubElement(item, "link").text = item_data["link"]
 
-        # Plain-text description (Slack strips HTML from RSS descriptions)
+        # Rich description with product icon and read more link
+        icon_url = item_data.get("icon_url", "")
         summary = item_data.get("summary", "")
-        description_text = f"{product_name}: {summary}" if summary else product_name
+        description_html = (
+            f'<p><img src="{icon_url}" alt="{product_name}" width="24" height="24" '
+            f'style="vertical-align:middle;margin-right:8px;"/>'
+            f'<strong>{product_name}</strong></p>'
+            f'<p>{summary}</p>'
+            f'<p><a href="{item_data["link"]}">Read more →</a></p>'
+        )
 
-        SubElement(item, "description").text = description_text
+        SubElement(item, "description").text = description_html
 
         # GUID
         guid = SubElement(item, "guid")
