@@ -3,128 +3,128 @@
   <channel>
     <title>Digital Campus - Release Notes</title>
     <description>Technology products managed by the Digital Campus team</description>
-    <link>https://DavidsonCollege.github.io/release-notes-monitor/feeds/digital-campus.xml</link>
+    <link>https://davidsoncollege.github.io/release-notes-monitor/public/feeds/digital-campus.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 16:15:15 +0000</lastBuildDate>
-    <atom:link href="https://DavidsonCollege.github.io/release-notes-monitor/feeds/digital-campus.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Tue, 24 Feb 2026 16:18:46 +0000</lastBuildDate>
+    <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/public/feeds/digital-campus.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>macOS - This update has no published CVE entries.</title>
       <link>https://support.apple.com/en-us/100100</link>
       <description>macOS: This update has no published CVE entries.</description>
       <guid isPermaLink="false">da7c7f7499c056bb</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Purchase and manage licenses in-product</title>
       <link>https://scribe.launchnotes.io/announcements/purchase-and-manage-licenses-in-product</link>
       <description>Scribe: Enterprise Purchase and manage licenses in-product Enterprise Org Admins can now purchase and manage licenses directly in product. The new billing page provides clear visibility into how licenses... September 24, 2025</description>
       <guid isPermaLink="false">ac0670f0ed081e8b</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Translate guides into 10 languages</title>
       <link>https://scribe.launchnotes.io/announcements/translation</link>
       <description>Scribe: Enterprise Viewing Sharing Translate guides into 10 languages Scribe now translates your guides in 10 high-demand languages — instantly. Instead of creating duplicate documents or relying on unproven... September 18, 2025</description>
       <guid isPermaLink="false">bab1f160f4526f34</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Ensure only approved documentation is shared</title>
       <link>https://scribe.launchnotes.io/announcements/approval-workflows</link>
       <description>Scribe: Enterprise Editing Ensure only approved documentation is shared Scribe’s new approval workflows guarantee that only reviewed and approved content goes live. This gives Team Admins stricter control over... September 15, 2025</description>
       <guid isPermaLink="false">aef27e910b92bed3</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - See, analyze, and improve the workflows that power your business</title>
       <link>https://scribe.launchnotes.io/announcements/optimize</link>
       <description>Scribe: Optimize See, analyze, and improve the workflows that power your business Scribe’s newest product, Optimize, helps you understand and improve how work actually happens across your organization. Instead of relying on... November 12, 2025</description>
       <guid isPermaLink="false">a63276bc417bac7a</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>macOS - NameandinformationlinkAvailable forReleasedateiOS 26.3 and iPadOS 26.3iPhone 11 and later, iPad Pro 12.9-inch 3rd generation and later, iPad Pro 11-in</title>
       <link>https://support.apple.com/en-us/126346</link>
       <description>macOS: Nameandinformationlink Available for Releasedate</description>
       <guid isPermaLink="false">4540265dc8ff88f6</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Windows - 24H21</title>
       <link>https://support.microsoft.com/help/5077181</link>
       <description>Windows: 2024-10-01</description>
       <guid isPermaLink="false">59d764f94b49fd85</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Preview your guide live as you capture on desktop</title>
       <link>https://scribe.launchnotes.io/announcements/preview-your-guide-live-as-you-capture-on-desktop</link>
       <description>Scribe: Pro Pro Team Enterprise Capturing Preview your guide live as you capture on desktop Scribe now shows you a live preview of your guide while you’re capturing it in the Scribe desktop application. As you work, each screenshot and... January 12, 2026</description>
       <guid isPermaLink="false">959e218e8672766a</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Customize click target shapes for clearer guides</title>
       <link>https://scribe.launchnotes.io/announcements/customize-click-target-shapes-for-clearer-guides</link>
       <description>Scribe: Pro Pro Team Enterprise Editing Customize click target shapes for clearer guides Scribe now lets you change the shape of click targets, so highlights match the buttons, fields, and menus on screen. Instead of always using a... January 12, 2026</description>
       <guid isPermaLink="false">63a36d61193f5ac1</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Windows - 26H1</title>
       <link>https://support.microsoft.com/help/5077179</link>
       <description>Windows: 2026-02-10</description>
       <guid isPermaLink="false">9adcfc3dae90c373</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Windows - 25H2</title>
       <link>https://support.microsoft.com/help/5077181</link>
       <description>Windows: 2025-09-30</description>
       <guid isPermaLink="false">24f1ab0064d313dd</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Windows - 24H2</title>
       <link>https://support.microsoft.com/help/5077181</link>
       <description>Windows: 2024-10-01</description>
       <guid isPermaLink="false">dfaf1eebc46df37a</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Windows - 23H2</title>
       <link>https://support.microsoft.com/help/5075941</link>
       <description>Windows: 2023-10-31</description>
       <guid isPermaLink="false">8e26788429b0880b</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Add tables within Pages</title>
       <link>https://scribe.launchnotes.io/announcements/add-tables-within-pages</link>
       <description>Scribe: Pro Pro Team Enterprise Pages Add tables within Pages Scribe now lets you add tables to Pages, so you can organize information in rows and columns and make your guide easier... February 6, 2026</description>
       <guid isPermaLink="false">e01cdf6739129daa</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Improve your workflows with AI to work more efficiently</title>
       <link>https://scribe.launchnotes.io/announcements/improve-workflows-with-ai</link>
       <description>Scribe: Improve your workflows with AI to work more efficiently Use Scribe to analyze any of your workflows and suggest ways to improve it for speed and efficiency. From turning seven clicks into one, to... August 20, 2025</description>
       <guid isPermaLink="false">20f4803a01f81725</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Control when edits go live with publishing changes</title>
       <link>https://scribe.launchnotes.io/announcements/publishing-changes</link>
       <description>Scribe: Enterprise Editing Control when edits go live with publishing changes Teams can now have more control over when updates to their Scribes become visible by keeping new edits separate from publicly visible content.... August 18, 2025</description>
       <guid isPermaLink="false">a1694654eb68dad0</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Bring Scribes into your AI workflows with the enterprise search API</title>
       <link>https://scribe.launchnotes.io/announcements/enterprise-search-api</link>
       <description>Scribe: Enterprise Viewing Sharing Bring Scribes into your AI workflows with the enterprise search API Scribe’s newest search API makes critical process knowledge easy to find, right where people work. Employees can surface trusted Scribe guides... August 12, 2025</description>
       <guid isPermaLink="false">353a37dafca9d946</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
     <item>
       <title>macOS - TV &amp; Home</title>
@@ -355,7 +355,7 @@
       <link>https://support.microsoft.com/help/5077179</link>
       <description>Windows: 2026-02-10</description>
       <guid isPermaLink="false">c34666bd9c63e933</guid>
-      <pubDate>Tue, 24 Feb 2026 16:15:15 +0000</pubDate>
+      <pubDate>Tue, 24 Feb 2026 16:18:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
