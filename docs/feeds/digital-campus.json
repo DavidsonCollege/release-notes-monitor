@@ -137,7 +137,7 @@
     "title": "Pro Pro Team Enterprise Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-02-27T16:42:31.134158+00:00"
+    "date": "2026-02-27T17:16:08.826965+00:00"
   },
   {
     "id": "498cbd13c5eccf96",
@@ -147,7 +147,7 @@
     "title": "Add tables within Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-02-27T16:42:31.134299+00:00"
+    "date": "2026-02-27T17:16:08.827111+00:00"
   },
   {
     "id": "2aa25658903bd41b",
@@ -207,7 +207,7 @@
     "title": "Security Updates for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of security updates, see the following article:",
-    "date": "2026-02-27T16:42:33.581723+00:00"
+    "date": "2026-02-27T17:16:11.331176+00:00"
   },
   {
     "id": "b9360485c3e61f3c",
@@ -217,7 +217,7 @@
     "title": "History for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
-    "date": "2026-02-27T16:42:33.581840+00:00"
+    "date": "2026-02-27T17:16:11.331318+00:00"
   },
   {
     "id": "185d4d7625c4f74e",
@@ -227,7 +227,7 @@
     "title": "Download Sizes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of update releases sizes, see the following article:",
-    "date": "2026-02-27T16:42:33.581939+00:00"
+    "date": "2026-02-27T17:16:11.331419+00:00"
   },
   {
     "id": "813b1ad089721490",
@@ -237,7 +237,7 @@
     "title": "Release Notes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes by update channel and year, see the following articles:",
-    "date": "2026-02-27T16:42:33.582035+00:00"
+    "date": "2026-02-27T17:16:11.331519+00:00"
   },
   {
     "id": "324fe31ac188c1d9",
@@ -247,7 +247,7 @@
     "title": "Release Notes for Microsoft 365 Insiders",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes for Insiders, see the following articles:",
-    "date": "2026-02-27T16:42:33.582129+00:00"
+    "date": "2026-02-27T17:16:11.331615+00:00"
   },
   {
     "id": "adfc41ff921de8dc",
@@ -300,16 +300,6 @@
     "date": "2026-02-25T15:53:00+00:00"
   },
   {
-    "id": "0da0fe9d9bfed86e",
-    "product_id": "ninjaone",
-    "product_name": "NinjaOne",
-    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
-    "title": "Patch Notes: People Edition – Meet Beth Hopper!",
-    "link": "https://www.ninjaone.com/blog/patch-notes-people-edition-meet-beth-hopper/",
-    "summary": "At NinjaOne, quality isn’t just a checkpoint. It’s part of our DNA! It’s what allows us to consistently bring new products to market, deliver frequent updates, and ensure every customer interaction and interface with our platform feels seamless. None of that happens without our phenomenal Quality...",
-    "date": "2026-02-13T13:00:56+00:00"
-  },
-  {
     "id": "4861482635a84858",
     "product_id": "ninjaone",
     "product_name": "NinjaOne",
@@ -327,7 +317,7 @@
     "title": "Announcements Update required: PDQ product certificate rotation occurred October 20, 2025 Release Notes and Schedule New Encryption - SmartDe",
     "link": "https://smartdeploy.pdq.com/hc/en-us/sections/15165287361179-Announcements",
     "summary": "Announcements Update required: PDQ product certificate rotation occurred October 20, 2025 Release Notes and Schedule New Encryption - SmartDeploy Version 3.0.2046",
-    "date": "2026-02-27T16:42:38.311248+00:00"
+    "date": "2026-02-27T17:16:15.487650+00:00"
   },
   {
     "id": "2b32d43f0319657f",
@@ -347,7 +337,7 @@
     "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
     "link": "https://releases.1password.com/mac/",
     "summary": "",
-    "date": "2026-02-27T16:42:39.485479+00:00"
+    "date": "2026-02-27T17:16:16.863349+00:00"
   },
   {
     "id": "01fe930feaaa6a09",
@@ -357,7 +347,7 @@
     "title": "upgrade",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T16:42:40.771349+00:00"
+    "date": "2026-02-27T17:16:18.087184+00:00"
   },
   {
     "id": "7aba50c4d8071e11",
@@ -367,7 +357,7 @@
     "title": "224.3.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T16:42:40.771395+00:00"
+    "date": "2026-02-27T17:16:18.087253+00:00"
   },
   {
     "id": "e67335b00b3797c1",
@@ -377,7 +367,7 @@
     "title": "224.2.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T16:42:40.771448+00:00"
+    "date": "2026-02-27T17:16:18.087289+00:00"
   },
   {
     "id": "0d90b9c66b88bbce",
@@ -387,7 +377,7 @@
     "title": "224.1.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T16:42:40.771482+00:00"
+    "date": "2026-02-27T17:16:18.087320+00:00"
   },
   {
     "id": "6aa653e3e373f710",
@@ -397,7 +387,7 @@
     "title": "223.3.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T16:42:40.771513+00:00"
+    "date": "2026-02-27T17:16:18.087350+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -468,6 +458,16 @@
     "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
     "summary": "Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.",
     "date": "March 28, 2024"
+  },
+  {
+    "id": "0da0fe9d9bfed86e",
+    "product_id": "ninjaone",
+    "product_name": "NinjaOne",
+    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
+    "title": "Patch Notes: People Edition – Meet Beth Hopper!",
+    "link": "https://www.ninjaone.com/blog/patch-notes-people-edition-meet-beth-hopper/",
+    "summary": "At NinjaOne, quality isn’t just a checkpoint. It’s part of our DNA! It’s what allows us to consistently bring new products to market, deliver frequent updates, and ensure every customer interaction and interface with our platform feels seamless. None of that happens without our phenomenal Quality...",
+    "date": "2026-02-13T13:00:56+00:00"
   },
   {
     "id": "b4b81d74d1093460",
