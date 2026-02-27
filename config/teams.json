@@ -204,7 +204,13 @@
             "selector": "a[href]",
             "title_selector": null,
             "date_selector": null,
-            "summary_selector": null
+            "summary_selector": null,
+            "auth": {
+              "type": "zendesk",
+              "domain": "help.adastra.live",
+              "env_email": "ADASTRA_EMAIL",
+              "env_password": "ADASTRA_PASSWORD"
+            }
           }
         },
         {
