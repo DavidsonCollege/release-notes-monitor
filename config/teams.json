@@ -6,163 +6,6 @@
       "description": "Technology products managed by the Digital Campus team",
       "products": [
         {
-        "id": "windows",
-        "name": "Windows",
-        "domain": "microsoft.com",
-        "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-        "release_notes_url": "https://blogs.windows.com/windows-insider/",
-        "source": {
-          "type": "rss",
-          "feed_url": "https://blogs.windows.com/windows-insider/feed/"
-        },
-        "filter": {
-          "include": [
-            "Windows 11"
-          ]
-        }
-      },
-        {
-          "id": "macos",
-          "name": "macOS",
-          "domain": "apple.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-          "release_notes_url": "https://support.apple.com/en-us/100100",
-          "source": {
-            "type": "rss",
-            "feed_url": "https://developer.apple.com/news/releases/rss/releases.rss"
-          },
-          "filter": {
-            "include": [
-              "macOS"
-            ]
-          }
-        },
-        {
-          "id": "slack",
-          "name": "Slack",
-          "domain": "slack.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-          "release_notes_url": "https://docs.slack.dev/changelog/",
-          "source": {
-            "type": "rss",
-            "feed_url": "https://docs.slack.dev/changelog/rss.xml"
-          }
-        },
-        {
-          "id": "papercut",
-          "name": "PaperCut",
-          "domain": "papercut.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-          "release_notes_url": "https://www.papercut.com/products/mf/release-history/",
-          "source": {
-            "type": "rss",
-            "feed_url": "https://www.papercut.com/products/mf/release-history.atom"
-          }
-        },
-        {
-        "id": "canva",
-        "name": "Canva",
-        "domain": "canva.com",
-        "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-        "release_notes_url": "https://www.canva.com/newsroom/news/",
-        "source": {
-          "type": "scrape",
-          "url": "https://www.canva.com/newsroom/news/",
-          "selector": "article, a[class*='card'], div[class*='news'] a",
-          "title_selector": "h2, h3",
-          "date_selector": "time, span",
-          "summary_selector": "p"
-        }
-      },
-        {
-          "id": "scribe",
-          "name": "Scribe",
-          "domain": "scribehow.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-          "release_notes_url": "https://scribe.launchnotes.io/",
-          "source": {
-            "type": "scrape",
-            "url": "https://scribe.launchnotes.io/",
-            "selector": "article, .announcement, .post, [class*=post], [class*=announcement]",
-            "title_selector": "h2, h3, h4",
-            "date_selector": "time, .date, [datetime]",
-            "summary_selector": "p"
-          }
-        },
-        {
-          "id": "clickup",
-          "name": "ClickUp",
-          "domain": "clickup.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-          "release_notes_url": "https://clickup.canny.io/changelog",
-          "source": {
-            "type": "rss",
-            "feed_url": "https://feedback.clickup.com/api/changelog/feed.rss"
-          }
-        },
-        {
-          "id": "microsoft-office",
-          "name": "Microsoft Office",
-          "domain": "microsoft.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-          "release_notes_url": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-          "source": {
-            "type": "scrape",
-            "url": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-            "selector": "h2, h3",
-            "title_selector": "h2, h3",
-            "date_selector": null,
-            "summary_selector": "p, ul li"
-          }
-        },
-        {
-          "id": "google-workspace",
-          "name": "Google Workspace",
-          "domain": "google.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-          "release_notes_url": "https://workspace.google.com/whatsnew/calendar/",
-          "source": {
-            "type": "rss",
-            "feed_url": "https://workspaceupdates.googleblog.com/feeds/posts/default?alt=rss"
-          }
-        },
-        {
-        "id": "ninjaone",
-        "name": "NinjaOne",
-        "domain": "ninjaone.com",
-        "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
-        "release_notes_url": "https://www.ninjaone.com/blog/category/ninjaone/",
-        "source": {
-          "type": "rss",
-          "feed_url": "https://www.ninjaone.com/blog/category/ninjaone/feed/"
-        },
-        "filter": {
-          "include": [
-            "release"
-          ]
-        }
-      },
-        {
-        "id": "smartdeploy",
-        "name": "SmartDeploy",
-        "domain": "smartdeploy.com",
-        "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
-        "release_notes_url": "https://www.smartdeploy.com/blog/categories/product/1/",
-        "source": {
-          "type": "scrape",
-          "url": "https://www.smartdeploy.com/blog/categories/product/1/",
-          "selector": "a[class*='card'], div[class*='blog'] a",
-          "title_selector": "h2",
-          "date_selector": "span, time, p:last-child",
-          "summary_selector": "p"
-        },
-        "filter": {
-          "include": [
-            "release", "new", "launched", "what's new"
-          ]
-        }
-      },
-        {
           "id": "1password",
           "name": "1Password",
           "domain": "1password.com",
@@ -175,6 +18,46 @@
             "title_selector": "h2, h3",
             "date_selector": "time, .date",
             "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "ad-astra",
+          "name": "Ad Astra",
+          "domain": "aais.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+          "release_notes_url": "https://help.adastra.live/hc/en-us/sections/39557051467924-Ad-Astra-Release-Notes",
+          "source": {
+            "type": "zendesk_api",
+            "domain": "help.adastra.live",
+            "section_id": "39557051467924",
+            "env_email": "ADASTRA_EMAIL",
+            "env_password": "ADASTRA_PASSWORD"
+          }
+        },
+        {
+          "id": "canva",
+          "name": "Canva",
+          "domain": "canva.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+          "release_notes_url": "https://www.canva.com/newsroom/news/",
+          "source": {
+            "type": "scrape",
+            "url": "https://www.canva.com/newsroom/news/",
+            "selector": "article, a[class*='card'], div[class*='news'] a",
+            "title_selector": "h2, h3",
+            "date_selector": "time, span",
+            "summary_selector": "p"
+          }
+        },
+        {
+          "id": "clickup",
+          "name": "ClickUp",
+          "domain": "clickup.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+          "release_notes_url": "https://clickup.canny.io/changelog",
+          "source": {
+            "type": "rss",
+            "feed_url": "https://feedback.clickup.com/api/changelog/feed.rss"
           }
         },
         {
@@ -193,17 +76,14 @@
           }
         },
         {
-          "id": "ad-astra",
-          "name": "Ad Astra",
-          "domain": "aais.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-          "release_notes_url": "https://help.adastra.live/hc/en-us/sections/39557051467924-Ad-Astra-Release-Notes",
+          "id": "google-workspace",
+          "name": "Google Workspace",
+          "domain": "google.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+          "release_notes_url": "https://workspace.google.com/whatsnew/calendar/",
           "source": {
-            "type": "zendesk_api",
-            "domain": "help.adastra.live",
-            "section_id": "39557051467924",
-            "env_email": "ADASTRA_EMAIL",
-            "env_password": "ADASTRA_PASSWORD"
+            "type": "rss",
+            "feed_url": "https://workspaceupdates.googleblog.com/feeds/posts/default?alt=rss"
           }
         },
         {
@@ -215,6 +95,64 @@
           "source": {
             "type": "rss",
             "feed_url": "https://product.korbyt.com/api/v1/changelog/feed.rss"
+          }
+        },
+        {
+          "id": "macos",
+          "name": "macOS",
+          "domain": "apple.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+          "release_notes_url": "https://support.apple.com/en-us/100100",
+          "source": {
+            "type": "rss",
+            "feed_url": "https://developer.apple.com/news/releases/rss/releases.rss"
+          },
+          "filter": {
+            "include": [
+              "macOS"
+            ]
+          }
+        },
+        {
+          "id": "microsoft-office",
+          "name": "Microsoft Office",
+          "domain": "microsoft.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
+          "release_notes_url": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
+          "source": {
+            "type": "scrape",
+            "url": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
+            "selector": "h2, h3",
+            "title_selector": "h2, h3",
+            "date_selector": null,
+            "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "ninjaone",
+          "name": "NinjaOne",
+          "domain": "ninjaone.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
+          "release_notes_url": "https://www.ninjaone.com/blog/category/ninjaone/",
+          "source": {
+            "type": "rss",
+            "feed_url": "https://www.ninjaone.com/blog/category/ninjaone/feed/"
+          },
+          "filter": {
+            "include": [
+              "release"
+            ]
+          }
+        },
+        {
+          "id": "papercut",
+          "name": "PaperCut",
+          "domain": "papercut.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+          "release_notes_url": "https://www.papercut.com/products/mf/release-history/",
+          "source": {
+            "type": "rss",
+            "feed_url": "https://www.papercut.com/products/mf/release-history.atom"
           }
         },
         {
@@ -239,13 +177,83 @@
           }
         },
         {
+          "id": "scribe",
+          "name": "Scribe",
+          "domain": "scribehow.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+          "release_notes_url": "https://scribe.launchnotes.io/",
+          "source": {
+            "type": "scrape",
+            "url": "https://scribe.launchnotes.io/",
+            "selector": "article, .announcement, .post, [class*=post], [class*=announcement]",
+            "title_selector": "h2, h3, h4",
+            "date_selector": "time, .date, [datetime]",
+            "summary_selector": "p"
+          }
+        },
+        {
+          "id": "slack",
+          "name": "Slack",
+          "domain": "slack.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+          "release_notes_url": "https://docs.slack.dev/changelog/",
+          "source": {
+            "type": "rss",
+            "feed_url": "https://docs.slack.dev/changelog/rss.xml"
+          }
+        },
+        {
+          "id": "smartdeploy",
+          "name": "SmartDeploy",
+          "domain": "smartdeploy.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
+          "release_notes_url": "https://www.smartdeploy.com/blog/categories/product/1/",
+          "source": {
+            "type": "scrape",
+            "url": "https://www.smartdeploy.com/blog/categories/product/1/",
+            "selector": "a[class*='card'], div[class*='blog'] a",
+            "title_selector": "h2",
+            "date_selector": "span, time, p:last-child",
+            "summary_selector": "p"
+          },
+          "filter": {
+            "include": [
+              "release",
+              "new",
+              "launched",
+              "what's new"
+            ]
+          }
+        },
+        {
+          "id": "windows",
+          "name": "Windows",
+          "domain": "microsoft.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+          "release_notes_url": "https://blogs.windows.com/windows-insider/",
+          "source": {
+            "type": "rss",
+            "feed_url": "https://blogs.windows.com/windows-insider/feed/"
+          },
+          "filter": {
+            "include": [
+              "Windows 11"
+            ]
+          }
+        },
+        {
           "id": "zoom",
           "name": "Zoom",
           "domain": "zoom.us",
           "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
           "release_notes_url": "https://support.zoom.com/hc/en/category?id=kb_category&kb_category=d52a3eda8720391089a37408dabb3559",
           "source": {
-            "type": "scrape"
+            "type": "scrape",
+            "url": "https://support.zoom.com/hc/en/category?id=kb_category&kb_category=d52a3eda8720391089a37408dabb3559",
+            "selector": "article, section",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .date",
+            "summary_selector": "p"
           },
           "subproducts": [
             {
