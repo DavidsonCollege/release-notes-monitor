@@ -313,6 +313,71 @@ def check_scrape_source(product: dict) -> list[dict]:
     return items
 
 
+def check_nextjs_blog_source(product: dict) -> list[dict]:
+    """Extract blog posts from a Next.js site's __NEXT_DATA__ JSON."""
+    from urllib.parse import urljoin
+    import json as _json
+
+    source = product["source"]
+    url = source["url"]
+    posts_path = source.get("posts_path", "props.pageProps.posts")
+    title_key = source.get("title_key", "title")
+    date_key = source.get("date_key", "publishDate")
+    slug_key = source.get("slug_key", "slug")
+    slug_prefix = source.get("slug_prefix", "")
+    print(f"  Next.js blog: {url}")
+
+    resp = make_request(url)
+    if not resp:
+        return []
+
+    soup = BeautifulSoup(resp.content, "html.parser")
+    script_tag = soup.find("script", id="__NEXT_DATA__")
+    if not script_tag or not script_tag.string:
+        print("  [WARN] No __NEXT_DATA__ found. Site may not be Next.js.")
+        return []
+
+    try:
+        next_data = _json.loads(script_tag.string)
+    except Exception as e:
+        print(f"  [WARN] Failed to parse __NEXT_DATA__: {e}")
+        return []
+
+    # Navigate the JSON path to find posts
+    obj = next_data
+    for key in posts_path.split("."):
+        if isinstance(obj, dict):
+            obj = obj.get(key, {})
+        else:
+            print(f"  [WARN] Could not traverse path: {posts_path}")
+            return []
+
+    if not isinstance(obj, list):
+        print(f"  [WARN] Path {posts_path} did not resolve to a list")
+        return []
+
+    print(f"  Found {len(obj)} posts in __NEXT_DATA__")
+
+    items = []
+    for post in obj[:10]:
+        title = post.get(title_key, "").strip()
+        if not title:
+            continue
+        date_val = post.get(date_key, "")
+        slug = post.get(slug_key, "")
+        link = urljoin(url, slug_prefix + slug) if slug else url
+
+        items.append({
+            "title": title,
+            "link": link,
+            "summary": "",
+            "date": date_val or datetime.now(timezone.utc).isoformat(),
+        })
+
+    print(f"  Extracted {len(items)} items")
+    return items
+
+
 def apply_keyword_filters(items: list[dict], product: dict) -> list[dict]:
     """Filter items based on include/exclude keyword rules."""
     filters = product.get("filter", {})
@@ -358,6 +423,8 @@ def check_product(product: dict) -> list[dict]:
         items = check_scrape_source(product)
     elif source_type == "zendesk_api":
         items = check_zendesk_api_source(product)
+    elif source_type == "nextjs_blog":
+        items = check_nextjs_blog_source(product)
     else:
         print(f"  [WARN] Unknown source type: {source_type}")
         return []
