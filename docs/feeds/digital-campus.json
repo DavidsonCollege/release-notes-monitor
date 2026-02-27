@@ -117,7 +117,7 @@
     "title": "Security Updates for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of security updates, see the following article:",
-    "date": "2026-02-27T14:33:40.359443+00:00"
+    "date": "2026-02-27T16:12:02.064831+00:00"
   },
   {
     "id": "b9360485c3e61f3c",
@@ -127,7 +127,7 @@
     "title": "History for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
-    "date": "2026-02-27T14:33:40.359572+00:00"
+    "date": "2026-02-27T16:12:02.064957+00:00"
   },
   {
     "id": "185d4d7625c4f74e",
@@ -137,7 +137,7 @@
     "title": "Download Sizes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of update releases sizes, see the following article:",
-    "date": "2026-02-27T14:33:40.359673+00:00"
+    "date": "2026-02-27T16:12:02.065057+00:00"
   },
   {
     "id": "813b1ad089721490",
@@ -147,7 +147,7 @@
     "title": "Release Notes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes by update channel and year, see the following articles:",
-    "date": "2026-02-27T14:33:40.359768+00:00"
+    "date": "2026-02-27T16:12:02.065155+00:00"
   },
   {
     "id": "324fe31ac188c1d9",
@@ -157,7 +157,7 @@
     "title": "Release Notes for Microsoft 365 Insiders",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes for Insiders, see the following articles:",
-    "date": "2026-02-27T14:33:40.359860+00:00"
+    "date": "2026-02-27T16:12:02.065250+00:00"
   },
   {
     "id": "adfc41ff921de8dc",
@@ -257,7 +257,7 @@
     "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
     "link": "https://releases.1password.com/mac/",
     "summary": "",
-    "date": "2026-02-27T14:33:46.012563+00:00"
+    "date": "2026-02-27T16:12:07.461632+00:00"
   },
   {
     "id": "c0b4ae4d90bd1347",
@@ -267,7 +267,7 @@
     "title": "2026",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
     "summary": "",
-    "date": "2026-02-27T14:33:47.257242+00:00"
+    "date": "2026-02-27T16:12:08.664783+00:00"
   },
   {
     "id": "1313b2c1a3dd1eea",
@@ -277,7 +277,7 @@
     "title": "2025",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
     "summary": "",
-    "date": "2026-02-27T14:33:47.257412+00:00"
+    "date": "2026-02-27T16:12:08.664946+00:00"
   },
   {
     "id": "8b05ee4e129e0438",
@@ -287,7 +287,7 @@
     "title": "2024",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
     "summary": "",
-    "date": "2026-02-27T14:33:47.257551+00:00"
+    "date": "2026-02-27T16:12:08.665083+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -337,7 +337,7 @@
     "title": "ScreenCloud OS ChangelogsThis article is a directory for ScreenCloud OS releases and changelogs Updated over a month agoTable of contentsTo find out t",
     "link": "https://help.screencloud.com/en/articles/10120811-screencloud-os-changelogs",
     "summary": "This article is a directory for ScreenCloud OS releases and changelogs To find out the ScreenCloud OS version of your device, please check this by turning the device off and back on again. On startup, you will see what version of ScreenCloud OS the device is running. You can also check this via the...",
-    "date": "2026-02-27T14:33:52.198765+00:00"
+    "date": "2026-02-27T16:12:13.262541+00:00"
   },
   {
     "id": "2aa849835f5901d8",
@@ -347,7 +347,7 @@
     "title": "Related ArticlesFire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update C",
     "link": "https://help.screencloud.com/en/articles/10115535-fire-os-hardware",
     "summary": "Related ArticlesFire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenCloud PIXI ChangelogsHow ScreenCloud Releases Updates for Players, PIXI, and ScreenCloud OS",
-    "date": "2026-02-27T14:33:52.199175+00:00"
+    "date": "2026-02-27T16:12:13.262937+00:00"
   },
   {
     "id": "8aedd0d8861972f1",
@@ -357,7 +357,7 @@
     "title": "Fire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenClou",
     "link": "https://help.screencloud.com/en/articles/10115535-fire-os-hardware",
     "summary": "Fire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenCloud PIXI ChangelogsHow ScreenCloud Releases Updates for Players, PIXI, and ScreenCloud OS",
-    "date": "2026-02-27T14:33:52.199503+00:00"
+    "date": "2026-02-27T16:12:13.263281+00:00"
   },
   {
     "id": "65ecd64f5ffcce91",
