@@ -197,20 +197,13 @@
           "name": "Ad Astra",
           "domain": "aais.com",
           "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-          "release_notes_url": "http://help.aais.com/Help/ReleaseNotes/Index.html",
+          "release_notes_url": "https://help.adastra.live/hc/en-us/sections/39557051467924-Ad-Astra-Release-Notes",
           "source": {
-            "type": "scrape",
-            "url": "http://help.aais.com/Help/ReleaseNotes/Index.html",
-            "selector": "a[href]",
-            "title_selector": null,
-            "date_selector": null,
-            "summary_selector": null,
-            "auth": {
-              "type": "zendesk",
-              "domain": "help.adastra.live",
-              "env_email": "ADASTRA_EMAIL",
-              "env_password": "ADASTRA_PASSWORD"
-            }
+            "type": "zendesk_api",
+            "domain": "help.adastra.live",
+            "section_id": "39557051467924",
+            "env_email": "ADASTRA_EMAIL",
+            "env_password": "ADASTRA_PASSWORD"
           }
         },
         {
