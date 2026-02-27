@@ -81,7 +81,7 @@ def check_zendesk_api_source(product: dict) -> list[dict]:
         title = article.get("title", "").strip()
         url = article.get("html_url", "")
         updated = article.get("updated_at", "")
-        items.append({"title": title, "url": url, "date": updated})
+        items.append({"title": title, "link": url, "date": updated})
 
     print(f"  Found {len(items)} articles from API")
     return items
