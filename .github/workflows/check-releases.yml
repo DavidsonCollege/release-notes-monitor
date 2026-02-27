@@ -41,6 +41,8 @@ jobs:
       - name: Run release notes checker
         env:
           BASE_URL: ${{ vars.BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+          ADASTRA_EMAIL: ${{ secrets.ADASTRA_EMAIL }}
+          ADASTRA_PASSWORD: ${{ secrets.ADASTRA_PASSWORD }}
         run: python scripts/check_releases.py
 
       - name: Commit and push changes
