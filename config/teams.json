@@ -250,7 +250,7 @@
           "release_notes_url": "https://developers.zoom.us/changelog/",
           "source": {
             "type": "rss",
-            "url": "https://developers.zoom.us/changelog/rss.xml"
+            "feed_url": "https://developers.zoom.us/changelog/rss.xml"
           }
         }
       ]
