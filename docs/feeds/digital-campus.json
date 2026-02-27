@@ -17,7 +17,17 @@
     "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
     "link": "https://releases.1password.com/mac/",
     "summary": "",
-    "date": "2026-02-27T20:08:18.246124+00:00"
+    "date": "2026-02-27T21:40:58.602519+00:00"
+  },
+  {
+    "id": "f54aa9f1968974da",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "February 27, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/46722487093396-February-27-2026",
+    "summary": "",
+    "date": "2026-02-27T20:36:01Z"
   },
   {
     "id": "2cfed85194cd4abd",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/45828932837396-January-30-2026",
     "summary": "",
     "date": "2026-01-30T18:22:24Z"
-  },
-  {
-    "id": "5ef15823e5109cb1",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "January 23, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/45594475979668-January-23-2026",
-    "summary": "",
-    "date": "2026-01-23T17:40:19Z"
   },
   {
     "id": "2aa25658903bd41b",
@@ -127,7 +127,7 @@
     "title": "upgrade",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T20:08:24.121540+00:00"
+    "date": "2026-02-27T21:41:03.956484+00:00"
   },
   {
     "id": "7aba50c4d8071e11",
@@ -137,7 +137,7 @@
     "title": "224.3.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T20:08:24.121598+00:00"
+    "date": "2026-02-27T21:41:03.956532+00:00"
   },
   {
     "id": "e67335b00b3797c1",
@@ -147,7 +147,7 @@
     "title": "224.2.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T20:08:24.121628+00:00"
+    "date": "2026-02-27T21:41:03.956568+00:00"
   },
   {
     "id": "0d90b9c66b88bbce",
@@ -157,7 +157,7 @@
     "title": "224.1.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T20:08:24.121655+00:00"
+    "date": "2026-02-27T21:41:03.956602+00:00"
   },
   {
     "id": "6aa653e3e373f710",
@@ -167,7 +167,7 @@
     "title": "223.3.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T20:08:24.121681+00:00"
+    "date": "2026-02-27T21:41:03.956634+00:00"
   },
   {
     "id": "adfc41ff921de8dc",
@@ -277,7 +277,7 @@
     "title": "Security Updates for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of security updates, see the following article:",
-    "date": "2026-02-27T20:08:30.593513+00:00"
+    "date": "2026-02-27T21:41:09.510054+00:00"
   },
   {
     "id": "b9360485c3e61f3c",
@@ -287,7 +287,7 @@
     "title": "History for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
-    "date": "2026-02-27T20:08:30.593631+00:00"
+    "date": "2026-02-27T21:41:09.510184+00:00"
   },
   {
     "id": "185d4d7625c4f74e",
@@ -297,7 +297,7 @@
     "title": "Download Sizes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of update releases sizes, see the following article:",
-    "date": "2026-02-27T20:08:30.593719+00:00"
+    "date": "2026-02-27T21:41:09.510284+00:00"
   },
   {
     "id": "813b1ad089721490",
@@ -307,7 +307,7 @@
     "title": "Release Notes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes by update channel and year, see the following articles:",
-    "date": "2026-02-27T20:08:30.593806+00:00"
+    "date": "2026-02-27T21:41:09.510385+00:00"
   },
   {
     "id": "324fe31ac188c1d9",
@@ -317,7 +317,7 @@
     "title": "Release Notes for Microsoft 365 Insiders",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes for Insiders, see the following articles:",
-    "date": "2026-02-27T20:08:30.593890+00:00"
+    "date": "2026-02-27T21:41:09.510502+00:00"
   },
   {
     "id": "4861482635a84858",
@@ -437,7 +437,7 @@
     "title": "Pro Pro Team Enterprise Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-02-27T20:08:37.109216+00:00"
+    "date": "2026-02-27T21:41:16.046913+00:00"
   },
   {
     "id": "498cbd13c5eccf96",
@@ -447,7 +447,7 @@
     "title": "Add tables within Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-02-27T20:08:37.109350+00:00"
+    "date": "2026-02-27T21:41:16.047058+00:00"
   },
   {
     "id": "677dba7875fa4724",
@@ -648,5 +648,15 @@
     "link": "https://developers.zoom.us/changelog/meeting-sdk/android/6.7.5",
     "summary": "Tags: new-feature, sdk-version | Added support for public app type authentication and restricting cross-join accounts, custom 3D avatar elements, and meeting bot behavior.",
     "date": "2026-02-16T00:00:00+00:00"
+  },
+  {
+    "id": "5ef15823e5109cb1",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "January 23, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/45594475979668-January-23-2026",
+    "summary": "",
+    "date": "2026-01-23T17:40:19Z"
   }
 ]
