@@ -67,7 +67,7 @@
     "title": "PaperCut NG release history",
     "link": "https://www.papercut.com/products/ng/release-history/",
     "summary": "Take a look under the hood and see what's new with the latest version of PaperCut NG, and find out what things we've fixed along the way. Take a look under the hood and see what's new with the latest version of PaperCut MF, and find out what things we've fixed along the way. See what's new with the...",
-    "date": "2026-02-27T14:13:35.440019+00:00"
+    "date": "2026-02-27T14:17:55.994090+00:00"
   },
   {
     "id": "ba97a2ed3b9b7f42",
@@ -77,7 +77,7 @@
     "title": "Other products Print Deploy release history Job Ticketing release history PaperCut MF Cloud Services release history",
     "link": "https://www.papercut.com/help/manuals/print-deploy/release-history/",
     "summary": "Other products Print Deploy release history Job Ticketing release history",
-    "date": "2026-02-27T14:13:35.440409+00:00"
+    "date": "2026-02-27T14:17:55.994503+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -87,7 +87,7 @@
     "title": "Security Updates for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of security updates, see the following article:",
-    "date": "2026-02-27T14:13:43.144569+00:00"
+    "date": "2026-02-27T14:18:04.320277+00:00"
   },
   {
     "id": "b9360485c3e61f3c",
@@ -97,7 +97,7 @@
     "title": "History for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
-    "date": "2026-02-27T14:13:43.144690+00:00"
+    "date": "2026-02-27T14:18:04.320422+00:00"
   },
   {
     "id": "185d4d7625c4f74e",
@@ -107,7 +107,7 @@
     "title": "Download Sizes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of update releases sizes, see the following article:",
-    "date": "2026-02-27T14:13:43.144790+00:00"
+    "date": "2026-02-27T14:18:04.320529+00:00"
   },
   {
     "id": "813b1ad089721490",
@@ -117,7 +117,7 @@
     "title": "Release Notes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes by update channel and year, see the following articles:",
-    "date": "2026-02-27T14:13:43.144889+00:00"
+    "date": "2026-02-27T14:18:04.320631+00:00"
   },
   {
     "id": "324fe31ac188c1d9",
@@ -127,7 +127,7 @@
     "title": "Release Notes for Microsoft 365 Insiders",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes for Insiders, see the following articles:",
-    "date": "2026-02-27T14:13:43.144986+00:00"
+    "date": "2026-02-27T14:18:04.320731+00:00"
   },
   {
     "id": "adfc41ff921de8dc",
@@ -227,7 +227,7 @@
     "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
     "link": "https://releases.1password.com/mac/",
     "summary": "",
-    "date": "2026-02-27T14:13:48.895110+00:00"
+    "date": "2026-02-27T14:18:09.697251+00:00"
   },
   {
     "id": "c0b4ae4d90bd1347",
@@ -237,7 +237,7 @@
     "title": "2026",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
     "summary": "",
-    "date": "2026-02-27T14:13:50.123660+00:00"
+    "date": "2026-02-27T14:18:10.867156+00:00"
   },
   {
     "id": "1313b2c1a3dd1eea",
@@ -247,7 +247,7 @@
     "title": "2025",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
     "summary": "",
-    "date": "2026-02-27T14:13:50.123839+00:00"
+    "date": "2026-02-27T14:18:10.867320+00:00"
   },
   {
     "id": "8b05ee4e129e0438",
@@ -257,7 +257,77 @@
     "title": "2024",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
     "summary": "",
-    "date": "2026-02-27T14:13:50.123992+00:00"
+    "date": "2026-02-27T14:18:10.867494+00:00"
+  },
+  {
+    "id": "f797e86c07e10880",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Weekly Recap - 02.13.2026",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-02132026",
+    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🆕 New & Enhanced - Enhanced Proof of Play (POP) with **Hourly Reporting**, giving all customers more granular visibility into content performance throughout the day. - Improved Proof of Play to ensure reporting data...",
+    "date": "2026-02-13T15:38:48+00:00"
+  },
+  {
+    "id": "3ca2bd76a38407e8",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Booking V9.7.1",
+    "link": "https://product.korbyt.com/changelog/korbyt-booking-v971",
+    "summary": "# What’s New? ## Deep Link to Locate Colleague on Floorplan (Bookit) Implemented a deep link capability in Bookit that enables authenticated users to directly locate a colleague’s booked space on the floorplan via a URL and book near them. ### Key Functionality **Hyperlink Integration** • The...",
+    "date": "2026-02-12T09:05:29+00:00"
+  },
+  {
+    "id": "3f5b910c597cabb5",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Product Recap - 01.12.2026",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-01122026",
+    "summary": "We're constantly working to improve Korbyt. Here's what we were up to over the break and last week week: 🆕 New & Enhanced - **Secrets API: Credential Management** — IT Admins can now securely manage the lifecycle of API credentials using a centralized Secrets API. This includes creating, listing,...",
+    "date": "2026-01-12T16:36:21+00:00"
+  },
+  {
+    "id": "ceaabe1754b3907a",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Release Recap - 12.05.2025",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-release-recap-12052025",
+    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🐞 Squashed Bugs - Fixed an issue where YouTube element showed an error due to recent changes in YouTube's Terms of Service. - Resolved a styling inheritance issue in Korbyt Create AI Layouts where elements did not...",
+    "date": "2025-12-05T15:05:58+00:00"
+  },
+  {
+    "id": "1cadafaab84d1d46",
+    "product_id": "screencloud",
+    "product_name": "ScreenCloud",
+    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
+    "title": "ScreenCloud OS ChangelogsThis article is a directory for ScreenCloud OS releases and changelogs Updated over a month agoTable of contentsTo find out t",
+    "link": "https://help.screencloud.com/en/articles/10120811-screencloud-os-changelogs",
+    "summary": "This article is a directory for ScreenCloud OS releases and changelogs To find out the ScreenCloud OS version of your device, please check this by turning the device off and back on again. On startup, you will see what version of ScreenCloud OS the device is running. You can also check this via the...",
+    "date": "2026-02-27T14:18:15.563367+00:00"
+  },
+  {
+    "id": "2aa849835f5901d8",
+    "product_id": "screencloud",
+    "product_name": "ScreenCloud",
+    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
+    "title": "Related ArticlesFire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update C",
+    "link": "https://help.screencloud.com/en/articles/10115535-fire-os-hardware",
+    "summary": "Related ArticlesFire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenCloud PIXI ChangelogsHow ScreenCloud Releases Updates for Players, PIXI, and ScreenCloud OS",
+    "date": "2026-02-27T14:18:15.563782+00:00"
+  },
+  {
+    "id": "8aedd0d8861972f1",
+    "product_id": "screencloud",
+    "product_name": "ScreenCloud",
+    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
+    "title": "Fire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenClou",
+    "link": "https://help.screencloud.com/en/articles/10115535-fire-os-hardware",
+    "summary": "Fire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenCloud PIXI ChangelogsHow ScreenCloud Releases Updates for Players, PIXI, and ScreenCloud OS",
+    "date": "2026-02-27T14:18:15.564118+00:00"
   },
   {
     "id": "1028af79104b0cdb",
@@ -268,36 +338,6 @@
     "link": "https://product.korbyt.com/help/collections/4697537-getting-started-and-general-topics",
     "summary": "Get answers in seconds with our AI search or find them in our detailed articles. Information that applies to all of Korbyt 34 articles",
     "date": "2026-02-27T14:13:53.719041+00:00"
-  },
-  {
-    "id": "1cadafaab84d1d46",
-    "product_id": "screencloud",
-    "product_name": "ScreenCloud",
-    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "ScreenCloud OS ChangelogsThis article is a directory for ScreenCloud OS releases and changelogs Updated over a month agoTable of contentsTo find out t",
-    "link": "https://help.screencloud.com/en/articles/10120811-screencloud-os-changelogs",
-    "summary": "This article is a directory for ScreenCloud OS releases and changelogs To find out the ScreenCloud OS version of your device, please check this by turning the device off and back on again. On startup, you will see what version of ScreenCloud OS the device is running. You can also check this via the...",
-    "date": "2026-02-27T14:13:55.615074+00:00"
-  },
-  {
-    "id": "2aa849835f5901d8",
-    "product_id": "screencloud",
-    "product_name": "ScreenCloud",
-    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "Related ArticlesFire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update C",
-    "link": "https://help.screencloud.com/en/articles/10115535-fire-os-hardware",
-    "summary": "Related ArticlesFire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenCloud PIXI ChangelogsHow ScreenCloud Releases Updates for Players, PIXI, and ScreenCloud OS",
-    "date": "2026-02-27T14:13:55.615480+00:00"
-  },
-  {
-    "id": "8aedd0d8861972f1",
-    "product_id": "screencloud",
-    "product_name": "ScreenCloud",
-    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "Fire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenClou",
-    "link": "https://help.screencloud.com/en/articles/10115535-fire-os-hardware",
-    "summary": "Fire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenCloud PIXI ChangelogsHow ScreenCloud Releases Updates for Players, PIXI, and ScreenCloud OS",
-    "date": "2026-02-27T14:13:55.615819+00:00"
   },
   {
     "id": "0448a83c1fa0f490",
@@ -458,45 +498,5 @@
     "link": "https://developer.apple.com/news/releases/?id=02232026b",
     "summary": "View downloadsView release notes",
     "date": "2026-02-23T17:00:00+00:00"
-  },
-  {
-    "id": "e32a2189a841adf2",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "tvOS 26.4 beta 2 (23L5219e)",
-    "link": "https://developer.apple.com/news/releases/?id=02232026d",
-    "summary": "View downloadsView release notes",
-    "date": "2026-02-23T17:00:00+00:00"
-  },
-  {
-    "id": "d33b367337073249",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "visionOS 26.4 beta 2 (23O5220e)",
-    "link": "https://developer.apple.com/news/releases/?id=02232026e",
-    "summary": "View downloadsView release notes",
-    "date": "2026-02-23T17:00:00+00:00"
-  },
-  {
-    "id": "6e69b7fa00f171e6",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "watchOS 26.4 beta 2 (23T5221e)",
-    "link": "https://developer.apple.com/news/releases/?id=02232026f",
-    "summary": "View downloadsView release notes",
-    "date": "2026-02-23T17:00:00+00:00"
-  },
-  {
-    "id": "f781e19f54c9f94b",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "App Store Connect Update",
-    "link": "https://developer.apple.com/news/releases/?id=02202026b",
-    "summary": "View release notes",
-    "date": "2026-02-20T17:00:00+00:00"
   }
 ]
