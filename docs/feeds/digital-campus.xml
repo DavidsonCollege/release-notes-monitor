@@ -5,140 +5,140 @@
     <description>Technology products managed by the Digital Campus team</description>
     <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Feb 2026 18:32:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 18:38:44 +0000</lastBuildDate>
     <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ScreenCloud - 4.9.0</title>
+      <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;ScreenCloud&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;New: Amazon Signage Stick (ASS) dedicated player. Previously ran Amazon Fire OS player on ASS device.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">e1dab31261398830</guid>
+      <pubDate>Fri, 27 Feb 2026 18:38:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>ScreenCloud - 4.7.16</title>
+      <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;ScreenCloud&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">25cbe092cc1d040f</guid>
+      <pubDate>Fri, 27 Feb 2026 18:38:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>ScreenCloud - 4.11.2</title>
+      <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;ScreenCloud&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;New: Support for Amazon’s Remote Device Management (RDM) for Signage Sticks, including:Screen/TV mute and unmute via HDMI-CECScreen/TV power on and off via HDMI-CECDevice rebootScreenshot and full-screen captureDeep cache clearing (player app and Android system cache)Player app restartCPU and GPU...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">06a1b6a05e1c3232</guid>
+      <pubDate>Fri, 27 Feb 2026 18:38:44 +0000</pubDate>
+    </item>
     <item>
       <title>Scribe - Add tables within Pages</title>
       <link>https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Loading... Loading...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">5c619f9138a58456</guid>
-      <pubDate>Fri, 27 Feb 2026 18:32:18 +0000</pubDate>
+      <pubDate>Fri, 27 Feb 2026 18:38:44 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Add tables within Pages</title>
       <link>https://scribe.launchnotes.io/announcements/add-tables-within-pages</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Loading...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/add-tables-within-pages&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">e01cdf6739129daa</guid>
-      <pubDate>Fri, 27 Feb 2026 18:32:18 +0000</pubDate>
+      <pubDate>Fri, 27 Feb 2026 18:38:44 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password for iOS</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;1Password&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;All Mac iOS&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://releases.1password.com/&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">2b32d43f0319657f</guid>
-      <pubDate>Fri, 27 Feb 2026 18:32:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>EMS - 223.3.0</title>
-      <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">6aa653e3e373f710</guid>
-      <pubDate>Fri, 27 Feb 2026 18:31:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>EMS - 224.1.0</title>
-      <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">0d90b9c66b88bbce</guid>
-      <pubDate>Fri, 27 Feb 2026 18:31:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>EMS - 224.2.0</title>
-      <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">e67335b00b3797c1</guid>
-      <pubDate>Fri, 27 Feb 2026 18:31:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>EMS - 224.3.0</title>
-      <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">7aba50c4d8071e11</guid>
-      <pubDate>Fri, 27 Feb 2026 18:31:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>EMS - upgrade</title>
-      <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">01fe930feaaa6a09</guid>
-      <pubDate>Fri, 27 Feb 2026 18:31:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>1Password - 1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning</title>
-      <link>https://releases.1password.com/mac/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;1Password&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://releases.1password.com/mac/&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">9c09b21f403ecfc4</guid>
-      <pubDate>Fri, 27 Feb 2026 18:31:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Office - Release Notes for Microsoft 365 Insiders</title>
-      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of release notes for Insiders, see the following articles:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">324fe31ac188c1d9</guid>
-      <pubDate>Fri, 27 Feb 2026 18:31:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Office - Release Notes for Microsoft 365 Apps Releases</title>
-      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of release notes by update channel and year, see the following articles:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">813b1ad089721490</guid>
-      <pubDate>Fri, 27 Feb 2026 18:31:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Office - Download Sizes for Microsoft 365 Apps Releases</title>
-      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of update releases sizes, see the following article:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">185d4d7625c4f74e</guid>
-      <pubDate>Fri, 27 Feb 2026 18:31:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Office - History for Microsoft 365 Apps Releases</title>
-      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of releases and the supported versions for each channel, see the following article:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">b9360485c3e61f3c</guid>
-      <pubDate>Fri, 27 Feb 2026 18:31:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Office - Security Updates for Microsoft 365 Apps Releases</title>
-      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of security updates, see the following article:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">8f2885091136ab69</guid>
-      <pubDate>Fri, 27 Feb 2026 18:31:48 +0000</pubDate>
+      <pubDate>Fri, 27 Feb 2026 18:38:44 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Add tables within Pages</title>
       <link>https://scribe.launchnotes.io/</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">498cbd13c5eccf96</guid>
-      <pubDate>Fri, 27 Feb 2026 18:31:46 +0000</pubDate>
+      <pubDate>Fri, 27 Feb 2026 18:38:22 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Pro Pro Team Enterprise Pages</title>
       <link>https://scribe.launchnotes.io/</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">80015b32e1cd635a</guid>
-      <pubDate>Fri, 27 Feb 2026 18:31:46 +0000</pubDate>
+      <pubDate>Fri, 27 Feb 2026 18:38:22 +0000</pubDate>
     </item>
     <item>
-      <title>Windows - Announcing Windows 11 Insider Preview Build 28020.1673 (Canary Channel)</title>
-      <link>https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-28020-1673-canary-channel/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1673 to the Canary Channel. (KB 5077240) What’s new in Canary Build 28020.1673 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1673 (Canary Channel) appeared first on Windows...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-28020-1673-canary-channel/&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">5ad0d54815ecca3d</guid>
-      <pubDate>Fri, 27 Feb 2026 18:05:47 +0000</pubDate>
+      <title>Microsoft Office - Release Notes for Microsoft 365 Insiders</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of release notes for Insiders, see the following articles:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">324fe31ac188c1d9</guid>
+      <pubDate>Fri, 27 Feb 2026 18:38:16 +0000</pubDate>
     </item>
     <item>
-      <title>Windows - Announcing Windows 11 Insider Preview Build 26300.7939 (Dev Channel)</title>
-      <link>https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-26300-7939-dev-channel/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.7939 (KB 5077243) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.7939...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-26300-7939-dev-channel/&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">e6c813a351741844</guid>
-      <pubDate>Fri, 27 Feb 2026 18:04:30 +0000</pubDate>
+      <title>Microsoft Office - Release Notes for Microsoft 365 Apps Releases</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of release notes by update channel and year, see the following articles:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">813b1ad089721490</guid>
+      <pubDate>Fri, 27 Feb 2026 18:38:16 +0000</pubDate>
     </item>
     <item>
-      <title>Windows - Announcing Windows 11 Insider Preview Build 26220.7934 (Beta Channel)</title>
-      <link>https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-26220-7934-beta-channel/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.7934 (KB5077242) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (in The post Announcing Windows 11 Insider Preview Build 26220.7934...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-26220-7934-beta-channel/&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">a810357fbe15a494</guid>
-      <pubDate>Fri, 27 Feb 2026 18:04:14 +0000</pubDate>
+      <title>Microsoft Office - Download Sizes for Microsoft 365 Apps Releases</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of update releases sizes, see the following article:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">185d4d7625c4f74e</guid>
+      <pubDate>Fri, 27 Feb 2026 18:38:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office - History for Microsoft 365 Apps Releases</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of releases and the supported versions for each channel, see the following article:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">b9360485c3e61f3c</guid>
+      <pubDate>Fri, 27 Feb 2026 18:38:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Office - Security Updates for Microsoft 365 Apps Releases</title>
+      <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of security updates, see the following article:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">8f2885091136ab69</guid>
+      <pubDate>Fri, 27 Feb 2026 18:38:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>EMS - 223.3.0</title>
+      <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">6aa653e3e373f710</guid>
+      <pubDate>Fri, 27 Feb 2026 18:38:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>EMS - 224.1.0</title>
+      <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">0d90b9c66b88bbce</guid>
+      <pubDate>Fri, 27 Feb 2026 18:38:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>EMS - 224.2.0</title>
+      <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">e67335b00b3797c1</guid>
+      <pubDate>Fri, 27 Feb 2026 18:38:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>EMS - 224.3.0</title>
+      <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">7aba50c4d8071e11</guid>
+      <pubDate>Fri, 27 Feb 2026 18:38:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>EMS - upgrade</title>
+      <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">01fe930feaaa6a09</guid>
+      <pubDate>Fri, 27 Feb 2026 18:38:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>1Password - 1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning</title>
+      <link>https://releases.1password.com/mac/</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;1Password&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://releases.1password.com/mac/&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">9c09b21f403ecfc4</guid>
+      <pubDate>Fri, 27 Feb 2026 18:38:05 +0000</pubDate>
     </item>
     <item>
       <title>Google Workspace - Introducing Nano Banana 2 in the Gemini app</title>
@@ -195,20 +195,6 @@
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=aais.com&amp;sz=64&quot; alt=&quot;Ad Astra&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Ad Astra&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.adastra.live/hc/en-us/articles/46492904460180-February-20-2026&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">2cfed85194cd4abd</guid>
       <pubDate>Fri, 20 Feb 2026 18:27:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows - Announcing Windows 11 Insider Preview Build 26220.7872 (Beta Channel)</title>
-      <link>https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-26220-7872-beta-channel/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.7872 (KB5077231) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (in The post Announcing Windows 11 Insider Preview Build 26220.7872...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-26220-7872-beta-channel/&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">392aa54ecc8eb9b0</guid>
-      <pubDate>Fri, 20 Feb 2026 18:07:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows - Announcing Windows 11 Insider Preview Build 26300.7877 (Dev Channel)</title>
-      <link>https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-26300-7877-dev-channel/</link>
-      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Windows&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.7877 (KB5077232) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (incl The post Announcing Windows 11 Insider Preview Build 26300.7877...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-26300-7877-dev-channel/&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">69cb560d73048b40</guid>
-      <pubDate>Fri, 20 Feb 2026 18:05:41 +0000</pubDate>
     </item>
     <item>
       <title>Slack - Release: Slack CLI v3.13.0</title>
@@ -316,6 +302,13 @@
       <pubDate>Thu, 15 Jan 2026 21:57:59 +0000</pubDate>
     </item>
     <item>
+      <title>Korbyt - Korbyt Anywhere Product Recap - 01.12.2026</title>
+      <link>https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-01122026</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=gokorbyt.com&amp;sz=64&quot; alt=&quot;Korbyt&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Korbyt&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We're constantly working to improve Korbyt. Here's what we were up to over the break and last week week: 🆕 New &amp; Enhanced - **Secrets API: Credential Management** — IT Admins can now securely manage the lifecycle of API credentials using a centralized Secrets API. This includes creating, listing,...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-01122026&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">3f5b910c597cabb5</guid>
+      <pubDate>Mon, 12 Jan 2026 16:36:21 +0000</pubDate>
+    </item>
+    <item>
       <title>ClickUp - Introducing Super Agents™: The world’s first human-like AI agents</title>
       <link>https://feedback.clickup.com/changelog/introducing-super-agents-the-worlds-first-human-like-ai-agents</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=clickup.com&amp;sz=64&quot; alt=&quot;ClickUp&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;ClickUp&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Today, we’re launching ClickUp Super Agents – the first human‑like AI agents that live inside ClickUp and collaborate with your team like real teammates.These aren’t just chatbots or one‑off automations. Super Agents:See your work the way you do: tasks, docs, chats, meetings, and schedules all in...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://feedback.clickup.com/changelog/introducing-super-agents-the-worlds-first-human-like-ai-agents&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
@@ -328,6 +321,13 @@
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=clickup.com&amp;sz=64&quot; alt=&quot;ClickUp&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;ClickUp&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;4.0: A New Era of Craft, Quality, and ConvergenceA new era starts today. ClickUp 4.0 is crafted from the ground up for perfect human productivity - Projects, Databases, Scheduling, Chats, DMs, Video Calls. And context is maximized, perfect for AI Agents' productivity. ✨ Effortless Navigation,...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://feedback.clickup.com/changelog/40-release-notes-takeover&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">8133574dc872869a</guid>
       <pubDate>Fri, 12 Dec 2025 21:58:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Korbyt - Korbyt Anywhere Release Recap - 12.05.2025</title>
+      <link>https://product.korbyt.com/changelog/korbyt-anywhere-release-recap-12052025</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=gokorbyt.com&amp;sz=64&quot; alt=&quot;Korbyt&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Korbyt&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We're constantly working to improve Korbyt. Here's what we were up to this week: 🐞 Squashed Bugs - Fixed an issue where YouTube element showed an error due to recent changes in YouTube's Terms of Service. - Resolved a styling inheritance issue in Korbyt Create AI Layouts where elements did not...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://product.korbyt.com/changelog/korbyt-anywhere-release-recap-12052025&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">ceaabe1754b3907a</guid>
+      <pubDate>Fri, 05 Dec 2025 15:05:58 +0000</pubDate>
     </item>
     <item>
       <title>PaperCut - 25.0.6</title>

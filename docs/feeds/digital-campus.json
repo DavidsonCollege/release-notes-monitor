@@ -1,365 +1,5 @@
 [
   {
-    "id": "5ad0d54815ecca3d",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 28020.1673 (Canary Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-28020-1673-canary-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1673 to the Canary Channel. (KB 5077240) What’s new in Canary Build 28020.1673 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1673 (Canary Channel) appeared first on Windows...",
-    "date": "2026-02-27T18:05:47+00:00"
-  },
-  {
-    "id": "e6c813a351741844",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.7939 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-26300-7939-dev-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.7939 (KB 5077243) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.7939...",
-    "date": "2026-02-27T18:04:30+00:00"
-  },
-  {
-    "id": "a810357fbe15a494",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26220.7934 (Beta Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-26220-7934-beta-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.7934 (KB5077242) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (in The post Announcing Windows 11 Insider Preview Build 26220.7934...",
-    "date": "2026-02-27T18:04:14+00:00"
-  },
-  {
-    "id": "392aa54ecc8eb9b0",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26220.7872 (Beta Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-26220-7872-beta-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.7872 (KB5077231) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (in The post Announcing Windows 11 Insider Preview Build 26220.7872...",
-    "date": "2026-02-20T18:07:53+00:00"
-  },
-  {
-    "id": "69cb560d73048b40",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.7877 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-26300-7877-dev-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.7877 (KB5077232) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (incl The post Announcing Windows 11 Insider Preview Build 26300.7877...",
-    "date": "2026-02-20T18:05:41+00:00"
-  },
-  {
-    "id": "69f85ffa732b0c0d",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.4 beta 2 (25E5218f)",
-    "link": "https://developer.apple.com/news/releases/?id=02232026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-02-23T17:00:00+00:00"
-  },
-  {
-    "id": "677dba7875fa4724",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v3.13.0",
-    "link": "https://docs.slack.dev/changelog/2026/02/19/slack-cli",
-    "summary": "Version 3.13.0 of the developer tools for the Slack platform has arrived!",
-    "date": "2026-02-19T00:00:00+00:00"
-  },
-  {
-    "id": "8ee4018a9aa3532b",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Announcing the Slack MCP server and Real-time Search API",
-    "link": "https://docs.slack.dev/changelog/2026/02/17/slack-mcp",
-    "summary": "We're excited to announce the release of not one, but two, major components designed to significantly enhance how Large Language Models (LLMs) and AI agents interact with your workspace data: the Slack Model Context Protocol (MCP) server and the Real-time Search (RTS) API!",
-    "date": "2026-02-17T00:00:00+00:00"
-  },
-  {
-    "id": "6dfd587dc5b637f7",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Apps can now display thinking steps to users!",
-    "link": "https://docs.slack.dev/changelog/2026/02/11/task-cards-plan-blocks",
-    "summary": "Display your apps' and agents' actions with three new Block Kit components:",
-    "date": "2026-02-11T00:00:00+00:00"
-  },
-  {
-    "id": "71590f5049c2346f",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Retry delayed events feature now available",
-    "link": "https://docs.slack.dev/changelog/2026/02/05/retry-events-feature",
-    "summary": "You can now replay events that your app might have missed! In case of an outage where your app may have missed events, we've released a Delayed Events feature that lets you replay past events. Read all about it in the Events API docs.",
-    "date": "2026-02-05T00:00:00+00:00"
-  },
-  {
-    "id": "d6687af3c62d7016",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v3.12.0",
-    "link": "https://docs.slack.dev/changelog/2026/02/05/slack-cli",
-    "summary": "Version 3.12.0 of the developer tools for the Slack platform has landed!",
-    "date": "2026-02-05T00:00:00+00:00"
-  },
-  {
-    "id": "3a81a7e4205a54f5",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.8",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2026-02-10T00:00:00+00:00"
-  },
-  {
-    "id": "14378e3d42e688d0",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.6",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2025-11-25T00:00:00+00:00"
-  },
-  {
-    "id": "d815a5971e1aa4e6",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.5",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2025-10-28T00:00:00+00:00"
-  },
-  {
-    "id": "81947006244292b8",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.4",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2025-10-13T00:00:00+00:00"
-  },
-  {
-    "id": "373413602022acad",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.3",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2025-10-03T00:00:00+00:00"
-  },
-  {
-    "id": "5c619f9138a58456",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Add tables within Pages",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "February 6, 2026"
-  },
-  {
-    "id": "e01cdf6739129daa",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Add tables within Pages",
-    "link": "https://scribe.launchnotes.io/announcements/add-tables-within-pages",
-    "summary": "Loading...",
-    "date": "February 6, 2026"
-  },
-  {
-    "id": "80015b32e1cd635a",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pro Pro Team Enterprise Pages",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-02-27T18:31:46.214850+00:00"
-  },
-  {
-    "id": "498cbd13c5eccf96",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Add tables within Pages",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-02-27T18:31:46.214999+00:00"
-  },
-  {
-    "id": "2aa25658903bd41b",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "Release Notes 4.02",
-    "link": "https://feedback.clickup.com/changelog/release-notes-402",
-    "summary": "Update Task Types in Views, Pin AI Notetaker, and more! This week’s release unlocks the ability to manage Task Types in Views, add date ranges to Gantt view exports, and so much more. Update Task Type Column in Your Views: Quickly see and update task types directly from your List and Table views....",
-    "date": "2026-02-24T18:20:19+00:00"
-  },
-  {
-    "id": "f014c68f141a3a26",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "Super Agents: Release Notes Takeover",
-    "link": "https://feedback.clickup.com/changelog/super-agents-release-notes-takeover",
-    "summary": "Super Agents: The world's first human-like AI AgentsSuper Agents™ are personalized AI teammates that understand your work, use powerful tools, and collaborate like humans. Just describe the problem you want solved, the workflow you want to automate, or where you’re wasting time, and Super Agents...",
-    "date": "2026-01-29T18:19:37+00:00"
-  },
-  {
-    "id": "9e6059223bff720f",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "⚡ Join us for a Super Agents AMA on Reddit!",
-    "link": "https://feedback.clickup.com/changelog/join-us-for-a-super-agents-ama-on-reddit",
-    "summary": "Hey, everyone!We’re excited to announce a special Reddit AMA (Ask Me Anything) with the ClickUp AI Team, all about our latest feature: Super Agents!🗓️ When: Thursday, January 22nd, 10am–12pm PST📍 Where: the r/ClickUp subreddit on RedditThis is your opportunity to connect directly with Michael Van...",
-    "date": "2026-01-15T21:57:59+00:00"
-  },
-  {
-    "id": "51abfa9f2c16ac15",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "Introducing Super Agents™: The world’s first human-like AI agents",
-    "link": "https://feedback.clickup.com/changelog/introducing-super-agents-the-worlds-first-human-like-ai-agents",
-    "summary": "Today, we’re launching ClickUp Super Agents – the first human‑like AI agents that live inside ClickUp and collaborate with your team like real teammates.These aren’t just chatbots or one‑off automations. Super Agents:See your work the way you do: tasks, docs, chats, meetings, and schedules all in...",
-    "date": "2025-12-22T17:30:47+00:00"
-  },
-  {
-    "id": "8133574dc872869a",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "4.0 Release Notes Takeover",
-    "link": "https://feedback.clickup.com/changelog/40-release-notes-takeover",
-    "summary": "4.0: A New Era of Craft, Quality, and ConvergenceA new era starts today. ClickUp 4.0 is crafted from the ground up for perfect human productivity - Projects, Databases, Scheduling, Chats, DMs, Video Calls. And context is maximized, perfect for AI Agents' productivity. ✨ Effortless Navigation,...",
-    "date": "2025-12-12T21:58:54+00:00"
-  },
-  {
-    "id": "8f2885091136ab69",
-    "product_id": "microsoft-office",
-    "product_name": "Microsoft Office",
-    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-    "title": "Security Updates for Microsoft 365 Apps Releases",
-    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-    "summary": "For a complete list of security updates, see the following article:",
-    "date": "2026-02-27T18:31:48.932757+00:00"
-  },
-  {
-    "id": "b9360485c3e61f3c",
-    "product_id": "microsoft-office",
-    "product_name": "Microsoft Office",
-    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-    "title": "History for Microsoft 365 Apps Releases",
-    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-    "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
-    "date": "2026-02-27T18:31:48.932883+00:00"
-  },
-  {
-    "id": "185d4d7625c4f74e",
-    "product_id": "microsoft-office",
-    "product_name": "Microsoft Office",
-    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-    "title": "Download Sizes for Microsoft 365 Apps Releases",
-    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-    "summary": "For a complete list of update releases sizes, see the following article:",
-    "date": "2026-02-27T18:31:48.932991+00:00"
-  },
-  {
-    "id": "813b1ad089721490",
-    "product_id": "microsoft-office",
-    "product_name": "Microsoft Office",
-    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-    "title": "Release Notes for Microsoft 365 Apps Releases",
-    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-    "summary": "For a complete list of release notes by update channel and year, see the following articles:",
-    "date": "2026-02-27T18:31:48.933093+00:00"
-  },
-  {
-    "id": "324fe31ac188c1d9",
-    "product_id": "microsoft-office",
-    "product_name": "Microsoft Office",
-    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-    "title": "Release Notes for Microsoft 365 Insiders",
-    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-    "summary": "For a complete list of release notes for Insiders, see the following articles:",
-    "date": "2026-02-27T18:31:48.933190+00:00"
-  },
-  {
-    "id": "adfc41ff921de8dc",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing Nano Banana 2 in the Gemini app",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/introducing-nano-banana-2-in-gemini-app.html",
-    "summary": "Starting today, we’re rolling out Nano Banana 2 (Gemini 3.1 Flash Image), our best image model yet, to Workspace customers in the Gemini app.Nano Banana 2, which replaces our previous Nano Banana model, brings the high-speed intelligence of Gemini Flash to visual generation, making once-exclusive...",
-    "date": "2026-02-26T20:59:00+00:00"
-  },
-  {
-    "id": "166acc7f4dba2722",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini conversation history is coming to the side panel in Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/gemini-conversation-history-is-coming-to-side-panel-in-google-workspace.html",
-    "summary": "Conversation history is coming to the Gemini side panel in Google Workspace apps. This feature will enable users to resume their conversations with Gemini across sessions. This history will only persist in a single app and conversations will remain private. For example, a conversation in the side...",
-    "date": "2026-02-26T19:40:00+00:00"
-  },
-  {
-    "id": "04b3403df9f8dbae",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing a new video player experience in Google Drive on iOS devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/introducing-new-video-player-experience-in-drive-on-ios-devices.html",
-    "summary": "Last year, we announced a smoother, more modern video player in the Google Drive Android app. This updated look and feel is now available when watching Drive videos on your iOS devices.Getting startedAdmins: There is no admin control for this feature.End users: Visit the Help Center to learn more...",
-    "date": "2026-02-25T18:47:00+00:00"
-  },
-  {
-    "id": "4399555ea600ca2f",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Expanded duration limits in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/expanded-duration-limits-in-google-vids.html",
-    "summary": "We are increasing the duration limits for Google Vids projects, recordings and imported media clips, giving you more flexibility to create comprehensive video content.Vids projects: The maximum length for any Vids project is now 30 minutes, up from 10 minutes previously.Recordings: The maximum...",
-    "date": "2026-02-25T16:07:00+00:00"
-  },
-  {
-    "id": "90141a90f0c3c9bb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Chat now available as a data source in Gemini app",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/google-chat-now-available-as-data-source-in-gemini-app.html",
-    "summary": "We’re excited to announce that Google Chat is now available as a data source in the Gemini app (gemini.google.com) for Workspace customers, joining Gmail, Google Drive, and other Workspace apps. Like other Workspace connected apps in Gemini, Google Chat will be default off and can be enabled in...",
-    "date": "2026-02-25T15:53:00+00:00"
-  },
-  {
-    "id": "4861482635a84858",
-    "product_id": "ninjaone",
-    "product_name": "NinjaOne",
-    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
-    "title": "Unify IT Service, Assets, and Operations With NinjaOne 12.0",
-    "link": "https://www.ninjaone.com/blog/unify-it-with-ninjaone-12-0/",
-    "summary": "Release Schedule: January 27 – February 25 NinjaOne’s 12.0 release has arrived to improve how IT teams manage assets, integrate service delivery with business operations, gain insights into profitability and health status, and proactively resolve any recovery issues. MSPs can now sync service...",
-    "date": "2026-02-09T14:00:23+00:00"
-  },
-  {
     "id": "2b32d43f0319657f",
     "product_id": "1password",
     "product_name": "1Password",
@@ -377,57 +17,7 @@
     "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
     "link": "https://releases.1password.com/mac/",
     "summary": "",
-    "date": "2026-02-27T18:31:54.344681+00:00"
-  },
-  {
-    "id": "01fe930feaaa6a09",
-    "product_id": "ems",
-    "product_name": "EMS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "upgrade",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
-    "summary": "",
-    "date": "2026-02-27T18:31:55.564356+00:00"
-  },
-  {
-    "id": "7aba50c4d8071e11",
-    "product_id": "ems",
-    "product_name": "EMS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "224.3.0",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
-    "summary": "",
-    "date": "2026-02-27T18:31:55.564414+00:00"
-  },
-  {
-    "id": "e67335b00b3797c1",
-    "product_id": "ems",
-    "product_name": "EMS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "224.2.0",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
-    "summary": "",
-    "date": "2026-02-27T18:31:55.564449+00:00"
-  },
-  {
-    "id": "0d90b9c66b88bbce",
-    "product_id": "ems",
-    "product_name": "EMS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "224.1.0",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
-    "summary": "",
-    "date": "2026-02-27T18:31:55.564481+00:00"
-  },
-  {
-    "id": "6aa653e3e373f710",
-    "product_id": "ems",
-    "product_name": "EMS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "223.3.0",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
-    "summary": "",
-    "date": "2026-02-27T18:31:55.564511+00:00"
+    "date": "2026-02-27T18:38:05.926560+00:00"
   },
   {
     "id": "2cfed85194cd4abd",
@@ -480,6 +70,156 @@
     "date": "2026-01-23T17:40:19Z"
   },
   {
+    "id": "2aa25658903bd41b",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Release Notes 4.02",
+    "link": "https://feedback.clickup.com/changelog/release-notes-402",
+    "summary": "Update Task Types in Views, Pin AI Notetaker, and more! This week’s release unlocks the ability to manage Task Types in Views, add date ranges to Gantt view exports, and so much more. Update Task Type Column in Your Views: Quickly see and update task types directly from your List and Table views....",
+    "date": "2026-02-24T18:20:19+00:00"
+  },
+  {
+    "id": "f014c68f141a3a26",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Super Agents: Release Notes Takeover",
+    "link": "https://feedback.clickup.com/changelog/super-agents-release-notes-takeover",
+    "summary": "Super Agents: The world's first human-like AI AgentsSuper Agents™ are personalized AI teammates that understand your work, use powerful tools, and collaborate like humans. Just describe the problem you want solved, the workflow you want to automate, or where you’re wasting time, and Super Agents...",
+    "date": "2026-01-29T18:19:37+00:00"
+  },
+  {
+    "id": "9e6059223bff720f",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "⚡ Join us for a Super Agents AMA on Reddit!",
+    "link": "https://feedback.clickup.com/changelog/join-us-for-a-super-agents-ama-on-reddit",
+    "summary": "Hey, everyone!We’re excited to announce a special Reddit AMA (Ask Me Anything) with the ClickUp AI Team, all about our latest feature: Super Agents!🗓️ When: Thursday, January 22nd, 10am–12pm PST📍 Where: the r/ClickUp subreddit on RedditThis is your opportunity to connect directly with Michael Van...",
+    "date": "2026-01-15T21:57:59+00:00"
+  },
+  {
+    "id": "51abfa9f2c16ac15",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Introducing Super Agents™: The world’s first human-like AI agents",
+    "link": "https://feedback.clickup.com/changelog/introducing-super-agents-the-worlds-first-human-like-ai-agents",
+    "summary": "Today, we’re launching ClickUp Super Agents – the first human‑like AI agents that live inside ClickUp and collaborate with your team like real teammates.These aren’t just chatbots or one‑off automations. Super Agents:See your work the way you do: tasks, docs, chats, meetings, and schedules all in...",
+    "date": "2025-12-22T17:30:47+00:00"
+  },
+  {
+    "id": "8133574dc872869a",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "4.0 Release Notes Takeover",
+    "link": "https://feedback.clickup.com/changelog/40-release-notes-takeover",
+    "summary": "4.0: A New Era of Craft, Quality, and ConvergenceA new era starts today. ClickUp 4.0 is crafted from the ground up for perfect human productivity - Projects, Databases, Scheduling, Chats, DMs, Video Calls. And context is maximized, perfect for AI Agents' productivity. ✨ Effortless Navigation,...",
+    "date": "2025-12-12T21:58:54+00:00"
+  },
+  {
+    "id": "01fe930feaaa6a09",
+    "product_id": "ems",
+    "product_name": "EMS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
+    "title": "upgrade",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
+    "summary": "",
+    "date": "2026-02-27T18:38:11.062096+00:00"
+  },
+  {
+    "id": "7aba50c4d8071e11",
+    "product_id": "ems",
+    "product_name": "EMS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
+    "title": "224.3.0",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
+    "summary": "",
+    "date": "2026-02-27T18:38:11.062143+00:00"
+  },
+  {
+    "id": "e67335b00b3797c1",
+    "product_id": "ems",
+    "product_name": "EMS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
+    "title": "224.2.0",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
+    "summary": "",
+    "date": "2026-02-27T18:38:11.062172+00:00"
+  },
+  {
+    "id": "0d90b9c66b88bbce",
+    "product_id": "ems",
+    "product_name": "EMS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
+    "title": "224.1.0",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
+    "summary": "",
+    "date": "2026-02-27T18:38:11.062201+00:00"
+  },
+  {
+    "id": "6aa653e3e373f710",
+    "product_id": "ems",
+    "product_name": "EMS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
+    "title": "223.3.0",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
+    "summary": "",
+    "date": "2026-02-27T18:38:11.062228+00:00"
+  },
+  {
+    "id": "adfc41ff921de8dc",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing Nano Banana 2 in the Gemini app",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/introducing-nano-banana-2-in-gemini-app.html",
+    "summary": "Starting today, we’re rolling out Nano Banana 2 (Gemini 3.1 Flash Image), our best image model yet, to Workspace customers in the Gemini app.Nano Banana 2, which replaces our previous Nano Banana model, brings the high-speed intelligence of Gemini Flash to visual generation, making once-exclusive...",
+    "date": "2026-02-26T20:59:00+00:00"
+  },
+  {
+    "id": "166acc7f4dba2722",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini conversation history is coming to the side panel in Google Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/gemini-conversation-history-is-coming-to-side-panel-in-google-workspace.html",
+    "summary": "Conversation history is coming to the Gemini side panel in Google Workspace apps. This feature will enable users to resume their conversations with Gemini across sessions. This history will only persist in a single app and conversations will remain private. For example, a conversation in the side...",
+    "date": "2026-02-26T19:40:00+00:00"
+  },
+  {
+    "id": "04b3403df9f8dbae",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing a new video player experience in Google Drive on iOS devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/introducing-new-video-player-experience-in-drive-on-ios-devices.html",
+    "summary": "Last year, we announced a smoother, more modern video player in the Google Drive Android app. This updated look and feel is now available when watching Drive videos on your iOS devices.Getting startedAdmins: There is no admin control for this feature.End users: Visit the Help Center to learn more...",
+    "date": "2026-02-25T18:47:00+00:00"
+  },
+  {
+    "id": "4399555ea600ca2f",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Expanded duration limits in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/expanded-duration-limits-in-google-vids.html",
+    "summary": "We are increasing the duration limits for Google Vids projects, recordings and imported media clips, giving you more flexibility to create comprehensive video content.Vids projects: The maximum length for any Vids project is now 30 minutes, up from 10 minutes previously.Recordings: The maximum...",
+    "date": "2026-02-25T16:07:00+00:00"
+  },
+  {
+    "id": "90141a90f0c3c9bb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Chat now available as a data source in Gemini app",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/google-chat-now-available-as-data-source-in-gemini-app.html",
+    "summary": "We’re excited to announce that Google Chat is now available as a data source in the Gemini app (gemini.google.com) for Workspace customers, joining Gmail, Google Drive, and other Workspace apps. Like other Workspace connected apps in Gemini, Google Chat will be default off and can be enabled in...",
+    "date": "2026-02-25T15:53:00+00:00"
+  },
+  {
     "id": "f797e86c07e10880",
     "product_id": "korbyt",
     "product_name": "Korbyt",
@@ -498,5 +238,265 @@
     "link": "https://product.korbyt.com/changelog/korbyt-booking-v971",
     "summary": "# What’s New? ## Deep Link to Locate Colleague on Floorplan (Bookit) Implemented a deep link capability in Bookit that enables authenticated users to directly locate a colleague’s booked space on the floorplan via a URL and book near them. ### Key Functionality **Hyperlink Integration** • The...",
     "date": "2026-02-12T09:05:29+00:00"
+  },
+  {
+    "id": "3f5b910c597cabb5",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Product Recap - 01.12.2026",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-01122026",
+    "summary": "We're constantly working to improve Korbyt. Here's what we were up to over the break and last week week: 🆕 New & Enhanced - **Secrets API: Credential Management** — IT Admins can now securely manage the lifecycle of API credentials using a centralized Secrets API. This includes creating, listing,...",
+    "date": "2026-01-12T16:36:21+00:00"
+  },
+  {
+    "id": "ceaabe1754b3907a",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Release Recap - 12.05.2025",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-release-recap-12052025",
+    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🐞 Squashed Bugs - Fixed an issue where YouTube element showed an error due to recent changes in YouTube's Terms of Service. - Resolved a styling inheritance issue in Korbyt Create AI Layouts where elements did not...",
+    "date": "2025-12-05T15:05:58+00:00"
+  },
+  {
+    "id": "69f85ffa732b0c0d",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.4 beta 2 (25E5218f)",
+    "link": "https://developer.apple.com/news/releases/?id=02232026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-02-23T17:00:00+00:00"
+  },
+  {
+    "id": "8f2885091136ab69",
+    "product_id": "microsoft-office",
+    "product_name": "Microsoft Office",
+    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
+    "title": "Security Updates for Microsoft 365 Apps Releases",
+    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
+    "summary": "For a complete list of security updates, see the following article:",
+    "date": "2026-02-27T18:38:16.442939+00:00"
+  },
+  {
+    "id": "b9360485c3e61f3c",
+    "product_id": "microsoft-office",
+    "product_name": "Microsoft Office",
+    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
+    "title": "History for Microsoft 365 Apps Releases",
+    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
+    "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
+    "date": "2026-02-27T18:38:16.443045+00:00"
+  },
+  {
+    "id": "185d4d7625c4f74e",
+    "product_id": "microsoft-office",
+    "product_name": "Microsoft Office",
+    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
+    "title": "Download Sizes for Microsoft 365 Apps Releases",
+    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
+    "summary": "For a complete list of update releases sizes, see the following article:",
+    "date": "2026-02-27T18:38:16.443135+00:00"
+  },
+  {
+    "id": "813b1ad089721490",
+    "product_id": "microsoft-office",
+    "product_name": "Microsoft Office",
+    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
+    "title": "Release Notes for Microsoft 365 Apps Releases",
+    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
+    "summary": "For a complete list of release notes by update channel and year, see the following articles:",
+    "date": "2026-02-27T18:38:16.443224+00:00"
+  },
+  {
+    "id": "324fe31ac188c1d9",
+    "product_id": "microsoft-office",
+    "product_name": "Microsoft Office",
+    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
+    "title": "Release Notes for Microsoft 365 Insiders",
+    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
+    "summary": "For a complete list of release notes for Insiders, see the following articles:",
+    "date": "2026-02-27T18:38:16.443309+00:00"
+  },
+  {
+    "id": "4861482635a84858",
+    "product_id": "ninjaone",
+    "product_name": "NinjaOne",
+    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
+    "title": "Unify IT Service, Assets, and Operations With NinjaOne 12.0",
+    "link": "https://www.ninjaone.com/blog/unify-it-with-ninjaone-12-0/",
+    "summary": "Release Schedule: January 27 – February 25 NinjaOne’s 12.0 release has arrived to improve how IT teams manage assets, integrate service delivery with business operations, gain insights into profitability and health status, and proactively resolve any recovery issues. MSPs can now sync service...",
+    "date": "2026-02-09T14:00:23+00:00"
+  },
+  {
+    "id": "3a81a7e4205a54f5",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.8",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2026-02-10T00:00:00+00:00"
+  },
+  {
+    "id": "14378e3d42e688d0",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.6",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2025-11-25T00:00:00+00:00"
+  },
+  {
+    "id": "d815a5971e1aa4e6",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.5",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2025-10-28T00:00:00+00:00"
+  },
+  {
+    "id": "81947006244292b8",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.4",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2025-10-13T00:00:00+00:00"
+  },
+  {
+    "id": "373413602022acad",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.3",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2025-10-03T00:00:00+00:00"
+  },
+  {
+    "id": "06a1b6a05e1c3232",
+    "product_id": "screencloud",
+    "product_name": "ScreenCloud",
+    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
+    "title": "4.11.2",
+    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
+    "summary": "New: Support for Amazon’s Remote Device Management (RDM) for Signage Sticks, including:Screen/TV mute and unmute via HDMI-CECScreen/TV power on and off via HDMI-CECDevice rebootScreenshot and full-screen captureDeep cache clearing (player app and Android system cache)Player app restartCPU and GPU...",
+    "date": "January 23, 2026"
+  },
+  {
+    "id": "e1dab31261398830",
+    "product_id": "screencloud",
+    "product_name": "ScreenCloud",
+    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
+    "title": "4.9.0",
+    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
+    "summary": "New: Amazon Signage Stick (ASS) dedicated player. Previously ran Amazon Fire OS player on ASS device.",
+    "date": "May 8, 2025"
+  },
+  {
+    "id": "25cbe092cc1d040f",
+    "product_id": "screencloud",
+    "product_name": "ScreenCloud",
+    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
+    "title": "4.7.16",
+    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
+    "summary": "Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.",
+    "date": "March 28, 2024"
+  },
+  {
+    "id": "5c619f9138a58456",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Add tables within Pages",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "February 6, 2026"
+  },
+  {
+    "id": "e01cdf6739129daa",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Add tables within Pages",
+    "link": "https://scribe.launchnotes.io/announcements/add-tables-within-pages",
+    "summary": "Loading...",
+    "date": "February 6, 2026"
+  },
+  {
+    "id": "80015b32e1cd635a",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Pro Pro Team Enterprise Pages",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-02-27T18:38:22.726035+00:00"
+  },
+  {
+    "id": "498cbd13c5eccf96",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Add tables within Pages",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-02-27T18:38:22.726167+00:00"
+  },
+  {
+    "id": "677dba7875fa4724",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v3.13.0",
+    "link": "https://docs.slack.dev/changelog/2026/02/19/slack-cli",
+    "summary": "Version 3.13.0 of the developer tools for the Slack platform has arrived!",
+    "date": "2026-02-19T00:00:00+00:00"
+  },
+  {
+    "id": "8ee4018a9aa3532b",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Announcing the Slack MCP server and Real-time Search API",
+    "link": "https://docs.slack.dev/changelog/2026/02/17/slack-mcp",
+    "summary": "We're excited to announce the release of not one, but two, major components designed to significantly enhance how Large Language Models (LLMs) and AI agents interact with your workspace data: the Slack Model Context Protocol (MCP) server and the Real-time Search (RTS) API!",
+    "date": "2026-02-17T00:00:00+00:00"
+  },
+  {
+    "id": "6dfd587dc5b637f7",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Apps can now display thinking steps to users!",
+    "link": "https://docs.slack.dev/changelog/2026/02/11/task-cards-plan-blocks",
+    "summary": "Display your apps' and agents' actions with three new Block Kit components:",
+    "date": "2026-02-11T00:00:00+00:00"
+  },
+  {
+    "id": "71590f5049c2346f",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Retry delayed events feature now available",
+    "link": "https://docs.slack.dev/changelog/2026/02/05/retry-events-feature",
+    "summary": "You can now replay events that your app might have missed! In case of an outage where your app may have missed events, we've released a Delayed Events feature that lets you replay past events. Read all about it in the Events API docs.",
+    "date": "2026-02-05T00:00:00+00:00"
+  },
+  {
+    "id": "d6687af3c62d7016",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v3.12.0",
+    "link": "https://docs.slack.dev/changelog/2026/02/05/slack-cli",
+    "summary": "Version 3.12.0 of the developer tools for the Slack platform has landed!",
+    "date": "2026-02-05T00:00:00+00:00"
   }
 ]
