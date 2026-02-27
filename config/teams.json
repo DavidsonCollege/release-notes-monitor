@@ -242,124 +242,120 @@
           }
         },
         {
-          "id": "zoom-workplace",
-          "name": "Zoom Workplace",
+          "id": "zoom",
+          "name": "Zoom",
           "domain": "zoom.us",
           "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0061222",
+          "release_notes_url": "https://support.zoom.com/hc/en/category?id=kb_category&kb_category=d52a3eda8720391089a37408dabb3559",
           "source": {
-            "type": "scrape",
-            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0061222",
-            "selector": "article section, .article-body h3, .article-body h2",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .meta",
-            "summary_selector": "p, ul li"
-          }
-        },
-        {
-          "id": "zoom-meetings",
-          "name": "Zoom Meetings",
-          "domain": "zoom.us",
-          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0080363",
-          "source": {
-            "type": "scrape",
-            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0080363",
-            "selector": "article section, .article-body h3, .article-body h2",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .meta",
-            "summary_selector": "p, ul li"
-          }
-        },
-        {
-          "id": "zoom-rooms",
-          "name": "Zoom Rooms",
-          "domain": "zoom.us",
-          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063542",
-          "source": {
-            "type": "scrape",
-            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063542",
-            "selector": "article section, .article-body h3, .article-body h2",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .meta",
-            "summary_selector": "p, ul li"
-          }
-        },
-        {
-          "id": "zoom-team-chat",
-          "name": "Zoom Team Chat",
-          "domain": "zoom.us",
-          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063541",
-          "source": {
-            "type": "scrape",
-            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063541",
-            "selector": "article section, .article-body h3, .article-body h2",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .meta",
-            "summary_selector": "p, ul li"
-          }
-        },
-        {
-          "id": "zoom-phone",
-          "name": "Zoom Phone",
-          "domain": "zoom.us",
-          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063540",
-          "source": {
-            "type": "scrape",
-            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063540",
-            "selector": "article section, .article-body h3, .article-body h2",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .meta",
-            "summary_selector": "p, ul li"
-          }
-        },
-        {
-          "id": "zoom-ai-companion",
-          "name": "Zoom AI Companion",
-          "domain": "zoom.us",
-          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068161",
-          "source": {
-            "type": "scrape",
-            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068161",
-            "selector": "article section, .article-body h3, .article-body h2",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .meta",
-            "summary_selector": "p, ul li"
-          }
-        },
-        {
-          "id": "zoom-webinars",
-          "name": "Zoom Webinars",
-          "domain": "zoom.us",
-          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066826",
-          "source": {
-            "type": "scrape",
-            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066826",
-            "selector": "article section, .article-body h3, .article-body h2",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .meta",
-            "summary_selector": "p, ul li"
-          }
-        },
-        {
-          "id": "zoom-clips",
-          "name": "Zoom Clips",
-          "domain": "zoom.us",
-          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068160",
-          "source": {
-            "type": "scrape",
-            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068160",
-            "selector": "article section, .article-body h3, .article-body h2",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .meta",
-            "summary_selector": "p, ul li"
-          }
+            "type": "scrape"
+          },
+          "subproducts": [
+            {
+              "id": "zoom-workplace",
+              "name": "Workplace",
+              "source": {
+                "type": "scrape",
+                "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0061222",
+                "selector": "article section, .article-body h3, .article-body h2",
+                "title_selector": "h2, h3",
+                "date_selector": "time, .meta",
+                "summary_selector": "p, ul li"
+              },
+              "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0061222"
+            },
+            {
+              "id": "zoom-meetings",
+              "name": "Meetings",
+              "source": {
+                "type": "scrape",
+                "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0080363",
+                "selector": "article section, .article-body h3, .article-body h2",
+                "title_selector": "h2, h3",
+                "date_selector": "time, .meta",
+                "summary_selector": "p, ul li"
+              },
+              "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0080363"
+            },
+            {
+              "id": "zoom-rooms",
+              "name": "Rooms",
+              "source": {
+                "type": "scrape",
+                "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063542",
+                "selector": "article section, .article-body h3, .article-body h2",
+                "title_selector": "h2, h3",
+                "date_selector": "time, .meta",
+                "summary_selector": "p, ul li"
+              },
+              "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063542"
+            },
+            {
+              "id": "zoom-team-chat",
+              "name": "Team Chat",
+              "source": {
+                "type": "scrape",
+                "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063541",
+                "selector": "article section, .article-body h3, .article-body h2",
+                "title_selector": "h2, h3",
+                "date_selector": "time, .meta",
+                "summary_selector": "p, ul li"
+              },
+              "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063541"
+            },
+            {
+              "id": "zoom-phone",
+              "name": "Phone",
+              "source": {
+                "type": "scrape",
+                "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063540",
+                "selector": "article section, .article-body h3, .article-body h2",
+                "title_selector": "h2, h3",
+                "date_selector": "time, .meta",
+                "summary_selector": "p, ul li"
+              },
+              "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063540"
+            },
+            {
+              "id": "zoom-ai-companion",
+              "name": "AI Companion",
+              "source": {
+                "type": "scrape",
+                "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068161",
+                "selector": "article section, .article-body h3, .article-body h2",
+                "title_selector": "h2, h3",
+                "date_selector": "time, .meta",
+                "summary_selector": "p, ul li"
+              },
+              "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068161"
+            },
+            {
+              "id": "zoom-webinars",
+              "name": "Webinars",
+              "source": {
+                "type": "scrape",
+                "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066826",
+                "selector": "article section, .article-body h3, .article-body h2",
+                "title_selector": "h2, h3",
+                "date_selector": "time, .meta",
+                "summary_selector": "p, ul li"
+              },
+              "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066826"
+            },
+            {
+              "id": "zoom-clips",
+              "name": "Clips",
+              "source": {
+                "type": "scrape",
+                "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068160",
+                "selector": "article section, .article-body h3, .article-body h2",
+                "title_selector": "h2, h3",
+                "date_selector": "time, .meta",
+                "summary_selector": "p, ul li"
+              },
+              "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068160"
+            }
+          ]
         }
       ]
     }
