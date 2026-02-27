@@ -39,12 +39,12 @@
                     "name": "Canva",
                     "domain": "canva.com",
                     "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-                    "release_notes_url": "https://www.canva.com/launches/",
+                    "release_notes_url": "https://www.canva.dev/docs/connect/changelog/",
                     "source": {
                         "type": "scrape",
-                        "url": "https://www.canva.com/launches/",
-                        "selector": "article, a[class*=\"card\"], div[class*=\"launch\"] a, div[class*=\"feature\"] a",
-                        "title_selector": "h2, h3, h4",
+                        "url": "https://www.canva.dev/docs/connect/changelog/",
+                        "selector": "article, section, div[class*=\"changelog\"], div[class*=\"entry\"], li",
+                        "title_selector": "h2, h3, h4, strong",
                         "date_selector": "time, span[class*=\"date\"]",
                         "summary_selector": "p"
                     }
