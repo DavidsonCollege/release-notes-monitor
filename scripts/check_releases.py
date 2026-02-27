@@ -29,7 +29,7 @@ FEEDS_DIR = BASE_DIR / "docs" / "feeds"
 MAX_FEED_ITEMS = 100  # Max items to keep in each team's RSS feed
 RECENT_PER_PRODUCT = 5  # Always keep latest N items per product in feed
 REQUEST_TIMEOUT = 30
-USER_AGENT = "ReleaseNotesMonitor/1.0 (+https://github.com)"
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 
 
 def load_json(path: Path) -> dict:
@@ -482,7 +482,7 @@ def generate_rss_feed(team: dict, all_items: list[dict], base_url: str) -> str:
             f'style="vertical-align:middle;margin-right:8px;"/>'
             f'<strong>{product_name}</strong></p>'
             f'<p>{summary}</p>'
-            f'<p><a href="{item_data["link"]}">Read more →</a></p>'
+            f'<p><a href="{item_data["link"]}">Read more â</a></p>'
         )
 
         SubElement(item, "description").text = description_html
