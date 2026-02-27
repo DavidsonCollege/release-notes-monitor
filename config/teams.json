@@ -222,12 +222,8 @@
           "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
           "release_notes_url": "https://product.korbyt.com/help",
           "source": {
-            "type": "scrape",
-            "url": "https://product.korbyt.com/help",
-            "selector": "article, .release-note, section",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .date",
-            "summary_selector": "p"
+            "type": "rss",
+            "feed_url": "https://product.korbyt.com/api/v1/changelog/feed.rss"
           }
         },
         {
