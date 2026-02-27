@@ -110,6 +110,96 @@
     "date": "2025-10-03T00:00:00+00:00"
   },
   {
+    "id": "5c619f9138a58456",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Add tables within Pages",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "February 6, 2026"
+  },
+  {
+    "id": "e01cdf6739129daa",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Add tables within Pages",
+    "link": "https://scribe.launchnotes.io/announcements/add-tables-within-pages",
+    "summary": "Loading...",
+    "date": "February 6, 2026"
+  },
+  {
+    "id": "80015b32e1cd635a",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Pro Pro Team Enterprise Pages",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-02-27T16:19:58.342690+00:00"
+  },
+  {
+    "id": "498cbd13c5eccf96",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Add tables within Pages",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-02-27T16:19:58.342838+00:00"
+  },
+  {
+    "id": "2aa25658903bd41b",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Release Notes 4.02",
+    "link": "https://feedback.clickup.com/changelog/release-notes-402",
+    "summary": "Update Task Types in Views, Pin AI Notetaker, and more! This week’s release unlocks the ability to manage Task Types in Views, add date ranges to Gantt view exports, and so much more. Update Task Type Column in Your Views: Quickly see and update task types directly from your List and Table views....",
+    "date": "2026-02-24T18:20:19+00:00"
+  },
+  {
+    "id": "f014c68f141a3a26",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Super Agents: Release Notes Takeover",
+    "link": "https://feedback.clickup.com/changelog/super-agents-release-notes-takeover",
+    "summary": "Super Agents: The world's first human-like AI AgentsSuper Agents™ are personalized AI teammates that understand your work, use powerful tools, and collaborate like humans. Just describe the problem you want solved, the workflow you want to automate, or where you’re wasting time, and Super Agents...",
+    "date": "2026-01-29T18:19:37+00:00"
+  },
+  {
+    "id": "9e6059223bff720f",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "⚡ Join us for a Super Agents AMA on Reddit!",
+    "link": "https://feedback.clickup.com/changelog/join-us-for-a-super-agents-ama-on-reddit",
+    "summary": "Hey, everyone!We’re excited to announce a special Reddit AMA (Ask Me Anything) with the ClickUp AI Team, all about our latest feature: Super Agents!🗓️ When: Thursday, January 22nd, 10am–12pm PST📍 Where: the r/ClickUp subreddit on RedditThis is your opportunity to connect directly with Michael Van...",
+    "date": "2026-01-15T21:57:59+00:00"
+  },
+  {
+    "id": "51abfa9f2c16ac15",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Introducing Super Agents™: The world’s first human-like AI agents",
+    "link": "https://feedback.clickup.com/changelog/introducing-super-agents-the-worlds-first-human-like-ai-agents",
+    "summary": "Today, we’re launching ClickUp Super Agents – the first human‑like AI agents that live inside ClickUp and collaborate with your team like real teammates.These aren’t just chatbots or one‑off automations. Super Agents:See your work the way you do: tasks, docs, chats, meetings, and schedules all in...",
+    "date": "2025-12-22T17:30:47+00:00"
+  },
+  {
+    "id": "8133574dc872869a",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "4.0 Release Notes Takeover",
+    "link": "https://feedback.clickup.com/changelog/40-release-notes-takeover",
+    "summary": "4.0: A New Era of Craft, Quality, and ConvergenceA new era starts today. ClickUp 4.0 is crafted from the ground up for perfect human productivity - Projects, Databases, Scheduling, Chats, DMs, Video Calls. And context is maximized, perfect for AI Agents' productivity. ✨ Effortless Navigation,...",
+    "date": "2025-12-12T21:58:54+00:00"
+  },
+  {
     "id": "8f2885091136ab69",
     "product_id": "microsoft-office",
     "product_name": "Microsoft Office",
@@ -117,7 +207,7 @@
     "title": "Security Updates for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of security updates, see the following article:",
-    "date": "2026-02-27T16:12:02.064831+00:00"
+    "date": "2026-02-27T16:20:00.934900+00:00"
   },
   {
     "id": "b9360485c3e61f3c",
@@ -127,7 +217,7 @@
     "title": "History for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
-    "date": "2026-02-27T16:12:02.064957+00:00"
+    "date": "2026-02-27T16:20:00.935029+00:00"
   },
   {
     "id": "185d4d7625c4f74e",
@@ -137,7 +227,7 @@
     "title": "Download Sizes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of update releases sizes, see the following article:",
-    "date": "2026-02-27T16:12:02.065057+00:00"
+    "date": "2026-02-27T16:20:00.935151+00:00"
   },
   {
     "id": "813b1ad089721490",
@@ -147,7 +237,7 @@
     "title": "Release Notes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes by update channel and year, see the following articles:",
-    "date": "2026-02-27T16:12:02.065155+00:00"
+    "date": "2026-02-27T16:20:00.935258+00:00"
   },
   {
     "id": "324fe31ac188c1d9",
@@ -157,7 +247,7 @@
     "title": "Release Notes for Microsoft 365 Insiders",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes for Insiders, see the following articles:",
-    "date": "2026-02-27T16:12:02.065250+00:00"
+    "date": "2026-02-27T16:20:00.935356+00:00"
   },
   {
     "id": "adfc41ff921de8dc",
@@ -230,14 +320,14 @@
     "date": "2026-02-09T14:00:23+00:00"
   },
   {
-    "id": "b4b81d74d1093460",
+    "id": "0208046a4c112048",
     "product_id": "smartdeploy",
     "product_name": "SmartDeploy",
     "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
-    "title": "Download and install the latest version of SmartDeploy. For more details, and information on older versions, please see our Release Notes docume",
-    "link": "https://www.smartdeploy.com/signin/",
-    "summary": "Download and install the latest version of SmartDeploy. For more details, and information on older versions, please see our Release Notes document.",
-    "date": "2025-10-09T20:22:13Z"
+    "title": "Announcements Update required: PDQ product certificate rotation occurred October 20, 2025 Release Notes and Schedule New Encryption - SmartDe",
+    "link": "https://smartdeploy.pdq.com/hc/en-us/sections/15165287361179-Announcements",
+    "summary": "Announcements Update required: PDQ product certificate rotation occurred October 20, 2025 Release Notes and Schedule New Encryption - SmartDeploy Version 3.0.2046",
+    "date": "2026-02-27T16:20:05.310638+00:00"
   },
   {
     "id": "2b32d43f0319657f",
@@ -257,37 +347,57 @@
     "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
     "link": "https://releases.1password.com/mac/",
     "summary": "",
-    "date": "2026-02-27T16:12:07.461632+00:00"
+    "date": "2026-02-27T16:20:06.527854+00:00"
   },
   {
-    "id": "c0b4ae4d90bd1347",
+    "id": "01fe930feaaa6a09",
     "product_id": "ems",
     "product_name": "EMS",
     "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "2026",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
+    "title": "upgrade",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T16:12:08.664783+00:00"
+    "date": "2026-02-27T16:20:07.725814+00:00"
   },
   {
-    "id": "1313b2c1a3dd1eea",
+    "id": "7aba50c4d8071e11",
     "product_id": "ems",
     "product_name": "EMS",
     "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "2025",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
+    "title": "224.3.0",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T16:12:08.664946+00:00"
+    "date": "2026-02-27T16:20:07.725863+00:00"
   },
   {
-    "id": "8b05ee4e129e0438",
+    "id": "e67335b00b3797c1",
     "product_id": "ems",
     "product_name": "EMS",
     "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "2024",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
+    "title": "224.2.0",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T16:12:08.665083+00:00"
+    "date": "2026-02-27T16:20:07.725899+00:00"
+  },
+  {
+    "id": "0d90b9c66b88bbce",
+    "product_id": "ems",
+    "product_name": "EMS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
+    "title": "224.1.0",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
+    "summary": "",
+    "date": "2026-02-27T16:20:07.725932+00:00"
+  },
+  {
+    "id": "6aa653e3e373f710",
+    "product_id": "ems",
+    "product_name": "EMS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
+    "title": "223.3.0",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
+    "summary": "",
+    "date": "2026-02-27T16:20:07.725965+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -330,173 +440,63 @@
     "date": "2025-12-05T15:05:58+00:00"
   },
   {
-    "id": "1cadafaab84d1d46",
+    "id": "06a1b6a05e1c3232",
     "product_id": "screencloud",
     "product_name": "ScreenCloud",
     "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "ScreenCloud OS ChangelogsThis article is a directory for ScreenCloud OS releases and changelogs Updated over a month agoTable of contentsTo find out t",
-    "link": "https://help.screencloud.com/en/articles/10120811-screencloud-os-changelogs",
-    "summary": "This article is a directory for ScreenCloud OS releases and changelogs To find out the ScreenCloud OS version of your device, please check this by turning the device off and back on again. On startup, you will see what version of ScreenCloud OS the device is running. You can also check this via the...",
-    "date": "2026-02-27T16:12:13.262541+00:00"
+    "title": "4.11.2",
+    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
+    "summary": "New: Support for Amazon’s Remote Device Management (RDM) for Signage Sticks, including:Screen/TV mute and unmute via HDMI-CECScreen/TV power on and off via HDMI-CECDevice rebootScreenshot and full-screen captureDeep cache clearing (player app and Android system cache)Player app restartCPU and GPU...",
+    "date": "January 23, 2026"
   },
   {
-    "id": "2aa849835f5901d8",
+    "id": "e1dab31261398830",
     "product_id": "screencloud",
     "product_name": "ScreenCloud",
     "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "Related ArticlesFire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update C",
-    "link": "https://help.screencloud.com/en/articles/10115535-fire-os-hardware",
-    "summary": "Related ArticlesFire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenCloud PIXI ChangelogsHow ScreenCloud Releases Updates for Players, PIXI, and ScreenCloud OS",
-    "date": "2026-02-27T16:12:13.262937+00:00"
+    "title": "4.9.0",
+    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
+    "summary": "New: Amazon Signage Stick (ASS) dedicated player. Previously ran Amazon Fire OS player on ASS device.",
+    "date": "May 8, 2025"
   },
   {
-    "id": "8aedd0d8861972f1",
+    "id": "25cbe092cc1d040f",
     "product_id": "screencloud",
     "product_name": "ScreenCloud",
     "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "Fire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenClou",
-    "link": "https://help.screencloud.com/en/articles/10115535-fire-os-hardware",
-    "summary": "Fire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenCloud PIXI ChangelogsHow ScreenCloud Releases Updates for Players, PIXI, and ScreenCloud OS",
-    "date": "2026-02-27T16:12:13.263281+00:00"
+    "title": "4.7.16",
+    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
+    "summary": "Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.",
+    "date": "March 28, 2024"
   },
   {
-    "id": "65ecd64f5ffcce91",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "PaperCut NG release history",
-    "link": "https://www.papercut.com/products/ng/release-history/",
-    "summary": "Take a look under the hood and see what's new with the latest version of PaperCut NG, and find out what things we've fixed along the way. Take a look under the hood and see what's new with the latest version of PaperCut MF, and find out what things we've fixed along the way. See what's new with the...",
-    "date": "2026-02-27T14:17:55.994090+00:00"
+    "id": "b4b81d74d1093460",
+    "product_id": "smartdeploy",
+    "product_name": "SmartDeploy",
+    "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
+    "title": "Download and install the latest version of SmartDeploy. For more details, and information on older versions, please see our Release Notes docume",
+    "link": "https://www.smartdeploy.com/signin/",
+    "summary": "Download and install the latest version of SmartDeploy. For more details, and information on older versions, please see our Release Notes document.",
+    "date": "2025-10-09T20:22:13Z"
   },
   {
-    "id": "ba97a2ed3b9b7f42",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "Other products Print Deploy release history Job Ticketing release history PaperCut MF Cloud Services release history",
-    "link": "https://www.papercut.com/help/manuals/print-deploy/release-history/",
-    "summary": "Other products Print Deploy release history Job Ticketing release history",
-    "date": "2026-02-27T14:17:55.994503+00:00"
+    "id": "c0b4ae4d90bd1347",
+    "product_id": "ems",
+    "product_name": "EMS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
+    "title": "2026",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
+    "summary": "",
+    "date": "2026-02-27T16:12:08.664783+00:00"
   },
   {
-    "id": "1028af79104b0cdb",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Getting Started and General Topics",
-    "link": "https://product.korbyt.com/help/collections/4697537-getting-started-and-general-topics",
-    "summary": "Get answers in seconds with our AI search or find them in our detailed articles. Information that applies to all of Korbyt 34 articles",
-    "date": "2026-02-27T14:13:53.719041+00:00"
-  },
-  {
-    "id": "0448a83c1fa0f490",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Sending larger attachments in Gmail: New 50MB limits for Enterprise Plus customers",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/ending-larger-attachments-in-gmail-new-50MB-limit-for-Enterprise-Plus.html",
-    "summary": "We are introducing a significant enhancement to Gmail’s storage and delivery capabilities for Enterprise Plus customers. To support seamless collaboration and high-fidelity file sharing, we are increasing the file size limits for both sending and receiving emails.Sending larger files: Users can now...",
-    "date": "2026-02-24T18:37:00+00:00"
-  },
-  {
-    "id": "6660dc4be5cd532b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "AI avatars and AI voiceovers in Google Vids now available in seven new languages",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/vids-avatars-voiceovers-new-languages.html",
-    "summary": "Google Vids is thrilled to announce that AI avatars and voiceovers now support more than just English. Users can now provide input in seven additional languages: French, German, Italian, Korean, Portuguese, Spanish, and Japanese. The specific details of each feature are outlined below.AI avatarsAI...",
-    "date": "2026-02-24T17:04:00+00:00"
-  },
-  {
-    "id": "1a0e534da347f2c7",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New cartoon avatars in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/new-cartoon-avatars-in-google-vids.html",
-    "summary": "AI avatars in Google Vids provide a fast, cost-effective way to generate high-quality digital speakers. While photorealistic avatars are ideal for formal business, we are introducing new 2D and 3D cartoon-styled avatars that utilize expressive, stylized features to enhance emotional resonance and...",
-    "date": "2026-02-24T17:01:00+00:00"
-  },
-  {
-    "id": "ab61073bd1915655",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Get quantitative insights from text responses with Gemini in Google Forms",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/get-quantitative-insights-from-text-responses-with-gemini-in-forms.html",
-    "summary": "Last year, we announced proactive Gemini-generated insights in Forms for short answer and paragraph questions helping form creators summarize responses to longer questions and quickly understand sentiment and feedback.Today, we are enhancing that experience to show quantitative insights about...",
-    "date": "2026-02-24T16:09:00+00:00"
-  },
-  {
-    "id": "ec4a45972eeea500",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Save PDFs to your Google Drive",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/save-pdfs-to-your-google-drive.html",
-    "summary": "On Chrome on your computer, you can now save PDFs directly to Drive without leaving the page, and easily get back to them later in the “Saved from Chrome” folder. Visit the Help Center to learn more.Getting startedAdmins: Chrome admins can control this feature using this policy, starting from...",
-    "date": "2026-02-23T21:49:00+00:00"
-  },
-  {
-    "id": "13b69fc50bdefbf2",
-    "product_id": "ninjaone",
-    "product_name": "NinjaOne",
-    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
-    "title": "FAQ",
-    "link": "https://www.ninjaone.com/docs/new-to-ninjaone/getting-started/release-version-information/",
-    "summary": "AdministrationBranding SetupNinjaOne Script LibrarySysTray Setup Branding Setup NinjaOne Script Library",
-    "date": "2026-02-24T21:40:44.471995+00:00"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "February 24 2026"
-  },
-  {
-    "id": "ed2c66460bf4aa0f",
-    "product_id": "screencloud",
-    "product_name": "ScreenCloud",
-    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "ScreenCloud OS ChangelogsThis article is a directory for ScreenCloud OS releases and changelogs Updated over 3 weeks agoTable of contentsTo find out t",
-    "link": "https://help.screencloud.com/en/articles/10120811-screencloud-os-changelogs",
-    "summary": "This article is a directory for ScreenCloud OS releases and changelogs To find out the ScreenCloud OS version of your device, please check this by turning the device off and back on again. On startup, you will see what version of ScreenCloud OS the device is running. You can also check this via the...",
-    "date": "2026-02-24T21:40:53.714903+00:00"
-  },
-  {
-    "id": "7dd8edf6be4744b8",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v3.11.0",
-    "link": "https://docs.slack.dev/changelog/2026/01/22/slack-cli",
-    "summary": "Version 3.11.0 of the developer tools for the Slack platform has arrived!",
-    "date": "2026-01-22T00:00:00+00:00"
-  },
-  {
-    "id": "d14876f6d06f40a5",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Classic apps deprecation paused",
-    "link": "https://docs.slack.dev/changelog/2025/12/08/classic-apps-deprecation-paused",
-    "summary": "We want to update you about our previous announcement regarding support for classic apps. Based on feedback from our customers and developer community, we have decided to pause this migration.",
-    "date": "2025-12-08T00:00:00+00:00"
-  },
-  {
-    "id": "9d9817fd4b09baef",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v3.10.0",
-    "link": "https://docs.slack.dev/changelog/2025/12/04/slack-cli",
-    "summary": "Version 3.10.0 of the developer tools for the Slack platform is here!",
-    "date": "2025-12-04T00:00:00+00:00"
+    "id": "1313b2c1a3dd1eea",
+    "product_id": "ems",
+    "product_name": "EMS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
+    "title": "2025",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
+    "summary": "",
+    "date": "2026-02-27T16:12:08.664946+00:00"
   }
 ]

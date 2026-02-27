@@ -84,9 +84,27 @@
       "aef27e910b92bed3",
       "20f4803a01f81725",
       "a1694654eb68dad0",
-      "353a37dafca9d946"
+      "353a37dafca9d946",
+      "5c619f9138a58456",
+      "80015b32e1cd635a",
+      "498cbd13c5eccf96",
+      "3f6ffb18f992968e",
+      "716e3ea5e660de43",
+      "4238def2277c1aa7",
+      "74cf8868ec8a52d4"
     ],
-    "clickup": [],
+    "clickup": [
+      "2aa25658903bd41b",
+      "f014c68f141a3a26",
+      "9e6059223bff720f",
+      "51abfa9f2c16ac15",
+      "8133574dc872869a",
+      "0e2b1ea1fae7ee60",
+      "791d0469899fc493",
+      "0ee8cca04500969a",
+      "363e1020880487d9",
+      "0d382bf5a295e013"
+    ],
     "microsoft-office": [
       "bb7993b77a1101a9",
       "8f2885091136ab69",
@@ -129,7 +147,8 @@
     ],
     "smartdeploy": [
       "0ec88b01128c2331",
-      "b4b81d74d1093460"
+      "b4b81d74d1093460",
+      "0208046a4c112048"
     ],
     "1password": [
       "22c8d8bd099eb12b",
@@ -147,7 +166,15 @@
       "1313b2c1a3dd1eea",
       "8b05ee4e129e0438",
       "cf159429fbcb9400",
-      "151fb112cc075dbd"
+      "151fb112cc075dbd",
+      "01fe930feaaa6a09",
+      "7aba50c4d8071e11",
+      "e67335b00b3797c1",
+      "0d90b9c66b88bbce",
+      "6aa653e3e373f710",
+      "98ba0613efd6a4ff",
+      "0d8de6dfe4bc62f5",
+      "7a3897bccd00634e"
     ],
     "ad-astra": [],
     "korbyt": [
@@ -162,7 +189,18 @@
       "2aa849835f5901d8",
       "8aedd0d8861972f1",
       "ed2c66460bf4aa0f",
-      "1cadafaab84d1d46"
-    ]
+      "1cadafaab84d1d46",
+      "06a1b6a05e1c3232",
+      "e1dab31261398830",
+      "25cbe092cc1d040f"
+    ],
+    "zoom-workplace": [],
+    "zoom-meetings": [],
+    "zoom-rooms": [],
+    "zoom-team-chat": [],
+    "zoom-phone": [],
+    "zoom-ai-companion": [],
+    "zoom-webinars": [],
+    "zoom-clips": []
   }
 }
