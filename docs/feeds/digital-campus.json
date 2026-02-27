@@ -60,24 +60,54 @@
     "date": "2026-02-05T00:00:00+00:00"
   },
   {
-    "id": "65ecd64f5ffcce91",
+    "id": "3a81a7e4205a54f5",
     "product_id": "papercut",
     "product_name": "PaperCut",
     "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "PaperCut NG release history",
-    "link": "https://www.papercut.com/products/ng/release-history/",
-    "summary": "Take a look under the hood and see what's new with the latest version of PaperCut NG, and find out what things we've fixed along the way. Take a look under the hood and see what's new with the latest version of PaperCut MF, and find out what things we've fixed along the way. See what's new with the...",
-    "date": "2026-02-27T14:17:55.994090+00:00"
+    "title": "25.0.8",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2026-02-10T00:00:00+00:00"
   },
   {
-    "id": "ba97a2ed3b9b7f42",
+    "id": "14378e3d42e688d0",
     "product_id": "papercut",
     "product_name": "PaperCut",
     "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "Other products Print Deploy release history Job Ticketing release history PaperCut MF Cloud Services release history",
-    "link": "https://www.papercut.com/help/manuals/print-deploy/release-history/",
-    "summary": "Other products Print Deploy release history Job Ticketing release history",
-    "date": "2026-02-27T14:17:55.994503+00:00"
+    "title": "25.0.6",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2025-11-25T00:00:00+00:00"
+  },
+  {
+    "id": "d815a5971e1aa4e6",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.5",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2025-10-28T00:00:00+00:00"
+  },
+  {
+    "id": "81947006244292b8",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.4",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2025-10-13T00:00:00+00:00"
+  },
+  {
+    "id": "373413602022acad",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.3",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2025-10-03T00:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -87,7 +117,7 @@
     "title": "Security Updates for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of security updates, see the following article:",
-    "date": "2026-02-27T14:18:04.320277+00:00"
+    "date": "2026-02-27T14:33:40.359443+00:00"
   },
   {
     "id": "b9360485c3e61f3c",
@@ -97,7 +127,7 @@
     "title": "History for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
-    "date": "2026-02-27T14:18:04.320422+00:00"
+    "date": "2026-02-27T14:33:40.359572+00:00"
   },
   {
     "id": "185d4d7625c4f74e",
@@ -107,7 +137,7 @@
     "title": "Download Sizes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of update releases sizes, see the following article:",
-    "date": "2026-02-27T14:18:04.320529+00:00"
+    "date": "2026-02-27T14:33:40.359673+00:00"
   },
   {
     "id": "813b1ad089721490",
@@ -117,7 +147,7 @@
     "title": "Release Notes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes by update channel and year, see the following articles:",
-    "date": "2026-02-27T14:18:04.320631+00:00"
+    "date": "2026-02-27T14:33:40.359768+00:00"
   },
   {
     "id": "324fe31ac188c1d9",
@@ -127,7 +157,7 @@
     "title": "Release Notes for Microsoft 365 Insiders",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes for Insiders, see the following articles:",
-    "date": "2026-02-27T14:18:04.320731+00:00"
+    "date": "2026-02-27T14:33:40.359860+00:00"
   },
   {
     "id": "adfc41ff921de8dc",
@@ -227,7 +257,7 @@
     "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
     "link": "https://releases.1password.com/mac/",
     "summary": "",
-    "date": "2026-02-27T14:18:09.697251+00:00"
+    "date": "2026-02-27T14:33:46.012563+00:00"
   },
   {
     "id": "c0b4ae4d90bd1347",
@@ -237,7 +267,7 @@
     "title": "2026",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
     "summary": "",
-    "date": "2026-02-27T14:18:10.867156+00:00"
+    "date": "2026-02-27T14:33:47.257242+00:00"
   },
   {
     "id": "1313b2c1a3dd1eea",
@@ -247,7 +277,7 @@
     "title": "2025",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
     "summary": "",
-    "date": "2026-02-27T14:18:10.867320+00:00"
+    "date": "2026-02-27T14:33:47.257412+00:00"
   },
   {
     "id": "8b05ee4e129e0438",
@@ -257,7 +287,7 @@
     "title": "2024",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
     "summary": "",
-    "date": "2026-02-27T14:18:10.867494+00:00"
+    "date": "2026-02-27T14:33:47.257551+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -307,7 +337,7 @@
     "title": "ScreenCloud OS ChangelogsThis article is a directory for ScreenCloud OS releases and changelogs Updated over a month agoTable of contentsTo find out t",
     "link": "https://help.screencloud.com/en/articles/10120811-screencloud-os-changelogs",
     "summary": "This article is a directory for ScreenCloud OS releases and changelogs To find out the ScreenCloud OS version of your device, please check this by turning the device off and back on again. On startup, you will see what version of ScreenCloud OS the device is running. You can also check this via the...",
-    "date": "2026-02-27T14:18:15.563367+00:00"
+    "date": "2026-02-27T14:33:52.198765+00:00"
   },
   {
     "id": "2aa849835f5901d8",
@@ -317,7 +347,7 @@
     "title": "Related ArticlesFire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update C",
     "link": "https://help.screencloud.com/en/articles/10115535-fire-os-hardware",
     "summary": "Related ArticlesFire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenCloud PIXI ChangelogsHow ScreenCloud Releases Updates for Players, PIXI, and ScreenCloud OS",
-    "date": "2026-02-27T14:18:15.563782+00:00"
+    "date": "2026-02-27T14:33:52.199175+00:00"
   },
   {
     "id": "8aedd0d8861972f1",
@@ -327,7 +357,27 @@
     "title": "Fire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenClou",
     "link": "https://help.screencloud.com/en/articles/10115535-fire-os-hardware",
     "summary": "Fire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenCloud PIXI ChangelogsHow ScreenCloud Releases Updates for Players, PIXI, and ScreenCloud OS",
-    "date": "2026-02-27T14:18:15.564118+00:00"
+    "date": "2026-02-27T14:33:52.199503+00:00"
+  },
+  {
+    "id": "65ecd64f5ffcce91",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "PaperCut NG release history",
+    "link": "https://www.papercut.com/products/ng/release-history/",
+    "summary": "Take a look under the hood and see what's new with the latest version of PaperCut NG, and find out what things we've fixed along the way. Take a look under the hood and see what's new with the latest version of PaperCut MF, and find out what things we've fixed along the way. See what's new with the...",
+    "date": "2026-02-27T14:17:55.994090+00:00"
+  },
+  {
+    "id": "ba97a2ed3b9b7f42",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "Other products Print Deploy release history Job Ticketing release history PaperCut MF Cloud Services release history",
+    "link": "https://www.papercut.com/help/manuals/print-deploy/release-history/",
+    "summary": "Other products Print Deploy release history Job Ticketing release history",
+    "date": "2026-02-27T14:17:55.994503+00:00"
   },
   {
     "id": "1028af79104b0cdb",
@@ -448,55 +498,5 @@
     "link": "https://docs.slack.dev/changelog/2025/12/04/slack-cli",
     "summary": "Version 3.10.0 of the developer tools for the Slack platform is here!",
     "date": "2025-12-04T00:00:00+00:00"
-  },
-  {
-    "id": "17697ffeb174fb64",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v3.9.2",
-    "link": "https://docs.slack.dev/changelog/2025/11/20/slack-cli",
-    "summary": "Version 3.9.2 of the developer tools for the Slack platform has landed!",
-    "date": "2025-11-20T00:00:00+00:00"
-  },
-  {
-    "id": "412cfa9f177e7fc0",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v3.9.1",
-    "link": "https://docs.slack.dev/changelog/2025/11/06/slack-cli",
-    "summary": "Version 3.9.1 of the developer tools for the Slack platform is here!",
-    "date": "2025-11-06T00:00:00+00:00"
-  },
-  {
-    "id": "d530d36a32e7a0ce",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "Xcode 26.4 beta 2 (17E5170d)",
-    "link": "https://developer.apple.com/news/releases/?id=02232026g",
-    "summary": "View downloadsView release notes",
-    "date": "2026-02-23T17:00:00+00:00"
-  },
-  {
-    "id": "8496836abf5c5eb5",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "iOS 26.4 beta 2 (23E5218e)",
-    "link": "https://developer.apple.com/news/releases/?id=02232026a",
-    "summary": "View downloadsView release notes",
-    "date": "2026-02-23T17:00:00+00:00"
-  },
-  {
-    "id": "d3af7365d4a6afb0",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "iPadOS 26.4 beta 2 (23E5218e)",
-    "link": "https://developer.apple.com/news/releases/?id=02232026b",
-    "summary": "View downloadsView release notes",
-    "date": "2026-02-23T17:00:00+00:00"
   }
 ]
