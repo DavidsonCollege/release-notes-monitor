@@ -131,24 +131,21 @@
           }
         },
         {
-          "id": "ninjaone",
-          "name": "NinjaOne",
-          "domain": "ninjaone.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
-          "release_notes_url": "https://www.ninjaone.com/roadmap/",
-          "source": {
-            "type": "rss",
-            "feed_url": "https://www.ninjaone.com/blog/category/ninjaone/feed/"
-          },
-          "filter": {
-            "include": [
-              "release",
-              "update",
-              "new feature",
-              "what's new"
-            ]
-          }
+        "id": "ninjaone",
+        "name": "NinjaOne",
+        "domain": "ninjaone.com",
+        "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
+        "release_notes_url": "https://www.ninjaone.com/blog/category/ninjaone/",
+        "source": {
+          "type": "rss",
+          "feed_url": "https://www.ninjaone.com/blog/category/ninjaone/feed/"
         },
+        "filter": {
+          "include": [
+            "release"
+          ]
+        }
+      },
         {
           "id": "smartdeploy",
           "name": "SmartDeploy",
