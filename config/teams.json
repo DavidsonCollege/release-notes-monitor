@@ -13,7 +13,7 @@
           "release_notes_url": "https://learn.microsoft.com/en-us/windows/release-health/",
           "source": {
             "type": "scrape",
-            "url": "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information"
+            "url": "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information",
             "selector": "tr",
             "title_selector": "td:first-child",
             "date_selector": "td:nth-child(2)",
