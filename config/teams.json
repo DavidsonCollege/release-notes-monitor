@@ -49,20 +49,16 @@
           }
         },
         {
-          "id": "papercut",
-          "name": "PaperCut",
-          "domain": "papercut.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-          "release_notes_url": "https://www.papercut.com/help/release-history/",
-          "source": {
-            "type": "scrape",
-            "url": "https://www.papercut.com/help/release-history/",
-            "selector": ".release-entry, article, .content-block, section",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .date, span",
-            "summary_selector": "p, ul li"
-          }
-        },
+        "id": "papercut",
+        "name": "PaperCut",
+        "domain": "papercut.com",
+        "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+        "release_notes_url": "https://www.papercut.com/products/mf/release-history/",
+        "source": {
+          "type": "rss",
+          "feed_url": "https://www.papercut.com/products/mf/release-history.atom"
+        }
+      },
         {
           "id": "canva",
           "name": "Canva",
