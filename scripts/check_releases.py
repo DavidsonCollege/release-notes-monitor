@@ -47,62 +47,49 @@ def save_json(path: Path, data: dict):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
-def get_zendesk_session(auth_config: dict) -> requests.Session | None:
-    """Create an authenticated session for Zendesk Help Center."""
-    env_email = auth_config.get("env_email", "")
-    env_password = auth_config.get("env_password", "")
+def check_zendesk_api_source(product: dict) -> list[dict]:
+    """Check a Zendesk Help Center section for articles via API with basic auth."""
+    source = product["source"]
+    section_id = source.get("section_id", "")
+    domain = source.get("domain", "")
+    env_email = source.get("env_email", "")
+    env_password = source.get("env_password", "")
+
     email = os.environ.get(env_email, "")
     password = os.environ.get(env_password, "")
-    if not email or not password:
-        print(f"  Warning: Missing credentials for Zendesk auth ({env_email}, {env_password})")
-        return None
 
-    session = requests.Session()
-    session.headers.update({"User-Agent": USER_AGENT})
-
-    # Zendesk sign-in endpoint
-    base_domain = auth_config.get("domain", "")
-    sign_in_url = f"https://{base_domain}/hc/en-us/signin"
+    api_url = f"https://{domain}/api/v2/help_center/en-us/sections/{section_id}/articles.json?sort_by=updated_at&sort_order=desc&per_page=10"
+    print(f"  Zendesk API: {api_url}")
 
     try:
-        # Get the sign-in page to obtain CSRF token
-        resp = session.get(sign_in_url, timeout=REQUEST_TIMEOUT)
-        resp.raise_for_status()
-
-        soup = BeautifulSoup(resp.text, "html.parser")
-        token_input = soup.find("input", {"name": "authenticity_token"})
-        token = token_input["value"] if token_input else ""
-
-        # Submit login form
-        login_data = {
-            "authenticity_token": token,
-            "user[email]": email,
-            "user[password]": password,
-            "return_to": f"https://{base_domain}/hc/en-us",
-        }
-        login_resp = session.post(
-            f"https://{base_domain}/hc/en-us/signin",
-            data=login_data,
+        auth = (email, password) if email and password else None
+        resp = requests.get(
+            api_url,
+            auth=auth,
+            headers={"User-Agent": USER_AGENT},
             timeout=REQUEST_TIMEOUT,
-            allow_redirects=True,
         )
-        if login_resp.status_code < 400:
-            print(f"  Authenticated with Zendesk ({base_domain})")
-            return session
-        else:
-            print(f"  Zendesk login failed: {login_resp.status_code}")
-            return None
+        resp.raise_for_status()
+        data = resp.json()
     except Exception as e:
-        print(f"  Zendesk auth error: {e}")
-        return None
+        print(f"  [WARN] Zendesk API error: {e}")
+        return []
 
+    articles = data.get("articles", [])
+    items = []
+    for article in articles:
+        title = article.get("title", "").strip()
+        url = article.get("html_url", "")
+        updated = article.get("updated_at", "")
+        items.append({"title": title, "url": url, "date": updated})
 
-def make_request(url: str, session: requests.Session | None = None) -> requests.Response | None:
+    print(f"  Found {len(items)} articles from API")
+    return items
+def make_request(url: str) -> requests.Response | None:
     """Make an HTTP GET request with error handling."""
     headers = {"User-Agent": USER_AGENT}
     try:
-        client = session or requests
-        resp = client.get(url, headers=headers, timeout=REQUEST_TIMEOUT, allow_redirects=True)
+        resp = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT, allow_redirects=True)
         resp.raise_for_status()
         return resp
     except requests.RequestException as e:
@@ -187,17 +174,7 @@ def check_scrape_source(product: dict) -> list[dict]:
     url = source["url"]
     print(f"  Scraping page: {url}")
 
-    # If auth config exists, create authenticated session
-    session = None
-    auth_config = source.get("auth")
-    if auth_config:
-        auth_type = auth_config.get("type", "")
-        if auth_type == "zendesk":
-            session = get_zendesk_session(auth_config)
-            if not session:
-                print("  Warning: Auth failed, trying unauthenticated...")
-
-    resp = make_request(url, session=session)
+    resp = make_request(url)
     if not resp:
         return []
 
@@ -379,6 +356,8 @@ def check_product(product: dict) -> list[dict]:
         items = check_rss_source(product)
     elif source_type == "scrape":
         items = check_scrape_source(product)
+    elif source_type == "zendesk_api":
+        items = check_zendesk_api_source(product)
     else:
         print(f"  [WARN] Unknown source type: {source_type}")
         return []
