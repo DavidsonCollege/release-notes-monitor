@@ -10,7 +10,7 @@
           "name": "Windows",
           "domain": "microsoft.com",
           "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-          "release_notes_url": "https://learn.microsoft.com/en-us/windows/release-health/",
+          "release_notes_url": "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information",
           "source": {
             "type": "scrape",
             "url": "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information",
@@ -20,7 +20,9 @@
             "summary_selector": "td:nth-child(3)"
           },
           "filter": {
-            "include": ["Windows 11"]
+            "include": [
+              "Windows 11"
+            ]
           }
         },
         {
@@ -34,7 +36,9 @@
             "feed_url": "https://developer.apple.com/news/releases/rss/releases.rss"
           },
           "filter": {
-            "include": ["macOS"]
+            "include": [
+              "macOS"
+            ]
           }
         },
         {
@@ -49,16 +53,16 @@
           }
         },
         {
-        "id": "papercut",
-        "name": "PaperCut",
-        "domain": "papercut.com",
-        "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-        "release_notes_url": "https://www.papercut.com/products/mf/release-history/",
-        "source": {
-          "type": "rss",
-          "feed_url": "https://www.papercut.com/products/mf/release-history.atom"
-        }
-      },
+          "id": "papercut",
+          "name": "PaperCut",
+          "domain": "papercut.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+          "release_notes_url": "https://www.papercut.com/products/mf/release-history/",
+          "source": {
+            "type": "rss",
+            "feed_url": "https://www.papercut.com/products/mf/release-history.atom"
+          }
+        },
         {
           "id": "canva",
           "name": "Canva",
@@ -68,25 +72,10 @@
           "source": {
             "type": "scrape",
             "url": "https://www.canva.com/launches/",
-            "selector": "article, .launch-item, .card",
+            "selector": "article, .launch-item, .card, a[href*=launches]",
             "title_selector": "h2, h3",
             "date_selector": "time, .date",
             "summary_selector": "p"
-          }
-        },
-        {
-          "id": "zoom",
-          "name": "Zoom",
-          "domain": "zoom.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0061222",
-          "source": {
-            "type": "scrape",
-            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0061222",
-            "selector": "article section, .article-body h2, .article-body h3",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .meta",
-            "summary_selector": "p, ul li"
           }
         },
         {
@@ -96,8 +85,12 @@
           "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
           "release_notes_url": "https://scribe.launchnotes.io/",
           "source": {
-            "type": "rss",
-            "feed_url": "https://scribe.launchnotes.io/feed.rss"
+            "type": "scrape",
+            "url": "https://scribe.launchnotes.io/",
+            "selector": "article, .announcement, .post, [class*=post], [class*=announcement]",
+            "title_selector": "h2, h3, h4",
+            "date_selector": "time, .date, [datetime]",
+            "summary_selector": "p"
           }
         },
         {
@@ -108,7 +101,7 @@
           "release_notes_url": "https://clickup.canny.io/changelog",
           "source": {
             "type": "rss",
-            "feed_url": "https://clickup.canny.io/changelog.rss"
+            "feed_url": "https://feedback.clickup.com/api/changelog/feed.rss"
           }
         },
         {
@@ -148,7 +141,12 @@
             "feed_url": "https://www.ninjaone.com/blog/category/ninjaone/feed/"
           },
           "filter": {
-            "include": ["release", "update", "new feature", "launched", "announcing"]
+            "include": [
+              "release",
+              "update",
+              "new feature",
+              "what's new"
+            ]
           }
         },
         {
@@ -156,14 +154,14 @@
           "name": "SmartDeploy",
           "domain": "smartdeploy.com",
           "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
-          "release_notes_url": "https://smartdeploy.pdq.com/hc/en-us/articles/12982168116251-Release-Notes-and-Schedule",
+          "release_notes_url": "https://smartdeploy.pdq.com/hc/en-us/categories/15165218239515-Release-Notes",
           "source": {
             "type": "scrape",
-            "url": "https://smartdeploy.pdq.com/hc/en-us/articles/12982168116251-Release-Notes-and-Schedule",
-            "selector": "article .article-body h2, article .article-body h3",
-            "title_selector": "h2, h3",
+            "url": "https://smartdeploy.pdq.com/hc/en-us/categories/15165218239515-Release-Notes",
+            "selector": "a.article-list-link, li.article-list-item a",
+            "title_selector": null,
             "date_selector": null,
-            "summary_selector": "p, ul li"
+            "summary_selector": null
           }
         },
         {
@@ -186,12 +184,12 @@
           "name": "EMS",
           "domain": "accruent.com",
           "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-          "release_notes_url": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
+          "release_notes_url": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
           "source": {
             "type": "scrape",
-            "url": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
-            "selector": "a, li",
-            "title_selector": "a",
+            "url": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
+            "selector": "a, li a",
+            "title_selector": null,
             "date_selector": null,
             "summary_selector": null
           }
@@ -201,14 +199,14 @@
           "name": "Ad Astra",
           "domain": "aais.com",
           "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-          "release_notes_url": "https://help.adastra.live/",
+          "release_notes_url": "http://help.aais.com/Help/ReleaseNotes/Index.html",
           "source": {
             "type": "scrape",
-            "url": "https://help.adastra.live/",
-            "selector": "article, .post, section",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .date",
-            "summary_selector": "p"
+            "url": "http://help.aais.com/Help/ReleaseNotes/Index.html",
+            "selector": "a[href]",
+            "title_selector": null,
+            "date_selector": null,
+            "summary_selector": null
           }
         },
         {
@@ -227,13 +225,139 @@
           "name": "ScreenCloud",
           "domain": "screencloud.com",
           "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-          "release_notes_url": "https://help.screencloud.com/en/articles/10120811-screencloud-os-changelogs",
+          "release_notes_url": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
           "source": {
             "type": "scrape",
-            "url": "https://help.screencloud.com/en/articles/10120811-screencloud-os-changelogs",
-            "selector": "article section, .intercom-force-break",
-            "title_selector": "h2, h3, strong",
-            "date_selector": null,
+            "url": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
+            "selector": "table tr",
+            "title_selector": "td:first-child",
+            "date_selector": "td:nth-child(2)",
+            "summary_selector": "td:nth-child(3)"
+          },
+          "filter": {
+            "include": [
+              "player",
+              "screencloud os"
+            ]
+          }
+        },
+        {
+          "id": "zoom-workplace",
+          "name": "Zoom Workplace",
+          "domain": "zoom.us",
+          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0061222",
+          "source": {
+            "type": "scrape",
+            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0061222",
+            "selector": "article section, .article-body h3, .article-body h2",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .meta",
+            "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "zoom-meetings",
+          "name": "Zoom Meetings",
+          "domain": "zoom.us",
+          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0080363",
+          "source": {
+            "type": "scrape",
+            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0080363",
+            "selector": "article section, .article-body h3, .article-body h2",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .meta",
+            "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "zoom-rooms",
+          "name": "Zoom Rooms",
+          "domain": "zoom.us",
+          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063542",
+          "source": {
+            "type": "scrape",
+            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063542",
+            "selector": "article section, .article-body h3, .article-body h2",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .meta",
+            "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "zoom-team-chat",
+          "name": "Zoom Team Chat",
+          "domain": "zoom.us",
+          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063541",
+          "source": {
+            "type": "scrape",
+            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063541",
+            "selector": "article section, .article-body h3, .article-body h2",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .meta",
+            "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "zoom-phone",
+          "name": "Zoom Phone",
+          "domain": "zoom.us",
+          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063540",
+          "source": {
+            "type": "scrape",
+            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063540",
+            "selector": "article section, .article-body h3, .article-body h2",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .meta",
+            "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "zoom-ai-companion",
+          "name": "Zoom AI Companion",
+          "domain": "zoom.us",
+          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068161",
+          "source": {
+            "type": "scrape",
+            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068161",
+            "selector": "article section, .article-body h3, .article-body h2",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .meta",
+            "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "zoom-webinars",
+          "name": "Zoom Webinars",
+          "domain": "zoom.us",
+          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066826",
+          "source": {
+            "type": "scrape",
+            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066826",
+            "selector": "article section, .article-body h3, .article-body h2",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .meta",
+            "summary_selector": "p, ul li"
+          }
+        },
+        {
+          "id": "zoom-clips",
+          "name": "Zoom Clips",
+          "domain": "zoom.us",
+          "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+          "release_notes_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068160",
+          "source": {
+            "type": "scrape",
+            "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0068160",
+            "selector": "article section, .article-body h3, .article-body h2",
+            "title_selector": "h2, h3",
+            "date_selector": "time, .meta",
             "summary_selector": "p, ul li"
           }
         }
