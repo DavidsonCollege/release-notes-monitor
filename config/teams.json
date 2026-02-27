@@ -6,25 +6,21 @@
       "description": "Technology products managed by the Digital Campus team",
       "products": [
         {
-          "id": "windows",
-          "name": "Windows",
-          "domain": "microsoft.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-          "release_notes_url": "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information",
-          "source": {
-            "type": "scrape",
-            "url": "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information",
-            "selector": "tr",
-            "title_selector": "td:first-child",
-            "date_selector": "td:nth-child(2)",
-            "summary_selector": "td:nth-child(3)"
-          },
-          "filter": {
-            "include": [
-              "Windows 11"
-            ]
-          }
+        "id": "windows",
+        "name": "Windows",
+        "domain": "microsoft.com",
+        "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+        "release_notes_url": "https://blogs.windows.com/windows-insider/",
+        "source": {
+          "type": "rss",
+          "feed_url": "https://blogs.windows.com/windows-insider/feed/"
         },
+        "filter": {
+          "include": [
+            "Windows 11"
+          ]
+        }
+      },
         {
           "id": "macos",
           "name": "macOS",
@@ -64,20 +60,20 @@
           }
         },
         {
-          "id": "canva",
-          "name": "Canva",
-          "domain": "canva.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-          "release_notes_url": "https://www.canva.com/launches/",
-          "source": {
-            "type": "scrape",
-            "url": "https://www.canva.com/launches/",
-            "selector": "article, .launch-item, .card, a[href*=launches]",
-            "title_selector": "h2, h3",
-            "date_selector": "time, .date",
-            "summary_selector": "p"
-          }
-        },
+        "id": "canva",
+        "name": "Canva",
+        "domain": "canva.com",
+        "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+        "release_notes_url": "https://www.canva.com/newsroom/news/",
+        "source": {
+          "type": "scrape",
+          "url": "https://www.canva.com/newsroom/news/",
+          "selector": "article, a[class*='card'], div[class*='news'] a",
+          "title_selector": "h2, h3",
+          "date_selector": "time, span",
+          "summary_selector": "p"
+        }
+      },
         {
           "id": "scribe",
           "name": "Scribe",
@@ -147,20 +143,25 @@
         }
       },
         {
-          "id": "smartdeploy",
-          "name": "SmartDeploy",
-          "domain": "smartdeploy.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
-          "release_notes_url": "https://smartdeploy.pdq.com/hc/en-us/categories/15165218239515-Release-Notes",
-          "source": {
-            "type": "scrape",
-            "url": "https://smartdeploy.pdq.com/hc/en-us/categories/15165218239515-Release-Notes",
-            "selector": "a.article-list-link, li.article-list-item a",
-            "title_selector": null,
-            "date_selector": null,
-            "summary_selector": null
-          }
+        "id": "smartdeploy",
+        "name": "SmartDeploy",
+        "domain": "smartdeploy.com",
+        "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
+        "release_notes_url": "https://www.smartdeploy.com/blog/categories/product/1/",
+        "source": {
+          "type": "scrape",
+          "url": "https://www.smartdeploy.com/blog/categories/product/1/",
+          "selector": "a[class*='card'], div[class*='blog'] a",
+          "title_selector": "h2",
+          "date_selector": "span, time, p:last-child",
+          "summary_selector": "p"
         },
+        "filter": {
+          "include": [
+            "release", "new", "launched", "what's new"
+          ]
+        }
+      },
         {
           "id": "1password",
           "name": "1Password",
