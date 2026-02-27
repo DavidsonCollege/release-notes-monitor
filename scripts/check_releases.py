@@ -492,6 +492,28 @@ def main():
         new_team_items = []
         recent_items = []  # Always-included latest items per product
 
+        # Expand products with subproducts into individual entries
+        expanded_products = []
+        for p in products:
+            if "subproducts" in p:
+                for sub in p["subproducts"]:
+                    expanded = {
+                        "id": sub["id"],
+                        "name": sub.get("name", sub["id"]),
+                        "domain": p.get("domain", ""),
+                        "icon_url": p.get("icon_url", ""),
+                        "release_notes_url": sub.get("release_notes_url", p.get("release_notes_url", "")),
+                        "source": sub["source"],
+                    }
+                    if "filter" in sub:
+                        expanded["filter"] = sub["filter"]
+                    elif "filter" in p:
+                        expanded["filter"] = p["filter"]
+                    expanded_products.append(expanded)
+            else:
+                expanded_products.append(p)
+        products = expanded_products
+
         for product in products:
             product_id = product["id"]
             product_name = product["name"]
