@@ -500,18 +500,10 @@
         }
 
     
-    /* Subproduct chips */
-    .subproduct-chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
-    .subproduct-chip {
-      font-size: 11px; padding: 2px 10px; border-radius: 12px;
-      border: 1px solid var(--border); background: transparent;
-      color: var(--text-muted); cursor: pointer; transition: all 0.15s;
-      font-weight: 500; user-select: none;
-    }
-    .subproduct-chip:hover { border-color: var(--accent); color: var(--text); }
-    .subproduct-chip.active { background: var(--accent); border-color: var(--accent); color: white; }
-    .product-card.has-subproducts { grid-column: span 2; }
-    @media (max-width: 740px) { .product-card.has-subproducts { grid-column: span 1; } }
+    /* Subproduct checkboxes in Edit modal */
+    .subproduct-checklist { margin-top: 8px; display: flex; flex-direction: column; gap: 8px; }
+    .subproduct-checklist label { display: flex; align-items: center; gap: 8px; font-size: 13px; cursor: pointer; color: var(--text); }
+    .subproduct-checklist input[type="checkbox"] { accent-color: var(--accent); width: 16px; height: 16px; cursor: pointer; }
     .preview-subproduct-chips { display: flex; flex-wrap: wrap; gap: 6px; padding: 0 20px 12px; }
     .preview-subproduct-chip {
       font-size: 11px; padding: 2px 10px; border-radius: 12px;
@@ -726,7 +718,7 @@
                     <button class="btn-primary btn-sm mb-16" onclick="addProduct(${ti})">+ Add Product</button>
                     <div class="products-grid">
                         ${team.products.sort((a, b) => a.name.localeCompare(b.name)).map((p, pi) => `
-                            <div class="product-card ${p.subproducts ? 'has-subproducts' : ''}">
+                            <div class="product-card">
                                 <img class="product-icon" src="${esc(p.icon_url)}" alt="${esc(p.name)}" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22><rect width=%2232%22 height=%2232%22 fill=%22%23334155%22 rx=%226%22/><text x=%2216%22 y=%2222%22 font-size=%2218%22 text-anchor=%22middle%22 fill=%22white%22>${esc(p.name[0])}</text></svg>'">
                                 <div class="product-info">
                                     <div class="name">${esc(p.name)}</div>
@@ -735,7 +727,6 @@
                                         ${p.source.type === 'rss' ? '📡 RSS' : '🔍 Scrape'}
                                     </span>
                                     ${p.filter ? '<span class="source-type" style="background:#3b82f620;color:var(--accent)">Filtered</span>' : ''}
-                                    ${p.subproducts ? `<div class="subproduct-chips">${p.subproducts.map((sp, si) => `<span class="subproduct-chip active" data-team="${ti}" data-product="${pi}" data-sub="${si}" onclick="toggleSubChip(this)">${esc(sp.name)}</span>`).join('')}</div>` : ''}
                                 </div>
                                 <div class="product-actions">
                                     <button class="btn-icon btn-preview" onclick="previewProduct(${ti}, ${pi})" title="Preview feed items"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg></button>
@@ -868,6 +859,12 @@
         showModal("Edit Product", productForm(product), async () => {
             const updated = readProductForm();
             if (!updated) return;
+      // Preserve subproducts from original product
+      if (product.subproducts) {
+        updated.subproducts = product.subproducts;
+      }
+      // Preserve original product ID during edit
+      updated.id = product.id;
             config.teams[ti].products[pi] = updated;
             await saveConfig();
             renderTeams();
@@ -934,7 +931,19 @@
                     <input type="text" id="m-prod-summary-sel" value="${esc(p.source?.summary_selector || 'p')}" placeholder="p, ul li" />
                 </div>
             </div>
-            <div style="border-top:1px solid var(--border);margin-top:16px;padding-top:16px">
+
+    ${p.subproducts ? `
+    <div style="border-top:1px solid var(--border);margin-top:16px;padding-top:16px">
+      <div class="form-group">
+        <label>Monitored Subproducts</label>
+        <div class="help-text" style="margin-bottom:8px">Select which subproducts to monitor for release notes</div>
+        <div class="subproduct-checklist">
+          ${p.subproducts.map((sp, i) => `
+            <label><input type="checkbox" class="subproduct-cb" data-index="${i}" checked> ${esc(sp.name)}</label>
+          `).join('')}
+        </div>
+      </div>
+    </div>` : ''}            <div style="border-top:1px solid var(--border);margin-top:16px;padding-top:16px">
                 <div class="form-group">
                     <label>Include Keywords</label>
                     <input type="text" id="m-prod-include" value="${esc((p.filter?.include || []).join(', '))}" placeholder="e.g., macOS, Sonoma, Sequoia" />
@@ -1181,16 +1190,6 @@
     });
     
     // ======== Subproduct Chip Toggle ========
-    function toggleSubChip(chip) {
-        chip.classList.toggle('active');
-        const parent = chip.parentElement;
-        const allChips = parent.querySelectorAll('.subproduct-chip');
-        const activeChips = parent.querySelectorAll('.subproduct-chip.active');
-        if (activeChips.length === 0) {
-            allChips.forEach(c => c.classList.add('active'));
-        }
-    }
-
     function togglePreviewSubChip(chip, ti, pi) {
         chip.classList.toggle('active');
         const container = chip.parentElement;
