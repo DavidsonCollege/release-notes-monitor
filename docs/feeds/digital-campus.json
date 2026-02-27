@@ -187,7 +187,7 @@
     "title": "Pro Pro Team Enterprise Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-02-27T18:22:24.843500+00:00"
+    "date": "2026-02-27T18:31:46.214850+00:00"
   },
   {
     "id": "498cbd13c5eccf96",
@@ -197,7 +197,7 @@
     "title": "Add tables within Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-02-27T18:22:24.843650+00:00"
+    "date": "2026-02-27T18:31:46.214999+00:00"
   },
   {
     "id": "2aa25658903bd41b",
@@ -257,7 +257,7 @@
     "title": "Security Updates for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of security updates, see the following article:",
-    "date": "2026-02-27T18:22:27.524711+00:00"
+    "date": "2026-02-27T18:31:48.932757+00:00"
   },
   {
     "id": "b9360485c3e61f3c",
@@ -267,7 +267,7 @@
     "title": "History for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
-    "date": "2026-02-27T18:22:27.524834+00:00"
+    "date": "2026-02-27T18:31:48.932883+00:00"
   },
   {
     "id": "185d4d7625c4f74e",
@@ -277,7 +277,7 @@
     "title": "Download Sizes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of update releases sizes, see the following article:",
-    "date": "2026-02-27T18:22:27.524937+00:00"
+    "date": "2026-02-27T18:31:48.932991+00:00"
   },
   {
     "id": "813b1ad089721490",
@@ -287,7 +287,7 @@
     "title": "Release Notes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes by update channel and year, see the following articles:",
-    "date": "2026-02-27T18:22:27.525035+00:00"
+    "date": "2026-02-27T18:31:48.933093+00:00"
   },
   {
     "id": "324fe31ac188c1d9",
@@ -297,7 +297,7 @@
     "title": "Release Notes for Microsoft 365 Insiders",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes for Insiders, see the following articles:",
-    "date": "2026-02-27T18:22:27.525132+00:00"
+    "date": "2026-02-27T18:31:48.933190+00:00"
   },
   {
     "id": "adfc41ff921de8dc",
@@ -377,7 +377,7 @@
     "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
     "link": "https://releases.1password.com/mac/",
     "summary": "",
-    "date": "2026-02-27T18:22:33.024360+00:00"
+    "date": "2026-02-27T18:31:54.344681+00:00"
   },
   {
     "id": "01fe930feaaa6a09",
@@ -387,7 +387,7 @@
     "title": "upgrade",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T18:22:34.368253+00:00"
+    "date": "2026-02-27T18:31:55.564356+00:00"
   },
   {
     "id": "7aba50c4d8071e11",
@@ -397,7 +397,7 @@
     "title": "224.3.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T18:22:34.368302+00:00"
+    "date": "2026-02-27T18:31:55.564414+00:00"
   },
   {
     "id": "e67335b00b3797c1",
@@ -407,7 +407,7 @@
     "title": "224.2.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T18:22:34.368337+00:00"
+    "date": "2026-02-27T18:31:55.564449+00:00"
   },
   {
     "id": "0d90b9c66b88bbce",
@@ -417,7 +417,7 @@
     "title": "224.1.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T18:22:34.368368+00:00"
+    "date": "2026-02-27T18:31:55.564481+00:00"
   },
   {
     "id": "6aa653e3e373f710",
@@ -427,7 +427,57 @@
     "title": "223.3.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-02-27T18:22:34.368417+00:00"
+    "date": "2026-02-27T18:31:55.564511+00:00"
+  },
+  {
+    "id": "2cfed85194cd4abd",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "February 20, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/46492904460180-February-20-2026",
+    "summary": "",
+    "date": "2026-02-20T18:27:25Z"
+  },
+  {
+    "id": "c3d986a3c7895cb9",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "February 13, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/46280296948628-February-13-2026",
+    "summary": "",
+    "date": "2026-02-13T17:03:09Z"
+  },
+  {
+    "id": "a534ef3ad28b0199",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "February 6, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/46062434530580-February-6-2026",
+    "summary": "",
+    "date": "2026-02-11T14:07:34Z"
+  },
+  {
+    "id": "1a15e12f157e7c15",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "January 30, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/45828932837396-January-30-2026",
+    "summary": "",
+    "date": "2026-01-30T18:22:24Z"
+  },
+  {
+    "id": "5ef15823e5109cb1",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "January 23, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/45594475979668-January-23-2026",
+    "summary": "",
+    "date": "2026-01-23T17:40:19Z"
   },
   {
     "id": "f797e86c07e10880",
@@ -448,55 +498,5 @@
     "link": "https://product.korbyt.com/changelog/korbyt-booking-v971",
     "summary": "# What’s New? ## Deep Link to Locate Colleague on Floorplan (Bookit) Implemented a deep link capability in Bookit that enables authenticated users to directly locate a colleague’s booked space on the floorplan via a URL and book near them. ### Key Functionality **Hyperlink Integration** • The...",
     "date": "2026-02-12T09:05:29+00:00"
-  },
-  {
-    "id": "3f5b910c597cabb5",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Product Recap - 01.12.2026",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-01122026",
-    "summary": "We're constantly working to improve Korbyt. Here's what we were up to over the break and last week week: 🆕 New & Enhanced - **Secrets API: Credential Management** — IT Admins can now securely manage the lifecycle of API credentials using a centralized Secrets API. This includes creating, listing,...",
-    "date": "2026-01-12T16:36:21+00:00"
-  },
-  {
-    "id": "ceaabe1754b3907a",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Release Recap - 12.05.2025",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-release-recap-12052025",
-    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🐞 Squashed Bugs - Fixed an issue where YouTube element showed an error due to recent changes in YouTube's Terms of Service. - Resolved a styling inheritance issue in Korbyt Create AI Layouts where elements did not...",
-    "date": "2025-12-05T15:05:58+00:00"
-  },
-  {
-    "id": "06a1b6a05e1c3232",
-    "product_id": "screencloud",
-    "product_name": "ScreenCloud",
-    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "4.11.2",
-    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
-    "summary": "New: Support for Amazon’s Remote Device Management (RDM) for Signage Sticks, including:Screen/TV mute and unmute via HDMI-CECScreen/TV power on and off via HDMI-CECDevice rebootScreenshot and full-screen captureDeep cache clearing (player app and Android system cache)Player app restartCPU and GPU...",
-    "date": "January 23, 2026"
-  },
-  {
-    "id": "e1dab31261398830",
-    "product_id": "screencloud",
-    "product_name": "ScreenCloud",
-    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "4.9.0",
-    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
-    "summary": "New: Amazon Signage Stick (ASS) dedicated player. Previously ran Amazon Fire OS player on ASS device.",
-    "date": "May 8, 2025"
-  },
-  {
-    "id": "25cbe092cc1d040f",
-    "product_id": "screencloud",
-    "product_name": "ScreenCloud",
-    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "4.7.16",
-    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
-    "summary": "Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.",
-    "date": "March 28, 2024"
   }
 ]
