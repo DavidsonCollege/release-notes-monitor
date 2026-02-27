@@ -67,7 +67,7 @@
     "title": "PaperCut NG release history",
     "link": "https://www.papercut.com/products/ng/release-history/",
     "summary": "Take a look under the hood and see what's new with the latest version of PaperCut NG, and find out what things we've fixed along the way. Take a look under the hood and see what's new with the latest version of PaperCut MF, and find out what things we've fixed along the way. See what's new with the...",
-    "date": "2026-02-24T21:40:33.670269+00:00"
+    "date": "2026-02-27T14:13:35.440019+00:00"
   },
   {
     "id": "ba97a2ed3b9b7f42",
@@ -77,7 +77,7 @@
     "title": "Other products Print Deploy release history Job Ticketing release history PaperCut MF Cloud Services release history",
     "link": "https://www.papercut.com/help/manuals/print-deploy/release-history/",
     "summary": "Other products Print Deploy release history Job Ticketing release history",
-    "date": "2026-02-24T21:40:33.670665+00:00"
+    "date": "2026-02-27T14:13:35.440409+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -87,7 +87,7 @@
     "title": "Security Updates for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of security updates, see the following article:",
-    "date": "2026-02-24T21:40:41.466062+00:00"
+    "date": "2026-02-27T14:13:43.144569+00:00"
   },
   {
     "id": "b9360485c3e61f3c",
@@ -97,7 +97,7 @@
     "title": "History for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
-    "date": "2026-02-24T21:40:41.466187+00:00"
+    "date": "2026-02-27T14:13:43.144690+00:00"
   },
   {
     "id": "185d4d7625c4f74e",
@@ -107,7 +107,7 @@
     "title": "Download Sizes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of update releases sizes, see the following article:",
-    "date": "2026-02-24T21:40:41.466289+00:00"
+    "date": "2026-02-27T14:13:43.144790+00:00"
   },
   {
     "id": "813b1ad089721490",
@@ -117,7 +117,7 @@
     "title": "Release Notes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes by update channel and year, see the following articles:",
-    "date": "2026-02-24T21:40:41.466389+00:00"
+    "date": "2026-02-27T14:13:43.144889+00:00"
   },
   {
     "id": "324fe31ac188c1d9",
@@ -127,7 +127,177 @@
     "title": "Release Notes for Microsoft 365 Insiders",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes for Insiders, see the following articles:",
-    "date": "2026-02-24T21:40:41.466487+00:00"
+    "date": "2026-02-27T14:13:43.144986+00:00"
+  },
+  {
+    "id": "adfc41ff921de8dc",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing Nano Banana 2 in the Gemini app",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/introducing-nano-banana-2-in-gemini-app.html",
+    "summary": "Starting today, we’re rolling out Nano Banana 2 (Gemini 3.1 Flash Image), our best image model yet, to Workspace customers in the Gemini app.Nano Banana 2, which replaces our previous Nano Banana model, brings the high-speed intelligence of Gemini Flash to visual generation, making once-exclusive...",
+    "date": "2026-02-26T20:59:00+00:00"
+  },
+  {
+    "id": "166acc7f4dba2722",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini conversation history is coming to the side panel in Google Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/gemini-conversation-history-is-coming-to-side-panel-in-google-workspace.html",
+    "summary": "Conversation history is coming to the Gemini side panel in Google Workspace apps. This feature will enable users to resume their conversations with Gemini across sessions. This history will only persist in a single app and conversations will remain private. For example, a conversation in the side...",
+    "date": "2026-02-26T19:40:00+00:00"
+  },
+  {
+    "id": "04b3403df9f8dbae",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing a new video player experience in Google Drive on iOS devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/introducing-new-video-player-experience-in-drive-on-ios-devices.html",
+    "summary": "Last year, we announced a smoother, more modern video player in the Google Drive Android app. This updated look and feel is now available when watching Drive videos on your iOS devices.Getting startedAdmins: There is no admin control for this feature.End users: Visit the Help Center to learn more...",
+    "date": "2026-02-25T18:47:00+00:00"
+  },
+  {
+    "id": "4399555ea600ca2f",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Expanded duration limits in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/expanded-duration-limits-in-google-vids.html",
+    "summary": "We are increasing the duration limits for Google Vids projects, recordings and imported media clips, giving you more flexibility to create comprehensive video content.Vids projects: The maximum length for any Vids project is now 30 minutes, up from 10 minutes previously.Recordings: The maximum...",
+    "date": "2026-02-25T16:07:00+00:00"
+  },
+  {
+    "id": "90141a90f0c3c9bb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Chat now available as a data source in Gemini app",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/google-chat-now-available-as-data-source-in-gemini-app.html",
+    "summary": "We’re excited to announce that Google Chat is now available as a data source in the Gemini app (gemini.google.com) for Workspace customers, joining Gmail, Google Drive, and other Workspace apps. Like other Workspace connected apps in Gemini, Google Chat will be default off and can be enabled in...",
+    "date": "2026-02-25T15:53:00+00:00"
+  },
+  {
+    "id": "0da0fe9d9bfed86e",
+    "product_id": "ninjaone",
+    "product_name": "NinjaOne",
+    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
+    "title": "Patch Notes: People Edition – Meet Beth Hopper!",
+    "link": "https://www.ninjaone.com/blog/patch-notes-people-edition-meet-beth-hopper/",
+    "summary": "At NinjaOne, quality isn’t just a checkpoint. It’s part of our DNA! It’s what allows us to consistently bring new products to market, deliver frequent updates, and ensure every customer interaction and interface with our platform feels seamless. None of that happens without our phenomenal Quality...",
+    "date": "2026-02-13T13:00:56+00:00"
+  },
+  {
+    "id": "4861482635a84858",
+    "product_id": "ninjaone",
+    "product_name": "NinjaOne",
+    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
+    "title": "Unify IT Service, Assets, and Operations With NinjaOne 12.0",
+    "link": "https://www.ninjaone.com/blog/unify-it-with-ninjaone-12-0/",
+    "summary": "Release Schedule: January 27 – February 25 NinjaOne’s 12.0 release has arrived to improve how IT teams manage assets, integrate service delivery with business operations, gain insights into profitability and health status, and proactively resolve any recovery issues. MSPs can now sync service...",
+    "date": "2026-02-09T14:00:23+00:00"
+  },
+  {
+    "id": "b4b81d74d1093460",
+    "product_id": "smartdeploy",
+    "product_name": "SmartDeploy",
+    "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
+    "title": "Download and install the latest version of SmartDeploy. For more details, and information on older versions, please see our Release Notes docume",
+    "link": "https://www.smartdeploy.com/signin/",
+    "summary": "Download and install the latest version of SmartDeploy. For more details, and information on older versions, please see our Release Notes document.",
+    "date": "2025-10-09T20:22:13Z"
+  },
+  {
+    "id": "2b32d43f0319657f",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for iOS",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "February 26 2026"
+  },
+  {
+    "id": "9c09b21f403ecfc4",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
+    "link": "https://releases.1password.com/mac/",
+    "summary": "",
+    "date": "2026-02-27T14:13:48.895110+00:00"
+  },
+  {
+    "id": "c0b4ae4d90bd1347",
+    "product_id": "ems",
+    "product_name": "EMS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
+    "title": "2026",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
+    "summary": "",
+    "date": "2026-02-27T14:13:50.123660+00:00"
+  },
+  {
+    "id": "1313b2c1a3dd1eea",
+    "product_id": "ems",
+    "product_name": "EMS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
+    "title": "2025",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
+    "summary": "",
+    "date": "2026-02-27T14:13:50.123839+00:00"
+  },
+  {
+    "id": "8b05ee4e129e0438",
+    "product_id": "ems",
+    "product_name": "EMS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
+    "title": "2024",
+    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
+    "summary": "",
+    "date": "2026-02-27T14:13:50.123992+00:00"
+  },
+  {
+    "id": "1028af79104b0cdb",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Getting Started and General Topics",
+    "link": "https://product.korbyt.com/help/collections/4697537-getting-started-and-general-topics",
+    "summary": "Get answers in seconds with our AI search or find them in our detailed articles. Information that applies to all of Korbyt 34 articles",
+    "date": "2026-02-27T14:13:53.719041+00:00"
+  },
+  {
+    "id": "1cadafaab84d1d46",
+    "product_id": "screencloud",
+    "product_name": "ScreenCloud",
+    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
+    "title": "ScreenCloud OS ChangelogsThis article is a directory for ScreenCloud OS releases and changelogs Updated over a month agoTable of contentsTo find out t",
+    "link": "https://help.screencloud.com/en/articles/10120811-screencloud-os-changelogs",
+    "summary": "This article is a directory for ScreenCloud OS releases and changelogs To find out the ScreenCloud OS version of your device, please check this by turning the device off and back on again. On startup, you will see what version of ScreenCloud OS the device is running. You can also check this via the...",
+    "date": "2026-02-27T14:13:55.615074+00:00"
+  },
+  {
+    "id": "2aa849835f5901d8",
+    "product_id": "screencloud",
+    "product_name": "ScreenCloud",
+    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
+    "title": "Related ArticlesFire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update C",
+    "link": "https://help.screencloud.com/en/articles/10115535-fire-os-hardware",
+    "summary": "Related ArticlesFire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenCloud PIXI ChangelogsHow ScreenCloud Releases Updates for Players, PIXI, and ScreenCloud OS",
+    "date": "2026-02-27T14:13:55.615480+00:00"
+  },
+  {
+    "id": "8aedd0d8861972f1",
+    "product_id": "screencloud",
+    "product_name": "ScreenCloud",
+    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
+    "title": "Fire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenClou",
+    "link": "https://help.screencloud.com/en/articles/10115535-fire-os-hardware",
+    "summary": "Fire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenCloud PIXI ChangelogsHow ScreenCloud Releases Updates for Players, PIXI, and ScreenCloud OS",
+    "date": "2026-02-27T14:13:55.615819+00:00"
   },
   {
     "id": "0448a83c1fa0f490",
@@ -190,16 +360,6 @@
     "date": "2026-02-24T21:40:44.471995+00:00"
   },
   {
-    "id": "b4b81d74d1093460",
-    "product_id": "smartdeploy",
-    "product_name": "SmartDeploy",
-    "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
-    "title": "Download and install the latest version of SmartDeploy. For more details, and information on older versions, please see our Release Notes docume",
-    "link": "https://www.smartdeploy.com/signin/",
-    "summary": "Download and install the latest version of SmartDeploy. For more details, and information on older versions, please see our Release Notes document.",
-    "date": "2025-10-09T20:22:13Z"
-  },
-  {
     "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
@@ -210,56 +370,6 @@
     "date": "February 24 2026"
   },
   {
-    "id": "9c09b21f403ecfc4",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
-    "link": "https://releases.1password.com/mac/",
-    "summary": "",
-    "date": "2026-02-24T21:40:47.206579+00:00"
-  },
-  {
-    "id": "c0b4ae4d90bd1347",
-    "product_id": "ems",
-    "product_name": "EMS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "2026",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
-    "summary": "",
-    "date": "2026-02-24T21:40:48.591926+00:00"
-  },
-  {
-    "id": "1313b2c1a3dd1eea",
-    "product_id": "ems",
-    "product_name": "EMS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "2025",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
-    "summary": "",
-    "date": "2026-02-24T21:40:48.592119+00:00"
-  },
-  {
-    "id": "8b05ee4e129e0438",
-    "product_id": "ems",
-    "product_name": "EMS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "2024",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/Release%20Notes.htm",
-    "summary": "",
-    "date": "2026-02-24T21:40:48.592264+00:00"
-  },
-  {
-    "id": "1028af79104b0cdb",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Getting Started and General Topics",
-    "link": "https://product.korbyt.com/help/collections/4697537-getting-started-and-general-topics",
-    "summary": "Get answers in seconds with our AI search or find them in our detailed articles. Information that applies to all of Korbyt 34 articles",
-    "date": "2026-02-24T21:40:52.067609+00:00"
-  },
-  {
     "id": "ed2c66460bf4aa0f",
     "product_id": "screencloud",
     "product_name": "ScreenCloud",
@@ -268,26 +378,6 @@
     "link": "https://help.screencloud.com/en/articles/10120811-screencloud-os-changelogs",
     "summary": "This article is a directory for ScreenCloud OS releases and changelogs To find out the ScreenCloud OS version of your device, please check this by turning the device off and back on again. On startup, you will see what version of ScreenCloud OS the device is running. You can also check this via the...",
     "date": "2026-02-24T21:40:53.714903+00:00"
-  },
-  {
-    "id": "2aa849835f5901d8",
-    "product_id": "screencloud",
-    "product_name": "ScreenCloud",
-    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "Related ArticlesFire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update C",
-    "link": "https://help.screencloud.com/en/articles/10115535-fire-os-hardware",
-    "summary": "Related ArticlesFire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenCloud PIXI ChangelogsHow ScreenCloud Releases Updates for Players, PIXI, and ScreenCloud OS",
-    "date": "2026-02-24T21:40:53.715324+00:00"
-  },
-  {
-    "id": "8aedd0d8861972f1",
-    "product_id": "screencloud",
-    "product_name": "ScreenCloud",
-    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "Fire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenClou",
-    "link": "https://help.screencloud.com/en/articles/10115535-fire-os-hardware",
-    "summary": "Fire OS HardwareScreenCloud Player Software ChangelogsHow To Test Pre-Release Versions of ScreenCloud OS Using Our Canary OTA Update ChannelScreenCloud PIXI ChangelogsHow ScreenCloud Releases Updates for Players, PIXI, and ScreenCloud OS",
-    "date": "2026-02-24T21:40:53.715658+00:00"
   },
   {
     "id": "7dd8edf6be4744b8",
@@ -408,25 +498,5 @@
     "link": "https://developer.apple.com/news/releases/?id=02202026b",
     "summary": "View release notes",
     "date": "2026-02-20T17:00:00+00:00"
-  },
-  {
-    "id": "719cc9930e9d4787",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "Xcode 26.3 Release Candidate 2 (17C528)",
-    "link": "https://developer.apple.com/news/releases/?id=02202026a",
-    "summary": "View downloadsView release notes",
-    "date": "2026-02-20T17:00:00+00:00"
-  },
-  {
-    "id": "b2fe11dcfd018512",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "TestFlight Update",
-    "link": "https://developer.apple.com/news/releases/?id=02172026a",
-    "summary": "View release notes",
-    "date": "2026-02-17T18:00:00+00:00"
   }
 ]
