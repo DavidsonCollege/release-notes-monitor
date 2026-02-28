@@ -5,175 +5,175 @@
     <description>Combined release notes from all teams</description>
     <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/all.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Feb 2026 16:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 20:05:54 +0000</lastBuildDate>
     <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>ScreenCloud - 4.9.0</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;ScreenCloud&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;New: Amazon Signage Stick (ASS) dedicated player. Previously ran Amazon Fire OS player on ASS device.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">e1dab31261398830</guid>
-      <pubDate>Sat, 28 Feb 2026 16:06:13 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:54 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.7.16</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;ScreenCloud&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">25cbe092cc1d040f</guid>
-      <pubDate>Sat, 28 Feb 2026 16:06:13 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:54 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.11.2</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;ScreenCloud&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;New: Support for Amazon’s Remote Device Management (RDM) for Signage Sticks, including:Screen/TV mute and unmute via HDMI-CECScreen/TV power on and off via HDMI-CECDevice rebootScreenshot and full-screen captureDeep cache clearing (player app and Android system cache)Player app restartCPU and GPU...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">06a1b6a05e1c3232</guid>
-      <pubDate>Sat, 28 Feb 2026 16:06:13 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:54 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Add tables within Pages</title>
       <link>https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Loading... Loading...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">5c619f9138a58456</guid>
-      <pubDate>Sat, 28 Feb 2026 16:06:13 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:54 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Add tables within Pages</title>
       <link>https://scribe.launchnotes.io/announcements/add-tables-within-pages</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Loading...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/add-tables-within-pages&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">e01cdf6739129daa</guid>
-      <pubDate>Sat, 28 Feb 2026 16:06:13 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:54 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password for iOS</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;1Password&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;All Mac iOS&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://releases.1password.com/&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">2b32d43f0319657f</guid>
-      <pubDate>Sat, 28 Feb 2026 16:06:13 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:54 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Add tables within Pages</title>
       <link>https://scribe.launchnotes.io/</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">498cbd13c5eccf96</guid>
-      <pubDate>Sat, 28 Feb 2026 16:06:05 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:46 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Pro Pro Team Enterprise Pages</title>
       <link>https://scribe.launchnotes.io/</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Scribe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">80015b32e1cd635a</guid>
-      <pubDate>Sat, 28 Feb 2026 16:06:05 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:46 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Office - Release Notes for Microsoft 365 Insiders</title>
       <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of release notes for Insiders, see the following articles:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">324fe31ac188c1d9</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:58 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:39 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Office - Release Notes for Microsoft 365 Apps Releases</title>
       <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of release notes by update channel and year, see the following articles:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">813b1ad089721490</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:58 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:39 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Office - Download Sizes for Microsoft 365 Apps Releases</title>
       <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of update releases sizes, see the following article:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">185d4d7625c4f74e</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:58 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:39 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Office - History for Microsoft 365 Apps Releases</title>
       <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of releases and the supported versions for each channel, see the following article:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">b9360485c3e61f3c</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:58 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:39 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Office - Security Updates for Microsoft 365 Apps Releases</title>
       <link>https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=office.com&amp;sz=64&quot; alt=&quot;Microsoft Office&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For a complete list of security updates, see the following article:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">8f2885091136ab69</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:58 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:39 +0000</pubDate>
     </item>
     <item>
       <title>EMS - 223.3.0</title>
       <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">6aa653e3e373f710</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:53 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:34 +0000</pubDate>
     </item>
     <item>
       <title>EMS - 224.1.0</title>
       <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">0d90b9c66b88bbce</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:53 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:34 +0000</pubDate>
     </item>
     <item>
       <title>EMS - 224.2.0</title>
       <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">e67335b00b3797c1</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:53 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:34 +0000</pubDate>
     </item>
     <item>
       <title>EMS - 224.3.0</title>
       <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">7aba50c4d8071e11</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:53 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:34 +0000</pubDate>
     </item>
     <item>
       <title>EMS - upgrade</title>
       <link>https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=accruent.com&amp;sz=64&quot; alt=&quot;EMS&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;EMS&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">01fe930feaaa6a09</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:53 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:34 +0000</pubDate>
     </item>
     <item>
       <title>Canva - The List designs API now supports a limit parameter to control the number of designs returned per request.</title>
       <link>https://www.canva.dev/docs/connect/api-reference/designs/list-designs/</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=canva.com&amp;sz=64&quot; alt=&quot;Canva&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Canva&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.canva.dev/docs/connect/api-reference/designs/list-designs/&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">bd79f93f14398e11</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:50 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:32 +0000</pubDate>
     </item>
     <item>
       <title>Canva - The List folder items API now supports a limit parameter to control the number of folder items returned per request.</title>
       <link>https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=canva.com&amp;sz=64&quot; alt=&quot;Canva&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Canva&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">3ea86ca7e27b125c</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:50 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:32 +0000</pubDate>
     </item>
     <item>
       <title>Canva - The List brand templates API now supports an optional limit parameter to control the number of brand templates returned per request.</title>
       <link>https://www.canva.dev/docs/connect/api-reference/brand-templates/list-brand-templates/</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=canva.com&amp;sz=64&quot; alt=&quot;Canva&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Canva&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.canva.dev/docs/connect/api-reference/brand-templates/list-brand-templates/&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">6ea47a0f0c1c8cff</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:50 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:32 +0000</pubDate>
     </item>
     <item>
       <title>Canva - The Get design export formats API is no longer in preview, and is now generally available.</title>
       <link>https://www.canva.dev/docs/connect/api-reference/designs/get-design-export-formats/</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=canva.com&amp;sz=64&quot; alt=&quot;Canva&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Canva&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.canva.dev/docs/connect/api-reference/designs/get-design-export-formats/&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">2d55f7406a42ee4b</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:50 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:32 +0000</pubDate>
     </item>
     <item>
       <title>Canva - The Get design pages API now returns page dimensions for pages in bounded designs (unbounded designs like whiteboards and Canva Docs will not have pag</title>
       <link>https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/#success-response</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=canva.com&amp;sz=64&quot; alt=&quot;Canva&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Canva&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Get design pages API now returns page dimensions for pages in bounded designs (unbounded designs like whiteboards and Canva Docs will not have page dimensions).&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/#success-response&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">91f1004bd4c3644f</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:50 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:32 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning</title>
       <link>https://releases.1password.com/mac/</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;1Password&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://releases.1password.com/mac/&quot;&gt;Read more â&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">9c09b21f403ecfc4</guid>
-      <pubDate>Sat, 28 Feb 2026 16:05:48 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 20:05:29 +0000</pubDate>
     </item>
     <item>
       <title>Google Workspace - Google Workspace Updates Weekly Recap - February 27, 2026</title>
