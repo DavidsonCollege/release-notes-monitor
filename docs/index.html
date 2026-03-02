@@ -519,7 +519,7 @@
 <body>
     <div class="container">
         <header>
-            <h1><span>&#x1F4E1;</span> Release Notes Monitor</h1>
+            <h1><span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#C91230" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M12 12l-8 8"/><path d="M20 4l-8 8"/><circle cx="12" cy="12" r="3"/><path d="M16.24 7.76a6 6 0 010 8.49"/><path d="M19.07 4.93a10 10 0 010 14.14"/></svg></span> Release Notes Monitor</h1>
             <div class="header-actions">
                 <button onclick="addTeam()" class="btn-primary">+ Add Team</button>
             </div>
@@ -527,7 +527,7 @@
 
         <!-- Setup banner (shown if no PAT configured) -->
         <div id="setup-banner" class="setup-banner hidden">
-            <h3>&#x2699;&#xFE0F; First-Time Setup</h3>
+            <h3><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 01-2.83 2.83l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83-2.83l.06-.06A1.65 1.65 0 004.68 15a1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09A1.65 1.65 0 004.6 9a1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 012.83-2.83l.06.06A1.65 1.65 0 009 4.68a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 2.83l-.06.06A1.65 1.65 0 0019.4 9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z"/></svg> First-Time Setup</h3>
             <p>To manage teams and products from this dashboard, enter your GitHub Personal Access Token (PAT). The token needs <strong>repo contents write</strong> permission and is stored only in your browser.</p>
             <div class="form-group" style="margin-top:12px">
                 <input type="password" id="pat-input" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" />
@@ -545,8 +545,8 @@
         <!-- Feed URLs section -->
         <div id="feed-urls" class="team-card" style="margin-top:32px">
             <div class="team-header" onclick="toggleSection('feed-info')">
-                <h2>&#x1F517; Feed URLs</h2>
-                <span class="chevron" id="chevron-feed-info">&#x25B6;</span>
+                <h2><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71"/></svg> Feed URLs</h2>
+                <span class="chevron" id="chevron-feed-info"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="#C91230" stroke="none" style="vertical-align:middle"><polygon points="8,4 20,12 8,20"/></svg></span>
             </div>
             <div class="team-body" id="feed-info">
                 <p class="team-description">Use these RSS feed URLs to subscribe in Slack, Zoom Team Chat, or any RSS reader.</p>
@@ -691,7 +691,7 @@
         if (config.teams.length === 0) {
             container.innerHTML = `
                 <div style="text-align:center;padding:60px 20px;color:var(--text-muted)">
-                    <p style="font-size:48px;margin-bottom:16px">&#x1F4E1;</p>
+                    <p style="font-size:48px;margin-bottom:16px"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#C91230" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M12 12l-8 8"/><path d="M20 4l-8 8"/><circle cx="12" cy="12" r="3"/><path d="M16.24 7.76a6 6 0 010 8.49"/><path d="M19.07 4.93a10 10 0 010 14.14"/></svg></p>
                     <p style="font-size:18px;margin-bottom:8px">No teams configured yet</p>
                     <p>Click <strong>"+ Add Team"</strong> to get started.</p>
                 </div>`;
@@ -702,13 +702,13 @@
             <div class="team-card">
                 <div class="team-header" onclick="toggleSection('team-${ti}')">
                     <h2>
-                        <span class="chevron" id="chevron-team-${ti}">&#x25B6;</span>
+                        <span class="chevron" id="chevron-team-${ti}"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="#C91230" stroke="none" style="vertical-align:middle"><polygon points="8,4 20,12 8,20"/></svg></span>
                         ${esc(team.name)}
                         <span class="badge">${team.products.length} products</span>
                     </h2>
                     <div class="team-meta">
                         <a class="feed-link" href="feeds/${team.id}.xml" target="_blank" onclick="event.stopPropagation()">
-                            &#x1F4C4; RSS Feed
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> RSS Feed
                         </a>
                         <button class="btn-sm" onclick="event.stopPropagation(); editTeam(${ti})">Edit</button>
                         <button class="btn-sm btn-danger" onclick="event.stopPropagation(); deleteTeam(${ti})">Remove</button>
@@ -725,7 +725,7 @@
                                     <div class="name">${esc(p.name)}</div>
                                     <div class="domain">${esc(p.domain)}</div>
                                     <span class="source-type ${p.source.type === 'rss' ? 'source-rss' : 'source-scrape'}">
-                                        ${p.source.type === 'rss' ? '&#x1F4E1; RSS' : '&#x1F50D; Scrape'}
+                                        ${p.source.type === 'rss' ? '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#C91230" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M12 12l-8 8"/><path d="M20 4l-8 8"/><circle cx="12" cy="12" r="3"/><path d="M16.24 7.76a6 6 0 010 8.49"/><path d="M19.07 4.93a10 10 0 010 14.14"/></svg> RSS' : '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg> Scrape'}
                                     </span>
                                     ${p.filter ? '<span class="source-type" style="background:#3b82f620;color:var(--accent)">Filtered</span>' : ''}
                                 </div>
@@ -749,7 +749,7 @@
         let html = `
             <div class="product-card mb-16" style="margin-bottom:12px">
                 <div class="product-info">
-                    <div class="name">&#x1F310; All Teams (Combined)</div>
+                    <div class="name"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/></svg> All Teams (Combined)</div>
                     <div class="domain"><code>${baseUrl}/feeds/all.xml</code></div>
                 </div>
                 <button class="btn-sm" onclick="copyToClipboard('${baseUrl}/feeds/all.xml')">Copy URL</button>
@@ -771,7 +771,7 @@
         html += `
             <div class="product-card" style="margin-bottom:12px">
                 <div class="product-info">
-                    <div class="name">&#x1F4E6; OPML (Import all feeds)</div>
+                    <div class="name"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><line x1="16.5" y1="9.4" x2="7.5" y2="4.21"/><path d="M21 16V8a2 2 0 00-1-1.73l-7-4a2 2 0 00-2 0l-7 4A2 2 0 003 8v8a2 2 0 001 1.73l7 4a2 2 0 002 0l7-4A2 2 0 0021 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg> OPML (Import all feeds)</div>
                     <div class="domain"><code>${baseUrl}/feeds/all-feeds.opml</code></div>
                 </div>
                 <button class="btn-sm" onclick="copyToClipboard('${baseUrl}/feeds/all-feeds.opml')">Copy URL</button>
@@ -1097,7 +1097,7 @@
         document.getElementById("preview-count").textContent = "Loading...";
         document.getElementById("preview-body").innerHTML = `
             <div class="preview-loading">
-                <p style="font-size:24px">&#x23F3;</p>
+                <p style="font-size:24px"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></p>
                 <p>Fetching feed data...</p>
             </div>`;
         document.getElementById("preview-drawer").classList.add("open");
@@ -1138,7 +1138,7 @@
                 document.getElementById("preview-count").textContent = "No items found";
                 document.getElementById("preview-body").innerHTML = `
                     <div class="preview-empty">
-                        <p style="font-size:32px">&#x1F4ED;</p>
+                        <p style="font-size:32px"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg></p>
                         <p>No feed items yet for <strong>${esc(product.name)}</strong>.</p>
                         <p style="font-size:12px">Items will appear after the GitHub Actions workflow runs and detects updates. You can trigger a manual run from the Actions tab in your repository.</p>
                     </div>`;
@@ -1172,7 +1172,7 @@
             document.getElementById("preview-count").textContent = "Error loading preview";
             document.getElementById("preview-body").innerHTML = `
                 <div class="preview-empty">
-                    <p style="font-size:32px">&#x26A0;&#xFE0F;</p>
+                    <p style="font-size:32px"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#C91230" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></p>
                     <p>Could not load feed data.</p>
                     <p style="font-size:12px">${esc(err.message)}</p>
                     <p style="font-size:12px;margin-top:8px">Make sure the workflow has run at least once and that GitHub Pages is configured to serve from the <code>/docs</code> folder.</p>
@@ -1230,7 +1230,7 @@
         const productItems = items.filter(item => matchIds.includes(item.product_id));
         if (productItems.length === 0) {
             document.getElementById("preview-count").textContent = "No items found";
-            document.getElementById("preview-body").innerHTML = '<div class="preview-empty"><p style="font-size:32px">&#x1F4ED;</p><p>No feed items match the selected filters.</p></div>';
+            document.getElementById("preview-body").innerHTML = '<div class="preview-empty"><p style="font-size:32px"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg></p><p>No feed items match the selected filters.</p></div>';
             return;
         }
         document.getElementById("preview-count").textContent = 'Showing ' + productItems.length + ' item' + (productItems.length !== 1 ? 's' : '');
