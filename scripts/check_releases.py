@@ -102,8 +102,8 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
         return []
 
     api_url = f"https://{domain}/api/v2/help_center/en-us/articles/{article_id}.json"
-    # Use basic auth (email + password), same as zendesk_api source
-    auth = (email, password) if email and password else None
+    # Use Zendesk API token auth: email/token + api_token
+    auth = (f"{email}/token", password) if email and password else None
 
     print(f"  Zendesk Article API: {api_url}")
     resp = requests.get(api_url, auth=auth, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
