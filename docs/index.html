@@ -690,7 +690,7 @@
         if (config.teams.length === 0) {
             container.innerHTML = `
                 <div style="text-align:center;padding:60px 20px;color:var(--text-muted)">
-                    <p style="font-size:48px;margin-bottom:16px"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#C91230" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M12 12l-8 8"/><path d="M20 4l-8 8"/><circle cx="12" cy="12" r="3"/><path d="M16.24 7.76a6 6 0 010 8.49"/><path d="M19.07 4.93a10 10 0 010 14.14"/></svg></p>
+                    <p style="font-size:48px;margin-bottom:16px"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#C91230" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M4 11a9 9 0 019 9"/><path d="M4 4a16 16 0 0116 16"/><circle cx="5" cy="19" r="1"/></svg></p>
                     <p style="font-size:18px;margin-bottom:8px">No teams configured yet</p>
                     <p>Click <strong>"+ Add Team"</strong> to get started.</p>
                 </div>`;
@@ -724,7 +724,7 @@
                                     <div class="name">${esc(p.name)}</div>
                                     <div class="domain">${esc(p.domain)}</div>
                                     <span class="source-type ${p.source.type === 'rss' ? 'source-rss' : 'source-scrape'}">
-                                        ${p.source.type === 'rss' ? '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#C91230" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M12 12l-8 8"/><path d="M20 4l-8 8"/><circle cx="12" cy="12" r="3"/><path d="M16.24 7.76a6 6 0 010 8.49"/><path d="M19.07 4.93a10 10 0 010 14.14"/></svg> RSS' : '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg> Scrape'}
+                                        ${p.source.type === 'rss' ? '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#C91230" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M4 11a9 9 0 019 9"/><path d="M4 4a16 16 0 0116 16"/><circle cx="5" cy="19" r="1"/></svg> RSS' : '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg> Scrape'}
                                     </span>
                                     ${p.filter ? '<span class="source-type" style="background:#3b82f620;color:var(--accent)">Filtered</span>' : ''}
                                 </div>
