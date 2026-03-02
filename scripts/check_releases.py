@@ -18,6 +18,7 @@ from xml.dom import minidom
 import traceback
 
 import requests
+import cloudscraper
 from bs4 import BeautifulSoup
 import feedparser
 
@@ -125,7 +126,8 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
     # Strategy 1: Try direct HTML scrape (works if article is public)
     try:
         print(f"  Fetching article page: {article_url}")
-        direct_resp = requests.get(article_url, headers=browser_headers, timeout=REQUEST_TIMEOUT)
+        scraper = cloudscraper.create_scraper()
+        direct_resp = scraper.get(article_url, timeout=REQUEST_TIMEOUT)
         direct_resp.raise_for_status()
         page_soup = BeautifulSoup(direct_resp.content, "html.parser")
         body_el = page_soup.select_one(".article-body, [itemprop='articleBody'], article")
