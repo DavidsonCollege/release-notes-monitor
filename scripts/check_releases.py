@@ -129,12 +129,22 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
         scraper = cloudscraper.create_scraper()
         direct_resp = scraper.get(article_url, timeout=REQUEST_TIMEOUT)
         direct_resp.raise_for_status()
+        print(f"  Direct scrape response: {direct_resp.status_code}, length={len(direct_resp.content)}")
         page_soup = BeautifulSoup(direct_resp.content, "html.parser")
+        title_tag = page_soup.title
+        print(f"  Page title: {title_tag.string.strip() if title_tag and title_tag.string else 'NO TITLE'}")
         body_el = page_soup.select_one(".article-body, [itemprop='articleBody'], article")
         if body_el:
             body_html = str(body_el)
             updated_at = datetime.now(timezone.utc).isoformat()
-            print(f"  Got article content via direct HTML scrape")
+            print(f"  Got article content via direct HTML scrape ({len(body_html)} chars)")
+        else:
+            # Debug: show what selectors are available
+            all_classes = set()
+            for el in page_soup.find_all(True):
+                for c in el.get("class", []):
+                    all_classes.add(c)
+            print(f"  [WARN] No article body found. Classes on page: {sorted(all_classes)[:30]}")
     except Exception as e:
         print(f"  [WARN] Direct HTML scrape failed: {e}")
 
