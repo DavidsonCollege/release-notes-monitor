@@ -107,10 +107,25 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
     body_html = ""
     updated_at = ""
 
+    # Browser-like headers to avoid bot detection
+    browser_headers = {
+        "User-Agent": USER_AGENT,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Cache-Control": "max-age=0",
+    }
+
     # Strategy 1: Try direct HTML scrape (works if article is public)
     try:
         print(f"  Fetching article page: {article_url}")
-        direct_resp = requests.get(article_url, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
+        direct_resp = requests.get(article_url, headers=browser_headers, timeout=REQUEST_TIMEOUT)
         direct_resp.raise_for_status()
         page_soup = BeautifulSoup(direct_resp.content, "html.parser")
         body_el = page_soup.select_one(".article-body, [itemprop='articleBody'], article")
@@ -124,7 +139,7 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
     # Strategy 2: If direct scrape failed, try session auth + API
     if not body_html and email and password:
         session = requests.Session()
-        session.headers.update({"User-Agent": USER_AGENT})
+        session.headers.update(browser_headers)
         try:
             signin_url = f"https://{domain}/hc/en-us/signin"
             print(f"  Signing in to {domain}...")
