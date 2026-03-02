@@ -173,7 +173,8 @@
       "04b3403df9f8dbae",
       "4399555ea600ca2f",
       "90141a90f0c3c9bb",
-      "924e10dbc9dde65d"
+      "924e10dbc9dde65d",
+      "1fe60b460f1b85d3"
     ],
     "ninjaone": [
       "ae3c888576a00241",
@@ -242,7 +243,9 @@
       "ee3fa9a0a51499e8",
       "fcb07f39171a4929",
       "71195b06fdc5c14e",
-      "7fd77a63aff9b1bc"
+      "7fd77a63aff9b1bc",
+      "cf881a57d6b81c67",
+      "d4ce94d18b3c194a"
     ],
     "ad-astra": [
       "2cfed85194cd4abd",
@@ -279,6 +282,7 @@
     "zoom-phone": [],
     "zoom-ai-companion": [],
     "zoom-webinars": [],
-    "zoom-clips": []
+    "zoom-clips": [],
+    "kuali-build": []
   }
 }
