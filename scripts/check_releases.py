@@ -87,26 +87,44 @@ def check_zendesk_api_source(product: dict) -> list[dict]:
 
 
 def check_zendesk_article_source(product: dict) -> list[dict]:
-    """Check a single Zendesk Help Center article for release items via session auth."""
+    """Check a single Zendesk Help Center article for release items."""
     source = product["source"]
     article_id = source.get("article_id", "")
     domain = source.get("domain", "")
     section_anchor = source.get("section_anchor", "")
     env_email = source.get("env_email", "")
     env_password = source.get("env_password", "")
-    email = os.environ.get(env_email, "")
-    password = os.environ.get(env_password, "")
+    email = os.environ.get(env_email, "") if env_email else ""
+    password = os.environ.get(env_password, "") if env_password else ""
 
     if not article_id or not domain:
         print(f"  [ERROR] Missing article_id or domain for zendesk_article source")
         return []
 
     article_url = f"https://{domain}/hc/en-us/articles/{article_id}"
-    session = requests.Session()
-    session.headers.update({"User-Agent": USER_AGENT})
+    api_url = f"https://{domain}/api/v2/help_center/en-us/articles/{article_id}.json"
 
-    # Log in via Zendesk Help Center sign-in to get session cookies
-    if email and password:
+    body_html = ""
+    updated_at = ""
+
+    # Strategy 1: Try direct HTML scrape (works if article is public)
+    try:
+        print(f"  Fetching article page: {article_url}")
+        direct_resp = requests.get(article_url, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
+        direct_resp.raise_for_status()
+        page_soup = BeautifulSoup(direct_resp.content, "html.parser")
+        body_el = page_soup.select_one(".article-body, [itemprop='articleBody'], article")
+        if body_el:
+            body_html = str(body_el)
+            updated_at = datetime.now(timezone.utc).isoformat()
+            print(f"  Got article content via direct HTML scrape")
+    except Exception as e:
+        print(f"  [WARN] Direct HTML scrape failed: {e}")
+
+    # Strategy 2: If direct scrape failed, try session auth + API
+    if not body_html and email and password:
+        session = requests.Session()
+        session.headers.update({"User-Agent": USER_AGENT})
         try:
             signin_url = f"https://{domain}/hc/en-us/signin"
             print(f"  Signing in to {domain}...")
@@ -128,35 +146,37 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
         except Exception as e:
             print(f"  [WARN] Session login failed: {e}")
 
-    # Try API endpoint with session cookies
-    api_url = f"https://{domain}/api/v2/help_center/en-us/articles/{article_id}.json"
-    print(f"  Zendesk Article API (session): {api_url}")
-
-    body_html = ""
-    updated_at = ""
-    try:
-        resp = session.get(api_url, timeout=REQUEST_TIMEOUT)
-        resp.raise_for_status()
-        data = resp.json()
-        article = data.get("article", {})
-        body_html = article.get("body", "")
-        article_url = article.get("html_url", "") or article_url
-        updated_at = article.get("updated_at", "")
-    except Exception as e:
-        print(f"  [WARN] API failed ({e}), falling back to HTML scrape")
+        # Try API with session cookies
+        print(f"  Zendesk Article API (session): {api_url}")
         try:
-            resp = session.get(article_url, timeout=REQUEST_TIMEOUT)
+            resp = session.get(api_url, timeout=REQUEST_TIMEOUT)
             resp.raise_for_status()
-            page_soup = BeautifulSoup(resp.content, "html.parser")
-            body_el = page_soup.select_one(".article-body, [itemprop='articleBody'], article")
-            body_html = str(body_el) if body_el else ""
-            updated_at = datetime.now(timezone.utc).isoformat()
-        except Exception as e2:
-            print(f"  [ERROR] HTML scrape also failed: {e2}")
-            return []
+            data = resp.json()
+            article = data.get("article", {})
+            body_html = article.get("body", "")
+            article_url = article.get("html_url", "") or article_url
+            updated_at = article.get("updated_at", "")
+            print(f"  Got article content via API")
+        except Exception as e:
+            print(f"  [WARN] API with session failed: {e}")
+
+    # Strategy 3: If still no content, try API without auth (some are public)
+    if not body_html:
+        print(f"  Trying API without auth: {api_url}")
+        try:
+            resp = requests.get(api_url, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
+            resp.raise_for_status()
+            data = resp.json()
+            article = data.get("article", {})
+            body_html = article.get("body", "")
+            article_url = article.get("html_url", "") or article_url
+            updated_at = article.get("updated_at", "")
+            print(f"  Got article content via unauthenticated API")
+        except Exception as e:
+            print(f"  [WARN] Unauthenticated API also failed: {e}")
 
     if not body_html:
-        print(f"  [WARN] Empty article body for article {article_id}")
+        print(f"  [ERROR] All strategies failed for article {article_id}")
         return []
 
     soup = BeautifulSoup(body_html, "html.parser")
