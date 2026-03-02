@@ -263,9 +263,7 @@
             "type": "zendesk_article",
             "domain": "kuali.zendesk.com",
             "article_id": "27324765179291",
-            "section_anchor": "released_2024",
-            "env_email": "KUALI_ZD_EMAIL",
-            "env_password": "KUALI_ZD_PASSWORD"
+            "section_anchor": "released_2024"
           }
         }
       ]
