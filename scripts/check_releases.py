@@ -102,24 +102,22 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
         print(f"  [ERROR] Missing article_id or domain for zendesk_article source")
         return []
 
-    api_url = f"https://{domain}/api/v2/help_center/en-us/articles/{article_id}.json"
-    auth = (f"{email}/token:{password}", "") if email and password else None
-    # Try without auth first (public articles), fall back to auth on 401
-    resp = requests.get(api_url, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
-    if resp.status_code == 401 and auth:
-        resp = requests.get(api_url, auth=auth, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
+    # Fetch the public HTML page directly (API may require auth from some IPs)
+    page_url = f"https://{domain}/hc/en-us/articles/{article_id}"
+    resp = requests.get(page_url, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
     resp.raise_for_status()
 
-    data = resp.json()
-    article = data.get("article", {})
-    body_html = article.get("body", "")
-    article_url = article.get("html_url", "")
-    updated_at = article.get("updated_at", "")
+    article_url = page_url
+    full_html = resp.text
+
+    # Extract just the article body from the full page
+    full_soup = BeautifulSoup(full_html, "html.parser")
+    article_body = full_soup.find("div", class_="article-body") or full_soup.find("article") or full_soup
+    body_html = str(article_body)
 
     if not body_html:
         print(f"  [WARN] Empty article body for article {article_id}")
         return []
-
     soup = BeautifulSoup(body_html, "html.parser")
     items = []
 
