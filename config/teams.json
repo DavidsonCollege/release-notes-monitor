@@ -257,7 +257,7 @@
           "id": "kuali-build",
           "name": "Kuali Build",
           "domain": "kuali.com",
-          "icon_url": "",
+          "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
           "release_notes_url": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#released_2024",
           "source": {
             "type": "zendesk_article",
