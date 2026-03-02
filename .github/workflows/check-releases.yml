@@ -43,6 +43,8 @@ jobs:
           BASE_URL: ${{ vars.BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
           ADASTRA_EMAIL: ${{ secrets.ADASTRA_EMAIL }}
           ADASTRA_PASSWORD: ${{ secrets.ADASTRA_PASSWORD }}
+          KUALI_ZD_EMAIL: ${{ secrets.KUALI_ZD_EMAIL }}
+          KUALI_ZD_PASSWORD: ${{ secrets.KUALI_ZD_PASSWORD }}
         run: python scripts/check_releases.py
 
       - name: Commit and push changes
@@ -57,3 +59,4 @@ jobs:
             git pull --rebase origin main
             git push
           fi
+
