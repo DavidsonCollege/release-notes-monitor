@@ -519,7 +519,7 @@
 <body>
     <div class="container">
         <header>
-            <h1><span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#C91230" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M12 12l-8 8"/><path d="M20 4l-8 8"/><circle cx="12" cy="12" r="3"/><path d="M16.24 7.76a6 6 0 010 8.49"/><path d="M19.07 4.93a10 10 0 010 14.14"/></svg></span> Release Notes Monitor</h1>
+            <h1><span><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#C91230" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M18 8A6 6 0 006 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 01-3.46 0"/><line x1="12" y1="2" x2="12" y2="2"/><circle cx="12" cy="2" r="1" fill="#C91230" stroke="none"/></svg></span> Release Notes Monitor</h1>
             <div class="header-actions">
                 <button onclick="addTeam()" class="btn-primary">+ Add Team</button>
             </div>
@@ -1082,7 +1082,7 @@
 
         // Open drawer immediately with loading state
         document.getElementById("preview-icon").src = product.icon_url;
-        document.getElementById("preview-title").textContent = product.name + " &#x2014; Feed Preview";
+        document.getElementById("preview-title").textContent = product.name + " — Feed Preview";
             // Render subproduct filter chips in preview drawer
             const previewChipsEl = document.getElementById("preview-subproduct-chips");
             if (product.subproducts) {
