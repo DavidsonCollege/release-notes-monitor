@@ -87,7 +87,7 @@ def check_zendesk_api_source(product: dict) -> list[dict]:
 
 
 def check_zendesk_article_source(product: dict) -> list[dict]:
-    """Check a single Zendesk Help Center article for release items via API."""
+    """Check a single Zendesk Help Center article for release items via session auth."""
     source = product["source"]
     article_id = source.get("article_id", "")
     domain = source.get("domain", "")
@@ -101,25 +101,66 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
         print(f"  [ERROR] Missing article_id or domain for zendesk_article source")
         return []
 
+    article_url = f"https://{domain}/hc/en-us/articles/{article_id}"
+    session = requests.Session()
+    session.headers.update({"User-Agent": USER_AGENT})
+
+    # Log in via Zendesk Help Center sign-in to get session cookies
+    if email and password:
+        try:
+            signin_url = f"https://{domain}/hc/en-us/signin"
+            print(f"  Signing in to {domain}...")
+            signin_resp = session.get(signin_url, timeout=REQUEST_TIMEOUT)
+            signin_soup = BeautifulSoup(signin_resp.content, "html.parser")
+            csrf_input = signin_soup.find("input", {"name": "authenticity_token"})
+            csrf_token = csrf_input.get("value", "") if csrf_input else ""
+            login_form = signin_soup.find("form")
+            form_action = login_form.get("action", "") if login_form else ""
+            if form_action and not form_action.startswith("http"):
+                form_action = f"https://{domain}{form_action}"
+            if not form_action:
+                form_action = f"https://{domain}/access/login"
+            login_data = {"user[email]": email, "user[password]": password}
+            if csrf_token:
+                login_data["authenticity_token"] = csrf_token
+            login_resp = session.post(form_action, data=login_data, timeout=REQUEST_TIMEOUT, allow_redirects=True)
+            print(f"  Login response: {login_resp.status_code}")
+        except Exception as e:
+            print(f"  [WARN] Session login failed: {e}")
+
+    # Try API endpoint with session cookies
     api_url = f"https://{domain}/api/v2/help_center/en-us/articles/{article_id}.json"
-    # Use Zendesk API token auth: email/token + api_token
-    auth = (f"{email}/token", password) if email and password else None
+    print(f"  Zendesk Article API (session): {api_url}")
 
-    print(f"  Zendesk Article API: {api_url}")
-    resp = requests.get(api_url, auth=auth, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
-    resp.raise_for_status()
-
-    data = resp.json()
-    article = data.get("article", {})
-    body_html = article.get("body", "")
-    article_url = article.get("html_url", "")
-    updated_at = article.get("updated_at", "")
+    body_html = ""
+    updated_at = ""
+    try:
+        resp = session.get(api_url, timeout=REQUEST_TIMEOUT)
+        resp.raise_for_status()
+        data = resp.json()
+        article = data.get("article", {})
+        body_html = article.get("body", "")
+        article_url = article.get("html_url", "") or article_url
+        updated_at = article.get("updated_at", "")
+    except Exception as e:
+        print(f"  [WARN] API failed ({e}), falling back to HTML scrape")
+        try:
+            resp = session.get(article_url, timeout=REQUEST_TIMEOUT)
+            resp.raise_for_status()
+            page_soup = BeautifulSoup(resp.content, "html.parser")
+            body_el = page_soup.select_one(".article-body, [itemprop='articleBody'], article")
+            body_html = str(body_el) if body_el else ""
+            updated_at = datetime.now(timezone.utc).isoformat()
+        except Exception as e2:
+            print(f"  [ERROR] HTML scrape also failed: {e2}")
+            return []
 
     if not body_html:
         print(f"  [WARN] Empty article body for article {article_id}")
         return []
 
     soup = BeautifulSoup(body_html, "html.parser")
+
     items = []
 
     if section_anchor:
