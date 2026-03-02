@@ -103,8 +103,11 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
         return []
 
     api_url = f"https://{domain}/api/v2/help_center/en-us/articles/{article_id}.json"
-    auth = (email, password) if email and password else None
-    resp = requests.get(api_url, auth=auth, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
+    auth = (f"{email}/token:{password}", "") if email and password else None
+    # Try without auth first (public articles), fall back to auth on 401
+    resp = requests.get(api_url, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
+    if resp.status_code == 401 and auth:
+        resp = requests.get(api_url, auth=auth, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
     resp.raise_for_status()
 
     data = resp.json()
