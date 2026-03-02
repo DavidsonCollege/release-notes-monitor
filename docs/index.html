@@ -519,7 +519,7 @@
 <body>
     <div class="container">
         <header>
-            <h1><span>ð¡</span> Release Notes Monitor</h1>
+            <h1><span>&#x1F4E1;</span> Release Notes Monitor</h1>
             <div class="header-actions">
                 <button onclick="addTeam()" class="btn-primary">+ Add Team</button>
             </div>
@@ -527,7 +527,7 @@
 
         <!-- Setup banner (shown if no PAT configured) -->
         <div id="setup-banner" class="setup-banner hidden">
-            <h3>âï¸ First-Time Setup</h3>
+            <h3>&#x2699;&#xFE0F; First-Time Setup</h3>
             <p>To manage teams and products from this dashboard, enter your GitHub Personal Access Token (PAT). The token needs <strong>repo contents write</strong> permission and is stored only in your browser.</p>
             <div class="form-group" style="margin-top:12px">
                 <input type="password" id="pat-input" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" />
@@ -545,8 +545,8 @@
         <!-- Feed URLs section -->
         <div id="feed-urls" class="team-card" style="margin-top:32px">
             <div class="team-header" onclick="toggleSection('feed-info')">
-                <h2>ð Feed URLs</h2>
-                <span class="chevron" id="chevron-feed-info">â¶</span>
+                <h2>&#x1F517; Feed URLs</h2>
+                <span class="chevron" id="chevron-feed-info">&#x25B6;</span>
             </div>
             <div class="team-body" id="feed-info">
                 <p class="team-description">Use these RSS feed URLs to subscribe in Slack, Zoom Team Chat, or any RSS reader.</p>
@@ -691,7 +691,7 @@
         if (config.teams.length === 0) {
             container.innerHTML = `
                 <div style="text-align:center;padding:60px 20px;color:var(--text-muted)">
-                    <p style="font-size:48px;margin-bottom:16px">ð¡</p>
+                    <p style="font-size:48px;margin-bottom:16px">&#x1F4E1;</p>
                     <p style="font-size:18px;margin-bottom:8px">No teams configured yet</p>
                     <p>Click <strong>"+ Add Team"</strong> to get started.</p>
                 </div>`;
@@ -702,13 +702,13 @@
             <div class="team-card">
                 <div class="team-header" onclick="toggleSection('team-${ti}')">
                     <h2>
-                        <span class="chevron" id="chevron-team-${ti}">â¶</span>
+                        <span class="chevron" id="chevron-team-${ti}">&#x25B6;</span>
                         ${esc(team.name)}
                         <span class="badge">${team.products.length} products</span>
                     </h2>
                     <div class="team-meta">
                         <a class="feed-link" href="feeds/${team.id}.xml" target="_blank" onclick="event.stopPropagation()">
-                            ð RSS Feed
+                            &#x1F4C4; RSS Feed
                         </a>
                         <button class="btn-sm" onclick="event.stopPropagation(); editTeam(${ti})">Edit</button>
                         <button class="btn-sm btn-danger" onclick="event.stopPropagation(); deleteTeam(${ti})">Remove</button>
@@ -725,7 +725,7 @@
                                     <div class="name">${esc(p.name)}</div>
                                     <div class="domain">${esc(p.domain)}</div>
                                     <span class="source-type ${p.source.type === 'rss' ? 'source-rss' : 'source-scrape'}">
-                                        ${p.source.type === 'rss' ? 'ð¡ RSS' : 'ð Scrape'}
+                                        ${p.source.type === 'rss' ? '&#x1F4E1; RSS' : '&#x1F50D; Scrape'}
                                     </span>
                                     ${p.filter ? '<span class="source-type" style="background:#3b82f620;color:var(--accent)">Filtered</span>' : ''}
                                 </div>
@@ -749,7 +749,7 @@
         let html = `
             <div class="product-card mb-16" style="margin-bottom:12px">
                 <div class="product-info">
-                    <div class="name">ð All Teams (Combined)</div>
+                    <div class="name">&#x1F310; All Teams (Combined)</div>
                     <div class="domain"><code>${baseUrl}/feeds/all.xml</code></div>
                 </div>
                 <button class="btn-sm" onclick="copyToClipboard('${baseUrl}/feeds/all.xml')">Copy URL</button>
@@ -771,7 +771,7 @@
         html += `
             <div class="product-card" style="margin-bottom:12px">
                 <div class="product-info">
-                    <div class="name">ð¦ OPML (Import all feeds)</div>
+                    <div class="name">&#x1F4E6; OPML (Import all feeds)</div>
                     <div class="domain"><code>${baseUrl}/feeds/all-feeds.opml</code></div>
                 </div>
                 <button class="btn-sm" onclick="copyToClipboard('${baseUrl}/feeds/all-feeds.opml')">Copy URL</button>
@@ -1082,7 +1082,7 @@
 
         // Open drawer immediately with loading state
         document.getElementById("preview-icon").src = product.icon_url;
-        document.getElementById("preview-title").textContent = product.name + " â Feed Preview";
+        document.getElementById("preview-title").textContent = product.name + " &#x2014; Feed Preview";
             // Render subproduct filter chips in preview drawer
             const previewChipsEl = document.getElementById("preview-subproduct-chips");
             if (product.subproducts) {
@@ -1097,7 +1097,7 @@
         document.getElementById("preview-count").textContent = "Loading...";
         document.getElementById("preview-body").innerHTML = `
             <div class="preview-loading">
-                <p style="font-size:24px">â³</p>
+                <p style="font-size:24px">&#x23F3;</p>
                 <p>Fetching feed data...</p>
             </div>`;
         document.getElementById("preview-drawer").classList.add("open");
@@ -1138,7 +1138,7 @@
                 document.getElementById("preview-count").textContent = "No items found";
                 document.getElementById("preview-body").innerHTML = `
                     <div class="preview-empty">
-                        <p style="font-size:32px">ð­</p>
+                        <p style="font-size:32px">&#x1F4ED;</p>
                         <p>No feed items yet for <strong>${esc(product.name)}</strong>.</p>
                         <p style="font-size:12px">Items will appear after the GitHub Actions workflow runs and detects updates. You can trigger a manual run from the Actions tab in your repository.</p>
                     </div>`;
@@ -1172,7 +1172,7 @@
             document.getElementById("preview-count").textContent = "Error loading preview";
             document.getElementById("preview-body").innerHTML = `
                 <div class="preview-empty">
-                    <p style="font-size:32px">â ï¸</p>
+                    <p style="font-size:32px">&#x26A0;&#xFE0F;</p>
                     <p>Could not load feed data.</p>
                     <p style="font-size:12px">${esc(err.message)}</p>
                     <p style="font-size:12px;margin-top:8px">Make sure the workflow has run at least once and that GitHub Pages is configured to serve from the <code>/docs</code> folder.</p>
@@ -1230,7 +1230,7 @@
         const productItems = items.filter(item => matchIds.includes(item.product_id));
         if (productItems.length === 0) {
             document.getElementById("preview-count").textContent = "No items found";
-            document.getElementById("preview-body").innerHTML = '<div class="preview-empty"><p style="font-size:32px">ð­</p><p>No feed items match the selected filters.</p></div>';
+            document.getElementById("preview-body").innerHTML = '<div class="preview-empty"><p style="font-size:32px">&#x1F4ED;</p><p>No feed items match the selected filters.</p></div>';
             return;
         }
         document.getElementById("preview-count").textContent = 'Showing ' + productItems.length + ' item' + (productItems.length !== 1 ? 's' : '');
