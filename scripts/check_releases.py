@@ -123,10 +123,12 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
         "Cache-Control": "max-age=0",
     }
 
+    # Create cloudscraper session (bypasses Cloudflare, reused across all strategies)
+    scraper = cloudscraper.create_scraper()
+
     # Strategy 1: Try direct HTML scrape (works if article is public)
     try:
         print(f"  Fetching article page: {article_url}")
-        scraper = cloudscraper.create_scraper()
         direct_resp = scraper.get(article_url, timeout=REQUEST_TIMEOUT)
         direct_resp.raise_for_status()
         print(f"  Direct scrape response: {direct_resp.status_code}, length={len(direct_resp.content)}")
@@ -150,8 +152,7 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
 
     # Strategy 2: If direct scrape failed, try session auth + API
     if not body_html and email and password:
-        session = requests.Session()
-        session.headers.update(browser_headers)
+        session = scraper  # Reuse cloudscraper session to bypass Cloudflare
         try:
             signin_url = f"https://{domain}/hc/en-us/signin"
             print(f"  Signing in to {domain}...")
@@ -191,7 +192,7 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
     if not body_html:
         print(f"  Trying API without auth: {api_url}")
         try:
-            resp = requests.get(api_url, headers={"User-Agent": USER_AGENT}, timeout=REQUEST_TIMEOUT)
+            resp = scraper.get(api_url, timeout=REQUEST_TIMEOUT)
             resp.raise_for_status()
             data = resp.json()
             article = data.get("article", {})
