@@ -709,13 +709,13 @@
                         <a class="feed-link" href="feeds/${team.id}.xml" target="_blank" onclick="event.stopPropagation()">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> RSS Feed
                         </a>
+                        <button class="btn-sm btn-primary" onclick="event.stopPropagation(); addProduct(${ti})">+ Add</button>
                         <button class="btn-sm" onclick="event.stopPropagation(); editTeam(${ti})">Edit</button>
                         <button class="btn-sm btn-danger" onclick="event.stopPropagation(); deleteTeam(${ti})">Remove</button>
                     </div>
                 </div>
                 <div class="team-body" id="team-${ti}">
                     <p class="team-description">${esc(team.description || '')}</p>
-                    <button class="btn-primary btn-sm mb-16" onclick="addProduct(${ti})">+ Add Product</button>
                     <div class="products-grid">
                         ${team.products.sort((a, b) => a.name.localeCompare(b.name)).map((p, pi) => `
                             <div class="product-card">
@@ -881,137 +881,82 @@
         }
     }
 
-    function productForm(p = {}) {
-        const sourceType = p.source?.type || 'scrape';
-        return `
-            <div class="form-group">
-                <label>Product Name</label>
-                <input type="text" id="m-prod-name" value="${esc(p.name || '')}" placeholder="e.g., Slack" />
-            </div>
-            <div class="form-group">
-                <label>Domain</label>
-                <input type="text" id="m-prod-domain" value="${esc(p.domain || '')}" placeholder="e.g., slack.com" />
-                <div class="help-text">Used for the favicon icon. Just the domain, no https://</div>
-            </div>
-            <div class="form-group">
-                <label>Release Notes URL</label>
-                <input type="url" id="m-prod-url" value="${esc(p.release_notes_url || '')}" placeholder="https://..." />
-                <div class="help-text">The page users will be linked to for full release notes</div>
-            </div>
-            <div class="form-group">
-                <label>Source Type</label>
-                <select id="m-prod-source-type" onchange="toggleSourceFields()">
-                    <option value="scrape" ${sourceType === 'scrape' ? 'selected' : ''}>Web Scrape</option>
-                    <option value="rss" ${sourceType === 'rss' ? 'selected' : ''}>RSS / Atom Feed</option>
-                </select>
-            </div>
-            <div id="rss-fields" class="${sourceType !== 'rss' ? 'hidden' : ''}">
+        function productForm(p = {}) {
+            const esc = (s) => s.replace(/"/g, '&quot;');
+            const releaseUrl = p.release_notes_url || (p.source && p.source.feed_url) || (p.source && p.source.url) || "";
+            const includeKw = (p.filter && p.filter.include) ? p.filter.include.join(", ") : "";
+            const excludeKw = (p.filter && p.filter.exclude) ? p.filter.exclude.join(", ") : "";
+            return `
                 <div class="form-group">
-                    <label>Feed URL</label>
-                    <input type="url" id="m-prod-feed-url" value="${esc(p.source?.feed_url || '')}" placeholder="https://example.com/feed.xml" />
-                </div>
-            </div>
-            <div id="scrape-fields" class="${sourceType !== 'scrape' ? 'hidden' : ''}">
-                <div class="form-group">
-                    <label>Scrape URL</label>
-                    <input type="url" id="m-prod-scrape-url" value="${esc(p.source?.url || '')}" placeholder="https://... (defaults to release notes URL)" />
-                    <div class="help-text">URL to scrape. Leave blank to use the release notes URL above.</div>
+                    <label>Product Name</label>
+                    <input type="text" id="m-prod-name" value="${esc(p.name || "")}" placeholder="e.g., Slack" />
                 </div>
                 <div class="form-group">
-                    <label>Item Selector</label>
-                    <input type="text" id="m-prod-selector" value="${esc(p.source?.selector || '')}" placeholder="article, .changelog-entry" />
-                    <div class="help-text">CSS selector for each release entry on the page</div>
+                    <label>Domain</label>
+                    <input type="text" id="m-prod-domain" value="${esc(p.domain || "")}" placeholder="e.g., slack.com" />
+                    <div class="help-text">Used for the favicon icon. Just the domain, no https://</div>
                 </div>
                 <div class="form-group">
-                    <label>Title Selector</label>
-                    <input type="text" id="m-prod-title-sel" value="${esc(p.source?.title_selector || 'h2, h3')}" placeholder="h2, h3" />
+                    <label>Release Notes URL</label>
+                    <input type="url" id="m-prod-url" value="${esc(releaseUrl)}" placeholder="https://..." />
+                    <div class="help-text">The page or feed where release notes are published. RSS/Atom feeds are auto-detected.</div>
                 </div>
-                <div class="form-group">
-                    <label>Summary Selector</label>
-                    <input type="text" id="m-prod-summary-sel" value="${esc(p.source?.summary_selector || 'p')}" placeholder="p, ul li" />
+                <div style="border-top:1px solid var(--border);margin-top:16px;padding-top:16px">
+                    <div class="form-group">
+                        <label>Include Keywords</label>
+                        <input type="text" id="m-prod-include" value="${esc(includeKw)}" placeholder="e.g., macOS, Sonoma, Sequoia" />
+                        <div class="help-text">Only keep items whose title contains at least one of these words. Comma-separated. Leave blank to include everything.</div>
+                    </div>
+                    <div class="form-group">
+                        <label>Exclude Keywords</label>
+                        <input type="text" id="m-prod-exclude" value="${esc(excludeKw)}" placeholder="e.g., beta, preview, visionOS" />
+                        <div class="help-text">Drop items whose title contains any of these words. Comma-separated.</div>
+                    </div>
                 </div>
-            </div>
-
-    ${p.subproducts ? `
-    <div style="border-top:1px solid var(--border);margin-top:16px;padding-top:16px">
-      <div class="form-group">
-        <label>Monitored Subproducts</label>
-        <div class="help-text" style="margin-bottom:8px">Select which subproducts to monitor for release notes</div>
-        <div class="subproduct-checklist">
-          ${p.subproducts.map((sp, i) => `
-            <label><input type="checkbox" class="subproduct-cb" data-index="${i}" checked> ${esc(sp.name)}</label>
-          `).join('')}
-        </div>
-      </div>
-    </div>` : ''}            <div style="border-top:1px solid var(--border);margin-top:16px;padding-top:16px">
-                <div class="form-group">
-                    <label>Include Keywords</label>
-                    <input type="text" id="m-prod-include" value="${esc((p.filter?.include || []).join(', '))}" placeholder="e.g., macOS, Sonoma, Sequoia" />
-                    <div class="help-text">Only keep items whose title contains at least one of these words. Comma-separated. Leave blank to include everything.</div>
-                </div>
-                <div class="form-group">
-                    <label>Exclude Keywords</label>
-                    <input type="text" id="m-prod-exclude" value="${esc((p.filter?.exclude || []).join(', '))}" placeholder="e.g., beta, preview, visionOS" />
-                    <div class="help-text">Drop items whose title contains any of these words. Comma-separated.</div>
-                </div>
-            </div>
-        `;
-    }
-
-    function toggleSourceFields() {
-        const type = document.getElementById("m-prod-source-type").value;
-        document.getElementById("rss-fields").classList.toggle("hidden", type !== "rss");
-        document.getElementById("scrape-fields").classList.toggle("hidden", type !== "scrape");
-    }
-
-    function readProductForm() {
-        const name = document.getElementById("m-prod-name").value.trim();
-        const domain = document.getElementById("m-prod-domain").value.trim();
-        const releaseUrl = document.getElementById("m-prod-url").value.trim();
-        const sourceType = document.getElementById("m-prod-source-type").value;
-
-        if (!name || !domain || !releaseUrl) {
-            setStatus("Name, domain, and release notes URL are required", "error");
-            return null;
+            `;
         }
 
-        const id = name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-        const product = {
-            id,
-            name,
-            domain,
-            icon_url: `https://www.google.com/s2/favicons?domain=${domain}&sz=64`,
-            release_notes_url: releaseUrl,
-            source: { type: sourceType },
-        };
 
-        if (sourceType === "rss") {
-            product.source.feed_url = document.getElementById("m-prod-feed-url").value.trim();
-            if (!product.source.feed_url) {
-                setStatus("Feed URL is required for RSS source", "error");
+        function readProductForm() {
+            const name = document.getElementById("m-prod-name").value.trim();
+            const domain = document.getElementById("m-prod-domain").value.trim();
+            const releaseUrl = document.getElementById("m-prod-url").value.trim();
+            if (!name || !domain || !releaseUrl) {
+                setStatus("Name, domain, and release notes URL are required", "error");
                 return null;
             }
-        } else {
-            product.source.url = document.getElementById("m-prod-scrape-url").value.trim() || releaseUrl;
-            product.source.selector = document.getElementById("m-prod-selector").value.trim() || "article, section";
-            product.source.title_selector = document.getElementById("m-prod-title-sel").value.trim() || "h2, h3";
-            product.source.date_selector = "time, .date";
-            product.source.summary_selector = document.getElementById("m-prod-summary-sel").value.trim() || "p";
+            const id = name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+            const product = {
+                id, name, domain,
+                icon_url: `https://www.google.com/s2/favicons?domain=${domain}&sz=64`,
+                release_notes_url: releaseUrl,
+                source: {},
+            };
+            const lowerUrl = releaseUrl.toLowerCase();
+            const isRss = /\.(xml|rss|atom|json)(\?|#|$)/.test(lowerUrl) ||
+                          /\/(feed|rss|atom)\/?(\?|#|$)/.test(lowerUrl);
+            if (isRss) {
+                product.source.type = 'rss';
+                product.source.feed_url = releaseUrl;
+            } else {
+                product.source.type = 'scrape';
+                product.source.url = releaseUrl;
+                product.source.selector = 'article, section, .release, .changelog-entry, li';
+                product.source.title_selector = 'h2, h3, h4';
+                product.source.date_selector = 'time, .date';
+                product.source.summary_selector = 'p';
+            }
+            const includeRaw = document.getElementById("m-prod-include").value.trim();
+            const excludeRaw = document.getElementById("m-prod-exclude").value.trim();
+            const incKeys = includeRaw ? includeRaw.split(",").map(k => k.trim()).filter(Boolean) : [];
+            const excKeys = excludeRaw ? excludeRaw.split(",").map(k => k.trim()).filter(Boolean) : [];
+            if (incKeys.length || excKeys.length) {
+                product.filter = {};
+                if (incKeys.length) product.filter.include = incKeys;
+                if (excKeys.length) product.filter.exclude = excKeys;
+            }
+            return product;
         }
-
-        // Keyword filters
-        const includeRaw = document.getElementById("m-prod-include").value.trim();
-        const excludeRaw = document.getElementById("m-prod-exclude").value.trim();
-        const includeKeys = includeRaw ? includeRaw.split(",").map(k => k.trim()).filter(Boolean) : [];
-        const excludeKeys = excludeRaw ? excludeRaw.split(",").map(k => k.trim()).filter(Boolean) : [];
-        if (includeKeys.length || excludeKeys.length) {
-            product.filter = {};
-            if (includeKeys.length) product.filter.include = includeKeys;
-            if (excludeKeys.length) product.filter.exclude = excludeKeys;
-        }
-
-        return product;
-    }
 
     // ======== Modal ========
     function showModal(title, bodyHtml, onSave) {
