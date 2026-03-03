@@ -514,6 +514,59 @@
     }
     .preview-subproduct-chip:hover { border-color: var(--accent); color: var(--text); }
     .preview-subproduct-chip.active { background: var(--accent); border-color: var(--accent); color: white; }
+
+        .toggle-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 8px 0;
+        }
+        .toggle-label {
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--text);
+        }
+        .toggle-sublabel {
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-top: 2px;
+        }
+        .toggle-switch {
+            position: relative;
+            width: 44px;
+            height: 24px;
+            flex-shrink: 0;
+        }
+        .toggle-switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+        .toggle-slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: var(--border);
+            border-radius: 24px;
+            transition: 0.2s;
+        }
+        .toggle-slider:before {
+            content: "";
+            position: absolute;
+            height: 18px;
+            width: 18px;
+            left: 3px;
+            bottom: 3px;
+            background: white;
+            border-radius: 50%;
+            transition: 0.2s;
+        }
+        .toggle-switch input:checked + .toggle-slider {
+            background: var(--accent);
+        }
+        .toggle-switch input:checked + .toggle-slider:before {
+            transform: translateX(20px);
+        }
     </style>
 </head>
 <body>
@@ -886,20 +939,31 @@
             const releaseUrl = p.release_notes_url || (p.source && p.source.feed_url) || (p.source && p.source.url) || "";
             const includeKw = (p.filter && p.filter.include) ? p.filter.include.join(", ") : "";
             const excludeKw = (p.filter && p.filter.exclude) ? p.filter.exclude.join(", ") : "";
+            const reqAuth = (p.source && p.source.requires_auth) ? true : false;
             return `
                 <div class="form-group">
-                    <label>Product Name</label>
-                    <input type="text" id="m-prod-name" value="${esc(p.name || "")}" placeholder="e.g., Slack" />
+                    <label>Product Name <span style="color:var(--danger)">*</span></label>
+                    <input type="text" id="m-prod-name" value="${esc(p.name || "")}" placeholder="e.g., Slack" required />
                 </div>
                 <div class="form-group">
-                    <label>Domain</label>
-                    <input type="text" id="m-prod-domain" value="${esc(p.domain || "")}" placeholder="e.g., slack.com" />
+                    <label>Domain <span style="color:var(--danger)">*</span></label>
+                    <input type="text" id="m-prod-domain" value="${esc(p.domain || "")}" placeholder="e.g., slack.com" required />
                     <div class="help-text">Used for the favicon icon. Just the domain, no https://</div>
                 </div>
                 <div class="form-group">
                     <label>Release Notes URL</label>
                     <input type="url" id="m-prod-url" value="${esc(releaseUrl)}" placeholder="https://..." />
-                    <div class="help-text">The page or feed where release notes are published. RSS/Atom feeds are auto-detected.</div>
+                    <div class="help-text">If not provided, the tool will attempt to find a release notes page automatically. This may take longer, and if one can\'t be found the product will not be added.</div>
+                </div>
+                <div class="toggle-row">
+                    <div>
+                        <div class="toggle-label">Requires Authentication</div>
+                        <div class="toggle-sublabel">Enable if the release notes page requires login (e.g., Zendesk, Kuali)</div>
+                    </div>
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="m-prod-auth" ${reqAuth ? "checked" : ""} />
+                        <span class="toggle-slider"></span>
+                    </label>
                 </div>
                 <div style="border-top:1px solid var(--border);margin-top:16px;padding-top:16px">
                     <div class="form-group">
@@ -921,30 +985,38 @@
             const name = document.getElementById("m-prod-name").value.trim();
             const domain = document.getElementById("m-prod-domain").value.trim();
             const releaseUrl = document.getElementById("m-prod-url").value.trim();
-            if (!name || !domain || !releaseUrl) {
-                setStatus("Name, domain, and release notes URL are required", "error");
+            const authChecked = document.getElementById("m-prod-auth").checked;
+            if (!name || !domain) {
+                setStatus("Product name and domain are required", "error");
                 return null;
             }
             const id = name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
             const product = {
                 id, name, domain,
                 icon_url: `https://www.google.com/s2/favicons?domain=${domain}&sz=64`,
-                release_notes_url: releaseUrl,
                 source: {},
             };
-            const lowerUrl = releaseUrl.toLowerCase();
-            const isRss = /\.(xml|rss|atom|json)(\?|#|$)/.test(lowerUrl) ||
-                          /\/(feed|rss|atom)\/?(\?|#|$)/.test(lowerUrl);
-            if (isRss) {
-                product.source.type = 'rss';
-                product.source.feed_url = releaseUrl;
+            if (releaseUrl) {
+                product.release_notes_url = releaseUrl;
+                const lowerUrl = releaseUrl.toLowerCase();
+                const isRss = /\.(xml|rss|atom|json)(\?|#|$)/.test(lowerUrl) ||
+                              /\/(feed|rss|atom)\/?(\?|#|$)/.test(lowerUrl);
+                if (isRss) {
+                    product.source.type = 'rss';
+                    product.source.feed_url = releaseUrl;
+                } else {
+                    product.source.type = 'scrape';
+                    product.source.url = releaseUrl;
+                    product.source.selector = 'article, section, .release, .changelog-entry, li';
+                    product.source.title_selector = 'h2, h3, h4';
+                    product.source.date_selector = 'time, .date';
+                    product.source.summary_selector = 'p';
+                }
             } else {
-                product.source.type = 'scrape';
-                product.source.url = releaseUrl;
-                product.source.selector = 'article, section, .release, .changelog-entry, li';
-                product.source.title_selector = 'h2, h3, h4';
-                product.source.date_selector = 'time, .date';
-                product.source.summary_selector = 'p';
+                product.source.type = 'auto';
+            }
+            if (authChecked) {
+                product.source.requires_auth = true;
             }
             const includeRaw = document.getElementById("m-prod-include").value.trim();
             const excludeRaw = document.getElementById("m-prod-exclude").value.trim();
