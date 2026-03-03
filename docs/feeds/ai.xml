@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AI - Release Notes</title>
+    <description/>
+    <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/ai.xml</link>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Mar 2026 13:18:47 +0000</lastBuildDate>
+    <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/ai.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>
