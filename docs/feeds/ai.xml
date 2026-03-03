@@ -5,14 +5,14 @@
     <description/>
     <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/ai.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 16:17:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 20:09:42 +0000</lastBuildDate>
     <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/ai.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Claude - March 2026</title>
       <link>https://support.claude.com/en/articles/12138966-release-notes</link>
       <description>&lt;p&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=claude.ai&amp;sz=64&quot; alt=&quot;Claude&quot; width=&quot;24&quot; height=&quot;24&quot; style=&quot;vertical-align:middle;margin-right:8px;&quot;/&gt;&lt;strong&gt;Claude&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Memory for free users Memory from chat history is now available for all Claude users, including free users. For more information, refer to the following articles: Use Claude’s chat search and memory to build on previous context&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://support.claude.com/en/articles/12138966-release-notes&quot;&gt;Read more →&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">5ed604297fb3769b</guid>
-      <pubDate>Tue, 03 Mar 2026 16:17:45 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2026 20:09:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
