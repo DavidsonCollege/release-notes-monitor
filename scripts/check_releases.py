@@ -578,6 +578,167 @@ def apply_keyword_filters(items: list[dict], product: dict) -> list[dict]:
     return filtered
 
 
+
+
+def check_intercom_article_source(product: dict) -> list[dict]:
+    """
+    Parse an Intercom Help Center article that contains structured release notes.
+
+    Expected page structure:
+      <h2>Month Year</h2>           - month section heading
+      <h3>Month Day, Year</h3>      - date heading for entries that day
+      <p><b>Feature title</b></p>   - individual entry title (bold paragraph)
+      <p>Description text...</p>    - entry description
+      <ul><li>...</li></ul>         - optional related links
+      <hr/>                         - separator between month sections
+
+    This is common across Intercom-based help centers (e.g., support.claude.com,
+    support.notion.so, help.openai.com, etc.).
+    """
+    source = product["source"]
+    url = source["url"]
+
+    # Allow overriding the heading selectors for different Intercom layouts
+    month_selector = source.get("month_selector", "h2")
+    date_selector = source.get("date_selector", "h3")
+
+    print(f"  Intercom article: {url}")
+
+    resp = make_request(url)
+    if not resp:
+        return []
+
+    soup = BeautifulSoup(resp.content, "html.parser")
+
+    # Find the article body - Intercom uses various containers
+    article_body = (
+        soup.select_one("[class*='article__body']")
+        or soup.select_one("article")
+        or soup.select_one(".intercom-interblocks-article-body")
+        or soup.select_one("[itemprop='articleBody']")
+        or soup.select_one("main")
+    )
+
+    if not article_body:
+        article_body = soup.body or soup
+        for tag in article_body.select("script, style, nav, footer, header, noscript, svg, iframe"):
+            tag.decompose()
+
+    body_text = clean_text(article_body.get_text()) if article_body else ""
+    if len(body_text) < 100:
+        print(f"  [WARN] Article body appears empty ({len(body_text)} chars). Page may require JavaScript.")
+        return []
+
+    print(f"  Article body: {len(body_text)} chars")
+
+    items = []
+    current_date = None
+
+    # Date patterns to detect date headings (e.g., "March 2, 2026")
+    date_pattern = re.compile(
+        r'(?:January|February|March|April|May|June|July|August|September|October|November|December)'
+        r'\s+\d{1,2},?\s+\d{4}',
+        re.IGNORECASE
+    )
+    # Month pattern to detect month-only headings (e.g., "March 2026")
+    month_pattern = re.compile(
+        r'^(?:January|February|March|April|May|June|July|August|September|October|November|December)'
+        r'\s+\d{4}$',
+        re.IGNORECASE
+    )
+
+    for el in article_body.find_all(True):
+        # Skip elements nested inside list items - these are reference links
+        if el.find_parent(["li", "ul", "ol"]):
+            continue
+
+        tag_name = el.name
+        text = clean_text(el.get_text())
+
+        if not text or len(text) < 2:
+            continue
+
+        # Detect month headings (h2) - skip these as entries
+        if tag_name == month_selector and month_pattern.match(text):
+            continue
+
+        # Detect date headings (h3) - set the current_date context
+        if tag_name == date_selector and date_pattern.search(text):
+            date_match = date_pattern.search(text)
+            if date_match:
+                try:
+                    date_str = date_match.group(0).replace(",", "")
+                    current_date = datetime.strptime(date_str, "%B %d %Y").replace(
+                        tzinfo=timezone.utc
+                    ).isoformat()
+                except ValueError:
+                    current_date = datetime.now(timezone.utc).isoformat()
+            continue
+
+        # Detect entry titles - bold text inside a paragraph (Intercom pattern)
+        if tag_name == "p":
+            bold_el = el.find(["b", "strong"], recursive=False)
+            if not bold_el:
+                continue
+
+            title = clean_text(bold_el.get_text())
+
+            # Skip if the paragraph is just a bold link (reference links)
+            if el.find("a", recursive=False):
+                continue
+
+            if len(title) < 3 or len(title) > 200:
+                continue
+
+            # Skip sub-feature bullets that end with ":"
+            if title.endswith(":"):
+                continue
+
+            # Skip navigation-like items and generic short phrases
+            skip_words = {"menu", "navigation", "sidebar", "footer", "header",
+                          "cookie", "privacy", "sign in", "log in", "subscribe",
+                          "contact", "about us", "our blog post", "learn more",
+                          "read more", "see more", "click here"}
+            title_lower = title.lower()
+            if any(w in title_lower for w in skip_words):
+                continue
+
+            # Skip very short generic titles
+            if len(title) < 8 and not any(c.isdigit() for c in title):
+                continue
+
+            # Gather description from following siblings
+            desc_parts = []
+            sibling = el.find_next_sibling()
+            while sibling:
+                if sibling.name in (month_selector, date_selector):
+                    break
+                if sibling.name == "hr":
+                    break
+                # Stop if we hit another top-level bold paragraph (next entry)
+                if sibling.name == "p":
+                    next_bold = sibling.find(["b", "strong"], recursive=False)
+                    if next_bold and not sibling.find("a", recursive=False):
+                        next_title = clean_text(next_bold.get_text())
+                        if len(next_title) > 3 and not next_title.endswith(":"):
+                            break
+                if sibling.name in ("p", "ul", "ol"):
+                    desc_parts.append(clean_text(sibling.get_text()))
+                sibling = sibling.find_next_sibling()
+
+            summary = truncate_text(" ".join(desc_parts))
+            link = product.get("release_notes_url", url)
+
+            items.append({
+                "title": title,
+                "link": link,
+                "summary": summary,
+                "date": current_date or datetime.now(timezone.utc).isoformat(),
+            })
+
+    print(f"  Parsed {len(items)} release entries from Intercom article")
+    return items
+
 def check_product(product: dict) -> list[dict]:
     """Check a product for new releases based on its source type."""
     source_type = product["source"]["type"]
@@ -592,6 +753,8 @@ def check_product(product: dict) -> list[dict]:
         items = check_nextjs_blog_source(product)
     elif source_type == "zendesk_article":
         return check_zendesk_article_source(product)
+    elif source_type == "intercom_article":
+        items = check_intercom_article_source(product)
     else:
         print(f"  [WARN] Unknown source type: {source_type}")
         return []
