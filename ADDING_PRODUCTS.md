@@ -60,6 +60,20 @@ For release notes published as Zendesk Help Center articles. Supports both publi
 
 **Important:** The `env_email` and `env_password` fields reference GitHub Secrets names (not the actual credentials).
 
+### Intercom Help Center Article (`intercom_article`)
+For release notes published as Intercom Help Center articles. Common across many SaaS products (e.g., Claude, Notion, OpenAI).
+
+```json
+{
+  "source": {
+    "type": "intercom_article",
+    "url": "https://support.example.com/en/articles/12345-release-notes"
+  }
+}
+```
+
+The parser detects the standard Intercom page structure: `<h2>` month headings, `<h3>` date headings, and bold `<p>` entry titles with descriptions. Optional overrides: `"month_selector"` and `"date_selector"` for non-standard Intercom layouts.
+
 ## Lessons Learned from Adding Kuali Build (Zendesk Source)
 
 ### Cloudflare Bot Protection
