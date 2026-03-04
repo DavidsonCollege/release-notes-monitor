@@ -4,6 +4,7 @@
       "id": "digital-campus",
       "name": "Digital Campus",
       "description": "Technology products managed by the Digital Campus team",
+      "slack_channel": "",
       "products": [
         {
           "id": "1password",
@@ -274,6 +275,7 @@
       "id": "ai",
       "name": "AI",
       "description": "",
+      "slack_channel": "",
       "products": [
         {
           "id": "chatgpt",
