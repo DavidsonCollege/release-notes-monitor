@@ -809,17 +809,24 @@ def generate_rss_feed(team: dict, all_items: list[dict], base_url: str) -> str:
         SubElement(item, "title").text = display_title
         SubElement(item, "link").text = item_data["link"]
 
-        # Rich description with product icon and read more link
-        icon_url = item_data.get("icon_url", "")
-        summary = item_data.get("summary", "")
-        description_html = (
-            f'<p><img src="{icon_url}" alt="{product_name}" width="24" height="24" '
-            f'style="vertical-align:middle;margin-right:8px;"/>'
-            f'<strong>{product_name}</strong></p>'
-            f'<p>{summary}</p>'
-            f'<p><a href="{item_data["link"]}">Read more \u2192</a></p>'
-        )
-        SubElement(item, "description").text = description_html
+        # Rich description with product icon and summary
+            icon_url = item_data.get("icon_url", "")
+            summary = item_data.get("summary", "")
+            description_html = (
+                f'<div style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;'
+                f'max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;'
+                f'background:#ffffff;">'
+                f'<div style="display:flex;align-items:center;margin-bottom:8px;">'
+                f'<img src="{icon_url}" alt="{product_name}" width="32" height="32" '
+                f'style="border-radius:6px;margin-right:10px;"/>'
+                f'<strong style="font-size:15px;color:#1a1a1a;">{product_name}</strong>'
+                f'</div>'
+                f'{f"<p style=\"margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;\">{summary}</p>" if summary else ""}'
+                f'<a href="{item_data["link"]}" style="color:#3b82f6;font-size:13px;'
+                f'text-decoration:none;">View release notes \u2192</a>'
+                f'</div>'
+            )
+            SubElement(item, "description").text = description_html
 
         # GUID
         guid = SubElement(item, "guid")
