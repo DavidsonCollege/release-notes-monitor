@@ -604,8 +604,13 @@ def check_intercom_article_source(product: dict) -> list[dict]:
 
     print(f"  Intercom article: {url}")
 
-    resp = make_request(url)
-    if not resp:
+    # Use cloudscraper to bypass bot detection (e.g. OpenAI blocks basic requests)
+    scraper = cloudscraper.create_scraper()
+    try:
+        resp = scraper.get(url, timeout=REQUEST_TIMEOUT)
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"  [WARN] Failed to fetch {url}: {e}")
         return []
 
     soup = BeautifulSoup(resp.content, "html.parser")
