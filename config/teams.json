@@ -292,12 +292,8 @@
           "domain": "openai.com",
           "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
           "source": {
-            "type": "scrape",
-            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-            "selector": "article, section, .release, .changelog-entry, li",
-            "title_selector": "h2, h3, h4",
-            "date_selector": "time, .date",
-            "summary_selector": "p"
+            "type": "intercom_article",
+            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
           },
           "release_notes_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
         }
