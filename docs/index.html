@@ -361,25 +361,6 @@
             margin-top: 4px;
         }
 
-        /* Status bar */
-        .status-bar {
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            background: var(--surface);
-            border-top: 1px solid var(--border);
-            padding: 10px 24px;
-            font-size: 13px;
-            color: var(--text-muted);
-            display: flex;
-            justify-content: space-between;
-            z-index: 100;
-        }
-
-        .status-bar .status-msg.success { color: var(--success); }
-        .status-bar .status-msg.error { color: var(--danger); }
-
         .chevron {
             transition: transform 0.2s;
             display: inline-block;
@@ -629,12 +610,6 @@
     <div class="preview-subproduct-chips" id="preview-subproduct-chips" style="display:none"></div>
         <div class="preview-body" id="preview-body">
         </div>
-    </div>
-
-    <!-- Status bar -->
-    <div class="status-bar">
-        <span id="status-msg">Ready</span>
-        <span id="status-info"></span>
     </div>
 
     <!-- Modal container -->
@@ -1103,12 +1078,7 @@
         if (chevron) chevron.classList.toggle("open");
     }
 
-    function setStatus(msg, type = "") {
-        const el = document.getElementById("status-msg");
-        el.textContent = msg;
-        el.className = `status-msg ${type}`;
-        document.getElementById("status-info").textContent = new Date().toLocaleTimeString();
-    }
+    function setStatus(msg, type = "") {}
 
     function copyToClipboard(text) {
         navigator.clipboard.writeText(text).then(() => {
