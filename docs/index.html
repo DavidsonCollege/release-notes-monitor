@@ -786,9 +786,6 @@
                                 <div class="product-info">
                                     <div class="name">${esc(p.name)}</div>
                                     <div class="domain">${esc(p.domain)}</div>
-                                    <span class="source-type ${p.source.type === 'rss' ? 'source-rss' : 'source-scrape'}">
-                                        ${p.source.type === 'rss' ? '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#C91230" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M4 11a9 9 0 019 9"/><path d="M4 4a16 16 0 0116 16"/><circle cx="5" cy="19" r="1"/></svg> RSS' : '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg> Scrape'}
-                                    </span>
                                     ${p.filter ? '<span class="source-type" style="background:#3b82f620;color:var(--accent)">Filtered</span>' : ''}
                                 </div>
                                 <div class="product-actions">
@@ -858,6 +855,8 @@
             const name = document.getElementById("m-team-name").value.trim();
             const desc = document.getElementById("m-team-desc").value.trim();
             if (!name) { setStatus("Team name is required", "error"); return; }
+            let domain = '';
+            try { const u = new URL(releaseUrl); domain = u.hostname; } catch(e) {}
             const id = name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
             if (config.teams.some(t => t.id === id)) {
                 setStatus("A team with this name already exists", "error");
@@ -936,10 +935,14 @@
           modalBody.innerHTML = origBody;
           modalBtns.innerHTML = origBtns;
         }
-        config.teams[ti].products.push(product);
-        await saveConfig();
-        renderTeams();
-        closeModal();
+        try {
+          config.teams[ti].products.push(product);
+          await saveConfig();
+          renderTeams();
+          closeModal();
+        } catch (err) {
+          setStatus('Failed to save product: ' + err.message, 'error');
+        }
       });
     }
 
@@ -982,11 +985,6 @@
                     <input type="text" id="m-prod-name" value="${esc(p.name || "")}" placeholder="e.g., Slack" required />
                 </div>
                 <div class="form-group">
-                    <label>Domain <span style="color:var(--danger)">*</span></label>
-                    <input type="text" id="m-prod-domain" value="${esc(p.domain || "")}" placeholder="e.g., slack.com" required />
-                    <div class="help-text">Used for the favicon icon. Just the domain, no https://</div>
-                </div>
-                <div class="form-group">
                     <label>Release Notes URL</label>
                     <input type="url" id="m-prod-url" value="${esc(releaseUrl)}" placeholder="https://..." />
                     <div class="help-text">If not provided, the tool will attempt to find a release notes page automatically. This may take longer, and if one can\'t be found the product will not be added.</div>
@@ -1019,8 +1017,7 @@
 
         function readProductForm() {
             const name = document.getElementById("m-prod-name").value.trim();
-            const domain = document.getElementById("m-prod-domain").value.trim();
-            const releaseUrl = document.getElementById("m-prod-url").value.trim();
+                        const releaseUrl = document.getElementById("m-prod-url").value.trim();
             const authChecked = document.getElementById("m-prod-auth").checked;
             if (!name || !domain) {
                 setStatus("Product name and domain are required", "error");
