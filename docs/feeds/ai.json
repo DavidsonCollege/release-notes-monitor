@@ -50,6 +50,56 @@
     "date": "2026-02-17T00:00:00+00:00"
   },
   {
+    "id": "7ac06d58854118c0",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "ChatGPT Images",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "All images you create with ChatGPT are automatically saved under My images at https://chatgpt.com/images, giving you a single place to browse, revisit, and reuse your work without having to sift through past conversations. Learn more about ChatGPT Images in our ChatGPT Images FAQ.",
+    "date": "2026-03-04T13:44:42.340194+00:00"
+  },
+  {
+    "id": "07ccb99ffa00b8e2",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Free, Go, Plus, Edu, and Pro",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-03-04T13:44:42.340689+00:00"
+  },
+  {
+    "id": "fd620cca4aced1d4",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Plus, Pro, Business and Enterprise/Edu",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "Installing the app requires the connector to be enabled for your account. Visit the ChatGPT app for Slack page to get started with installation.",
+    "date": "2026-03-04T13:44:42.351050+00:00"
+  },
+  {
+    "id": "335a3faf364d1ba2",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "GPT-5 Instant",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "The model is trained to more accurately detect and respond to potential signs of mental and emotional distress. These updates were guided by mental health experts, and help ChatGPT de-escalate conversations and point people to real-world crisis resources when appropriate, while still using language...",
+    "date": "2026-03-04T13:44:42.352982+00:00"
+  },
+  {
+    "id": "b8adcf33c8058b13",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "This update to GPT-5 Instant is starting to roll out to ChatGPT users today.",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-03-04T13:44:42.353345+00:00"
+  },
+  {
     "id": "5ed604297fb3769b",
     "product_id": "claude",
     "product_name": "Claude",
