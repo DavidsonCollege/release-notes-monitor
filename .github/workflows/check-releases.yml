@@ -44,6 +44,7 @@ jobs:
           ADASTRA_EMAIL: ${{ secrets.ADASTRA_EMAIL }}
           ADASTRA_PASSWORD: ${{ secrets.ADASTRA_PASSWORD }}
           KUALI_ZD_EMAIL: ${{ secrets.KUALI_ZD_EMAIL }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           KUALI_ZD_PASSWORD: ${{ secrets.KUALI_ZD_PASSWORD }}
         run: python scripts/check_releases.py
 
