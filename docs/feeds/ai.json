@@ -1,5 +1,55 @@
 [
   {
+    "id": "3755e2222934fe22",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Memory for free users",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-03-02T00:00:00+00:00"
+  },
+  {
+    "id": "f9e217289e0d0bea",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Scheduled tasks in Cowork",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-02-25T00:00:00+00:00"
+  },
+  {
+    "id": "6b4d40304944bcb0",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Schedule recurring tasks in Cowork",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-02-25T00:00:00+00:00"
+  },
+  {
+    "id": "c59bf22efefaf0ff",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Cowork plugins and admin controls",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-02-24T00:00:00+00:00"
+  },
+  {
+    "id": "062bd2ec1fc07ad6",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Sonnet 4.6 launch",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-02-17T00:00:00+00:00"
+  },
+  {
     "id": "5ed604297fb3769b",
     "product_id": "claude",
     "product_name": "Claude",
