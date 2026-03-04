@@ -21,6 +21,7 @@ import requests
 import cloudscraper
 from bs4 import BeautifulSoup
 import feedparser
+from slack_notify import send_slack_notifications
 
 # --- Configuration ---
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -915,6 +916,7 @@ def main():
     FEEDS_DIR.mkdir(parents=True, exist_ok=True)
 
     new_items_total = 0
+    all_new_items = []
     for team in teams:
         team_id = team["id"]
         team_name = team["name"]
@@ -1033,6 +1035,7 @@ def main():
 
         print(f"\n  Team '{team_name}': {len(new_team_items)} new items, {len(deduped_items)} total in feed")
         new_items_total += len(new_team_items)
+        all_new_items.extend(new_team_items)
 
     # Generate OPML for easy subscription
     opml_xml = generate_opml(teams, base_url)
@@ -1059,6 +1062,9 @@ def main():
     master_rss = generate_rss_feed(master_team, all_team_items, base_url)
     with open(FEEDS_DIR / "all.xml", "w", encoding="utf-8") as f:
         f.write(master_rss)
+
+    # Send Slack notifications for new items
+    send_slack_notifications(all_new_items, base_url)
 
     # Save seen data
     save_json(SEEN_FILE, seen)
