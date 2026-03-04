@@ -786,7 +786,7 @@
                     <div class="name"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/></svg> All Teams (Combined)</div>
                     <div class="domain"><code>${baseUrl}/feeds/all.xml</code></div>
                 </div>
-                <button class="btn-sm" onclick="copyToClipboard('${baseUrl}/feeds/all.xml')">Copy URL</button>
+                <button class="btn-sm" onclick="copyToClipboard('${baseUrl}/feeds/all.xml', this)">Copy URL</button>
             </div>
         `;
 
@@ -797,7 +797,7 @@
                         <div class="name">${esc(team.name)}</div>
                         <div class="domain"><code>${baseUrl}/feeds/${team.id}.xml</code></div>
                     </div>
-                    <button class="btn-sm" onclick="copyToClipboard('${baseUrl}/feeds/${team.id}.xml')">Copy URL</button>
+                    <button class="btn-sm" onclick="copyToClipboard('${baseUrl}/feeds/${team.id}.xml', this)">Copy URL</button>
                 </div>
             `;
         }
@@ -808,7 +808,7 @@
                     <div class="name"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><line x1="16.5" y1="9.4" x2="7.5" y2="4.21"/><path d="M21 16V8a2 2 0 00-1-1.73l-7-4a2 2 0 00-2 0l-7 4A2 2 0 003 8v8a2 2 0 001 1.73l7 4a2 2 0 002 0l7-4A2 2 0 0021 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg> OPML (Import all feeds)</div>
                     <div class="domain"><code>${baseUrl}/feeds/all-feeds.opml</code></div>
                 </div>
-                <button class="btn-sm" onclick="copyToClipboard('${baseUrl}/feeds/all-feeds.opml')">Copy URL</button>
+                <button class="btn-sm" onclick="copyToClipboard('${baseUrl}/feeds/all-feeds.opml', this)">Copy URL</button>
             </div>
         `;
 
@@ -1080,18 +1080,28 @@
 
     function setStatus(msg, type = "") {}
 
-    function copyToClipboard(text) {
-        navigator.clipboard.writeText(text).then(() => {
-            setStatus("Copied to clipboard!", "success");
-        }).catch(() => {
-            // Fallback
+    function copyToClipboard(text, btn) {
+        const doCopied = () => {
+            if (btn) {
+                const orig = btn.textContent;
+                btn.textContent = "Copied!";
+                btn.style.background = "var(--success)";
+                btn.style.color = "#fff";
+                setTimeout(() => {
+                    btn.textContent = orig;
+                    btn.style.background = "";
+                    btn.style.color = "";
+                }, 2000);
+            }
+        };
+        navigator.clipboard.writeText(text).then(doCopied).catch(() => {
             const ta = document.createElement("textarea");
             ta.value = text;
             document.body.appendChild(ta);
             ta.select();
             document.execCommand("copy");
             document.body.removeChild(ta);
-            setStatus("Copied to clipboard!", "success");
+            doCopied();
         });
     }
 
@@ -1111,7 +1121,7 @@
 
         // Open drawer immediately with loading state
         document.getElementById("preview-icon").src = product.icon_url;
-        document.getElementById("preview-title").textContent = product.name + " — Feed Preview";
+        document.getElementById("preview-title").textContent = product.name + " â Feed Preview";
             // Render subproduct filter chips in preview drawer
             const previewChipsEl = document.getElementById("preview-subproduct-chips");
             if (product.subproducts) {
