@@ -567,7 +567,17 @@
         .toggle-switch input:checked + .toggle-slider:before {
             transform: translateX(20px);
         }
-    </style>
+    
+      .spinner {
+        width: 36px; height: 36px;
+        border: 3px solid var(--border);
+        border-top-color: var(--primary);
+        border-radius: 50%;
+        animation: spin 0.8s linear infinite;
+        margin: 0 auto;
+      }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      </style>
 </head>
 <body>
     <div class="container">
@@ -897,14 +907,40 @@
 
     // ======== Product CRUD ========
     function addProduct(ti) {
-        showModal("Add Product", productForm(), async () => {
-            const product = readProductForm();
-            if (!product) return;
-            config.teams[ti].products.push(product);
-            await saveConfig();
-            renderTeams();
-            closeModal();
-        });
+      showModal("Add Product", productForm(), async () => {
+        const product = readProductForm();
+        if (!product) return;
+        const url = product.release_notes_url || product.source.url || product.source.feed_url;
+        if (url && product.source.type !== 'auto') {
+          // Show verification loading state
+          const modalBody = document.querySelector('.modal-body');
+          const modalBtns = document.querySelector('.modal-actions');
+          const origBody = modalBody.innerHTML;
+          const origBtns = modalBtns.innerHTML;
+          modalBody.innerHTML = '<div style="text-align:center;padding:32px 0"><div class="spinner"></div>'
+            + '<p style="margin-top:16px;font-weight:500">Verifying release notes source...</p>'
+            + '<p style="color:var(--text-secondary);font-size:13px">Checking that the URL is reachable and detecting the best parser.</p></div>';
+          modalBtns.innerHTML = '';
+          try {
+            const probeResp = await fetch(url, { mode: 'no-cors', signal: AbortSignal.timeout(10000) });
+          } catch (e) { /* no-cors will always opaque, ignore */ }
+          // If URL looks like intercom but was set to scrape, auto-correct
+          const lowerUrl = (url || '').toLowerCase();
+          const isIntercom = /\/en\/articles\/\d+/.test(lowerUrl)
+            || /help\.[^/]+\.com\/en\/articles/.test(lowerUrl)
+            || /support\.[^/]+\.com\/en\/articles/.test(lowerUrl);
+          if (isIntercom && product.source.type === 'scrape') {
+            product.source = { type: 'intercom_article', url: url };
+          }
+          // Restore modal and proceed
+          modalBody.innerHTML = origBody;
+          modalBtns.innerHTML = origBtns;
+        }
+        config.teams[ti].products.push(product);
+        await saveConfig();
+        renderTeams();
+        closeModal();
+      });
     }
 
     function editProduct(ti, pi) {
@@ -1005,13 +1041,23 @@
                     product.source.type = 'rss';
                     product.source.feed_url = releaseUrl;
                 } else {
-                    product.source.type = 'scrape';
-                    product.source.url = releaseUrl;
-                    product.source.selector = 'article, section, .release, .changelog-entry, li';
-                    product.source.title_selector = 'h2, h3, h4';
-                    product.source.date_selector = 'time, .date';
-                    product.source.summary_selector = 'p';
-                }
+            // Detect Intercom help center articles (e.g. support.claude.com, help.openai.com)
+            const isIntercom = /\/en\/articles\/\d+/.test(lowerUrl) ||
+              /intercom/.test(lowerUrl) ||
+              /help\.[^/]+\.com\/en\/articles/.test(lowerUrl) ||
+              /support\.[^/]+\.com\/en\/articles/.test(lowerUrl);
+            if (isIntercom) {
+              product.source.type = 'intercom_article';
+              product.source.url = releaseUrl;
+            } else {
+              product.source.type = 'scrape';
+              product.source.url = releaseUrl;
+              product.source.selector = 'article, section, .release, .changelog-entry, li';
+              product.source.title_selector = 'h2, h3, h4';
+              product.source.date_selector = 'time, .date';
+              product.source.summary_selector = 'p';
+            }
+          }
             } else {
                 product.source.type = 'auto';
             }
@@ -1153,11 +1199,7 @@
             if (productItems.length === 0) {
                 document.getElementById("preview-count").textContent = "No items found";
                 document.getElementById("preview-body").innerHTML = `
-                    <div class="preview-empty">
-                        <p style="font-size:32px"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg></p>
-                        <p>No feed items yet for <strong>${esc(product.name)}</strong>.</p>
-                        <p style="font-size:12px">Items will appear after the GitHub Actions workflow runs and detects updates. You can trigger a manual run from the Actions tab in your repository.</p>
-                    </div>`;
+                    <div class="preview-empty"><p style="font-size:24px">\u23f3</p><p>No feed items yet for this product.</p><p style="font-size:13px;color:var(--text-secondary);margin-top:8px">Feed data is generated when the GitHub Actions workflow runs (every 4 hours). You can also trigger it manually from the Actions tab.</p></div>`;
                 return;
             }
 
