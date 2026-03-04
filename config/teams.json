@@ -281,12 +281,8 @@
           "domain": "claude.ai",
           "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
           "source": {
-            "type": "scrape",
-            "url": "https://support.claude.com/en/articles/12138966-release-notes",
-            "selector": "article, section, .release, .changelog-entry, li",
-            "title_selector": "h2, h3, h4",
-            "date_selector": "time, .date",
-            "summary_selector": "p"
+            "type": "intercom_article",
+            "url": "https://support.claude.com/en/articles/12138966-release-notes"
           },
           "release_notes_url": "https://support.claude.com/en/articles/12138966-release-notes"
         }
