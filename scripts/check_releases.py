@@ -1035,6 +1035,8 @@ def main():
 
         print(f"\n  Team '{team_name}': {len(new_team_items)} new items, {len(deduped_items)} total in feed")
         new_items_total += len(new_team_items)
+        for item in new_team_items:
+            item["slack_channel"] = team.get("slack_channel", "")
         all_new_items.extend(new_team_items)
 
     # Generate OPML for easy subscription
