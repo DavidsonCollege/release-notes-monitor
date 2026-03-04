@@ -276,6 +276,17 @@
       "description": "",
       "products": [
         {
+          "id": "chatgpt",
+          "name": "ChatGPT",
+          "domain": "openai.com",
+          "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+          "source": {
+            "type": "intercom_article",
+            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+          },
+          "release_notes_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+        },
+        {
           "id": "claude",
           "name": "Claude",
           "domain": "claude.ai",
@@ -287,15 +298,19 @@
           "release_notes_url": "https://support.claude.com/en/articles/12138966-release-notes"
         },
         {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "domain": "openai.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+          "id": "gemini",
+          "name": "Gemini",
+          "domain": "gemini.google",
+          "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
           "source": {
-            "type": "intercom_article",
-            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+            "type": "scrape",
+            "url": "https://gemini.google/release-notes/",
+            "selector": "article, section, .release, .changelog-entry, li",
+            "title_selector": "h2, h3, h4",
+            "date_selector": "time, .date",
+            "summary_selector": "p"
           },
-          "release_notes_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+          "release_notes_url": "https://gemini.google/release-notes/"
         }
       ]
     }
