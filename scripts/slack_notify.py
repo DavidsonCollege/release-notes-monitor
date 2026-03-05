@@ -24,7 +24,7 @@ def send_slack_notifications(new_items: list[dict], base_url: str):
 
     if not token:
         if new_items:
-            print("  SLACK_BOT_TOKEN not set \u2013 skipping Slack notifications")
+            print("  SLACK_BOT_TOKEN not set – skipping Slack notifications")
         return
     if not new_items:
         return
@@ -38,7 +38,7 @@ def send_slack_notifications(new_items: list[dict], base_url: str):
         by_channel.setdefault(channel, []).append(item)
 
     if not by_channel:
-        print("  No Slack channels configured \u2013 skipping notifications")
+        print("  No Slack channels configured – skipping notifications")
         return
 
     headers = {
@@ -65,71 +65,76 @@ def send_slack_notifications(new_items: list[dict], base_url: str):
             print(f"  Slack exception ({channel}): {exc}")
 
 
+def _build_card(item: dict) -> list[dict]:
+    """Build Block Kit blocks for a single release-note item as a card."""
+    product_name = item.get("product_name", "Unknown")
+    icon_url = item.get("icon_url", "")
+    title = item.get("title", "No title")
+    summary = item.get("summary", "")
+    link = item.get("link", "")
+
+    blocks: list[dict] = []
+
+    # ── Row 1: Product icon + product name (context byline) ──
+    context_elements: list[dict] = []
+    if icon_url:
+        context_elements.append({
+            "type": "image",
+            "image_url": icon_url,
+            "alt_text": product_name,
+        })
+    context_elements.append({
+        "type": "mrkdwn",
+        "text": f"*{product_name}*",
+    })
+    blocks.append({"type": "context", "elements": context_elements})
+
+    # ── Row 2: Title (bold, prominent) ──
+    if link:
+        title_text = f"*<{link}|{title}>*"
+    else:
+        title_text = f"*{title}*"
+    blocks.append({
+        "type": "section",
+        "text": {"type": "mrkdwn", "text": title_text},
+    })
+
+    # ── Row 3: Summary or fallback link ──
+    if summary:
+        truncated = (summary[:300] + "…") if len(summary) > 300 else summary
+        detail_text = truncated
+        if link:
+            detail_text += f"\n<{link}|View full details →>"
+        blocks.append({
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": detail_text},
+        })
+    elif link:
+        blocks.append({
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": f"<{link}|Details can be found here →>"},
+        })
+
+    return blocks
+
+
 def _build_blocks(items: list[dict], base_url: str) -> list[dict]:
     """Build Block Kit blocks for a list of release-note items."""
-    count = len(items)
-    blocks: list[dict] = [
-        {
-            "type": "header",
-            "text": {
-                "type": "plain_text",
-                "text": f"\U0001f4e6 {count} New Release Note{'s' if count != 1 else ''}",
-                "emoji": True,
-            },
-        }
-    ]
+    blocks: list[dict] = []
 
-    # Group by product within the channel
-    by_product: dict[str, list[dict]] = {}
-    for item in items:
-        pname = item.get("product_name", "Unknown")
-        by_product.setdefault(pname, []).append(item)
+    for i, item in enumerate(items):
+        blocks.extend(_build_card(item))
+        # Add divider between cards (not after the last one)
+        if i < len(items) - 1:
+            blocks.append({"type": "divider"})
 
-    for product_name, prod_items in by_product.items():
-        icon_url = prod_items[0].get("icon_url", "")
-
-        # Product header with icon
-        product_block: dict = {
-            "type": "section",
-            "text": {"type": "mrkdwn", "text": f"*{product_name}*"},
-        }
-        if icon_url:
-            product_block["accessory"] = {
-                "type": "image",
-                "image_url": icon_url,
-                "alt_text": product_name,
-            }
-        blocks.append(product_block)
-
-        # Individual release notes as bullet items
-        for item in prod_items:
-            title = item.get("title", "No title")
-            summary = item.get("summary", "")
-            link = item.get("link", "")
-
-            line = f"\u2022  <{link}|{title}>" if link else f"\u2022  {title}"
-            if summary:
-                truncated = (summary[:150] + "\u2026") if len(summary) > 150 else summary
-                line += f"\n     _{truncated}_"
-
-            blocks.append({
-                "type": "section",
-                "text": {"type": "mrkdwn", "text": line},
-            })
-
-        blocks.append({"type": "divider"})
-
-    # Remove trailing divider
-    if blocks and blocks[-1].get("type") == "divider":
-        blocks.pop()
-
-    # Footer — timestamp only
+    # Footer — timestamp
     blocks.append({
         "type": "context",
         "elements": [
             {
                 "type": "mrkdwn",
-                "text": f"Updated {datetime.now(timezone.utc).strftime('%b %d, %Y %H:%M UTC')}",
+                "text": f"Updated {datetime.now(timezone.utc).strftime('%b %d, %Y %H:%M UTC')}  •  <{base_url}|Release Notes Monitor>",
             }
         ],
     })
