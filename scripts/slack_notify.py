@@ -4,7 +4,7 @@ Sends Block Kit formatted messages to per-team Slack channels
 using a bot token with chat:write scope.
 
 Each release-note item is rendered as a colored attachment card
-with a product icon byline, bold title, and summary or link.
+with a product icon, bold product name, linked title, and summary.
 """
 import os
 import json
@@ -81,21 +81,20 @@ def _build_card_blocks(item: dict) -> list[dict]:
 
     blocks: list[dict] = []
 
-    # ── Row 1: Product icon + product name (context byline) ──
-    context_elements: list[dict] = []
+    # ── Row 1: Product name (section = larger text) + icon as accessory ──
+    product_section: dict = {
+        "type": "section",
+        "text": {"type": "mrkdwn", "text": f"*{product_name}*"},
+    }
     if icon_url:
-        context_elements.append({
+        product_section["accessory"] = {
             "type": "image",
             "image_url": icon_url,
             "alt_text": product_name,
-        })
-    context_elements.append({
-        "type": "mrkdwn",
-        "text": f"*{product_name}*",
-    })
-    blocks.append({"type": "context", "elements": context_elements})
+        }
+    blocks.append(product_section)
 
-    # ── Row 2: Title (bold, prominent) ──
+    # ── Row 2: Title (bold, prominent, linked) ──
     if link:
         title_text = f"*<{link}|{title}>*"
     else:

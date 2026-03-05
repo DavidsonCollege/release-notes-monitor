@@ -9,6 +9,11 @@ Supports two modes:
   2. User Chat API (fallback) — uses Server-to-Server OAuth to post via
      /chat/users/me/messages.  Messages appear under the service account's
      identity rather than a bot.
+
+Note: Zoom's User Chat API supports only basic markdown (bold, italic,
+strikethrough).  It does NOT support inline images, markdown links
+[text](url), or horizontal rules (---).  The formatting helpers in this
+module account for these limitations.
 """
 import os
 import json
@@ -20,6 +25,9 @@ import requests
 ZOOM_OAUTH_URL = "https://zoom.us/oauth/token"
 ZOOM_CHATBOT_URL = "https://api.zoom.us/v2/im/chat/messages"
 ZOOM_CHAT_URL = "https://api.zoom.us/v2/chat/users/me/messages"
+
+# Unicode separator for visual card separation in plain-text messages
+SEPARATOR = "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
 
 # ── Authentication ────────────────────────────────────────────────────
@@ -82,10 +90,15 @@ def _get_chatbot_token() -> str:
     return token
 
 
-# ── Message formatting ────────────────────────────────────────────────
+# ── Message formatting (User Chat API — plain text with basic markdown) ──
 
-def _build_card(item: dict, base_url: str) -> str:
-    """Build a single card-style message for one release-note item."""
+def _build_user_chat_card(item: dict) -> str:
+    """Build a plain-text card for one release-note item.
+
+    Uses only formatting that the User Chat API actually supports:
+    bold (**text**), plain URLs on their own line, and Unicode
+    characters for visual structure.
+    """
     product_name = item.get("product_name", "Unknown")
     title = item.get("title", "No title")
     summary = item.get("summary", "")
@@ -93,16 +106,64 @@ def _build_card(item: dict, base_url: str) -> str:
 
     lines: list[str] = []
 
-    # Row 1: Product name
+    # Product name (bold)
     lines.append(f"**{product_name}**")
 
-    # Row 2: Title (bold, linked)
+    # Title (bold)
+    lines.append(f"**{title}**")
+
+    # Summary
+    if summary:
+        truncated = (summary[:300] + "…") if len(summary) > 300 else summary
+        lines.append(truncated)
+
+    # Link on its own line (plain URL — Zoom auto-links it)
+    if link:
+        lines.append(link)
+
+    return "\n".join(lines)
+
+
+def _build_user_chat_message(items: list[dict], base_url: str) -> str:
+    """Build a complete message for the User Chat API."""
+    cards = []
+    for item in items:
+        cards.append(_build_user_chat_card(item))
+
+    body = f"\n\n{SEPARATOR}\n\n".join(cards)
+
+    # Footer
+    now = datetime.now(timezone.utc).strftime("%b %d, %Y %H:%M UTC")
+    body += f"\n\n{SEPARATOR}\nUpdated {now}\n{base_url}"
+
+    return body
+
+
+# ── Message formatting (Chatbot API — structured card with markdown) ──
+
+def _build_chatbot_card(item: dict) -> str:
+    """Build a markdown card for the Chatbot API.
+
+    The Chatbot API supports richer markdown including links, so we
+    can use [text](url) syntax here.
+    """
+    product_name = item.get("product_name", "Unknown")
+    title = item.get("title", "No title")
+    summary = item.get("summary", "")
+    link = item.get("link", "")
+
+    lines: list[str] = []
+
+    # Product name
+    lines.append(f"**{product_name}**")
+
+    # Title (linked if URL available)
     if link:
         lines.append(f"**[{title}]({link})**")
     else:
         lines.append(f"**{title}**")
 
-    # Row 3: Summary or fallback link
+    # Summary
     if summary:
         truncated = (summary[:300] + "…") if len(summary) > 300 else summary
         lines.append(truncated)
@@ -114,17 +175,16 @@ def _build_card(item: dict, base_url: str) -> str:
     return "\n".join(lines)
 
 
-def _build_message(items: list[dict], base_url: str) -> str:
-    """Build a formatted text message for Zoom Team Chat."""
+def _build_chatbot_message(items: list[dict], base_url: str) -> str:
+    """Build a complete message for the Chatbot API."""
     cards = []
     for item in items:
-        cards.append(_build_card(item, base_url))
+        cards.append(_build_chatbot_card(item))
 
-    body = "\n\n---\n\n".join(cards)
+    body = f"\n\n{SEPARATOR}\n\n".join(cards)
 
-    # Footer
     now = datetime.now(timezone.utc).strftime("%b %d, %Y %H:%M UTC")
-    body += f"\n\n---\n_Updated {now}  •  [Release Notes Monitor]({base_url})_"
+    body += f"\n\n{SEPARATOR}\n_Updated {now}  •  [Release Notes Monitor]({base_url})_"
 
     return body
 
@@ -234,7 +294,11 @@ def send_zoom_notifications(new_items: list[dict], base_url: str):
         return
 
     for channel_id, items in by_channel.items():
-        message = _build_message(items, base_url)
+        if use_chatbot:
+            message = _build_chatbot_message(items, base_url)
+        else:
+            message = _build_user_chat_message(items, base_url)
+
         try:
             if use_chatbot:
                 ok = _send_via_chatbot(channel_id, message, token,
