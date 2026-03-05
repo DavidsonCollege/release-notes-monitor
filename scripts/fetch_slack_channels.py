@@ -1,10 +1,10 @@
 """
 Fetch Slack channels and save as a static JSON file for the dashboard.
-
 Uses the SLACK_BOT_TOKEN env var to call conversations.list,
 then writes docs/slack_channels.json with channel metadata.
 Requires bot scopes: channels:read, groups:read
 """
+
 import json
 import os
 import time
@@ -18,17 +18,15 @@ OUTPUT_PATH = Path(__file__).resolve().parent.parent / "docs" / "slack_channels.
 
 
 def fetch_channels(token: str) -> list[dict]:
-    """Fetch all non-archived channels the bot can see, handling pagination."""
     headers = {"Authorization": f"Bearer {token}"}
     params = {
         "types": "public_channel,private_channel",
         "exclude_archived": "true",
         "limit": 100,
     }
-
     channels = []
     cursor = None
-    retries = 3
+    retries = 5
 
     while True:
         if cursor:
@@ -39,6 +37,12 @@ def fetch_channels(token: str) -> list[dict]:
                 resp = requests.get(SLACK_API_URL, headers=headers,
                                     params=params, timeout=15)
                 data = resp.json()
+                # Handle rate limiting
+                if data.get("error") == "ratelimited":
+                    wait = int(resp.headers.get("Retry-After", 10))
+                    print(f"  Rate limited, waiting {wait}s (attempt {attempt + 1}/{retries})")
+                    time.sleep(wait + 1)
+                    continue
                 break
             except Exception as exc:
                 if attempt < retries - 1:
@@ -63,13 +67,15 @@ def fetch_channels(token: str) -> list[dict]:
         if not cursor:
             break
 
+        # Small delay between pages to avoid rate limits
+        time.sleep(1)
+
     channels.sort(key=lambda c: c["name"].lower())
     return channels
 
 
 def main():
     token = os.environ.get("SLACK_BOT_TOKEN", "")
-
     result = {
         "channels": [],
         "last_updated": datetime.now(timezone.utc).isoformat(),
