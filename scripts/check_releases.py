@@ -22,6 +22,7 @@ import cloudscraper
 from bs4 import BeautifulSoup
 import feedparser
 from slack_notify import send_slack_notifications
+from zoom_notify import send_zoom_notifications
 
 # --- Configuration ---
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -1037,6 +1038,7 @@ def main():
         new_items_total += len(new_team_items)
         for item in new_team_items:
             item["slack_channel"] = team.get("slack_channel", "")
+            item["zoom_channel"] = team.get("zoom_channel", "")
         all_new_items.extend(new_team_items)
 
     # Generate OPML for easy subscription
@@ -1067,6 +1069,9 @@ def main():
 
     # Send Slack notifications for new items
     send_slack_notifications(all_new_items, base_url)
+
+    # Send Zoom Team Chat notifications for new items
+    send_zoom_notifications(all_new_items, base_url)
 
     # Save seen data
     save_json(SEEN_FILE, seen)

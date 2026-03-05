@@ -5,6 +5,7 @@
       "name": "Digital Campus",
       "description": "Technology products managed by the Digital Campus team",
       "slack_channel": "C0AKDRVCDDW",
+      "zoom_channel": "",
       "products": [
         {
           "id": "1password",
@@ -276,6 +277,7 @@
       "name": "AI",
       "description": "",
       "slack_channel": "C0AJ45N511V",
+      "zoom_channel": "",
       "products": [
         {
           "id": "chatgpt",
