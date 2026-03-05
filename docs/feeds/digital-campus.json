@@ -17,7 +17,7 @@
     "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
     "link": "https://releases.1password.com/mac/",
     "summary": "",
-    "date": "2026-03-04T16:16:56.707437+00:00"
+    "date": "2026-03-05T14:47:15.006409+00:00"
   },
   {
     "id": "f54aa9f1968974da",
@@ -77,7 +77,7 @@
     "title": "The List folder items API now supports a pin_status parameter to filter for pinned items in a folder.",
     "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
     "summary": "",
-    "date": "2026-03-04T16:16:59.708346+00:00"
+    "date": "2026-03-05T14:47:18.091082+00:00"
   },
   {
     "id": "91f1004bd4c3644f",
@@ -87,7 +87,7 @@
     "title": "The Get design pages API now returns page dimensions for pages in bounded designs (unbounded designs like whiteboards and Canva Docs will not have pag",
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/#success-response",
     "summary": "The Get design pages API now returns page dimensions for pages in bounded designs (unbounded designs like whiteboards and Canva Docs will not have page dimensions).",
-    "date": "2026-03-04T16:16:59.708572+00:00"
+    "date": "2026-03-05T14:47:18.091315+00:00"
   },
   {
     "id": "2d55f7406a42ee4b",
@@ -97,7 +97,7 @@
     "title": "The Get design export formats API is no longer in preview, and is now generally available.",
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-export-formats/",
     "summary": "",
-    "date": "2026-03-04T16:16:59.708769+00:00"
+    "date": "2026-03-05T14:47:18.091536+00:00"
   },
   {
     "id": "6ea47a0f0c1c8cff",
@@ -107,7 +107,7 @@
     "title": "The List brand templates API now supports an optional limit parameter to control the number of brand templates returned per request.",
     "link": "https://www.canva.dev/docs/connect/api-reference/brand-templates/list-brand-templates/",
     "summary": "",
-    "date": "2026-03-04T16:16:59.708978+00:00"
+    "date": "2026-03-05T14:47:18.091748+00:00"
   },
   {
     "id": "3ea86ca7e27b125c",
@@ -117,7 +117,7 @@
     "title": "The List folder items API now supports a limit parameter to control the number of folder items returned per request.",
     "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
     "summary": "",
-    "date": "2026-03-04T16:16:59.709202+00:00"
+    "date": "2026-03-05T14:47:18.091951+00:00"
   },
   {
     "id": "2aa25658903bd41b",
@@ -177,7 +177,7 @@
     "title": "upgrade",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-04T16:17:02.152360+00:00"
+    "date": "2026-03-05T14:47:20.612774+00:00"
   },
   {
     "id": "7aba50c4d8071e11",
@@ -187,7 +187,7 @@
     "title": "224.3.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-04T16:17:02.152412+00:00"
+    "date": "2026-03-05T14:47:20.612827+00:00"
   },
   {
     "id": "e67335b00b3797c1",
@@ -197,7 +197,7 @@
     "title": "224.2.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-04T16:17:02.152447+00:00"
+    "date": "2026-03-05T14:47:20.612862+00:00"
   },
   {
     "id": "0d90b9c66b88bbce",
@@ -207,7 +207,7 @@
     "title": "224.1.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-04T16:17:02.152479+00:00"
+    "date": "2026-03-05T14:47:20.612894+00:00"
   },
   {
     "id": "6aa653e3e373f710",
@@ -217,7 +217,27 @@
     "title": "223.3.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-04T16:17:02.152510+00:00"
+    "date": "2026-03-05T14:47:20.612925+00:00"
+  },
+  {
+    "id": "2b2eacb2103a0a95",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improving the connection between Google Calendar events and Google Meet calls",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/improving-connection-between-Google-Calendar-events-and-Google-Meet-calls.html",
+    "summary": "For each video call, Meet attempts to connect the right Calendar event to determine:Who receives meeting records (ex. Gemini notes, recordings)Who is included in the continuous meeting chat in Google ChatWho can join the meeting without having to be manually admitted by the hostReusing the same...",
+    "date": "2026-03-04T19:01:00+00:00"
+  },
+  {
+    "id": "f7d1abdd4d6db33c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Workspace admins can allow Gemini app conversation sharing for their organizations",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/workspace-admins-can-allow-gemini-app-conversation-for-their-organizations.html",
+    "summary": "Google Workspace admins can now enable users in their organization to share their Gemini chat conversations by creating public links to share and publish. Previously, this capability was only available to users with personal Google accounts; this update expands access on web to Gemini users with a...",
+    "date": "2026-03-04T16:38:00+00:00"
   },
   {
     "id": "1fe60b460f1b85d3",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/02/introducing-nano-banana-2-in-gemini-app.html",
     "summary": "Starting today, we’re rolling out Nano Banana 2 (Gemini 3.1 Flash Image), our best image model yet, to Workspace customers in the Gemini app.Nano Banana 2, which replaces our previous Nano Banana model, brings the high-speed intelligence of Gemini Flash to visual generation, making once-exclusive...",
     "date": "2026-02-26T20:59:00+00:00"
-  },
-  {
-    "id": "166acc7f4dba2722",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini conversation history is coming to the side panel in Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/gemini-conversation-history-is-coming-to-side-panel-in-google-workspace.html",
-    "summary": "Conversation history is coming to the Gemini side panel in Google Workspace apps. This feature will enable users to resume their conversations with Gemini across sessions. This history will only persist in a single app and conversations will remain private. For example, a conversation in the side...",
-    "date": "2026-02-26T19:40:00+00:00"
-  },
-  {
-    "id": "04b3403df9f8dbae",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing a new video player experience in Google Drive on iOS devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/introducing-new-video-player-experience-in-drive-on-ios-devices.html",
-    "summary": "Last year, we announced a smoother, more modern video player in the Google Drive Android app. This updated look and feel is now available when watching Drive videos on your iOS devices.Getting startedAdmins: There is no admin control for this feature.End users: Visit the Help Center to learn more...",
-    "date": "2026-02-25T18:47:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -360,6 +360,16 @@
     "date": "2026-02-11T19:30:06Z"
   },
   {
+    "id": "37d983044ee3a3c2",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.3.1 (25D2128)",
+    "link": "https://developer.apple.com/news/releases/?id=03042026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-03-04T17:00:00+00:00"
+  },
+  {
     "id": "8307f9850121ab4c",
     "product_id": "macos",
     "product_name": "macOS",
@@ -377,7 +387,7 @@
     "title": "Security Updates for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of security updates, see the following article:",
-    "date": "2026-03-04T16:17:10.256342+00:00"
+    "date": "2026-03-05T14:47:29.549173+00:00"
   },
   {
     "id": "b9360485c3e61f3c",
@@ -387,7 +397,7 @@
     "title": "History for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
-    "date": "2026-03-04T16:17:10.256465+00:00"
+    "date": "2026-03-05T14:47:29.549298+00:00"
   },
   {
     "id": "185d4d7625c4f74e",
@@ -397,7 +407,7 @@
     "title": "Download Sizes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of update releases sizes, see the following article:",
-    "date": "2026-03-04T16:17:10.256567+00:00"
+    "date": "2026-03-05T14:47:29.549425+00:00"
   },
   {
     "id": "813b1ad089721490",
@@ -407,7 +417,7 @@
     "title": "Release Notes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes by update channel and year, see the following articles:",
-    "date": "2026-03-04T16:17:10.256666+00:00"
+    "date": "2026-03-05T14:47:29.549530+00:00"
   },
   {
     "id": "324fe31ac188c1d9",
@@ -417,7 +427,7 @@
     "title": "Release Notes for Microsoft 365 Insiders",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes for Insiders, see the following articles:",
-    "date": "2026-03-04T16:17:10.256769+00:00"
+    "date": "2026-03-05T14:47:29.549629+00:00"
   },
   {
     "id": "4861482635a84858",
@@ -537,7 +547,7 @@
     "title": "Pro Pro Team Enterprise Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-04T16:17:16.515459+00:00"
+    "date": "2026-03-05T14:47:36.302252+00:00"
   },
   {
     "id": "498cbd13c5eccf96",
@@ -547,7 +557,7 @@
     "title": "Add tables within Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-04T16:17:16.515610+00:00"
+    "date": "2026-03-05T14:47:36.302431+00:00"
   },
   {
     "id": "677dba7875fa4724",
@@ -676,7 +686,7 @@
     "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
     "title": "Announcing Windows 11 Insider Preview Build 26220.7934 (Beta Channel)",
     "link": "https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-26220-7934-beta-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.7934 (KB5077242) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (in The post Announcing Windows 11 Insider Preview Build 26220.7934...",
+    "summary": "[UPDATE 3/4/26]: We are rolling out standalone Update Build 26220.7935 (KB5082255). This update does not include anything new and is designed to test our servicing pipeline for builds in the B The post Announcing Windows 11 Insider Preview Build 26220.7934 (Beta Channel) appeared first on Windows...",
     "date": "2026-02-27T18:04:14+00:00"
   },
   {
@@ -748,6 +758,26 @@
     "link": "https://developers.zoom.us/changelog/meeting-sdk/macos/6.7.6",
     "summary": "Tags: bug-fix, sdk-version | Minor bug fixes.",
     "date": "2026-02-18T00:00:00+00:00"
+  },
+  {
+    "id": "166acc7f4dba2722",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini conversation history is coming to the side panel in Google Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/gemini-conversation-history-is-coming-to-side-panel-in-google-workspace.html",
+    "summary": "Conversation history is coming to the Gemini side panel in Google Workspace apps. This feature will enable users to resume their conversations with Gemini across sessions. This history will only persist in a single app and conversations will remain private. For example, a conversation in the side...",
+    "date": "2026-02-26T19:40:00+00:00"
+  },
+  {
+    "id": "04b3403df9f8dbae",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing a new video player experience in Google Drive on iOS devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/introducing-new-video-player-experience-in-drive-on-ios-devices.html",
+    "summary": "Last year, we announced a smoother, more modern video player in the Google Drive Android app. This updated look and feel is now available when watching Drive videos on your iOS devices.Getting startedAdmins: There is no admin control for this feature.End users: Visit the Help Center to learn more...",
+    "date": "2026-02-25T18:47:00+00:00"
   },
   {
     "id": "2b32d43f0319657f",
