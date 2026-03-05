@@ -17,7 +17,7 @@
     "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
     "link": "https://releases.1password.com/mac/",
     "summary": "",
-    "date": "2026-03-05T16:19:38.595874+00:00"
+    "date": "2026-03-05T18:33:07.579898+00:00"
   },
   {
     "id": "f54aa9f1968974da",
@@ -77,7 +77,7 @@
     "title": "The List folder items API now supports a pin_status parameter to filter for pinned items in a folder.",
     "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
     "summary": "",
-    "date": "2026-03-05T16:19:41.491595+00:00"
+    "date": "2026-03-05T18:33:10.421583+00:00"
   },
   {
     "id": "91f1004bd4c3644f",
@@ -87,7 +87,7 @@
     "title": "The Get design pages API now returns page dimensions for pages in bounded designs (unbounded designs like whiteboards and Canva Docs will not have pag",
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/#success-response",
     "summary": "The Get design pages API now returns page dimensions for pages in bounded designs (unbounded designs like whiteboards and Canva Docs will not have page dimensions).",
-    "date": "2026-03-05T16:19:41.491822+00:00"
+    "date": "2026-03-05T18:33:10.421806+00:00"
   },
   {
     "id": "2d55f7406a42ee4b",
@@ -97,7 +97,7 @@
     "title": "The Get design export formats API is no longer in preview, and is now generally available.",
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-export-formats/",
     "summary": "",
-    "date": "2026-03-05T16:19:41.492014+00:00"
+    "date": "2026-03-05T18:33:10.422004+00:00"
   },
   {
     "id": "6ea47a0f0c1c8cff",
@@ -107,7 +107,7 @@
     "title": "The List brand templates API now supports an optional limit parameter to control the number of brand templates returned per request.",
     "link": "https://www.canva.dev/docs/connect/api-reference/brand-templates/list-brand-templates/",
     "summary": "",
-    "date": "2026-03-05T16:19:41.492220+00:00"
+    "date": "2026-03-05T18:33:10.422214+00:00"
   },
   {
     "id": "3ea86ca7e27b125c",
@@ -117,7 +117,7 @@
     "title": "The List folder items API now supports a limit parameter to control the number of folder items returned per request.",
     "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
     "summary": "",
-    "date": "2026-03-05T16:19:41.492440+00:00"
+    "date": "2026-03-05T18:33:10.422416+00:00"
   },
   {
     "id": "2aa25658903bd41b",
@@ -177,7 +177,7 @@
     "title": "upgrade",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-05T16:19:44.129262+00:00"
+    "date": "2026-03-05T18:33:12.859903+00:00"
   },
   {
     "id": "7aba50c4d8071e11",
@@ -187,7 +187,7 @@
     "title": "224.3.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-05T16:19:44.129325+00:00"
+    "date": "2026-03-05T18:33:12.859949+00:00"
   },
   {
     "id": "e67335b00b3797c1",
@@ -197,7 +197,7 @@
     "title": "224.2.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-05T16:19:44.129363+00:00"
+    "date": "2026-03-05T18:33:12.859984+00:00"
   },
   {
     "id": "0d90b9c66b88bbce",
@@ -207,7 +207,7 @@
     "title": "224.1.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-05T16:19:44.129395+00:00"
+    "date": "2026-03-05T18:33:12.860015+00:00"
   },
   {
     "id": "6aa653e3e373f710",
@@ -217,7 +217,7 @@
     "title": "223.3.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-05T16:19:44.129426+00:00"
+    "date": "2026-03-05T18:33:12.860046+00:00"
   },
   {
     "id": "2b2eacb2103a0a95",
@@ -387,7 +387,7 @@
     "title": "Security Updates for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of security updates, see the following article:",
-    "date": "2026-03-05T16:19:52.454663+00:00"
+    "date": "2026-03-05T18:33:21.118728+00:00"
   },
   {
     "id": "b9360485c3e61f3c",
@@ -397,7 +397,7 @@
     "title": "History for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
-    "date": "2026-03-05T16:19:52.454783+00:00"
+    "date": "2026-03-05T18:33:21.118852+00:00"
   },
   {
     "id": "185d4d7625c4f74e",
@@ -407,7 +407,7 @@
     "title": "Download Sizes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of update releases sizes, see the following article:",
-    "date": "2026-03-05T16:19:52.454883+00:00"
+    "date": "2026-03-05T18:33:21.118956+00:00"
   },
   {
     "id": "813b1ad089721490",
@@ -417,7 +417,7 @@
     "title": "Release Notes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes by update channel and year, see the following articles:",
-    "date": "2026-03-05T16:19:52.454981+00:00"
+    "date": "2026-03-05T18:33:21.119056+00:00"
   },
   {
     "id": "324fe31ac188c1d9",
@@ -427,7 +427,7 @@
     "title": "Release Notes for Microsoft 365 Insiders",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes for Insiders, see the following articles:",
-    "date": "2026-03-05T16:19:52.455076+00:00"
+    "date": "2026-03-05T18:33:21.119154+00:00"
   },
   {
     "id": "4861482635a84858",
@@ -547,7 +547,7 @@
     "title": "Pro Pro Team Enterprise Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-05T16:19:58.844373+00:00"
+    "date": "2026-03-05T18:33:27.474715+00:00"
   },
   {
     "id": "498cbd13c5eccf96",
@@ -557,7 +557,7 @@
     "title": "Add tables within Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-05T16:19:58.844523+00:00"
+    "date": "2026-03-05T18:33:27.474872+00:00"
   },
   {
     "id": "677dba7875fa4724",

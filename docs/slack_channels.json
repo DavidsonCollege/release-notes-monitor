@@ -5,7 +5,7 @@
       "name": "2026-02-23-duo-outage",
       "is_private": false,
       "topic": "",
-      "num_members": 20
+      "num_members": 19
     },
     {
       "id": "CPWLJQVB5",
@@ -953,6 +953,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-03-05T16:18:32.453390+00:00",
+  "last_updated": "2026-03-05T18:32:00.348212+00:00",
   "fetch_status": "success"
 }
