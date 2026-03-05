@@ -31,7 +31,7 @@ def create_test_item(team: dict, base_url: str) -> dict:
     return {
         "id": f"test-{team['id']}",
         "product_id": "test-notification",
-        "product_name": "\U0001f514 Test Notification",
+        "product_name": "Test Notification",
         "icon_url": TEST_ICON_URL,
         "title": "If you see this, notifications are working!",
         "link": base_url,

@@ -2,6 +2,9 @@
 Slack bot notifications for Release Notes Monitor.
 Sends Block Kit formatted messages to per-team Slack channels
 using a bot token with chat:write scope.
+
+Each release-note item is rendered as a colored attachment card
+with a product icon byline, bold title, and summary or link.
 """
 import os
 import json
@@ -10,6 +13,9 @@ from datetime import datetime, timezone
 import requests
 
 SLACK_API_URL = "https://slack.com/api/chat.postMessage"
+
+# Accent colour for the card's left-side bar (Davidson red)
+CARD_COLOR = "#c91230"
 
 
 def send_slack_notifications(new_items: list[dict], base_url: str):
@@ -47,10 +53,10 @@ def send_slack_notifications(new_items: list[dict], base_url: str):
     }
 
     for channel, items in by_channel.items():
-        blocks = _build_blocks(items, base_url)
+        attachments = _build_attachments(items, base_url)
         payload = {
             "channel": channel,
-            "blocks": blocks,
+            "attachments": attachments,
             "text": f"{len(items)} new release note{'s' if len(items) != 1 else ''}",
         }
         try:
@@ -65,8 +71,8 @@ def send_slack_notifications(new_items: list[dict], base_url: str):
             print(f"  Slack exception ({channel}): {exc}")
 
 
-def _build_card(item: dict) -> list[dict]:
-    """Build Block Kit blocks for a single release-note item as a card."""
+def _build_card_blocks(item: dict) -> list[dict]:
+    """Build Block Kit blocks for a single release-note item."""
     product_name = item.get("product_name", "Unknown")
     icon_url = item.get("icon_url", "")
     title = item.get("title", "No title")
@@ -118,25 +124,38 @@ def _build_card(item: dict) -> list[dict]:
     return blocks
 
 
-def _build_blocks(items: list[dict], base_url: str) -> list[dict]:
-    """Build Block Kit blocks for a list of release-note items."""
-    blocks: list[dict] = []
+def _build_attachments(items: list[dict], base_url: str) -> list[dict]:
+    """Build a list of Slack attachments — one colored card per item.
 
-    for i, item in enumerate(items):
-        blocks.extend(_build_card(item))
-        # Add divider between cards (not after the last one)
-        if i < len(items) - 1:
-            blocks.append({"type": "divider"})
+    Each attachment gets a colored left border (CARD_COLOR) and contains
+    Block Kit blocks for that item.  A final footer attachment shows
+    the timestamp and dashboard link.
+    """
+    attachments: list[dict] = []
 
-    # Footer — timestamp
-    blocks.append({
-        "type": "context",
-        "elements": [
+    for item in items:
+        attachments.append({
+            "color": CARD_COLOR,
+            "blocks": _build_card_blocks(item),
+        })
+
+    # Footer attachment (no color bar)
+    attachments.append({
+        "color": "#e0e0e0",
+        "blocks": [
             {
-                "type": "mrkdwn",
-                "text": f"Updated {datetime.now(timezone.utc).strftime('%b %d, %Y %H:%M UTC')}  •  <{base_url}|Release Notes Monitor>",
+                "type": "context",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": (
+                            f"Updated {datetime.now(timezone.utc).strftime('%b %d, %Y %H:%M UTC')}"
+                            f"  •  <{base_url}|Release Notes Monitor>"
+                        ),
+                    }
+                ],
             }
         ],
     })
 
-    return blocks
+    return attachments
