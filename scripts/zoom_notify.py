@@ -47,7 +47,7 @@ def _get_access_token() -> str:
 def _build_message(items: list[dict], base_url: str) -> str:
     """Build a formatted text message for Zoom Team Chat."""
     count = len(items)
-    lines = [f"📣 **{count} New Release Note{'s' if count != 1 else ''}**\n"]
+    lines = [f"\U0001f4e6 **{count} New Release Note{'s' if count != 1 else ''}**\n"]
 
     # Group by product
     by_product: dict[str, list[dict]] = {}
@@ -56,24 +56,26 @@ def _build_message(items: list[dict], base_url: str) -> str:
         by_product.setdefault(pname, []).append(item)
 
     for product_name, prod_items in by_product.items():
+        lines.append(f"**{product_name}**")
+
         for item in prod_items:
             title = item.get("title", "No title")
             summary = item.get("summary", "")
             link = item.get("link", "")
 
-            lines.append(f"**{product_name}**")
             if link:
-                lines.append(f"[{title}]({link})")
+                lines.append(f"\u2022  [{title}]({link})")
             else:
-                lines.append(title)
+                lines.append(f"\u2022  {title}")
             if summary:
-                truncated = (summary[:200] + "...") if len(summary) > 200 else summary
-                lines.append(truncated)
-            lines.append("")  # blank line between items
+                truncated = (summary[:150] + "\u2026") if len(summary) > 150 else summary
+                lines.append(f"     _{truncated}_")
 
-    # Footer
+        lines.append("")  # blank line between products
+
+    # Footer — timestamp only
     now = datetime.now(timezone.utc).strftime("%b %d, %Y %H:%M UTC")
-    lines.append(f"---\n[View Dashboard]({base_url}) | Updated {now}")
+    lines.append(f"---\nUpdated {now}")
 
     return "\n".join(lines)
 

@@ -73,7 +73,7 @@ def _build_blocks(items: list[dict], base_url: str) -> list[dict]:
             "type": "header",
             "text": {
                 "type": "plain_text",
-                "text": f"\ud83d\udce3 {count} New Release Note{'s' if count != 1 else ''}",
+                "text": f"\U0001f4e6 {count} New Release Note{'s' if count != 1 else ''}",
                 "emoji": True,
             },
         }
@@ -87,43 +87,49 @@ def _build_blocks(items: list[dict], base_url: str) -> list[dict]:
 
     for product_name, prod_items in by_product.items():
         icon_url = prod_items[0].get("icon_url", "")
+
+        # Product header with icon
+        product_block: dict = {
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": f"*{product_name}*"},
+        }
+        if icon_url:
+            product_block["accessory"] = {
+                "type": "image",
+                "image_url": icon_url,
+                "alt_text": product_name,
+            }
+        blocks.append(product_block)
+
+        # Individual release notes as bullet items
         for item in prod_items:
             title = item.get("title", "No title")
             summary = item.get("summary", "")
             link = item.get("link", "")
 
-            text = f"*{product_name}*\n<{link}|{title}>"
+            line = f"\u2022  <{link}|{title}>" if link else f"\u2022  {title}"
             if summary:
-                truncated = (summary[:200] + "...") if len(summary) > 200 else summary
-                text += f"\n{truncated}"
+                truncated = (summary[:150] + "\u2026") if len(summary) > 150 else summary
+                line += f"\n     _{truncated}_"
 
-            block: dict = {
+            blocks.append({
                 "type": "section",
-                "text": {"type": "mrkdwn", "text": text},
-            }
-            if icon_url:
-                block["accessory"] = {
-                    "type": "image",
-                    "image_url": icon_url,
-                    "alt_text": product_name,
-                }
-            blocks.append(block)
-            blocks.append({"type": "divider"})
+                "text": {"type": "mrkdwn", "text": line},
+            })
+
+        blocks.append({"type": "divider"})
 
     # Remove trailing divider
     if blocks and blocks[-1].get("type") == "divider":
         blocks.pop()
 
-    # Footer
+    # Footer — timestamp only
     blocks.append({
         "type": "context",
         "elements": [
             {
                 "type": "mrkdwn",
-                "text": (
-                    f"<{base_url}|View Dashboard> | "
-                    f"Updated {datetime.now(timezone.utc).strftime('%b %d, %Y %H:%M UTC')}"
-                ),
+                "text": f"Updated {datetime.now(timezone.utc).strftime('%b %d, %Y %H:%M UTC')}",
             }
         ],
     })
