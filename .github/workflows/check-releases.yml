@@ -44,6 +44,14 @@ jobs:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
         run: python scripts/fetch_slack_channels.py
 
+      - name: Fetch Zoom channels for dashboard
+        continue-on-error: true
+        env:
+          ZOOM_ACCOUNT_ID: ${{ secrets.ZOOM_ACCOUNT_ID }}
+          ZOOM_CLIENT_ID: ${{ secrets.ZOOM_CLIENT_ID }}
+          ZOOM_CLIENT_SECRET: ${{ secrets.ZOOM_CLIENT_SECRET }}
+        run: python scripts/fetch_zoom_channels.py
+
       - name: Run release notes checker
         env:
           BASE_URL: ${{ vars.BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
@@ -53,13 +61,16 @@ jobs:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SLACK_DEFAULT_CHANNEL: ${{ vars.SLACK_DEFAULT_CHANNEL }}
           KUALI_ZD_PASSWORD: ${{ secrets.KUALI_ZD_PASSWORD }}
+          ZOOM_ACCOUNT_ID: ${{ secrets.ZOOM_ACCOUNT_ID }}
+          ZOOM_CLIENT_ID: ${{ secrets.ZOOM_CLIENT_ID }}
+          ZOOM_CLIENT_SECRET: ${{ secrets.ZOOM_CLIENT_SECRET }}
         run: python scripts/check_releases.py
 
       - name: Commit and push changes
         run: |
           git config user.name "Release Notes Bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data/ docs/feeds/ docs/slack_channels.json
+          git add data/ docs/feeds/ docs/slack_channels.json docs/zoom_channels.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
@@ -67,4 +78,3 @@ jobs:
             git pull --rebase origin main
             git push
           fi
-
