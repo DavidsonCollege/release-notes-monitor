@@ -220,6 +220,7 @@ def _send_via_chatbot(channel_id: str, message: str, token: str,
     payload = {
         "robot_jid": robot_jid,
         "to_jid": to_jid,
+        "user_jid": robot_jid,
         "account_id": account_id,
         "is_markdown_support": True,
         "content": {
