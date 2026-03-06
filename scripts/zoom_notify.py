@@ -211,7 +211,6 @@ def _send_via_chatbot(channel_id: str, message: str, token: str,
                 {
                     "type": "message",
                     "text": message,
-                    "is_markdown_support": True,
                 }
             ],
         },
