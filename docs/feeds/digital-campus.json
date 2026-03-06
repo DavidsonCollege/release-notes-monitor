@@ -17,7 +17,7 @@
     "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
     "link": "https://releases.1password.com/mac/",
     "summary": "",
-    "date": "2026-03-06T16:18:49.554094+00:00"
+    "date": "2026-03-06T17:17:28.969929+00:00"
   },
   {
     "id": "f54aa9f1968974da",
@@ -77,7 +77,7 @@
     "title": "The List folder items API now supports a pin_status parameter to filter for pinned items in a folder.",
     "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
     "summary": "",
-    "date": "2026-03-06T16:18:52.272879+00:00"
+    "date": "2026-03-06T17:17:31.629793+00:00"
   },
   {
     "id": "91f1004bd4c3644f",
@@ -87,7 +87,7 @@
     "title": "The Get design pages API now returns page dimensions for pages in bounded designs (unbounded designs like whiteboards and Canva Docs will not have pag",
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/#success-response",
     "summary": "The Get design pages API now returns page dimensions for pages in bounded designs (unbounded designs like whiteboards and Canva Docs will not have page dimensions).",
-    "date": "2026-03-06T16:18:52.273101+00:00"
+    "date": "2026-03-06T17:17:31.630091+00:00"
   },
   {
     "id": "2d55f7406a42ee4b",
@@ -97,7 +97,7 @@
     "title": "The Get design export formats API is no longer in preview, and is now generally available.",
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-export-formats/",
     "summary": "",
-    "date": "2026-03-06T16:18:52.273296+00:00"
+    "date": "2026-03-06T17:17:31.630321+00:00"
   },
   {
     "id": "6ea47a0f0c1c8cff",
@@ -107,7 +107,7 @@
     "title": "The List brand templates API now supports an optional limit parameter to control the number of brand templates returned per request.",
     "link": "https://www.canva.dev/docs/connect/api-reference/brand-templates/list-brand-templates/",
     "summary": "",
-    "date": "2026-03-06T16:18:52.273522+00:00"
+    "date": "2026-03-06T17:17:31.630532+00:00"
   },
   {
     "id": "3ea86ca7e27b125c",
@@ -117,7 +117,7 @@
     "title": "The List folder items API now supports a limit parameter to control the number of folder items returned per request.",
     "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
     "summary": "",
-    "date": "2026-03-06T16:18:52.273734+00:00"
+    "date": "2026-03-06T17:17:31.630741+00:00"
   },
   {
     "id": "2aa25658903bd41b",
@@ -177,7 +177,7 @@
     "title": "upgrade",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-06T16:18:54.664869+00:00"
+    "date": "2026-03-06T17:17:34.278172+00:00"
   },
   {
     "id": "7aba50c4d8071e11",
@@ -187,7 +187,7 @@
     "title": "224.3.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-06T16:18:54.664917+00:00"
+    "date": "2026-03-06T17:17:34.278222+00:00"
   },
   {
     "id": "e67335b00b3797c1",
@@ -197,7 +197,7 @@
     "title": "224.2.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-06T16:18:54.664953+00:00"
+    "date": "2026-03-06T17:17:34.278257+00:00"
   },
   {
     "id": "0d90b9c66b88bbce",
@@ -207,7 +207,7 @@
     "title": "224.1.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-06T16:18:54.664986+00:00"
+    "date": "2026-03-06T17:17:34.278289+00:00"
   },
   {
     "id": "6aa653e3e373f710",
@@ -217,7 +217,17 @@
     "title": "223.3.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-06T16:18:54.665018+00:00"
+    "date": "2026-03-06T17:17:34.278319+00:00"
+  },
+  {
+    "id": "03dd5689b456c9c7",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New dynamic data source support for dropdowns in Google Chat apps",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/new-dynamic-data-source-support-for-dropdowns-in-Google-Chat-apps.html",
+    "summary": "Developers can now build more robust and efficient Google Chat apps using dynamic data sources for dropdown menus. With this update, developers can connect dropdowns to external data sources that query and filter results in real-time as a user types, addressing previous scalability issues caused by...",
+    "date": "2026-03-06T16:15:00+00:00"
   },
   {
     "id": "2b2eacb2103a0a95",
@@ -260,16 +270,6 @@
     "date": "2026-02-27T22:32:00+00:00"
   },
   {
-    "id": "adfc41ff921de8dc",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing Nano Banana 2 in the Gemini app",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/introducing-nano-banana-2-in-gemini-app.html",
-    "summary": "Starting today, we’re rolling out Nano Banana 2 (Gemini 3.1 Flash Image), our best image model yet, to Workspace customers in the Gemini app.Nano Banana 2, which replaces our previous Nano Banana model, brings the high-speed intelligence of Gemini Flash to visual generation, making once-exclusive...",
-    "date": "2026-02-26T20:59:00+00:00"
-  },
-  {
     "id": "f797e86c07e10880",
     "product_id": "korbyt",
     "product_name": "Korbyt",
@@ -310,56 +310,6 @@
     "date": "2025-12-05T15:05:58+00:00"
   },
   {
-    "id": "54efe7748c92afb7",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "More Boolean Logic Options in Workflow and Conditional Visibility",
-    "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "25f39b9b77dcdb8c",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Private Data",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/21933242739227-Form-Gadget-Overview#private_data",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "267acb7c7073d4d2",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Apply field changes to older versions of form",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#apply_field_changes",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "6c14d4671587cc8e",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "External user approvals",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/42653174972059-Can-I-Route-to-External-Users",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "5fc19c27a002186e",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Document History",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/21915631807771-Form-Settings#additional_options",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
     "id": "37d983044ee3a3c2",
     "product_id": "macos",
     "product_name": "macOS",
@@ -387,7 +337,7 @@
     "title": "Security Updates for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of security updates, see the following article:",
-    "date": "2026-03-06T16:19:03.441711+00:00"
+    "date": "2026-03-06T17:17:41.564372+00:00"
   },
   {
     "id": "b9360485c3e61f3c",
@@ -397,7 +347,7 @@
     "title": "History for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
-    "date": "2026-03-06T16:19:03.441828+00:00"
+    "date": "2026-03-06T17:17:41.564494+00:00"
   },
   {
     "id": "185d4d7625c4f74e",
@@ -407,7 +357,7 @@
     "title": "Download Sizes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of update releases sizes, see the following article:",
-    "date": "2026-03-06T16:19:03.441931+00:00"
+    "date": "2026-03-06T17:17:41.564595+00:00"
   },
   {
     "id": "813b1ad089721490",
@@ -417,7 +367,7 @@
     "title": "Release Notes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes by update channel and year, see the following articles:",
-    "date": "2026-03-06T16:19:03.442033+00:00"
+    "date": "2026-03-06T17:17:41.564694+00:00"
   },
   {
     "id": "324fe31ac188c1d9",
@@ -427,7 +377,7 @@
     "title": "Release Notes for Microsoft 365 Insiders",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes for Insiders, see the following articles:",
-    "date": "2026-03-06T16:19:03.442132+00:00"
+    "date": "2026-03-06T17:17:41.564789+00:00"
   },
   {
     "id": "4861482635a84858",
@@ -547,7 +497,7 @@
     "title": "Pro Pro Team Enterprise Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-06T16:19:09.523595+00:00"
+    "date": "2026-03-06T17:17:47.976654+00:00"
   },
   {
     "id": "498cbd13c5eccf96",
@@ -557,7 +507,17 @@
     "title": "Add tables within Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-06T16:19:09.523738+00:00"
+    "date": "2026-03-06T17:17:47.976804+00:00"
+  },
+  {
+    "id": "97a112bfc59de73a",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "New supported markdown types for rich text in Block Kit",
+    "link": "https://docs.slack.dev/changelog/2026/03/06/block-kit-rich-text",
+    "summary": "You can now use the following new supported markdown types for rich text when making use of Block Kit in your apps:",
+    "date": "2026-03-06T00:00:00+00:00"
   },
   {
     "id": "c58291813e7015df",
@@ -598,16 +558,6 @@
     "link": "https://docs.slack.dev/changelog/2026/02/17/slack-mcp",
     "summary": "We're excited to announce the release of not one, but two, major components designed to significantly enhance how Large Language Models (LLMs) and AI agents interact with your workspace data: the Slack Model Context Protocol (MCP) server and the Real-time Search (RTS) API!",
     "date": "2026-02-17T00:00:00+00:00"
-  },
-  {
-    "id": "6dfd587dc5b637f7",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Apps can now display thinking steps to users!",
-    "link": "https://docs.slack.dev/changelog/2026/02/11/task-cards-plan-blocks",
-    "summary": "Display your apps' and agents' actions with three new Block Kit components:",
-    "date": "2026-02-11T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -758,6 +708,76 @@
     "link": "https://developers.zoom.us/changelog/meeting-sdk/macos/6.7.6",
     "summary": "Tags: bug-fix, sdk-version | Minor bug fixes.",
     "date": "2026-02-18T00:00:00+00:00"
+  },
+  {
+    "id": "adfc41ff921de8dc",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing Nano Banana 2 in the Gemini app",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/introducing-nano-banana-2-in-gemini-app.html",
+    "summary": "Starting today, we’re rolling out Nano Banana 2 (Gemini 3.1 Flash Image), our best image model yet, to Workspace customers in the Gemini app.Nano Banana 2, which replaces our previous Nano Banana model, brings the high-speed intelligence of Gemini Flash to visual generation, making once-exclusive...",
+    "date": "2026-02-26T20:59:00+00:00"
+  },
+  {
+    "id": "54efe7748c92afb7",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "More Boolean Logic Options in Workflow and Conditional Visibility",
+    "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "25f39b9b77dcdb8c",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Private Data",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/21933242739227-Form-Gadget-Overview#private_data",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "267acb7c7073d4d2",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Apply field changes to older versions of form",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#apply_field_changes",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "6c14d4671587cc8e",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "External user approvals",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/42653174972059-Can-I-Route-to-External-Users",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "5fc19c27a002186e",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Document History",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/21915631807771-Form-Settings#additional_options",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "6dfd587dc5b637f7",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Apps can now display thinking steps to users!",
+    "link": "https://docs.slack.dev/changelog/2026/02/11/task-cards-plan-blocks",
+    "summary": "Display your apps' and agents' actions with three new Block Kit components:",
+    "date": "2026-02-11T00:00:00+00:00"
   },
   {
     "id": "71590f5049c2346f",
