@@ -331,7 +331,7 @@ def check_rss_source(product: dict) -> list[dict]:
             "title": title,
             "link": link,
             "summary": summary,
-            "date": pub_date or datetime.now(timezone.utc).isoformat(),
+            "date": pub_date or "",
         })
 
     return items
@@ -476,7 +476,7 @@ def check_scrape_source(product: dict) -> list[dict]:
             "title": title,
             "link": link,
             "summary": summary,
-            "date": date_text or datetime.now(timezone.utc).isoformat(),
+            "date": date_text or "",
         })
 
     print(f"  Scraped {len(items)} items from page")
@@ -539,7 +539,7 @@ def check_nextjs_blog_source(product: dict) -> list[dict]:
             "title": title,
             "link": link,
             "summary": "",
-            "date": date_val or datetime.now(timezone.utc).isoformat(),
+            "date": date_val or "",
         })
 
     print(f"  Extracted {len(items)} items")
@@ -695,7 +695,7 @@ def check_intercom_article_source(product: dict) -> list[dict]:
                         tzinfo=timezone.utc
                     ).isoformat()
                 except ValueError:
-                    current_date = datetime.now(timezone.utc).isoformat()
+                    current_date = ""
             continue
 
         # Detect entry titles - bold text inside a paragraph (Intercom pattern)
@@ -756,7 +756,7 @@ def check_intercom_article_source(product: dict) -> list[dict]:
                 "title": title,
                 "link": link,
                 "summary": summary,
-                "date": current_date or datetime.now(timezone.utc).isoformat(),
+                "date": current_date or "",
             })
 
     print(f"  Parsed {len(items)} release entries from Intercom article")
