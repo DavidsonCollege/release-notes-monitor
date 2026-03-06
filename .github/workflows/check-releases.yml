@@ -70,7 +70,7 @@ jobs:
           ZOOM_BOT_JID: ${{ secrets.ZOOM_BOT_JID }}
           ZOOM_CHATBOT_CLIENT_ID: ${{ secrets.ZOOM_CHATBOT_CLIENT_ID }}
           ZOOM_CHATBOT_CLIENT_SECRET: ${{ secrets.ZOOM_CHATBOT_CLIENT_SECRET }}
-                    ZOOM_USER_EMAIL: ${{ secrets.ZOOM_USER_EMAIL }}
+          ZOOM_USER_EMAIL: ${{ secrets.ZOOM_USER_EMAIL }}
         run: python scripts/test_notify.py
 
       - name: Run release notes checker
@@ -89,7 +89,7 @@ jobs:
           ZOOM_BOT_JID: ${{ secrets.ZOOM_BOT_JID }}
           ZOOM_CHATBOT_CLIENT_ID: ${{ secrets.ZOOM_CHATBOT_CLIENT_ID }}
           ZOOM_CHATBOT_CLIENT_SECRET: ${{ secrets.ZOOM_CHATBOT_CLIENT_SECRET }}
-                    ZOOM_USER_EMAIL: ${{ secrets.ZOOM_USER_EMAIL }}
+          ZOOM_USER_EMAIL: ${{ secrets.ZOOM_USER_EMAIL }}
         run: python scripts/check_releases.py
 
       - name: Commit and push changes
