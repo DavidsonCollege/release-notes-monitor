@@ -202,21 +202,40 @@ def _build_user_chat_message(items: list[dict], base_url: str) -> str:
     return body
 
 
-# ── Message formatting (Chatbot API — message elements with Zoom markdown) ──
+# ── Message formatting (Chatbot API — section cards with Zoom markdown) ──
+
+def _product_color(product_name: str) -> str:
+    """Generate a consistent, visually distinct hex colour from a product name.
+
+    Uses a simple hash to map each product to a sidebar colour so that
+    repeated notifications for the same product always show the same colour.
+    """
+    import hashlib
+    h = hashlib.md5(product_name.encode()).hexdigest()
+    # Pick hue-ish values; clamp to avoid very dark or very light colours
+    r = 60 + int(h[0:2], 16) % 180
+    g = 60 + int(h[2:4], 16) % 180
+    b = 60 + int(h[4:6], 16) % 180
+    return f"#{r:02x}{g:02x}{b:02x}"
+
 
 def _build_chatbot_body_element(item: dict) -> dict:
-    """Build a message body element for a single release-note item.
+    """Build a section body element for a single release-note item.
 
-    Uses the 'message' body type with is_markdown_support for rich formatting.
-    Zoom Chatbot markdown links use <url|text> syntax (not [text](url)).
+    Wraps the text in a 'section' body type so we get a colour-coded left
+    sidebar that visually identifies the product.  Inside the section the
+    content uses 'message' with is_markdown_support for Zoom-flavour links
+    (<url|text>) and bold (*text*).
 
-    Note: Zoom does not support inline images in message text, so product
-    icons are omitted.  The bot's own avatar serves as the visual identity.
+    Zoom's Chatbot API does not support small inline images — the only
+    image option (attachments img_url) renders as a large preview card.
+    The coloured sidebar provides a quick visual cue instead.
     """
     product_name = item.get("product_name", "Unknown")
     title = item.get("title", "No title")
     summary = item.get("summary", "")
     link = item.get("link", "")
+    icon_url = item.get("icon_url", "")
 
     lines: list[str] = []
 
@@ -239,11 +258,18 @@ def _build_chatbot_body_element(item: dict) -> dict:
         lines.append(f"<{link}|Details →>")
 
     text = "\n".join(lines)
+    sidebar_color = _product_color(product_name)
 
     return {
-        "type": "message",
-        "text": text,
-        "is_markdown_support": True,
+        "type": "section",
+        "sidebar_color": sidebar_color,
+        "sections": [
+            {
+                "type": "message",
+                "text": text,
+                "is_markdown_support": True,
+            },
+        ],
     }
 
 
