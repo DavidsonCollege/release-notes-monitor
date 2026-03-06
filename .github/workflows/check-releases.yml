@@ -1,4 +1,4 @@
-name: Check Release Notes
+name: Check Release Note
 
 on:
   # Run every 4 hours
@@ -13,6 +13,11 @@ on:
         required: false
         type: boolean
         default: false
+      test_teams:
+        description: 'Comma-separated team IDs to test (e.g. "ai,digital-campus"). Leave blank for all.'
+        required: false
+        type: string
+        default: ''
 
   # Also run when config changes
   push:
@@ -71,6 +76,7 @@ jobs:
           ZOOM_CHATBOT_CLIENT_ID: ${{ secrets.ZOOM_CHATBOT_CLIENT_ID }}
           ZOOM_CHATBOT_CLIENT_SECRET: ${{ secrets.ZOOM_CHATBOT_CLIENT_SECRET }}
           ZOOM_USER_EMAIL: ${{ secrets.ZOOM_USER_EMAIL }}
+          TEST_TEAMS: ${{ github.event.inputs.test_teams }}
         run: python scripts/test_notify.py
 
       - name: Run release notes checker
