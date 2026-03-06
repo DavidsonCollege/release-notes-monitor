@@ -100,6 +100,30 @@ def _get_chatbot_token() -> str:
     return token
 
 
+def _get_admin_user_jid(s2s_token: str) -> str:
+    """Fetch the first active admin user's JID from the Zoom account.
+
+    The Chatbot API requires a real user_jid (not the bot's JID).
+    Uses the S2S OAuth token to look up account users.
+    """
+    try:
+        resp = requests.get(
+            "https://api.zoom.us/v2/users",
+            headers={"Authorization": f"Bearer {s2s_token}"},
+            params={"page_size": 1, "status": "active", "role_id": "0"},
+            timeout=15,
+        )
+        resp.raise_for_status()
+        users = resp.json().get("users", [])
+        if users:
+            user_id = users[0].get("id", "")
+            if user_id:
+                return f"{user_id}@xmpp.zoom.us"
+    except Exception as exc:
+        print(f"  Warning: could not fetch admin user JID: {exc}")
+    return ""
+
+
 # ── Message formatting (User Chat API — plain text with basic markdown) ──
 
 def _build_user_chat_card(item: dict) -> str:
@@ -214,13 +238,14 @@ def _to_channel_jid(channel_id: str) -> str:
 
 
 def _send_via_chatbot(channel_id: str, message: str, token: str,
-                      robot_jid: str, account_id: str) -> bool:
+                      robot_jid: str, account_id: str,
+                      user_jid: str = "") -> bool:
     """Send a message via the Chatbot API (appears as a named bot)."""
     to_jid = _to_channel_jid(channel_id)
     payload = {
         "robot_jid": robot_jid,
         "to_jid": to_jid,
-        "user_jid": robot_jid,
+        "user_jid": user_jid or robot_jid,
         "account_id": account_id,
         "is_markdown_support": True,
         "content": {
@@ -317,6 +342,18 @@ def send_zoom_notifications(new_items: list[dict], base_url: str):
     try:
         if use_chatbot:
             token = _get_chatbot_token()
+            # Fetch a real user JID for the Chatbot API
+            admin_jid = ""
+            if has_s2s_creds:
+                try:
+                    s2s_token = _get_s2s_token(
+                        os.environ["ZOOM_CLIENT_ID"],
+                        os.environ["ZOOM_CLIENT_SECRET"],
+                        account_id,
+                    )
+                    admin_jid = _get_admin_user_jid(s2s_token)
+                except Exception:
+                    pass
             print("  Zoom: using Chatbot API (bot identity)")
         else:
             token = _get_access_token()
@@ -333,7 +370,7 @@ def send_zoom_notifications(new_items: list[dict], base_url: str):
 
         try:
             if use_chatbot:
-                ok = _send_via_chatbot(channel_id, message, token, robot_jid, account_id)
+                ok = _send_via_chatbot(channel_id, message, token, robot_jid, account_id, admin_jid)
             else:
                 ok = _send_via_user_chat(channel_id, message, token)
 
