@@ -101,29 +101,53 @@ def _get_chatbot_token() -> str:
 
 
 def _get_admin_user_jid(s2s_token: str) -> str:
-    """Fetch the first active user's JID from the Zoom account.
+    """Fetch a user's JID from the Zoom account for the Chatbot API.
 
     The Chatbot API requires a real user_jid (not the bot's JID).
-    Uses the S2S OAuth token to look up account users.
+    For user-managed apps, this must be the user who installed the app.
+
+    If ZOOM_USER_EMAIL is set, looks up that specific user.
+    Otherwise falls back to the first active user (which may not work
+    for user-managed apps if the first user isn't the app installer).
     """
+    target_email = os.environ.get("ZOOM_USER_EMAIL", "")
+
     try:
-        resp = requests.get(
-            "https://api.zoom.us/v2/users",
-            headers={"Authorization": f"Bearer {s2s_token}"},
-            params={"page_size": 1, "status": "active"},
-            timeout=15,
-        )
-        resp.raise_for_status()
-        data = resp.json()
-        users = data.get("users", [])
-        if users:
-            user_id = users[0].get("id", "")
-            email = users[0].get("email", "?")
+        if target_email:
+            # Look up the specific user by email
+            resp = requests.get(
+                f"https://api.zoom.us/v2/users/{target_email}",
+                headers={"Authorization": f"Bearer {s2s_token}"},
+                timeout=15,
+            )
+            resp.raise_for_status()
+            user = resp.json()
+            user_id = user.get("id", "")
+            email = user.get("email", target_email)
             if user_id:
                 jid = f"{user_id}@xmpp.zoom.us"
                 print(f"    Resolved user_jid: {jid} ({email})")
                 return jid
-        print(f"    Warning: /v2/users returned no active users")
+            print(f"    Warning: /v2/users/{target_email} returned no user ID")
+        else:
+            # Fallback: first active user
+            resp = requests.get(
+                "https://api.zoom.us/v2/users",
+                headers={"Authorization": f"Bearer {s2s_token}"},
+                params={"page_size": 1, "status": "active"},
+                timeout=15,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            users = data.get("users", [])
+            if users:
+                user_id = users[0].get("id", "")
+                email = users[0].get("email", "?")
+                if user_id:
+                    jid = f"{user_id}@xmpp.zoom.us"
+                    print(f"    Resolved user_jid: {jid} ({email})")
+                    return jid
+            print(f"    Warning: /v2/users returned no active users")
     except Exception as exc:
         print(f"    Warning: could not fetch user JID: {exc}")
     return ""
