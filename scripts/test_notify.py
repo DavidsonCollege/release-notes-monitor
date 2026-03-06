@@ -59,8 +59,23 @@ def main():
         "https://davidsoncollege.github.io/release-notes-monitor/",
     )
 
+    # Optional filter: TEST_TEAMS env var or --teams CLI arg (comma-separated team IDs)
+    filter_raw = os.environ.get("TEST_TEAMS", "")
+    if not filter_raw and len(sys.argv) > 1:
+        for arg in sys.argv[1:]:
+            if arg.startswith("--teams="):
+                filter_raw = arg.split("=", 1)[1]
+    team_filter: set[str] = set()
+    if filter_raw:
+        team_filter = {t.strip().lower() for t in filter_raw.split(",") if t.strip()}
+        print(f"  Filter: sending only to team(s): {', '.join(sorted(team_filter))}\n")
+
     test_items: list[dict] = []
     for team in teams:
+        # Apply team filter if specified
+        if team_filter and team["id"].lower() not in team_filter:
+            continue
+
         has_slack = bool(team.get("slack_channel"))
         has_zoom = bool(team.get("zoom_channel"))
 
