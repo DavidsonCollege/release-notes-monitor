@@ -202,53 +202,62 @@ def _build_user_chat_message(items: list[dict], base_url: str) -> str:
     return body
 
 
-# ── Message formatting (Chatbot API — structured card with markdown) ──
+# ── Message formatting (Chatbot API — structured card with attachments) ──
 
-def _build_chatbot_card(item: dict) -> str:
-    """Build a markdown card for the Chatbot API.
+def _build_chatbot_body_element(item: dict) -> dict:
+    """Build a body element for a single release-note item.
 
-    The Chatbot API supports richer markdown including links, so we can
-    use [text](url) syntax here.
+    Uses the 'attachments' body type which supports:
+      - img_url: product icon displayed alongside the card
+      - resource_url: clickable link when the user clicks the card
+      - information.title / description: structured text content
+
+    Note: Zoom Chatbot markdown links use <url|text> syntax (not [text](url)).
     """
     product_name = item.get("product_name", "Unknown")
+    icon_url = item.get("icon_url", "")
     title = item.get("title", "No title")
     summary = item.get("summary", "")
     link = item.get("link", "")
 
-    lines: list[str] = []
+    element: dict = {
+        "type": "attachments",
+        "information": {
+            "title": {
+                "text": f"{product_name}: {title}",
+            },
+        },
+    }
 
-    # Product name
-    lines.append(f"**{product_name}**")
+    if icon_url:
+        element["img_url"] = icon_url
 
-    # Title (linked if URL available)
     if link:
-        lines.append(f"**[{title}]({link})**")
-    else:
-        lines.append(f"**{title}**")
+        element["resource_url"] = link
 
-    # Summary
     if summary:
         truncated = (summary[:300] + "…") if len(summary) > 300 else summary
-        lines.append(truncated)
-        if link:
-            lines.append(f"[View full details →]({link})")
-    elif link:
-        lines.append(f"[Details can be found here →]({link})")
+        element["information"]["description"] = {"text": truncated}
 
-    return "\n".join(lines)
+    return element
 
 
-def _build_chatbot_message(items: list[dict], base_url: str) -> str:
-    """Build a complete message for the Chatbot API."""
-    cards = []
-    for item in items:
-        cards.append(_build_chatbot_card(item))
-
-    body = f"\n\n{SEPARATOR}\n\n".join(cards)
-
+def _build_chatbot_footer(base_url: str) -> dict:
+    """Build a footer message body element with timestamp and link."""
     now = datetime.now(timezone.utc).strftime("%b %d, %Y %H:%M UTC")
-    body += f"\n\n{SEPARATOR}\n_Updated {now} • [Release Notes Monitor]({base_url})_"
+    return {
+        "type": "message",
+        "text": f"_Updated {now} • <{base_url}|Release Notes Monitor>_",
+        "is_markdown_support": True,
+    }
 
+
+def _build_chatbot_body(items: list[dict], base_url: str) -> list[dict]:
+    """Build the complete body array for the Chatbot API content object."""
+    body: list[dict] = []
+    for item in items:
+        body.append(_build_chatbot_body_element(item))
+    body.append(_build_chatbot_footer(base_url))
     return body
 
 
@@ -266,10 +275,14 @@ def _to_channel_jid(channel_id: str) -> str:
     return f"{channel_id}{CHANNEL_JID_SUFFIX}"
 
 
-def _send_via_chatbot(channel_id: str, message: str, token: str,
+def _send_via_chatbot(channel_id: str, body: list[dict], token: str,
                       robot_jid: str, account_id: str,
                       user_jid: str = "") -> bool:
-    """Send a message via the Chatbot API (appears as a named bot)."""
+    """Send a message via the Chatbot API (appears as a named bot).
+
+    Args:
+        body: Pre-built list of body elements (attachments + footer message).
+    """
     to_jid = _to_channel_jid(channel_id)
     payload = {
         "robot_jid": robot_jid,
@@ -281,12 +294,7 @@ def _send_via_chatbot(channel_id: str, message: str, token: str,
             "head": {
                 "text": "Release Notes Monitor",
             },
-            "body": [
-                {
-                    "type": "message",
-                    "text": message,
-                }
-            ],
+            "body": body,
         },
     }
 
@@ -391,15 +399,12 @@ def send_zoom_notifications(new_items: list[dict], base_url: str):
         return
 
     for channel_id, items in by_channel.items():
-        if use_chatbot:
-            message = _build_chatbot_message(items, base_url)
-        else:
-            message = _build_user_chat_message(items, base_url)
-
         try:
             if use_chatbot:
-                ok = _send_via_chatbot(channel_id, message, token, robot_jid, account_id, admin_jid)
+                body = _build_chatbot_body(items, base_url)
+                ok = _send_via_chatbot(channel_id, body, token, robot_jid, account_id, admin_jid)
             else:
+                message = _build_user_chat_message(items, base_url)
                 ok = _send_via_user_chat(channel_id, message, token)
 
             if ok:
