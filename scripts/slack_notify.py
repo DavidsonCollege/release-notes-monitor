@@ -1,11 +1,12 @@
 """
 Slack bot notifications for Release Notes Monitor.
-Sends Block Kit formatted messages to per-team Slack channels
-using a bot token with chat:write scope.
 
-Each release-note item is rendered as a colored attachment card
-with a product icon, bold product name, linked title, and summary.
+Sends Block Kit formatted messages to per-team Slack channels using a bot
+token with chat:write scope.  Each release-note item is rendered as a
+colored attachment card with a product icon, bold product name, linked
+title, and summary.
 """
+
 import os
 import json
 from datetime import datetime, timezone
@@ -32,6 +33,7 @@ def send_slack_notifications(new_items: list[dict], base_url: str):
         if new_items:
             print("  SLACK_BOT_TOKEN not set – skipping Slack notifications")
         return
+
     if not new_items:
         return
 
@@ -60,8 +62,7 @@ def send_slack_notifications(new_items: list[dict], base_url: str):
             "text": f"{len(items)} new release note{'s' if len(items) != 1 else ''}",
         }
         try:
-            resp = requests.post(SLACK_API_URL, headers=headers,
-                                 json=payload, timeout=10)
+            resp = requests.post(SLACK_API_URL, headers=headers, json=payload, timeout=10)
             data = resp.json()
             if data.get("ok"):
                 print(f"  Slack: posted {len(items)} items to {channel}")
@@ -81,24 +82,34 @@ def _build_card_blocks(item: dict) -> list[dict]:
 
     blocks: list[dict] = []
 
-    # ── Row 1: Product name (section = larger text) + icon as accessory ──
-    product_section: dict = {
-        "type": "section",
-        "text": {"type": "mrkdwn", "text": f"*{product_name}*"},
-    }
+    # ── Row 1: Product icon + name (context block for inline layout) ──
     if icon_url:
-        product_section["accessory"] = {
-            "type": "image",
-            "image_url": icon_url,
-            "alt_text": product_name,
-        }
-    blocks.append(product_section)
+        blocks.append({
+            "type": "context",
+            "elements": [
+                {
+                    "type": "image",
+                    "image_url": icon_url,
+                    "alt_text": product_name,
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": f"*{product_name}*",
+                },
+            ],
+        })
+    else:
+        blocks.append({
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": f"*{product_name}*"},
+        })
 
     # ── Row 2: Title (bold, prominent, linked) ──
     if link:
         title_text = f"*<{link}|{title}>*"
     else:
         title_text = f"*{title}*"
+
     blocks.append({
         "type": "section",
         "text": {"type": "mrkdwn", "text": title_text},
@@ -127,11 +138,10 @@ def _build_attachments(items: list[dict], base_url: str) -> list[dict]:
     """Build a list of Slack attachments — one colored card per item.
 
     Each attachment gets a colored left border (CARD_COLOR) and contains
-    Block Kit blocks for that item.  A final footer attachment shows
-    the timestamp and dashboard link.
+    Block Kit blocks for that item.  A final footer attachment shows the
+    timestamp and dashboard link.
     """
     attachments: list[dict] = []
-
     for item in items:
         attachments.append({
             "color": CARD_COLOR,
@@ -149,12 +159,11 @@ def _build_attachments(items: list[dict], base_url: str) -> list[dict]:
                         "type": "mrkdwn",
                         "text": (
                             f"Updated {datetime.now(timezone.utc).strftime('%b %d, %Y %H:%M UTC')}"
-                            f"  •  <{base_url}|Release Notes Monitor>"
+                            f" • <{base_url}|Release Notes Monitor>"
                         ),
                     }
                 ],
             }
         ],
     })
-
     return attachments
