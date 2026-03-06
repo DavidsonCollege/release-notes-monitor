@@ -101,7 +101,7 @@ def _get_chatbot_token() -> str:
 
 
 def _get_admin_user_jid(s2s_token: str) -> str:
-    """Fetch the first active admin user's JID from the Zoom account.
+    """Fetch the first active user's JID from the Zoom account.
 
     The Chatbot API requires a real user_jid (not the bot's JID).
     Uses the S2S OAuth token to look up account users.
@@ -110,17 +110,22 @@ def _get_admin_user_jid(s2s_token: str) -> str:
         resp = requests.get(
             "https://api.zoom.us/v2/users",
             headers={"Authorization": f"Bearer {s2s_token}"},
-            params={"page_size": 1, "status": "active", "role_id": "0"},
+            params={"page_size": 1, "status": "active"},
             timeout=15,
         )
         resp.raise_for_status()
-        users = resp.json().get("users", [])
+        data = resp.json()
+        users = data.get("users", [])
         if users:
             user_id = users[0].get("id", "")
+            email = users[0].get("email", "?")
             if user_id:
-                return f"{user_id}@xmpp.zoom.us"
+                jid = f"{user_id}@xmpp.zoom.us"
+                print(f"    Resolved user_jid: {jid} ({email})")
+                return jid
+        print(f"    Warning: /v2/users returned no active users")
     except Exception as exc:
-        print(f"  Warning: could not fetch admin user JID: {exc}")
+        print(f"    Warning: could not fetch user JID: {exc}")
     return ""
 
 
@@ -346,15 +351,14 @@ def send_zoom_notifications(new_items: list[dict], base_url: str):
             admin_jid = ""
             if has_s2s_creds:
                 try:
-                    s2s_token = _get_s2s_token(
-                        os.environ["ZOOM_CLIENT_ID"],
-                        os.environ["ZOOM_CLIENT_SECRET"],
-                        account_id,
-                    )
+                    s2s_token = _get_access_token()
                     admin_jid = _get_admin_user_jid(s2s_token)
                 except Exception:
                     pass
-            print("  Zoom: using Chatbot API (bot identity)")
+            if admin_jid:
+                print(f"  Zoom: using Chatbot API (bot identity, user_jid={admin_jid})")
+            else:
+                print("  Zoom: using Chatbot API (bot identity, WARNING: no user_jid found, using robot_jid as fallback)")
         else:
             token = _get_access_token()
             print("  Zoom: using User Chat API (service account identity)")
