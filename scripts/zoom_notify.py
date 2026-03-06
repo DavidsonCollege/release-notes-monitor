@@ -202,44 +202,49 @@ def _build_user_chat_message(items: list[dict], base_url: str) -> str:
     return body
 
 
-# ── Message formatting (Chatbot API — structured card with attachments) ──
+# ── Message formatting (Chatbot API — message elements with Zoom markdown) ──
 
 def _build_chatbot_body_element(item: dict) -> dict:
-    """Build a body element for a single release-note item.
+    """Build a message body element for a single release-note item.
 
-    Uses the 'attachments' body type which supports:
-      - img_url: product icon displayed alongside the card
-      - resource_url: clickable link when the user clicks the card
-      - information.title / description: structured text content
+    Uses the 'message' body type with is_markdown_support for rich formatting.
+    Zoom Chatbot markdown links use <url|text> syntax (not [text](url)).
 
-    Note: Zoom Chatbot markdown links use <url|text> syntax (not [text](url)).
+    Note: Zoom does not support inline images in message text, so product
+    icons are omitted.  The bot's own avatar serves as the visual identity.
     """
     product_name = item.get("product_name", "Unknown")
-    icon_url = item.get("icon_url", "")
     title = item.get("title", "No title")
     summary = item.get("summary", "")
     link = item.get("link", "")
 
-    element: dict = {
-        "type": "attachments",
-        "information": {
-            "title": {
-                "text": f"{product_name}: {title}",
-            },
-        },
-    }
+    lines: list[str] = []
 
-    if icon_url:
-        element["img_url"] = icon_url
+    # Product name (bold)
+    lines.append(f"*{product_name}*")
 
+    # Title (bold, linked if URL available)
     if link:
-        element["resource_url"] = link
+        lines.append(f"*<{link}|{title}>*")
+    else:
+        lines.append(f"*{title}*")
 
+    # Summary
     if summary:
         truncated = (summary[:300] + "…") if len(summary) > 300 else summary
-        element["information"]["description"] = {"text": truncated}
+        lines.append(truncated)
+        if link:
+            lines.append(f"<{link}|View full details →>")
+    elif link:
+        lines.append(f"<{link}|Details →>")
 
-    return element
+    text = "\n".join(lines)
+
+    return {
+        "type": "message",
+        "text": text,
+        "is_markdown_support": True,
+    }
 
 
 def _build_chatbot_footer(base_url: str) -> dict:
@@ -247,7 +252,7 @@ def _build_chatbot_footer(base_url: str) -> dict:
     now = datetime.now(timezone.utc).strftime("%b %d, %Y %H:%M UTC")
     return {
         "type": "message",
-        "text": f"_Updated {now} • <{base_url}|Release Notes Monitor>_",
+        "text": f"_{SEPARATOR}_\n_Updated {now} • <{base_url}|Release Notes Monitor>_",
         "is_markdown_support": True,
     }
 
