@@ -214,8 +214,11 @@ def _send_via_chatbot(channel_id: str, message: str, token: str,
                 }
             ],
         },
-        "is_markdown_support": True,
     }
+    print(f"  Chatbot debug: robot_jid={robot_jid[:30]}...")
+    print(f"  Chatbot debug: to_jid={channel_id}")
+    print(f"  Chatbot debug: account_id={account_id[:15]}...")
+    print(f"  Chatbot debug: payload={json.dumps(payload)[:300]}...")
     resp = requests.post(
         ZOOM_CHATBOT_URL,
         headers={
@@ -227,9 +230,33 @@ def _send_via_chatbot(channel_id: str, message: str, token: str,
     )
     if resp.status_code in (200, 201):
         return True
-    print(f"  Zoom chatbot error ({channel_id}): {resp.status_code} {resp.text[:200]}")
+    print(f"  Zoom chatbot error ({channel_id}): {resp.status_code} {resp.text[:500]}")
+    # Retry with minimal payload (just head, no body)
+    minimal = {
+        "robot_jid": robot_jid,
+        "to_jid": channel_id,
+        "account_id": account_id,
+        "content": {
+            "head": {
+                "text": message[:200],
+            },
+        },
+    }
+    print(f"  Retrying with minimal payload (no body)...")
+    resp2 = requests.post(
+        ZOOM_CHATBOT_URL,
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Content-Type": "application/json",
+        },
+        json=minimal,
+        timeout=15,
+    )
+    if resp2.status_code in (200, 201):
+        print(f"  Minimal payload succeeded!")
+        return True
+    print(f"  Minimal also failed: {resp2.status_code} {resp2.text[:500]}")
     return False
-
 
 def _send_via_user_chat(channel_id: str, message: str, token: str) -> bool:
     """Send a message via the User Chat API (appears as the service account)."""
