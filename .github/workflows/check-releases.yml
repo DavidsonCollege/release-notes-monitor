@@ -61,18 +61,21 @@ jobs:
       - name: Send test notification
         if: github.event.inputs.test_notification == 'true'
         env:
-          BASE_URL: ${{ vars.BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+          BASE_URL: ${{ vars.BASE_URL || ${{ format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }} }}
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SLACK_DEFAULT_CHANNEL: ${{ vars.SLACK_DEFAULT_CHANNEL }}
           ZOOM_ACCOUNT_ID: ${{ secrets.ZOOM_ACCOUNT_ID }}
           ZOOM_CLIENT_ID: ${{ secrets.ZOOM_CLIENT_ID }}
           ZOOM_CLIENT_SECRET: ${{ secrets.ZOOM_CLIENT_SECRET }}
+          ZOOM_BOT_JID: ${{ secrets.ZOOM_BOT_JID }}
+          ZOOM_CHATBOT_CLIENT_ID: ${{ secrets.ZOOM_CHATBOT_CLIENT_ID }}
+          ZOOM_CHATBOT_CLIENT_SECRET: ${{ secrets.ZOOM_CHATBOT_CLIENT_SECRET }}
         run: python scripts/test_notify.py
 
       - name: Run release notes checker
         if: github.event.inputs.test_notification != 'true'
         env:
-          BASE_URL: ${{ vars.BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+          BASE_URL: ${{ vars.BASE_URL || ${{ format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }} }}
           ADASTRA_EMAIL: ${{ secrets.ADASTRA_EMAIL }}
           ADASTRA_PASSWORD: ${{ secrets.ADASTRA_PASSWORD }}
           KUALI_ZD_EMAIL: ${{ secrets.KUALI_ZD_EMAIL }}
@@ -82,6 +85,9 @@ jobs:
           ZOOM_ACCOUNT_ID: ${{ secrets.ZOOM_ACCOUNT_ID }}
           ZOOM_CLIENT_ID: ${{ secrets.ZOOM_CLIENT_ID }}
           ZOOM_CLIENT_SECRET: ${{ secrets.ZOOM_CLIENT_SECRET }}
+          ZOOM_BOT_JID: ${{ secrets.ZOOM_BOT_JID }}
+          ZOOM_CHATBOT_CLIENT_ID: ${{ secrets.ZOOM_CHATBOT_CLIENT_ID }}
+          ZOOM_CHATBOT_CLIENT_SECRET: ${{ secrets.ZOOM_CHATBOT_CLIENT_SECRET }}
         run: python scripts/check_releases.py
 
       - name: Commit and push changes
