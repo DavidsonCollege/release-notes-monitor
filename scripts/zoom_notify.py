@@ -1,20 +1,24 @@
 """
 Zoom Team Chat notifications for Release Notes Monitor.
+
 Sends formatted messages to per-team Zoom channels.
 
 Supports two modes:
-  1. Chatbot API  — uses ZOOM_BOT_JID + client credentials to post as a named
-     bot with its own icon.  Requires the Zoom app to have the "Team Chat"
-     feature enabled and the imchat:bot scope.
-  2. User Chat API (fallback) — uses Server-to-Server OAuth to post via
-     /chat/users/me/messages.  Messages appear under the service account's
-     identity rather than a bot.
+
+    1. Chatbot API — uses ZOOM_BOT_JID + client credentials to post as a named
+       bot with its own icon.  Requires the Zoom app to have the "Team Chat"
+       feature enabled and the imchat:bot scope.
+
+    2. User Chat API (fallback) — uses Server-to-Server OAuth to post via
+       /chat/users/me/messages.  Messages appear under the service account's
+       identity rather than a bot.
 
 Note: Zoom's User Chat API supports only basic markdown (bold, italic,
 strikethrough).  It does NOT support inline images, markdown links
 [text](url), or horizontal rules (---).  The formatting helpers in this
 module account for these limitations.
 """
+
 import os
 import json
 import base64
@@ -26,18 +30,20 @@ ZOOM_OAUTH_URL = "https://zoom.us/oauth/token"
 ZOOM_CHATBOT_URL = "https://api.zoom.us/v2/im/chat/messages"
 ZOOM_CHAT_URL = "https://api.zoom.us/v2/chat/users/me/messages"
 
+# JID suffix for Zoom Team Chat group channels
+CHANNEL_JID_SUFFIX = "@conference.xmpp.zoom.us"
+
 # Unicode separator for visual card separation in plain-text messages
 SEPARATOR = "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
 
-# ── Authentication ────────────────────────────────────────────────────
+# ── Authentication ─────────────────────────────────────────────────────────────
 
 def _get_access_token() -> str:
     """Obtain a Zoom Server-to-Server OAuth access token."""
     client_id = os.environ.get("ZOOM_CLIENT_ID", "")
     client_secret = os.environ.get("ZOOM_CLIENT_SECRET", "")
     account_id = os.environ.get("ZOOM_ACCOUNT_ID", "")
-
     if not all([client_id, client_secret, account_id]):
         raise RuntimeError("Missing ZOOM_CLIENT_ID, ZOOM_CLIENT_SECRET, or ZOOM_ACCOUNT_ID")
 
@@ -71,7 +77,6 @@ def _get_chatbot_token() -> str:
     """
     client_id = os.environ.get("ZOOM_CHATBOT_CLIENT_ID", "")
     client_secret = os.environ.get("ZOOM_CHATBOT_CLIENT_SECRET", "")
-
     if not all([client_id, client_secret]):
         raise RuntimeError("Missing ZOOM_CHATBOT_CLIENT_ID or ZOOM_CHATBOT_CLIENT_SECRET")
 
@@ -101,8 +106,8 @@ def _build_user_chat_card(item: dict) -> str:
     """Build a plain-text card for one release-note item.
 
     Uses only formatting that the User Chat API actually supports:
-    bold (**text**), plain URLs on their own line, and Unicode
-    characters for visual structure.
+    bold (**text**), plain URLs on their own line, and Unicode characters
+    for visual structure.
     """
     product_name = item.get("product_name", "Unknown")
     title = item.get("title", "No title")
@@ -149,8 +154,8 @@ def _build_user_chat_message(items: list[dict], base_url: str) -> str:
 def _build_chatbot_card(item: dict) -> str:
     """Build a markdown card for the Chatbot API.
 
-    The Chatbot API supports richer markdown including links, so we
-    can use [text](url) syntax here.
+    The Chatbot API supports richer markdown including links, so we can
+    use [text](url) syntax here.
     """
     product_name = item.get("product_name", "Unknown")
     title = item.get("title", "No title")
@@ -189,20 +194,34 @@ def _build_chatbot_message(items: list[dict], base_url: str) -> str:
     body = f"\n\n{SEPARATOR}\n\n".join(cards)
 
     now = datetime.now(timezone.utc).strftime("%b %d, %Y %H:%M UTC")
-    body += f"\n\n{SEPARATOR}\n_Updated {now}  •  [Release Notes Monitor]({base_url})_"
+    body += f"\n\n{SEPARATOR}\n_Updated {now} • [Release Notes Monitor]({base_url})_"
 
     return body
 
 
-# ── Sending ───────────────────────────────────────────────────────────
+# ── Sending ─────────────────────────────────────────────────────────────────
+
+def _to_channel_jid(channel_id: str) -> str:
+    """Convert a plain channel ID to a full Zoom JID if needed.
+
+    Zoom's Chatbot API requires to_jid in JID format:
+      <channel_id>@conference.xmpp.zoom.us   (for group channels)
+    If the channel_id already contains '@', assume it is already a JID.
+    """
+    if "@" in channel_id:
+        return channel_id
+    return f"{channel_id}{CHANNEL_JID_SUFFIX}"
+
 
 def _send_via_chatbot(channel_id: str, message: str, token: str,
                       robot_jid: str, account_id: str) -> bool:
     """Send a message via the Chatbot API (appears as a named bot)."""
+    to_jid = _to_channel_jid(channel_id)
     payload = {
         "robot_jid": robot_jid,
-        "to_jid": channel_id,
+        "to_jid": to_jid,
         "account_id": account_id,
+        "is_markdown_support": True,
         "content": {
             "head": {
                 "text": "Release Notes Monitor",
@@ -215,10 +234,7 @@ def _send_via_chatbot(channel_id: str, message: str, token: str,
             ],
         },
     }
-    print(f"  Chatbot debug: robot_jid={robot_jid[:30]}...")
-    print(f"  Chatbot debug: to_jid={channel_id}")
-    print(f"  Chatbot debug: account_id={account_id[:15]}...")
-    print(f"  Chatbot debug: payload={json.dumps(payload)[:300]}...")
+
     resp = requests.post(
         ZOOM_CHATBOT_URL,
         headers={
@@ -228,35 +244,13 @@ def _send_via_chatbot(channel_id: str, message: str, token: str,
         json=payload,
         timeout=15,
     )
+
     if resp.status_code in (200, 201):
         return True
-    print(f"  Zoom chatbot error ({channel_id}): {resp.status_code} {resp.text[:500]}")
-    # Retry with minimal payload (just head, no body)
-    minimal = {
-        "robot_jid": robot_jid,
-        "to_jid": channel_id,
-        "account_id": account_id,
-        "content": {
-            "head": {
-                "text": message[:200],
-            },
-        },
-    }
-    print(f"  Retrying with minimal payload (no body)...")
-    resp2 = requests.post(
-        ZOOM_CHATBOT_URL,
-        headers={
-            "Authorization": f"Bearer {token}",
-            "Content-Type": "application/json",
-        },
-        json=minimal,
-        timeout=15,
-    )
-    if resp2.status_code in (200, 201):
-        print(f"  Minimal payload succeeded!")
-        return True
-    print(f"  Minimal also failed: {resp2.status_code} {resp2.text[:500]}")
+
+    print(f"  Zoom chatbot error ({to_jid}): {resp.status_code} {resp.text[:500]}")
     return False
+
 
 def _send_via_user_chat(channel_id: str, message: str, token: str) -> bool:
     """Send a message via the User Chat API (appears as the service account)."""
@@ -273,8 +267,10 @@ def _send_via_user_chat(channel_id: str, message: str, token: str) -> bool:
         json=payload,
         timeout=15,
     )
+
     if resp.status_code in (200, 201):
         return True
+
     print(f"  Zoom user-chat error ({channel_id}): {resp.status_code} {resp.text[:200]}")
     return False
 
@@ -283,18 +279,20 @@ def send_zoom_notifications(new_items: list[dict], base_url: str):
     """Send Zoom Team Chat notifications for new release notes items.
 
     Each item may include a 'zoom_channel' key indicating which channel
-    to post to.  Items without a channel are skipped.
+    to post to. Items without a channel are skipped.
 
     If ZOOM_BOT_JID is set, messages are sent via the Chatbot API and
-    appear under the bot's identity.  Otherwise, falls back to the User
+    appear under the bot's identity. Otherwise, falls back to the User
     Chat API (messages appear as the service account user).
     """
     has_chatbot_creds = bool(os.environ.get("ZOOM_CHATBOT_CLIENT_ID", ""))
     has_s2s_creds = bool(os.environ.get("ZOOM_CLIENT_ID", ""))
+
     if not has_chatbot_creds and not has_s2s_creds:
         if new_items:
             print("  No Zoom credentials set – skipping Zoom notifications")
         return
+
     if not new_items:
         return
 
@@ -334,10 +332,10 @@ def send_zoom_notifications(new_items: list[dict], base_url: str):
 
         try:
             if use_chatbot:
-                ok = _send_via_chatbot(channel_id, message, token,
-                                       robot_jid, account_id)
+                ok = _send_via_chatbot(channel_id, message, token, robot_jid, account_id)
             else:
                 ok = _send_via_user_chat(channel_id, message, token)
+
             if ok:
                 print(f"  Zoom: posted {len(items)} items to {channel_id}")
         except Exception as exc:
