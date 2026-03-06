@@ -606,16 +606,32 @@ def check_intercom_article_source(product: dict) -> list[dict]:
 
     print(f"  Intercom article: {url}")
 
-    # Use cloudscraper to bypass bot detection (e.g. OpenAI blocks basic requests)
-    scraper = cloudscraper.create_scraper()
-    try:
-        resp = scraper.get(url, timeout=REQUEST_TIMEOUT)
-        resp.raise_for_status()
-    except Exception as e:
-        print(f"  [WARN] Failed to fetch {url}: {e}")
-        return []
+    # Try multiple strategies to fetch the page (sites like OpenAI tighten bot protection)
+    resp_content = None
 
-    soup = BeautifulSoup(resp.content, "html.parser")
+    # Strategy 1: curl_cffi with browser impersonation (best Cloudflare bypass)
+    try:
+        from curl_cffi import requests as cffi_requests
+        resp = cffi_requests.get(url, timeout=REQUEST_TIMEOUT, impersonate="chrome")
+        resp.raise_for_status()
+        resp_content = resp.content
+        print(f"  Fetched via curl_cffi")
+    except Exception as e:
+        print(f"  [INFO] curl_cffi failed ({e}), trying cloudscraper...")
+
+    # Strategy 2: cloudscraper (Cloudflare JS challenge solver)
+    if resp_content is None:
+        try:
+            scraper = cloudscraper.create_scraper()
+            resp = scraper.get(url, timeout=REQUEST_TIMEOUT)
+            resp.raise_for_status()
+            resp_content = resp.content
+            print(f"  Fetched via cloudscraper")
+        except Exception as e:
+            print(f"  [WARN] Failed to fetch {url}: {e}")
+            return []
+
+    soup = BeautifulSoup(resp_content, "html.parser")
 
     # Find the article body - Intercom uses various containers
     article_body = (
@@ -942,6 +958,12 @@ def main():
         new_team_items = []
         recent_items = []  # Always-included latest items per product
 
+        # Build lookup of existing dates so we don't overwrite real dates with datetime.now()
+        existing_dates: dict[str, str] = {}
+        for item in existing_items:
+            if item.get("date"):
+                existing_dates[item["id"]] = item["date"]
+
         # Expand products with subproducts into individual entries
         expanded_products = []
         for p in products:
@@ -979,6 +1001,14 @@ def main():
                 # Always enrich the latest items for the feed
                 for i, raw_item in enumerate(raw_items[:RECENT_PER_PRODUCT]):
                     item_id = generate_item_id(product_id, raw_item["title"], raw_item["link"])
+
+                    # Prefer: 1) date from scraper, 2) existing date from prior run, 3) now()
+                    item_date = (
+                        raw_item.get("date")
+                        or existing_dates.get(item_id)
+                        or datetime.now(timezone.utc).isoformat()
+                    )
+
                     enriched_item = {
                         "id": item_id,
                         "product_id": product_id,
@@ -987,7 +1017,7 @@ def main():
                         "title": raw_item["title"],
                         "link": raw_item["link"],
                         "summary": raw_item.get("summary", ""),
-                        "date": raw_item.get("date", datetime.now(timezone.utc).isoformat()),
+                        "date": item_date,
                     }
                     recent_items.append(enriched_item)
 
