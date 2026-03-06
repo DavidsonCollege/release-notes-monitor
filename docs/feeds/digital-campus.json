@@ -17,7 +17,7 @@
     "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
     "link": "https://releases.1password.com/mac/",
     "summary": "",
-    "date": "2026-03-05T20:14:49.013337+00:00"
+    "date": "2026-03-06T00:29:12.309534+00:00"
   },
   {
     "id": "f54aa9f1968974da",
@@ -77,7 +77,7 @@
     "title": "The List folder items API now supports a pin_status parameter to filter for pinned items in a folder.",
     "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
     "summary": "",
-    "date": "2026-03-05T20:14:51.921928+00:00"
+    "date": "2026-03-06T00:29:15.394544+00:00"
   },
   {
     "id": "91f1004bd4c3644f",
@@ -87,7 +87,7 @@
     "title": "The Get design pages API now returns page dimensions for pages in bounded designs (unbounded designs like whiteboards and Canva Docs will not have pag",
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/#success-response",
     "summary": "The Get design pages API now returns page dimensions for pages in bounded designs (unbounded designs like whiteboards and Canva Docs will not have page dimensions).",
-    "date": "2026-03-05T20:14:51.922178+00:00"
+    "date": "2026-03-06T00:29:15.394775+00:00"
   },
   {
     "id": "2d55f7406a42ee4b",
@@ -97,7 +97,7 @@
     "title": "The Get design export formats API is no longer in preview, and is now generally available.",
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-export-formats/",
     "summary": "",
-    "date": "2026-03-05T20:14:51.922382+00:00"
+    "date": "2026-03-06T00:29:15.394969+00:00"
   },
   {
     "id": "6ea47a0f0c1c8cff",
@@ -107,7 +107,7 @@
     "title": "The List brand templates API now supports an optional limit parameter to control the number of brand templates returned per request.",
     "link": "https://www.canva.dev/docs/connect/api-reference/brand-templates/list-brand-templates/",
     "summary": "",
-    "date": "2026-03-05T20:14:51.922591+00:00"
+    "date": "2026-03-06T00:29:15.395179+00:00"
   },
   {
     "id": "3ea86ca7e27b125c",
@@ -117,7 +117,7 @@
     "title": "The List folder items API now supports a limit parameter to control the number of folder items returned per request.",
     "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
     "summary": "",
-    "date": "2026-03-05T20:14:51.922791+00:00"
+    "date": "2026-03-06T00:29:15.395382+00:00"
   },
   {
     "id": "2aa25658903bd41b",
@@ -177,7 +177,7 @@
     "title": "upgrade",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-05T20:14:54.560973+00:00"
+    "date": "2026-03-06T00:29:17.849874+00:00"
   },
   {
     "id": "7aba50c4d8071e11",
@@ -187,7 +187,7 @@
     "title": "224.3.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-05T20:14:54.561039+00:00"
+    "date": "2026-03-06T00:29:17.849923+00:00"
   },
   {
     "id": "e67335b00b3797c1",
@@ -197,7 +197,7 @@
     "title": "224.2.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-05T20:14:54.561080+00:00"
+    "date": "2026-03-06T00:29:17.849959+00:00"
   },
   {
     "id": "0d90b9c66b88bbce",
@@ -207,7 +207,7 @@
     "title": "224.1.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-05T20:14:54.561115+00:00"
+    "date": "2026-03-06T00:29:17.849992+00:00"
   },
   {
     "id": "6aa653e3e373f710",
@@ -217,7 +217,7 @@
     "title": "223.3.0",
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
-    "date": "2026-03-05T20:14:54.561147+00:00"
+    "date": "2026-03-06T00:29:17.850023+00:00"
   },
   {
     "id": "2b2eacb2103a0a95",
@@ -310,56 +310,6 @@
     "date": "2025-12-05T15:05:58+00:00"
   },
   {
-    "id": "54efe7748c92afb7",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "More Boolean Logic Options in Workflow and Conditional Visibility",
-    "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "25f39b9b77dcdb8c",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Private Data",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/21933242739227-Form-Gadget-Overview#private_data",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "267acb7c7073d4d2",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Apply field changes to older versions of form",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#apply_field_changes",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "6c14d4671587cc8e",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "External user approvals",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/42653174972059-Can-I-Route-to-External-Users",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "5fc19c27a002186e",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Document History",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/21915631807771-Form-Settings#additional_options",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
     "id": "37d983044ee3a3c2",
     "product_id": "macos",
     "product_name": "macOS",
@@ -387,7 +337,7 @@
     "title": "Security Updates for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of security updates, see the following article:",
-    "date": "2026-03-05T20:15:03.762185+00:00"
+    "date": "2026-03-06T00:29:25.662627+00:00"
   },
   {
     "id": "b9360485c3e61f3c",
@@ -397,7 +347,7 @@
     "title": "History for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
-    "date": "2026-03-05T20:15:03.762309+00:00"
+    "date": "2026-03-06T00:29:25.662750+00:00"
   },
   {
     "id": "185d4d7625c4f74e",
@@ -407,7 +357,7 @@
     "title": "Download Sizes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of update releases sizes, see the following article:",
-    "date": "2026-03-05T20:15:03.762411+00:00"
+    "date": "2026-03-06T00:29:25.662855+00:00"
   },
   {
     "id": "813b1ad089721490",
@@ -417,7 +367,7 @@
     "title": "Release Notes for Microsoft 365 Apps Releases",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes by update channel and year, see the following articles:",
-    "date": "2026-03-05T20:15:03.762512+00:00"
+    "date": "2026-03-06T00:29:25.662958+00:00"
   },
   {
     "id": "324fe31ac188c1d9",
@@ -427,7 +377,7 @@
     "title": "Release Notes for Microsoft 365 Insiders",
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes for Insiders, see the following articles:",
-    "date": "2026-03-05T20:15:03.762610+00:00"
+    "date": "2026-03-06T00:29:25.663058+00:00"
   },
   {
     "id": "4861482635a84858",
@@ -547,7 +497,7 @@
     "title": "Pro Pro Team Enterprise Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-05T20:15:10.251346+00:00"
+    "date": "2026-03-06T00:29:32.008309+00:00"
   },
   {
     "id": "498cbd13c5eccf96",
@@ -557,7 +507,27 @@
     "title": "Add tables within Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-05T20:15:10.251492+00:00"
+    "date": "2026-03-06T00:29:32.008465+00:00"
+  },
+  {
+    "id": "c58291813e7015df",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Set status method scope update",
+    "link": "https://docs.slack.dev/changelog/2026/03/05/set-status-scope-update",
+    "summary": "The assistant.threads.setStatus API method now accepts either the assistantwrite scope. This allows channel-based apps to use AI loading states in channels, without having to request assistantwrite scope in favor of the chat:write scope exclusively, so update your app soon!",
+    "date": "2026-03-05T00:00:00+00:00"
+  },
+  {
+    "id": "9a2e27537d3719a8",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v3.14.0",
+    "link": "https://docs.slack.dev/changelog/2026/03/05/slack-cli",
+    "summary": "Version 3.14.0 of the developer tools for the Slack platform has landed!",
+    "date": "2026-03-05T00:00:00+00:00"
   },
   {
     "id": "677dba7875fa4724",
@@ -588,26 +558,6 @@
     "link": "https://docs.slack.dev/changelog/2026/02/11/task-cards-plan-blocks",
     "summary": "Display your apps' and agents' actions with three new Block Kit components:",
     "date": "2026-02-11T00:00:00+00:00"
-  },
-  {
-    "id": "71590f5049c2346f",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Retry delayed events feature now available",
-    "link": "https://docs.slack.dev/changelog/2026/02/05/retry-events-feature",
-    "summary": "You can now replay events that your app might have missed! In case of an outage where your app may have missed events, we've released a Delayed Events feature that lets you replay past events. Read all about it in the Events API docs.",
-    "date": "2026-02-05T00:00:00+00:00"
-  },
-  {
-    "id": "d6687af3c62d7016",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v3.12.0",
-    "link": "https://docs.slack.dev/changelog/2026/02/05/slack-cli",
-    "summary": "Version 3.12.0 of the developer tools for the Slack platform has landed!",
-    "date": "2026-02-05T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -758,6 +708,76 @@
     "link": "https://developers.zoom.us/changelog/meeting-sdk/macos/6.7.6",
     "summary": "Tags: bug-fix, sdk-version | Minor bug fixes.",
     "date": "2026-02-18T00:00:00+00:00"
+  },
+  {
+    "id": "54efe7748c92afb7",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "More Boolean Logic Options in Workflow and Conditional Visibility",
+    "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "25f39b9b77dcdb8c",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Private Data",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/21933242739227-Form-Gadget-Overview#private_data",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "267acb7c7073d4d2",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Apply field changes to older versions of form",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#apply_field_changes",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "6c14d4671587cc8e",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "External user approvals",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/42653174972059-Can-I-Route-to-External-Users",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "5fc19c27a002186e",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Document History",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/21915631807771-Form-Settings#additional_options",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "71590f5049c2346f",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Retry delayed events feature now available",
+    "link": "https://docs.slack.dev/changelog/2026/02/05/retry-events-feature",
+    "summary": "You can now replay events that your app might have missed! In case of an outage where your app may have missed events, we've released a Delayed Events feature that lets you replay past events. Read all about it in the Events API docs.",
+    "date": "2026-02-05T00:00:00+00:00"
+  },
+  {
+    "id": "d6687af3c62d7016",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v3.12.0",
+    "link": "https://docs.slack.dev/changelog/2026/02/05/slack-cli",
+    "summary": "Version 3.12.0 of the developer tools for the Slack platform has landed!",
+    "date": "2026-02-05T00:00:00+00:00"
   },
   {
     "id": "166acc7f4dba2722",
