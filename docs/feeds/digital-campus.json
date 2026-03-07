@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "32d13778ec8d74b4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - March 6, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-06-2026.html",
+    "summary": "Improved join permission logging for Google Meet Audit eventsGoogle Meet Audit event logging for endpoints will now also include the permission type used to grant access to join a meeting. | Learn more about improved join permission logging for Google Meet Audit events.Workspace admins can allow...",
+    "date": "2026-03-06T20:22:00+00:00"
+  },
+  {
     "id": "03dd5689b456c9c7",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/02/improved-join-permission-logging-for-Meet-audit-events.html",
     "summary": "Google Meet Audit event logging for endpoints will now also include the permission type used to grant access to join a meeting.For some endpoint types, additional information will be logged in addition to the join permission type:For users who asked to join a meeting, the audit event will show...",
     "date": "2026-03-02T15:34:00+00:00"
-  },
-  {
-    "id": "924e10dbc9dde65d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - February 27, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/weekly-recap-02-27-2026.html",
-    "summary": "Two new functions in Google SheetsWe are adding two new functions to Google Sheets, =SHEET and =SHEETS. These additions help users manage and reference spreadsheets with multiple tabs more effectively. | Learn more about two new functions in Google Sheets.New internal and external membership...",
-    "date": "2026-02-27T22:32:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -758,6 +758,16 @@
     "link": "https://developers.zoom.us/changelog/meeting-sdk/macos/6.7.6",
     "summary": "Tags: bug-fix, sdk-version | Minor bug fixes.",
     "date": "2026-02-18T00:00:00+00:00"
+  },
+  {
+    "id": "924e10dbc9dde65d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - February 27, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/weekly-recap-02-27-2026.html",
+    "summary": "Two new functions in Google SheetsWe are adding two new functions to Google Sheets, =SHEET and =SHEETS. These additions help users manage and reference spreadsheets with multiple tabs more effectively. | Learn more about two new functions in Google Sheets.New internal and external membership...",
+    "date": "2026-02-27T22:32:00+00:00"
   },
   {
     "id": "1a15e12f157e7c15",
