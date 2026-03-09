@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "ab216b5d301a6a44",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New Device ID for Google Meet hardware",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/new-device-id-for-google-meet-hardware.html",
+    "summary": "We’re replacing the current Device ID (“Legacy ID”) for Google Meet hardware devices with a new Device ID. This new Device ID will be displayed everywhere you currently see the Legacy ID throughout the Google Admin console:The device list, details, history, and videocalling pages (Admin console >...",
+    "date": "2026-03-09T14:49:00+00:00"
+  },
+  {
+    "id": "fed0c6241ef0745f",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Updates to meetings made by a delegate user are now sent in the name of the principal",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/updates-to-meetings-made-by-delegate-user-are-now-sent-in-the-name-of-the-principal.html",
+    "summary": "In many organizations, executives and senior leaders rely on admins or delegates to oversee their busy schedules. In Google Calendar this can be set up by sharing an executive’s calendar with “Make changes to events” or “Make changes and manage sharing” permissions with a delegate user.We’re...",
+    "date": "2026-03-09T14:18:00+00:00"
+  },
+  {
     "id": "32d13778ec8d74b4",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/improving-connection-between-Google-Calendar-events-and-Google-Meet-calls.html",
     "summary": "For each video call, Meet attempts to connect the right Calendar event to determine:Who receives meeting records (ex. Gemini notes, recordings)Who is included in the continuous meeting chat in Google ChatWho can join the meeting without having to be manually admitted by the hostReusing the same...",
     "date": "2026-03-04T19:01:00+00:00"
-  },
-  {
-    "id": "f7d1abdd4d6db33c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Workspace admins can allow Gemini app conversation sharing for their organizations",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/workspace-admins-can-allow-gemini-app-conversation-for-their-organizations.html",
-    "summary": "Google Workspace admins can now enable users in their organization to share their Gemini chat conversations by creating public links to share and publish. Previously, this capability was only available to users with personal Google accounts; this update expands access on web to Gemini users with a...",
-    "date": "2026-03-04T16:38:00+00:00"
-  },
-  {
-    "id": "1fe60b460f1b85d3",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improved join permission logging for Google Meet Audit events",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/improved-join-permission-logging-for-Meet-audit-events.html",
-    "summary": "Google Meet Audit event logging for endpoints will now also include the permission type used to grant access to join a meeting.For some endpoint types, additional information will be logged in addition to the join permission type:For users who asked to join a meeting, the audit event will show...",
-    "date": "2026-03-02T15:34:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -758,6 +758,26 @@
     "link": "https://developers.zoom.us/changelog/meeting-sdk/macos/6.7.6",
     "summary": "Tags: bug-fix, sdk-version | Minor bug fixes.",
     "date": "2026-02-18T00:00:00+00:00"
+  },
+  {
+    "id": "f7d1abdd4d6db33c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Workspace admins can allow Gemini app conversation sharing for their organizations",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/workspace-admins-can-allow-gemini-app-conversation-for-their-organizations.html",
+    "summary": "Google Workspace admins can now enable users in their organization to share their Gemini chat conversations by creating public links to share and publish. Previously, this capability was only available to users with personal Google accounts; this update expands access on web to Gemini users with a...",
+    "date": "2026-03-04T16:38:00+00:00"
+  },
+  {
+    "id": "1fe60b460f1b85d3",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improved join permission logging for Google Meet Audit events",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/improved-join-permission-logging-for-Meet-audit-events.html",
+    "summary": "Google Meet Audit event logging for endpoints will now also include the permission type used to grant access to join a meeting.For some endpoint types, additional information will be logged in addition to the join permission type:For users who asked to join a meeting, the audit event will show...",
+    "date": "2026-03-02T15:34:00+00:00"
   },
   {
     "id": "924e10dbc9dde65d",
