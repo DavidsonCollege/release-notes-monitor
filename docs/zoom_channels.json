@@ -85,12 +85,6 @@
       "members_count": 0
     },
     {
-      "id": "web_sch_5b61000dcd8b498f83303b20814eb77e",
-      "name": "FY27 Operational Budget Request",
-      "type": 4,
-      "members_count": 0
-    },
-    {
       "id": "b062079d1d77469199fb92ced654c70a",
       "name": "General (AI)",
       "type": 1,
@@ -325,6 +319,6 @@
       "members_count": 0
     }
   ],
-  "last_updated": "2026-03-09T04:42:57.535178+00:00",
+  "last_updated": "2026-03-09T08:21:49.115023+00:00",
   "fetch_status": "success"
 }
