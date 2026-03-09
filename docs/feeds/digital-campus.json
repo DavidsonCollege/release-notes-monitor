@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "990da43f581a47f3",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Assign Google Calendars to Google Meet hardware in bulk",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/assign-google-calendars-to-google-meet.html",
+    "summary": "We’re making it easier to manage calendar assignments for your Meet hardware devices. You can now assign or unassign Google Calendars to your Meet hardware devices in bulk by uploading a CSV file. For organizations with a large number of devices, this eliminates the need to assign calendars one by...",
+    "date": "2026-03-09T19:38:00+00:00"
+  },
+  {
     "id": "ab216b5d301a6a44",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/new-dynamic-data-source-support-for-dropdowns-in-Google-Chat-apps.html",
     "summary": "Developers can now build more robust and efficient Google Chat apps using dynamic data sources for dropdown menus. With this update, developers can connect dropdowns to external data sources that query and filter results in real-time as a user types, addressing previous scalability issues caused by...",
     "date": "2026-03-06T16:15:00+00:00"
-  },
-  {
-    "id": "2b2eacb2103a0a95",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improving the connection between Google Calendar events and Google Meet calls",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/improving-connection-between-Google-Calendar-events-and-Google-Meet-calls.html",
-    "summary": "For each video call, Meet attempts to connect the right Calendar event to determine:Who receives meeting records (ex. Gemini notes, recordings)Who is included in the continuous meeting chat in Google ChatWho can join the meeting without having to be manually admitted by the hostReusing the same...",
-    "date": "2026-03-04T19:01:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -360,6 +360,16 @@
     "date": "2026-02-11T19:30:06Z"
   },
   {
+    "id": "e2a46e5fdb37eaf8",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.4 beta 4 (25E5233c)",
+    "link": "https://developer.apple.com/news/releases/?id=03092026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-03-09T17:00:00+00:00"
+  },
+  {
     "id": "37d983044ee3a3c2",
     "product_id": "macos",
     "product_name": "macOS",
@@ -368,16 +378,6 @@
     "link": "https://developer.apple.com/news/releases/?id=03042026c",
     "summary": "View downloadsView release notes",
     "date": "2026-03-04T17:00:00+00:00"
-  },
-  {
-    "id": "8307f9850121ab4c",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.4 beta 3 (25E5223i)",
-    "link": "https://developer.apple.com/news/releases/?id=03032026a",
-    "summary": "View downloadsView release notes",
-    "date": "2026-03-03T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -758,6 +758,26 @@
     "link": "https://developers.zoom.us/changelog/meeting-sdk/macos/6.7.6",
     "summary": "Tags: bug-fix, sdk-version | Minor bug fixes.",
     "date": "2026-02-18T00:00:00+00:00"
+  },
+  {
+    "id": "2b2eacb2103a0a95",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improving the connection between Google Calendar events and Google Meet calls",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/improving-connection-between-Google-Calendar-events-and-Google-Meet-calls.html",
+    "summary": "For each video call, Meet attempts to connect the right Calendar event to determine:Who receives meeting records (ex. Gemini notes, recordings)Who is included in the continuous meeting chat in Google ChatWho can join the meeting without having to be manually admitted by the hostReusing the same...",
+    "date": "2026-03-04T19:01:00+00:00"
+  },
+  {
+    "id": "8307f9850121ab4c",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.4 beta 3 (25E5223i)",
+    "link": "https://developer.apple.com/news/releases/?id=03032026a",
+    "summary": "View downloadsView release notes",
+    "date": "2026-03-03T17:00:00+00:00"
   },
   {
     "id": "f7d1abdd4d6db33c",

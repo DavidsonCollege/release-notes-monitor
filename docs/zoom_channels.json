@@ -13,6 +13,18 @@
       "members_count": 0
     },
     {
+      "id": "b54d218b92ff4971bc51f84201fb77e8",
+      "name": "AI Product Ops",
+      "type": 1,
+      "members_count": 0
+    },
+    {
+      "id": "9fe0109f5a2841e59bbd79b9673d2046",
+      "name": "AI Product Updates",
+      "type": 1,
+      "members_count": 0
+    },
+    {
       "id": "web_sch_88cb56ccedce4211bc6f33204177deb9",
       "name": "Campus IT Partner Meeting",
       "type": 4,
@@ -52,6 +64,18 @@
       "id": "web_sch_87754030ab5f495eb96fd47cfbae714f",
       "name": "DC - 1 on 1 - Nathaniel and Matt",
       "type": 4,
+      "members_count": 0
+    },
+    {
+      "id": "1cba8a62eebb4cf484dd7a7b07c3cd32",
+      "name": "DC Product Ops",
+      "type": 1,
+      "members_count": 0
+    },
+    {
+      "id": "fefe8e7ef29c498495f45a68f174ada5",
+      "name": "DC Product Updates",
+      "type": 1,
       "members_count": 0
     },
     {
@@ -199,24 +223,6 @@
       "members_count": 0
     },
     {
-      "id": "1cba8a62eebb4cf484dd7a7b07c3cd32",
-      "name": "Product Ops",
-      "type": 1,
-      "members_count": 0
-    },
-    {
-      "id": "9fe0109f5a2841e59bbd79b9673d2046",
-      "name": "Product Updates",
-      "type": 1,
-      "members_count": 0
-    },
-    {
-      "id": "fefe8e7ef29c498495f45a68f174ada5",
-      "name": "Product Updates",
-      "type": 1,
-      "members_count": 0
-    },
-    {
       "id": "851cf64a1c624c2f8c6c1883de1540de",
       "name": "Random",
       "type": 1,
@@ -319,6 +325,6 @@
       "members_count": 0
     }
   ],
-  "last_updated": "2026-03-09T16:28:44.274333+00:00",
+  "last_updated": "2026-03-09T20:14:22.659287+00:00",
   "fetch_status": "success"
 }
