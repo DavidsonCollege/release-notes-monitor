@@ -259,12 +259,6 @@
       "members_count": 0
     },
     {
-      "id": "web_sch_c283c5f394d94b7596910b96f43473ca",
-      "name": "SoftDocs Demo",
-      "type": 4,
-      "members_count": 0
-    },
-    {
       "id": "d215ef0f13e0438bbdf1f10c89113110",
       "name": "Student Health and Well-Being",
       "type": 1,
@@ -325,6 +319,6 @@
       "members_count": 0
     }
   ],
-  "last_updated": "2026-03-10T08:19:13.246322+00:00",
+  "last_updated": "2026-03-10T12:21:41.851849+00:00",
   "fetch_status": "success"
 }
