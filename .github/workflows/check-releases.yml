@@ -1,9 +1,9 @@
 name: Check Release Note
 
 on:
-  # Run every 4 hours
+  # Run every 30 minutes
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '*/30 * * * *'
 
   # Allow manual trigger
   workflow_dispatch:
@@ -23,6 +23,11 @@ on:
   push:
     paths:
       - 'config/teams.json'
+
+# Prevent concurrent runs from stepping on each other
+concurrency:
+  group: release-check
+  cancel-in-progress: true
 
 # Permissions needed to commit generated feeds and deploy Pages
 permissions:
