@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "33f60775effe5af4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Better screen scaling for Google Calendar on large monitors",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/better-screen-scaling-for-google-calendar-on-large-monitors.html",
+    "summary": "Google Calendar on the web now offers improved scaling on large, high-resolution monitors. This update provides a clearer overview of your day by reducing unnecessary whitespace and better utilizing your available screen space.Previously, users with large or high-resolution monitors may have felt...",
+    "date": "2026-03-10T15:05:00+00:00"
+  },
+  {
     "id": "990da43f581a47f3",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-06-2026.html",
     "summary": "Improved join permission logging for Google Meet Audit eventsGoogle Meet Audit event logging for endpoints will now also include the permission type used to grant access to join a meeting. | Learn more about improved join permission logging for Google Meet Audit events.Workspace admins can allow...",
     "date": "2026-03-06T20:22:00+00:00"
-  },
-  {
-    "id": "03dd5689b456c9c7",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New dynamic data source support for dropdowns in Google Chat apps",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/new-dynamic-data-source-support-for-dropdowns-in-Google-Chat-apps.html",
-    "summary": "Developers can now build more robust and efficient Google Chat apps using dynamic data sources for dropdown menus. With this update, developers can connect dropdowns to external data sources that query and filter results in real-time as a user types, addressing previous scalability issues caused by...",
-    "date": "2026-03-06T16:15:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -360,6 +360,16 @@
     "date": "2026-02-11T19:30:06Z"
   },
   {
+    "id": "e3dfdeffd61cbc47",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.3.2 (25D2140)",
+    "link": "https://developer.apple.com/news/releases/?id=03102026a",
+    "summary": "View downloadsView release notes",
+    "date": "2026-03-10T17:00:00+00:00"
+  },
+  {
     "id": "e2a46e5fdb37eaf8",
     "product_id": "macos",
     "product_name": "macOS",
@@ -368,16 +378,6 @@
     "link": "https://developer.apple.com/news/releases/?id=03092026c",
     "summary": "View downloadsView release notes",
     "date": "2026-03-09T17:00:00+00:00"
-  },
-  {
-    "id": "37d983044ee3a3c2",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.3.1 (25D2128)",
-    "link": "https://developer.apple.com/news/releases/?id=03042026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-03-04T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -760,6 +760,26 @@
     "date": "2026-03-09T00:00:00+00:00"
   },
   {
+    "id": "03dd5689b456c9c7",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New dynamic data source support for dropdowns in Google Chat apps",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/new-dynamic-data-source-support-for-dropdowns-in-Google-Chat-apps.html",
+    "summary": "Developers can now build more robust and efficient Google Chat apps using dynamic data sources for dropdown menus. With this update, developers can connect dropdowns to external data sources that query and filter results in real-time as a user types, addressing previous scalability issues caused by...",
+    "date": "2026-03-06T16:15:00+00:00"
+  },
+  {
+    "id": "37d983044ee3a3c2",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.3.1 (25D2128)",
+    "link": "https://developer.apple.com/news/releases/?id=03042026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-03-04T17:00:00+00:00"
+  },
+  {
     "id": "c510432506c56d94",
     "product_id": "1password",
     "product_name": "1Password",
@@ -978,25 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "February 26 2026"
-  },
-  {
-    "id": "62aef5157add7d53",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Webinar support",
-    "link": "https://developers.zoom.us/changelog/rtms/webinar-support",
-    "summary": "Tags: new-feature | RTMS apps can now be used in webinars. The infrastructure developed for RTMS meetings can be easily repurposed to support RTMS in webinars.",
-    "date": "2026-02-17T00:00:00+00:00"
-  },
-  {
-    "id": "8b06b92e421e7e2a",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 6.7.5",
-    "link": "https://developers.zoom.us/changelog/meeting-sdk/android/6.7.5",
-    "summary": "Tags: new-feature, sdk-version | Added support for public app type authentication and restricting cross-join accounts, custom 3D avatar elements, and meeting bot behavior.",
-    "date": "2026-02-16T00:00:00+00:00"
   }
 ]
