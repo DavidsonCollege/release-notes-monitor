@@ -310,56 +310,6 @@
     "date": "2025-12-05T15:05:58+00:00"
   },
   {
-    "id": "54efe7748c92afb7",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "More Boolean Logic Options in Workflow and Conditional Visibility",
-    "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "25f39b9b77dcdb8c",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Private Data",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/21933242739227-Form-Gadget-Overview#private_data",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "267acb7c7073d4d2",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Apply field changes to older versions of form",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#apply_field_changes",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "6c14d4671587cc8e",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "External user approvals",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/42653174972059-Can-I-Route-to-External-Users",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "5fc19c27a002186e",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Document History",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/21915631807771-Form-Settings#additional_options",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
     "id": "e2a46e5fdb37eaf8",
     "product_id": "macos",
     "product_name": "macOS",
@@ -710,6 +660,106 @@
     "date": "2026-02-27T18:04:30+00:00"
   },
   {
+    "id": "7f06f033ebc4f817",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.13.4",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/2.13.4",
+    "summary": "Tags: sdk-version | Optimize CSS message transmission performance.",
+    "date": "2026-03-09T00:00:00+00:00"
+  },
+  {
+    "id": "c18b21ec8f214d04",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 3.1.0",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.1.0",
+    "summary": "Tags: bug-fix, sdk-version | Adds customizable style configurations for agent connection states, multi-agent control in remote assist sessions, keyboard-based annotation support for accessibility, and masking for image, SVG, and iframe elements. Optimizes display clarity for large images and...",
+    "date": "2026-03-09T00:00:00+00:00"
+  },
+  {
+    "id": "e9b43ef32d657f2e",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Updates to Zoom Rooms API",
+    "link": "https://developers.zoom.us/changelog/rooms/march-09-2026",
+    "summary": "Tags: api-release | Added new response fields to Zoom Rooms API.",
+    "date": "2026-03-09T00:00:00+00:00"
+  },
+  {
+    "id": "4ad3af70c537a60d",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New zoomEnhancedMedia Field Added to User APIs",
+    "link": "https://developers.zoom.us/changelog/scim2/march-09-2026",
+    "summary": "Tags: api-release | New zoomEnhancedMedia field for the User APIs. You can now include this field in requests when creating or updating users (POST and PUT). It also appears in responses for user creation, updates, retrievals, and patches.",
+    "date": "2026-03-09T00:00:00+00:00"
+  },
+  {
+    "id": "a531bf722ba08641",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New fields in the Channel API",
+    "link": "https://developers.zoom.us/changelog/video-management/march-09-2026",
+    "summary": "Tags: api-release | Added `access_type` request and response field.",
+    "date": "2026-03-09T00:00:00+00:00"
+  },
+  {
+    "id": "54efe7748c92afb7",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "More Boolean Logic Options in Workflow and Conditional Visibility",
+    "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "25f39b9b77dcdb8c",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Private Data",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/21933242739227-Form-Gadget-Overview#private_data",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "267acb7c7073d4d2",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Apply field changes to older versions of form",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#apply_field_changes",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "6c14d4671587cc8e",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "External user approvals",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/42653174972059-Can-I-Route-to-External-Users",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "5fc19c27a002186e",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Document History",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/21915631807771-Form-Settings#additional_options",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
     "id": "8a58d80c67a5ec26",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -948,45 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=02232026c",
     "summary": "View downloadsView release notes",
     "date": "2026-02-23T17:00:00+00:00"
-  },
-  {
-    "id": "4399555ea600ca2f",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Expanded duration limits in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/expanded-duration-limits-in-google-vids.html",
-    "summary": "We are increasing the duration limits for Google Vids projects, recordings and imported media clips, giving you more flexibility to create comprehensive video content.Vids projects: The maximum length for any Vids project is now 30 minutes, up from 10 minutes previously.Recordings: The maximum...",
-    "date": "2026-02-25T16:07:00+00:00"
-  },
-  {
-    "id": "bd79f93f14398e11",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The List designs API now supports a limit parameter to control the number of designs returned per request.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/list-designs/",
-    "summary": "",
-    "date": "2026-03-02T04:36:01.161907+00:00"
-  },
-  {
-    "id": "90141a90f0c3c9bb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Chat now available as a data source in Gemini app",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/google-chat-now-available-as-data-source-in-gemini-app.html",
-    "summary": "We’re excited to announce that Google Chat is now available as a data source in the Gemini app (gemini.google.com) for Workspace customers, joining Gmail, Google Drive, and other Workspace apps. Like other Workspace connected apps in Gemini, Google Chat will be default off and can be enabled in...",
-    "date": "2026-02-25T15:53:00+00:00"
-  },
-  {
-    "id": "5ef15823e5109cb1",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "January 23, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/45594475979668-January-23-2026",
-    "summary": "",
-    "date": "2026-01-23T17:40:19Z"
   }
 ]
