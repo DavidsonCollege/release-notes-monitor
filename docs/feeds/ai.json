@@ -1,15 +1,5 @@
 [
   {
-    "id": "4924c891e0f4663d",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "adjust course mid-response",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "",
-    "date": "2026-03-06T17:54:24.022263+00:00"
-  },
-  {
     "id": "7ac06d58854118c0",
     "product_id": "chatgpt",
     "product_name": "ChatGPT",
@@ -48,6 +38,16 @@
     "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "summary": "The model is trained to more accurately detect and respond to potential signs of mental and emotional distress. These updates were guided by mental health experts, and help ChatGPT de-escalate conversations and point people to real-world crisis resources when appropriate, while still using language...",
     "date": "2026-03-06T17:54:24.048138+00:00"
+  },
+  {
+    "id": "b8adcf33c8058b13",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "This update to GPT-5 Instant is starting to roll out to ChatGPT users today.",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-03-05T18:33:35.772914+00:00"
   },
   {
     "id": "3755e2222934fe22",
@@ -150,14 +150,14 @@
     "date": "2026-03-06T17:54:27.084240+00:00"
   },
   {
-    "id": "b8adcf33c8058b13",
+    "id": "4924c891e0f4663d",
     "product_id": "chatgpt",
     "product_name": "ChatGPT",
     "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "This update to GPT-5 Instant is starting to roll out to ChatGPT users today.",
+    "title": "adjust course mid-response",
     "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "summary": "",
-    "date": "2026-03-05T18:33:35.772914+00:00"
+    "date": "2026-03-06T17:54:24.022263+00:00"
   },
   {
     "id": "5ed604297fb3769b",

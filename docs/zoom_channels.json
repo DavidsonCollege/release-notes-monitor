@@ -31,12 +31,6 @@
       "members_count": 0
     },
     {
-      "id": "web_sch_48788d901bd941bc9e9d2cdc278ff1d8",
-      "name": "Campus IT Partner Meeting",
-      "type": 4,
-      "members_count": 0
-    },
-    {
       "id": "web_sch_394b5346450547dc97b50075847cae7c",
       "name": "Campus IT Partners",
       "type": 4,
@@ -58,12 +52,6 @@
       "id": "984e8e3e416f48a494585799a100e09b",
       "name": "Davidson + Zoom (External)",
       "type": 1,
-      "members_count": 0
-    },
-    {
-      "id": "web_sch_87754030ab5f495eb96fd47cfbae714f",
-      "name": "DC - 1 on 1 - Nathaniel and Matt",
-      "type": 4,
       "members_count": 0
     },
     {
@@ -165,12 +153,6 @@
     {
       "id": "web_sch_3c815c2aad2e43189bbd611ad0ef4edc",
       "name": "Library AV - scholar studio",
-      "type": 4,
-      "members_count": 0
-    },
-    {
-      "id": "web_sch_c494f2a8449b457daed40a676283cd28",
-      "name": "Mac imaging",
       "type": 4,
       "members_count": 0
     },
@@ -319,6 +301,6 @@
       "members_count": 0
     }
   ],
-  "last_updated": "2026-03-10T12:21:41.851849+00:00",
+  "last_updated": "2026-03-10T16:29:11.704665+00:00",
   "fetch_status": "success"
 }
