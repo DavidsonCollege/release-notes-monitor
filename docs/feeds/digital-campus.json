@@ -220,13 +220,23 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "7769b0f35019d1b5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Control continuous meeting chat for your organization",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/control-continuous-meeting-chat-for-your-organization.html",
+    "summary": "Last year, we launched the ability to continue your Meet conversations in Chat. That rollout will continue this month, with the release to Scheduled Release domains planned to start the week of March 23. In the meantime, we’re excited to introduce a new admin control for this feature In the...",
+    "date": "2026-03-11T15:59:00+00:00"
+  },
+  {
     "id": "33f60775effe5af4",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
     "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
     "title": "Better screen scaling for Google Calendar on large monitors",
     "link": "http://workspaceupdates.googleblog.com/2026/03/better-screen-scaling-for-google-calendar-on-large-monitors.html",
-    "summary": "Google Calendar on the web now offers improved scaling on large, high-resolution monitors. This update provides a clearer overview of your day by reducing unnecessary whitespace and better utilizing your available screen space.Previously, users with large or high-resolution monitors may have felt...",
+    "summary": "Google Calendar on the web now offers improved scaling on large, high-resolution monitors. This update provides a clearer overview of your day or week by reducing unnecessary whitespace and better utilizing your available screen space.Previously, users with large or high-resolution monitors may...",
     "date": "2026-03-10T15:05:00+00:00"
   },
   {
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/updates-to-meetings-made-by-delegate-user-are-now-sent-in-the-name-of-the-principal.html",
     "summary": "In many organizations, executives and senior leaders rely on admins or delegates to oversee their busy schedules. In Google Calendar this can be set up by sharing an executive’s calendar with “Make changes to events” or “Make changes and manage sharing” permissions with a delegate user.We’re...",
     "date": "2026-03-09T14:18:00+00:00"
-  },
-  {
-    "id": "32d13778ec8d74b4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - March 6, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-06-2026.html",
-    "summary": "Improved join permission logging for Google Meet Audit eventsGoogle Meet Audit event logging for endpoints will now also include the permission type used to grant access to join a meeting. | Learn more about improved join permission logging for Google Meet Audit events.Workspace admins can allow...",
-    "date": "2026-03-06T20:22:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -520,44 +520,44 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "5c619f9138a58456",
+    "id": "1053fd937fb15b1a",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Add tables within Pages",
+    "title": "Generate process maps from any workflow",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "February 6, 2026"
+    "date": "March 11, 2026"
   },
   {
-    "id": "e01cdf6739129daa",
+    "id": "317b5d32b7c0b131",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Add tables within Pages",
-    "link": "https://scribe.launchnotes.io/announcements/add-tables-within-pages",
+    "title": "Generate process maps from any workflow",
+    "link": "https://scribe.launchnotes.io/announcements/generate-process-maps-from-any-workflow",
     "summary": "Loading...",
-    "date": "February 6, 2026"
+    "date": "March 11, 2026"
   },
   {
-    "id": "80015b32e1cd635a",
+    "id": "bad0262a6166688d",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pro Pro Team Enterprise Pages",
+    "title": "Generate process maps from any workflow",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-06T17:54:14.686908+00:00"
+    "date": "2026-03-11T20:16:07.143558+00:00"
   },
   {
-    "id": "498cbd13c5eccf96",
+    "id": "00477cfe32bf8a8b",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Add tables within Pages",
+    "title": "You can now ask any Agent in Optimize to generate a process map from your workflow data. Agents create a BPMN-style map directly in the...",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-06T17:54:14.687052+00:00"
+    "date": "2026-03-11T20:16:07.143572+00:00"
   },
   {
     "id": "97a112bfc59de73a",
@@ -760,6 +760,56 @@
     "date": "2026-03-09T00:00:00+00:00"
   },
   {
+    "id": "32d13778ec8d74b4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - March 6, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-06-2026.html",
+    "summary": "Improved join permission logging for Google Meet Audit eventsGoogle Meet Audit event logging for endpoints will now also include the permission type used to grant access to join a meeting. | Learn more about improved join permission logging for Google Meet Audit events.Workspace admins can allow...",
+    "date": "2026-03-06T20:22:00+00:00"
+  },
+  {
+    "id": "5c619f9138a58456",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Add tables within Pages",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "February 6, 2026"
+  },
+  {
+    "id": "e01cdf6739129daa",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Add tables within Pages",
+    "link": "https://scribe.launchnotes.io/announcements/add-tables-within-pages",
+    "summary": "Loading...",
+    "date": "February 6, 2026"
+  },
+  {
+    "id": "80015b32e1cd635a",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Pro Pro Team Enterprise Pages",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-03-06T17:54:14.686908+00:00"
+  },
+  {
+    "id": "498cbd13c5eccf96",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Add tables within Pages",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-03-06T17:54:14.687052+00:00"
+  },
+  {
     "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
@@ -948,55 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/02/introducing-nano-banana-2-in-gemini-app.html",
     "summary": "Starting today, we’re rolling out Nano Banana 2 (Gemini 3.1 Flash Image), our best image model yet, to Workspace customers in the Gemini app.Nano Banana 2, which replaces our previous Nano Banana model, brings the high-speed intelligence of Gemini Flash to visual generation, making once-exclusive...",
     "date": "2026-02-26T20:59:00+00:00"
-  },
-  {
-    "id": "6dfd587dc5b637f7",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Apps can now display thinking steps to users!",
-    "link": "https://docs.slack.dev/changelog/2026/02/11/task-cards-plan-blocks",
-    "summary": "Display your apps' and agents' actions with three new Block Kit components:",
-    "date": "2026-02-11T00:00:00+00:00"
-  },
-  {
-    "id": "71590f5049c2346f",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Retry delayed events feature now available",
-    "link": "https://docs.slack.dev/changelog/2026/02/05/retry-events-feature",
-    "summary": "You can now replay events that your app might have missed! In case of an outage where your app may have missed events, we've released a Delayed Events feature that lets you replay past events. Read all about it in the Events API docs.",
-    "date": "2026-02-05T00:00:00+00:00"
-  },
-  {
-    "id": "d6687af3c62d7016",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v3.12.0",
-    "link": "https://docs.slack.dev/changelog/2026/02/05/slack-cli",
-    "summary": "Version 3.12.0 of the developer tools for the Slack platform has landed!",
-    "date": "2026-02-05T00:00:00+00:00"
-  },
-  {
-    "id": "166acc7f4dba2722",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini conversation history is coming to the side panel in Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/gemini-conversation-history-is-coming-to-side-panel-in-google-workspace.html",
-    "summary": "Conversation history is coming to the Gemini side panel in Google Workspace apps. This feature will enable users to resume their conversations with Gemini across sessions. This history will only persist in a single app and conversations will remain private. For example, a conversation in the side...",
-    "date": "2026-02-26T19:40:00+00:00"
-  },
-  {
-    "id": "04b3403df9f8dbae",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing a new video player experience in Google Drive on iOS devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/introducing-new-video-player-experience-in-drive-on-ios-devices.html",
-    "summary": "Last year, we announced a smoother, more modern video player in the Google Drive Android app. This updated look and feel is now available when watching Drive videos on your iOS devices.Getting startedAdmins: There is no admin control for this feature.End users: Visit the Help Center to learn more...",
-    "date": "2026-02-25T18:47:00+00:00"
   }
 ]
