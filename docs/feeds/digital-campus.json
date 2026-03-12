@@ -310,56 +310,6 @@
     "date": "2025-12-05T15:05:58+00:00"
   },
   {
-    "id": "54efe7748c92afb7",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "More Boolean Logic Options in Workflow and Conditional Visibility",
-    "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "25f39b9b77dcdb8c",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Private Data",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/21933242739227-Form-Gadget-Overview#private_data",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "267acb7c7073d4d2",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Apply field changes to older versions of form",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#apply_field_changes",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "6c14d4671587cc8e",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "External user approvals",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/42653174972059-Can-I-Route-to-External-Users",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "5fc19c27a002186e",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Document History",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/21915631807771-Form-Settings#additional_options",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
     "id": "e3dfdeffd61cbc47",
     "product_id": "macos",
     "product_name": "macOS",
@@ -368,16 +318,6 @@
     "link": "https://developer.apple.com/news/releases/?id=03102026a",
     "summary": "View downloadsView release notes",
     "date": "2026-03-10T17:00:00+00:00"
-  },
-  {
-    "id": "e2a46e5fdb37eaf8",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.4 beta 4 (25E5233c)",
-    "link": "https://developer.apple.com/news/releases/?id=03092026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-03-09T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -686,7 +626,7 @@
     "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
     "title": "Announcing Windows 11 Insider Preview Build 26300.7965 (Dev Channel)",
     "link": "https://blogs.windows.com/windows-insider/2026/03/06/announcing-windows-11-insider-preview-build-26300-7965-dev-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.7965 (KB 5079385) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.7965...",
+    "summary": "[UPDATE 3/11/26]: We are rolling out standalone Update Build 26300.7966 (KB5082257). This update does not include anything new and is designed to test our servicing pipeline for builds in the The post Announcing Windows 11 Insider Preview Build 26300.7965 (Dev Channel) appeared first on Windows...",
     "date": "2026-03-06T18:04:18+00:00"
   },
   {
@@ -758,6 +698,66 @@
     "link": "https://developers.zoom.us/changelog/video-management/march-09-2026",
     "summary": "Tags: api-release | Added `access_type` request and response field.",
     "date": "2026-03-09T00:00:00+00:00"
+  },
+  {
+    "id": "54efe7748c92afb7",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "More Boolean Logic Options in Workflow and Conditional Visibility",
+    "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "25f39b9b77dcdb8c",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Private Data",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/21933242739227-Form-Gadget-Overview#private_data",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "267acb7c7073d4d2",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Apply field changes to older versions of form",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#apply_field_changes",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "6c14d4671587cc8e",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "External user approvals",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/42653174972059-Can-I-Route-to-External-Users",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "5fc19c27a002186e",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Document History",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/21915631807771-Form-Settings#additional_options",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
+    "id": "e2a46e5fdb37eaf8",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.4 beta 4 (25E5233c)",
+    "link": "https://developer.apple.com/news/releases/?id=03092026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-03-09T17:00:00+00:00"
   },
   {
     "id": "32d13778ec8d74b4",
