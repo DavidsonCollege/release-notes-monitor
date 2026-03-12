@@ -50,6 +50,26 @@
     "date": "2026-03-06T17:54:24.048138+00:00"
   },
   {
+    "id": "64e8e0c7a512bda0",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude creates interactive charts, diagrams and visualizations",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-03-12T00:00:00+00:00"
+  },
+  {
+    "id": "d4d5f02a48af6654",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Custom visuals in chat",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-03-12T00:00:00+00:00"
+  },
+  {
     "id": "25bfca42fdaac7ab",
     "product_id": "claude",
     "product_name": "Claude",
@@ -78,26 +98,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-02-25T00:00:00+00:00"
-  },
-  {
-    "id": "6b4d40304944bcb0",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Schedule recurring tasks in Cowork",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-02-25T00:00:00+00:00"
-  },
-  {
-    "id": "c59bf22efefaf0ff",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Cowork plugins and admin controls",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-02-24T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -148,6 +148,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We're committed to bringing Google's latest AI innovations faster to Google AI Ultra users, including our most powerful reasoning capabilities to help you tackle even more complex problems.",
     "date": "2026-03-06T17:54:27.084240+00:00"
+  },
+  {
+    "id": "6b4d40304944bcb0",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Schedule recurring tasks in Cowork",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-02-25T00:00:00+00:00"
+  },
+  {
+    "id": "c59bf22efefaf0ff",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Cowork plugins and admin controls",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-02-24T00:00:00+00:00"
   },
   {
     "id": "062bd2ec1fc07ad6",
