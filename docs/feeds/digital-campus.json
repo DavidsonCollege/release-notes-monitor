@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "6dab2cd132834c9a",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Whisk is moving to Flow on April 30, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/whisk-is-moving-to-flow-on-april-30-2026.html",
+    "summary": "On April 30, 2026, the best capabilities from Whisk are moving directly into Flow, Google's unified platform for AI-powered image and video creation.Users with active Whisk accounts will receive an email announcing this change. An in-product notification will guide them through migrating their...",
+    "date": "2026-03-12T17:39:00+00:00"
+  },
+  {
+    "id": "e40cc1c2749016c0",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Use Help me schedule in Gmail to easily set up a meeting time with multiple guests",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/use-help-me-schedule-in-gmail-to-easily-set-up-a-meeting-time-with-multiple-guests.html",
+    "summary": "Finding time to meet often requires numerous back-and-forth emails, particularly when coordinating between multiple internal and external stakeholders. To address this, we are expanding the \"Help me schedule\" functionality in Gmail (introduced in October 2025) to support group meetings.Previously,...",
+    "date": "2026-03-12T17:32:00+00:00"
+  },
+  {
     "id": "7769b0f35019d1b5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/assign-google-calendars-to-google-meet.html",
     "summary": "We’re making it easier to manage calendar assignments for your Meet hardware devices. You can now assign or unassign Google Calendars to your Meet hardware devices in bulk by uploading a CSV file. For organizations with a large number of devices, this eliminates the need to assign calendars one by...",
     "date": "2026-03-09T19:38:00+00:00"
-  },
-  {
-    "id": "ab216b5d301a6a44",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New Device ID for Google Meet hardware",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/new-device-id-for-google-meet-hardware.html",
-    "summary": "We’re replacing the current Device ID (“Legacy ID”) for Google Meet hardware devices with a new Device ID. This new Device ID will be displayed everywhere you currently see the Legacy ID throughout the Google Admin console:The device list, details, history, and videocalling pages (Admin console >...",
-    "date": "2026-03-09T14:49:00+00:00"
-  },
-  {
-    "id": "fed0c6241ef0745f",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Updates to meetings made by a delegate user are now sent in the name of the principal",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/updates-to-meetings-made-by-delegate-user-are-now-sent-in-the-name-of-the-principal.html",
-    "summary": "In many organizations, executives and senior leaders rely on admins or delegates to oversee their busy schedules. In Google Calendar this can be set up by sharing an executive’s calendar with “Make changes to events” or “Make changes and manage sharing” permissions with a delegate user.We’re...",
-    "date": "2026-03-09T14:18:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -650,6 +650,16 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "4f8c6546fdcd159b",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Releasing Windows 11 Builds 26100.8106 and 26200.8106 to the Release Preview Channel",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/12/releasing-windows-11-builds-26100-8106-and-26200-8106-to-the-release-preview-channel/",
+    "summary": "Hello Windows Insiders, today we’re releasing Windows 11 Builds 26100.8106 and 26200.8106 (KB5079387) to Insiders in the Release Preview Channel on Windows 11, versions 24H2 (Build 26100) and 25H2 (Build 26200). This update is available through tw The post Releasing Windows 11 Builds 26100.8106 and...",
+    "date": "2026-03-12T17:17:46+00:00"
+  },
+  {
     "id": "9625b141bb42d367",
     "product_id": "windows",
     "product_name": "Windows",
@@ -688,16 +698,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-28020-1673-canary-channel/",
     "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1673 to the Canary Channel. (KB 5077240) What’s new in Canary Build 28020.1673 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1673 (Canary Channel) appeared first on Windows...",
     "date": "2026-02-27T18:05:47+00:00"
-  },
-  {
-    "id": "e6c813a351741844",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.7939 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-26300-7939-dev-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.7939 (KB 5077243) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.7939...",
-    "date": "2026-02-27T18:04:30+00:00"
   },
   {
     "id": "7f06f033ebc4f817",
@@ -748,6 +748,36 @@
     "link": "https://developers.zoom.us/changelog/video-management/march-09-2026",
     "summary": "Tags: api-release | Added `access_type` request and response field.",
     "date": "2026-03-09T00:00:00+00:00"
+  },
+  {
+    "id": "ab216b5d301a6a44",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New Device ID for Google Meet hardware",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/new-device-id-for-google-meet-hardware.html",
+    "summary": "We’re replacing the current Device ID (“Legacy ID”) for Google Meet hardware devices with a new Device ID. This new Device ID will be displayed everywhere you currently see the Legacy ID throughout the Google Admin console:The device list, details, history, and videocalling pages (Admin console >...",
+    "date": "2026-03-09T14:49:00+00:00"
+  },
+  {
+    "id": "fed0c6241ef0745f",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Updates to meetings made by a delegate user are now sent in the name of the principal",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/updates-to-meetings-made-by-delegate-user-are-now-sent-in-the-name-of-the-principal.html",
+    "summary": "In many organizations, executives and senior leaders rely on admins or delegates to oversee their busy schedules. In Google Calendar this can be set up by sharing an executive’s calendar with “Make changes to events” or “Make changes and manage sharing” permissions with a delegate user.We’re...",
+    "date": "2026-03-09T14:18:00+00:00"
+  },
+  {
+    "id": "e6c813a351741844",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 26300.7939 (Dev Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-26300-7939-dev-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.7939 (KB 5077243) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.7939...",
+    "date": "2026-02-27T18:04:30+00:00"
   },
   {
     "id": "e2a46e5fdb37eaf8",
@@ -968,35 +998,5 @@
     "link": "https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-26220-7934-beta-channel/",
     "summary": "[UPDATE 3/4/26]: We are rolling out standalone Update Build 26220.7935 (KB5082255). This update does not include anything new and is designed to test our servicing pipeline for builds in the B The post Announcing Windows 11 Insider Preview Build 26220.7934 (Beta Channel) appeared first on Windows...",
     "date": "2026-02-27T18:04:14+00:00"
-  },
-  {
-    "id": "392aa54ecc8eb9b0",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26220.7872 (Beta Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-26220-7872-beta-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.7872 (KB5077231) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (in The post Announcing Windows 11 Insider Preview Build 26220.7872...",
-    "date": "2026-02-20T18:07:53+00:00"
-  },
-  {
-    "id": "69cb560d73048b40",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.7877 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-26300-7877-dev-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.7877 (KB5077232) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (incl The post Announcing Windows 11 Insider Preview Build 26300.7877...",
-    "date": "2026-02-20T18:05:41+00:00"
-  },
-  {
-    "id": "adfc41ff921de8dc",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing Nano Banana 2 in the Gemini app",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/introducing-nano-banana-2-in-gemini-app.html",
-    "summary": "Starting today, we’re rolling out Nano Banana 2 (Gemini 3.1 Flash Image), our best image model yet, to Workspace customers in the Gemini app.Nano Banana 2, which replaces our previous Nano Banana model, brings the high-speed intelligence of Gemini Flash to visual generation, making once-exclusive...",
-    "date": "2026-02-26T20:59:00+00:00"
   }
 ]
