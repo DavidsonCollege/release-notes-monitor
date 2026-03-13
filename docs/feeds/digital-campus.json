@@ -550,6 +550,16 @@
     "date": "2026-03-11T20:16:07.143572+00:00"
   },
   {
+    "id": "bcd02df440e2f627",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Optional scopes have landed",
+    "link": "https://docs.slack.dev/changelog/2026/03/12/optional-scopes",
+    "summary": "You can now mark individual OAuth scopes as optional when configuring your Slack app! Optional scopes give users more control over what data your app can access during installation, without blocking them from installing your app entirely.",
+    "date": "2026-03-12T00:00:00+00:00"
+  },
+  {
     "id": "97a112bfc59de73a",
     "product_id": "slack",
     "product_name": "Slack",
@@ -588,16 +598,6 @@
     "link": "https://docs.slack.dev/changelog/2026/02/19/slack-cli",
     "summary": "Version 3.13.0 of the developer tools for the Slack platform has arrived!",
     "date": "2026-02-19T00:00:00+00:00"
-  },
-  {
-    "id": "8ee4018a9aa3532b",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Announcing the Slack MCP server and Real-time Search API",
-    "link": "https://docs.slack.dev/changelog/2026/02/17/slack-mcp",
-    "summary": "We're excited to announce the release of not one, but two, major components designed to significantly enhance how Large Language Models (LLMs) and AI agents interact with your workspace data: the Slack Model Context Protocol (MCP) server and the Real-time Search (RTS) API!",
-    "date": "2026-02-17T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -748,6 +748,16 @@
     "link": "https://developers.zoom.us/changelog/rooms/march-09-2026",
     "summary": "Tags: api-release | Added new response fields to Zoom Rooms API.",
     "date": "2026-03-09T00:00:00+00:00"
+  },
+  {
+    "id": "8ee4018a9aa3532b",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Announcing the Slack MCP server and Real-time Search API",
+    "link": "https://docs.slack.dev/changelog/2026/02/17/slack-mcp",
+    "summary": "We're excited to announce the release of not one, but two, major components designed to significantly enhance how Large Language Models (LLMs) and AI agents interact with your workspace data: the Slack Model Context Protocol (MCP) server and the Real-time Search (RTS) API!",
+    "date": "2026-02-17T00:00:00+00:00"
   },
   {
     "id": "4ad3af70c537a60d",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/02/improved-join-permission-logging-for-Meet-audit-events.html",
     "summary": "Google Meet Audit event logging for endpoints will now also include the permission type used to grant access to join a meeting.For some endpoint types, additional information will be logged in addition to the join permission type:For users who asked to join a meeting, the audit event will show...",
     "date": "2026-03-02T15:34:00+00:00"
-  },
-  {
-    "id": "924e10dbc9dde65d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - February 27, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/weekly-recap-02-27-2026.html",
-    "summary": "Two new functions in Google SheetsWe are adding two new functions to Google Sheets, =SHEET and =SHEETS. These additions help users manage and reference spreadsheets with multiple tabs more effectively. | Learn more about two new functions in Google Sheets.New internal and external membership...",
-    "date": "2026-02-27T22:32:00+00:00"
   }
 ]
