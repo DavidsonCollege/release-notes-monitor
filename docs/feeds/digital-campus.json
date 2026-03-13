@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "2b916459a31fa82c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - March 13, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-13-2026.html",
+    "summary": "Updates to meetings made by a delegate user are now sent in the name of the principalIn Google Calendar this can be set up by sharing an executive’s calendar with “Make changes to events” or “Make changes and manage sharing” permissions with a delegate user. | Learn more about how updates to...",
+    "date": "2026-03-13T19:26:00+00:00"
+  },
+  {
+    "id": "9316b5ff1c0a649b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini in Chrome expands to more countries and languages, including Canada, New Zealand, and India",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/gemini-in-chrome-expands-to-more-countries-and-languages.html",
+    "summary": "Gemini in Chrome is rolling out now to Canada, New Zealand, and India, and we’re adding support for 50+ more languages across these countries and in the United States. You can see the full list of supported languages here.Gemini in Chrome empowers business and education users with AI tools that...",
+    "date": "2026-03-13T17:26:00+00:00"
+  },
+  {
     "id": "6dab2cd132834c9a",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/control-continuous-meeting-chat-for-your-organization.html",
     "summary": "Last year, we launched the ability to continue your Meet conversations in Chat. That rollout will continue this month, with the release to Scheduled Release domains planned to start the week of March 23. In the meantime, we’re excited to introduce a new admin control for this feature In the...",
     "date": "2026-03-11T15:59:00+00:00"
-  },
-  {
-    "id": "33f60775effe5af4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Better screen scaling for Google Calendar on large monitors",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/better-screen-scaling-for-google-calendar-on-large-monitors.html",
-    "summary": "Google Calendar on the web now offers improved scaling on large, high-resolution monitors. This update provides a clearer overview of your day or week by reducing unnecessary whitespace and better utilizing your available screen space.Previously, users with large or high-resolution monitors may...",
-    "date": "2026-03-10T15:05:00+00:00"
-  },
-  {
-    "id": "990da43f581a47f3",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Assign Google Calendars to Google Meet hardware in bulk",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/assign-google-calendars-to-google-meet.html",
-    "summary": "We’re making it easier to manage calendar assignments for your Meet hardware devices. You can now assign or unassign Google Calendars to your Meet hardware devices in bulk by uploading a CSV file. For organizations with a large number of devices, this eliminates the need to assign calendars one by...",
-    "date": "2026-03-09T19:38:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -550,23 +550,13 @@
     "date": "2026-03-11T20:16:07.143572+00:00"
   },
   {
-    "id": "bcd02df440e2f627",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Optional scopes have landed",
-    "link": "https://docs.slack.dev/changelog/2026/03/12/optional-scopes",
-    "summary": "You can now mark individual OAuth scopes as optional when configuring your Slack app! Optional scopes give users more control over what data your app can access during installation, without blocking them from installing your app entirely.",
-    "date": "2026-03-12T00:00:00+00:00"
-  },
-  {
     "id": "97a112bfc59de73a",
     "product_id": "slack",
     "product_name": "Slack",
     "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
     "title": "New supported markdown types for rich text in Block Kit",
     "link": "https://docs.slack.dev/changelog/2026/03/06/block-kit-rich-text",
-    "summary": "You can now use the following new supported markdown types for rich text when making use of Block Kit in your apps:",
+    "summary": "The following new supported markdown types for rich text when using Block Kit in your apps are being rolled out:",
     "date": "2026-03-06T00:00:00+00:00"
   },
   {
@@ -598,6 +588,16 @@
     "link": "https://docs.slack.dev/changelog/2026/02/19/slack-cli",
     "summary": "Version 3.13.0 of the developer tools for the Slack platform has arrived!",
     "date": "2026-02-19T00:00:00+00:00"
+  },
+  {
+    "id": "8ee4018a9aa3532b",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Announcing the Slack MCP server and Real-time Search API",
+    "link": "https://docs.slack.dev/changelog/2026/02/17/slack-mcp",
+    "summary": "We're excited to announce the release of not one, but two, major components designed to significantly enhance how Large Language Models (LLMs) and AI agents interact with your workspace data: the Slack Model Context Protocol (MCP) server and the Real-time Search (RTS) API!",
+    "date": "2026-02-17T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -650,6 +650,46 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "a89b346585eeb76b",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build for Canary Channel 29550.1000",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-for-canary-channel-29550-1000/",
+    "summary": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29550.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29550.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29550.1000...",
+    "date": "2026-03-13T19:09:35+00:00"
+  },
+  {
+    "id": "5c95185c6dad098c",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 28020.1737 (Canary Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-28020-1737-canary-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1737 to the Canary Channel. (KB 5079452) What’s new in Canary Build 28020.1737 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1737 (Canary Channel) appeared first on Windows...",
+    "date": "2026-03-13T17:05:38+00:00"
+  },
+  {
+    "id": "3f1838623992ce48",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 26300.8068 (Dev Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-26300-8068-dev-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8068 (KB 5079464) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.8068...",
+    "date": "2026-03-13T17:04:20+00:00"
+  },
+  {
+    "id": "733a72a287f0f05a",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 26220.8062 (Beta Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-26220-8062-beta-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8062 (KB 5079458) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (i The post Announcing Windows 11 Insider Preview Build 26220.8062...",
+    "date": "2026-03-13T17:04:05+00:00"
+  },
+  {
     "id": "4f8c6546fdcd159b",
     "product_id": "windows",
     "product_name": "Windows",
@@ -658,46 +698,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/03/12/releasing-windows-11-builds-26100-8106-and-26200-8106-to-the-release-preview-channel/",
     "summary": "Hello Windows Insiders, today we’re releasing Windows 11 Builds 26100.8106 and 26200.8106 (KB5079387) to Insiders in the Release Preview Channel on Windows 11, versions 24H2 (Build 26100) and 25H2 (Build 26200). This update is available through tw The post Releasing Windows 11 Builds 26100.8106 and...",
     "date": "2026-03-12T17:17:46+00:00"
-  },
-  {
-    "id": "9625b141bb42d367",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 28020.1685 (Canary Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/06/announcing-windows-11-insider-preview-build-28020-1685-canary-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1685 to the Canary Channel. (KB 5079381) What’s new in Canary Build 28020.1685 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1685 (Canary Channel) appeared first on Windows...",
-    "date": "2026-03-06T18:05:00+00:00"
-  },
-  {
-    "id": "b1d80e6e9c91da50",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26220.7961 (Beta Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/06/announcing-windows-11-insider-preview-build-26220-7961-beta-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.7961 (KB 5079382) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (i The post Announcing Windows 11 Insider Preview Build 26220.7961...",
-    "date": "2026-03-06T18:04:36+00:00"
-  },
-  {
-    "id": "96503d0dad95b061",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.7965 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/06/announcing-windows-11-insider-preview-build-26300-7965-dev-channel/",
-    "summary": "[UPDATE 3/11/26]: We are rolling out standalone Update Build 26300.7966 (KB5082257). This update does not include anything new and is designed to test our servicing pipeline for builds in the The post Announcing Windows 11 Insider Preview Build 26300.7965 (Dev Channel) appeared first on Windows...",
-    "date": "2026-03-06T18:04:18+00:00"
-  },
-  {
-    "id": "5ad0d54815ecca3d",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 28020.1673 (Canary Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-28020-1673-canary-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1673 to the Canary Channel. (KB 5077240) What’s new in Canary Build 28020.1673 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1673 (Canary Channel) appeared first on Windows...",
-    "date": "2026-02-27T18:05:47+00:00"
   },
   {
     "id": "5b22183ed3f95c9c",
@@ -750,14 +750,74 @@
     "date": "2026-03-09T00:00:00+00:00"
   },
   {
-    "id": "8ee4018a9aa3532b",
+    "id": "33f60775effe5af4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Better screen scaling for Google Calendar on large monitors",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/better-screen-scaling-for-google-calendar-on-large-monitors.html",
+    "summary": "Google Calendar on the web now offers improved scaling on large, high-resolution monitors. This update provides a clearer overview of your day or week by reducing unnecessary whitespace and better utilizing your available screen space.Previously, users with large or high-resolution monitors may...",
+    "date": "2026-03-10T15:05:00+00:00"
+  },
+  {
+    "id": "990da43f581a47f3",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Assign Google Calendars to Google Meet hardware in bulk",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/assign-google-calendars-to-google-meet.html",
+    "summary": "We’re making it easier to manage calendar assignments for your Meet hardware devices. You can now assign or unassign Google Calendars to your Meet hardware devices in bulk by uploading a CSV file. For organizations with a large number of devices, this eliminates the need to assign calendars one by...",
+    "date": "2026-03-09T19:38:00+00:00"
+  },
+  {
+    "id": "bcd02df440e2f627",
     "product_id": "slack",
     "product_name": "Slack",
     "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Announcing the Slack MCP server and Real-time Search API",
-    "link": "https://docs.slack.dev/changelog/2026/02/17/slack-mcp",
-    "summary": "We're excited to announce the release of not one, but two, major components designed to significantly enhance how Large Language Models (LLMs) and AI agents interact with your workspace data: the Slack Model Context Protocol (MCP) server and the Real-time Search (RTS) API!",
-    "date": "2026-02-17T00:00:00+00:00"
+    "title": "Optional scopes have landed",
+    "link": "https://docs.slack.dev/changelog/2026/03/12/optional-scopes",
+    "summary": "You can now mark individual OAuth scopes as optional when configuring your Slack app! Optional scopes give users more control over what data your app can access during installation, without blocking them from installing your app entirely.",
+    "date": "2026-03-12T00:00:00+00:00"
+  },
+  {
+    "id": "9625b141bb42d367",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 28020.1685 (Canary Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/06/announcing-windows-11-insider-preview-build-28020-1685-canary-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1685 to the Canary Channel. (KB 5079381) What’s new in Canary Build 28020.1685 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1685 (Canary Channel) appeared first on Windows...",
+    "date": "2026-03-06T18:05:00+00:00"
+  },
+  {
+    "id": "b1d80e6e9c91da50",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 26220.7961 (Beta Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/06/announcing-windows-11-insider-preview-build-26220-7961-beta-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.7961 (KB 5079382) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (i The post Announcing Windows 11 Insider Preview Build 26220.7961...",
+    "date": "2026-03-06T18:04:36+00:00"
+  },
+  {
+    "id": "96503d0dad95b061",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 26300.7965 (Dev Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/06/announcing-windows-11-insider-preview-build-26300-7965-dev-channel/",
+    "summary": "[UPDATE 3/11/26]: We are rolling out standalone Update Build 26300.7966 (KB5082257). This update does not include anything new and is designed to test our servicing pipeline for builds in the The post Announcing Windows 11 Insider Preview Build 26300.7965 (Dev Channel) appeared first on Windows...",
+    "date": "2026-03-06T18:04:18+00:00"
+  },
+  {
+    "id": "5ad0d54815ecca3d",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 28020.1673 (Canary Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-28020-1673-canary-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1673 to the Canary Channel. (KB 5077240) What’s new in Canary Build 28020.1673 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1673 (Canary Channel) appeared first on Windows...",
+    "date": "2026-02-27T18:05:47+00:00"
   },
   {
     "id": "4ad3af70c537a60d",
@@ -938,65 +998,5 @@
     "link": "https://developers.zoom.us/changelog/contact-center/february-23-2026",
     "summary": "Tags: api-release, new-feature | Add three new API endpoints for outbound campaigns' DNC lists; add over 20 request fields into the Queues' Interrupt Menu API endpoint; add one request field into the Queues' Interrupt API endpoint.",
     "date": "2026-02-23T00:00:00+00:00"
-  },
-  {
-    "id": "163722ea15c2f52c",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 2.5.0",
-    "link": "https://developers.zoom.us/changelog/video-sdk/react-native/2.5.0",
-    "summary": "Tags: bug-fix, sdk-version | Adds comprehensive whiteboard support, including new listener callbacks for tracking whiteboard share status changes and export events, a WhiteboardStatus enum, user-level whiteboard status checking, and a complete WhiteboardHelper class with methods to start, stop, and...",
-    "date": "2026-02-19T00:00:00+00:00"
-  },
-  {
-    "id": "c1efea643bbbb95f",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 6.7.6",
-    "link": "https://developers.zoom.us/changelog/meeting-sdk/macos/6.7.6",
-    "summary": "Tags: bug-fix, sdk-version | Minor bug fixes.",
-    "date": "2026-02-18T00:00:00+00:00"
-  },
-  {
-    "id": "2b2eacb2103a0a95",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improving the connection between Google Calendar events and Google Meet calls",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/improving-connection-between-Google-Calendar-events-and-Google-Meet-calls.html",
-    "summary": "For each video call, Meet attempts to connect the right Calendar event to determine:Who receives meeting records (ex. Gemini notes, recordings)Who is included in the continuous meeting chat in Google ChatWho can join the meeting without having to be manually admitted by the hostReusing the same...",
-    "date": "2026-03-04T19:01:00+00:00"
-  },
-  {
-    "id": "8307f9850121ab4c",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.4 beta 3 (25E5223i)",
-    "link": "https://developer.apple.com/news/releases/?id=03032026a",
-    "summary": "View downloadsView release notes",
-    "date": "2026-03-03T17:00:00+00:00"
-  },
-  {
-    "id": "f7d1abdd4d6db33c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Workspace admins can allow Gemini app conversation sharing for their organizations",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/workspace-admins-can-allow-gemini-app-conversation-for-their-organizations.html",
-    "summary": "Google Workspace admins can now enable users in their organization to share their Gemini chat conversations by creating public links to share and publish. Previously, this capability was only available to users with personal Google accounts; this update expands access on web to Gemini users with a...",
-    "date": "2026-03-04T16:38:00+00:00"
-  },
-  {
-    "id": "1fe60b460f1b85d3",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improved join permission logging for Google Meet Audit events",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/improved-join-permission-logging-for-Meet-audit-events.html",
-    "summary": "Google Meet Audit event logging for endpoints will now also include the permission type used to grant access to join a meeting.For some endpoint types, additional information will be logged in addition to the join permission type:For users who asked to join a meeting, the audit event will show...",
-    "date": "2026-03-02T15:34:00+00:00"
   }
 ]
