@@ -700,6 +700,26 @@
     "date": "2026-02-27T18:05:47+00:00"
   },
   {
+    "id": "5b22183ed3f95c9c",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Added new User API fields",
+    "link": "https://developers.zoom.us/changelog/scim2/march-12-2026",
+    "summary": "Tags: api-release | New request fields added to User API.",
+    "date": "2026-03-12T00:00:00+00:00"
+  },
+  {
+    "id": "26492a70030f6e55",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.3.15-1",
+    "link": "https://developers.zoom.us/changelog/ui-toolkit/web/2.3.15-1",
+    "summary": "Tags: action-required, bug-fix, sdk-version | Addresses a WebRTC issue that caused session negotiation failures and fallback to WASM on Chrome 147 and later. If you rely on WebRTC video, we strongly advise that you upgrade to ensure compatibility with upcoming Chrome versions.",
+    "date": "2026-03-12T00:00:00+00:00"
+  },
+  {
     "id": "7f06f033ebc4f817",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/02/weekly-recap-02-27-2026.html",
     "summary": "Two new functions in Google SheetsWe are adding two new functions to Google Sheets, =SHEET and =SHEETS. These additions help users manage and reference spreadsheets with multiple tabs more effectively. | Learn more about two new functions in Google Sheets.New internal and external membership...",
     "date": "2026-02-27T22:32:00+00:00"
-  },
-  {
-    "id": "1a15e12f157e7c15",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "January 30, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/45828932837396-January-30-2026",
-    "summary": "",
-    "date": "2026-01-30T18:22:24Z"
-  },
-  {
-    "id": "a810357fbe15a494",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26220.7934 (Beta Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-26220-7934-beta-channel/",
-    "summary": "[UPDATE 3/4/26]: We are rolling out standalone Update Build 26220.7935 (KB5082255). This update does not include anything new and is designed to test our servicing pipeline for builds in the B The post Announcing Windows 11 Insider Preview Build 26220.7934 (Beta Channel) appeared first on Windows...",
-    "date": "2026-02-27T18:04:14+00:00"
   }
 ]
