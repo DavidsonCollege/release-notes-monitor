@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "3218f8844f70fc26",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "March 13, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/47265807993492-March-13-2026",
+    "summary": "",
+    "date": "2026-03-16T15:49:25Z"
+  },
+  {
     "id": "c92b503e4e43b907",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/46280296948628-February-13-2026",
     "summary": "",
     "date": "2026-02-13T17:03:09Z"
-  },
-  {
-    "id": "a534ef3ad28b0199",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "February 6, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/46062434530580-February-6-2026",
-    "summary": "",
-    "date": "2026-02-11T14:07:34Z"
   },
   {
     "id": "6077feb66c340f69",
@@ -750,6 +750,16 @@
     "date": "2026-03-09T00:00:00+00:00"
   },
   {
+    "id": "a534ef3ad28b0199",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "February 6, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/46062434530580-February-6-2026",
+    "summary": "",
+    "date": "2026-02-11T14:07:34Z"
+  },
+  {
     "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
@@ -987,16 +997,6 @@
     "title": "Expanded Fax log management APIs and webhook events",
     "link": "https://developers.zoom.us/changelog/phone/march-02-2026",
     "summary": "Tags: api-release | Added new Fax APIs to update and delete fax logs and introduced related webhook events. Enhanced Fax log APIs with a new `read_status` response field.",
-    "date": "2026-03-02T00:00:00+00:00"
-  },
-  {
-    "id": "89e9646de7d90d51",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added new webhook event",
-    "link": "https://developers.zoom.us/changelog/video-management/march-02-2026",
-    "summary": "Tags: api-release | Added new surveys webhook event that denotes a completed survey.",
     "date": "2026-03-02T00:00:00+00:00"
   }
 ]
