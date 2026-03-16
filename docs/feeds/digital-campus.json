@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "b5ad098a85a9279b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Easily find and set time zones in Google Calendar by searching for city or country",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/easily-find-and-set-time-zones-in-Google-Calendar-by-searching-for-city-or-country.html",
+    "summary": "We’re introducing an improved time zone picker for Google Calendar on the web. Instead of manually scrolling through the list of options, you can now simply search for and select a specific city or country, making it easier to coordinate and schedule with others in different time zones.This...",
+    "date": "2026-03-16T17:14:00+00:00"
+  },
+  {
     "id": "2b916459a31fa82c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/use-help-me-schedule-in-gmail-to-easily-set-up-a-meeting-time-with-multiple-guests.html",
     "summary": "Finding time to meet often requires numerous back-and-forth emails, particularly when coordinating between multiple internal and external stakeholders. To address this, we are expanding the \"Help me schedule\" functionality in Gmail (introduced in October 2025) to support group meetings.Previously,...",
     "date": "2026-03-12T17:32:00+00:00"
-  },
-  {
-    "id": "7769b0f35019d1b5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Control continuous meeting chat for your organization",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/control-continuous-meeting-chat-for-your-organization.html",
-    "summary": "Last year, we launched the ability to continue your Meet conversations in Chat. That rollout will continue this month, with the release to Scheduled Release domains planned to start the week of March 23. In the meantime, we’re excited to introduce a new admin control for this feature In the...",
-    "date": "2026-03-11T15:59:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,16 @@
     "date": "2026-03-09T00:00:00+00:00"
   },
   {
+    "id": "7769b0f35019d1b5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Control continuous meeting chat for your organization",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/control-continuous-meeting-chat-for-your-organization.html",
+    "summary": "Last year, we launched the ability to continue your Meet conversations in Chat. That rollout will continue this month, with the release to Scheduled Release domains planned to start the week of March 23. In the meantime, we’re excited to introduce a new admin control for this feature In the...",
+    "date": "2026-03-11T15:59:00+00:00"
+  },
+  {
     "id": "8ee4018a9aa3532b",
     "product_id": "slack",
     "product_name": "Slack",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=03042026c",
     "summary": "View downloadsView release notes",
     "date": "2026-03-04T17:00:00+00:00"
-  },
-  {
-    "id": "c510432506c56d94",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password in the browser",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "March 3 2026"
   }
 ]
