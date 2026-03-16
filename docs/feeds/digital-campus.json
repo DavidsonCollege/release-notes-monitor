@@ -500,6 +500,16 @@
     "date": "2026-03-11T20:16:07.143572+00:00"
   },
   {
+    "id": "544e979428ac6810",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Optional scopes have landed",
+    "link": "https://docs.slack.dev/changelog/2026/03/16/optional-scopes",
+    "summary": "You can now mark individual OAuth scopes as optional when configuring your Slack app! Optional scopes give users more control over what data your app can access during installation, without blocking them from installing your app entirely.",
+    "date": "2026-03-16T00:00:00+00:00"
+  },
+  {
     "id": "97a112bfc59de73a",
     "product_id": "slack",
     "product_name": "Slack",
@@ -538,16 +548,6 @@
     "link": "https://docs.slack.dev/changelog/2026/02/19/slack-cli",
     "summary": "Version 3.13.0 of the developer tools for the Slack platform has arrived!",
     "date": "2026-02-19T00:00:00+00:00"
-  },
-  {
-    "id": "8ee4018a9aa3532b",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Announcing the Slack MCP server and Real-time Search API",
-    "link": "https://docs.slack.dev/changelog/2026/02/17/slack-mcp",
-    "summary": "We're excited to announce the release of not one, but two, major components designed to significantly enhance how Large Language Models (LLMs) and AI agents interact with your workspace data: the Slack Model Context Protocol (MCP) server and the Real-time Search (RTS) API!",
-    "date": "2026-02-17T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -698,6 +698,16 @@
     "link": "https://developers.zoom.us/changelog/rooms/march-09-2026",
     "summary": "Tags: api-release | Added new response fields to Zoom Rooms API.",
     "date": "2026-03-09T00:00:00+00:00"
+  },
+  {
+    "id": "8ee4018a9aa3532b",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Announcing the Slack MCP server and Real-time Search API",
+    "link": "https://docs.slack.dev/changelog/2026/02/17/slack-mcp",
+    "summary": "We're excited to announce the release of not one, but two, major components designed to significantly enhance how Large Language Models (LLMs) and AI agents interact with your workspace data: the Slack Model Context Protocol (MCP) server and the Real-time Search (RTS) API!",
+    "date": "2026-02-17T00:00:00+00:00"
   },
   {
     "id": "54efe7748c92afb7",
@@ -988,15 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "March 3 2026"
-  },
-  {
-    "id": "8a58d80c67a5ec26",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Expanded Fax log management APIs and webhook events",
-    "link": "https://developers.zoom.us/changelog/phone/march-02-2026",
-    "summary": "Tags: api-release | Added new Fax APIs to update and delete fax logs and introduced related webhook events. Enhanced Fax log APIs with a new `read_status` response field.",
-    "date": "2026-03-02T00:00:00+00:00"
   }
 ]
