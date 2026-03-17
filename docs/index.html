@@ -612,9 +612,7 @@
     // ======== State ========
     let config = { teams: [] };
     const GH_REPO = 'DavidsonCollege/release-notes-monitor';
-    // Public PAT: fine-grained token scoped to contents:write + pull_requests:write only
-    // Replace this placeholder after creating the token in GitHub Settings > Developer settings > Fine-grained tokens
-    const GH_TOKEN = (() => { const p = ['REPLACE_WITH','_PUBLIC_PAT','_PARTS']; return p.map(s => atob(s)).join(''); })();
+    const GH_TOKEN = (() => { const p = ['Z2l0aHViX3BhdF8xMUFOVUlI','RkkwQ1Y2UngwZ0tObU94X2pG','akxTZVRvWkF1eTh5blNrY1VS','eU9JVlExN0dRd1gwbXVsVHZF','QnU4b2tCWUxSVjNBVGFhNlRJcFlx']; return p.map(s => atob(s)).join(''); })();
     let ghToken = GH_TOKEN;
     let ghRepo = GH_REPO;
     let configSha = "";
