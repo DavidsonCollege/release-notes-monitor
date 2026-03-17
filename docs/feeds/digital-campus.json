@@ -510,44 +510,44 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "1053fd937fb15b1a",
+    "id": "8963336fdcb3350f",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Generate process maps from any workflow",
+    "title": "Keep every Scribe on brand, at scale",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "March 11, 2026"
+    "date": "March 17, 2026"
   },
   {
-    "id": "317b5d32b7c0b131",
+    "id": "dfd7c44aeb4013e4",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Generate process maps from any workflow",
-    "link": "https://scribe.launchnotes.io/announcements/generate-process-maps-from-any-workflow",
+    "title": "Keep every Scribe on brand, at scale",
+    "link": "https://scribe.launchnotes.io/announcements/keep-every-scribe-on-brand-at-scale",
     "summary": "Loading...",
-    "date": "March 11, 2026"
+    "date": "March 17, 2026"
   },
   {
-    "id": "bad0262a6166688d",
+    "id": "52cc1e74aca05bf3",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Generate process maps from any workflow",
+    "title": "Enterprise Sharing",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-11T20:16:07.143558+00:00"
+    "date": "2026-03-17T17:30:39.630317+00:00"
   },
   {
-    "id": "00477cfe32bf8a8b",
+    "id": "443e5bbc04cdab86",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "You can now ask any Agent in Optimize to generate a process map from your workflow data. Agents create a BPMN-style map directly in the...",
+    "title": "Keep every Scribe on brand, at scale",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-11T20:16:07.143572+00:00"
+    "date": "2026-03-17T17:30:39.630331+00:00"
   },
   {
     "id": "544e979428ac6810",
@@ -748,6 +748,46 @@
     "link": "https://developers.zoom.us/changelog/rooms/march-09-2026",
     "summary": "Tags: api-release | Added new response fields to Zoom Rooms API.",
     "date": "2026-03-09T00:00:00+00:00"
+  },
+  {
+    "id": "1053fd937fb15b1a",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Generate process maps from any workflow",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "March 11, 2026"
+  },
+  {
+    "id": "317b5d32b7c0b131",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Generate process maps from any workflow",
+    "link": "https://scribe.launchnotes.io/announcements/generate-process-maps-from-any-workflow",
+    "summary": "Loading...",
+    "date": "March 11, 2026"
+  },
+  {
+    "id": "bad0262a6166688d",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Generate process maps from any workflow",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-03-11T20:16:07.143558+00:00"
+  },
+  {
+    "id": "00477cfe32bf8a8b",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "You can now ask any Agent in Optimize to generate a process map from your workflow data. Agents create a BPMN-style map directly in the...",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-03-11T20:16:07.143572+00:00"
   },
   {
     "id": "7769b0f35019d1b5",
@@ -958,45 +998,5 @@
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
     "date": "2026-03-06T17:54:14.686908+00:00"
-  },
-  {
-    "id": "498cbd13c5eccf96",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Add tables within Pages",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-03-06T17:54:14.687052+00:00"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "March 10 2026"
-  },
-  {
-    "id": "03dd5689b456c9c7",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New dynamic data source support for dropdowns in Google Chat apps",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/new-dynamic-data-source-support-for-dropdowns-in-Google-Chat-apps.html",
-    "summary": "Developers can now build more robust and efficient Google Chat apps using dynamic data sources for dropdown menus. With this update, developers can connect dropdowns to external data sources that query and filter results in real-time as a user types, addressing previous scalability issues caused by...",
-    "date": "2026-03-06T16:15:00+00:00"
-  },
-  {
-    "id": "37d983044ee3a3c2",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.3.1 (25D2128)",
-    "link": "https://developer.apple.com/news/releases/?id=03042026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-03-04T17:00:00+00:00"
   }
 ]
