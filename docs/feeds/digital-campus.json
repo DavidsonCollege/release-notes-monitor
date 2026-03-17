@@ -1,13 +1,13 @@
 [
   {
-    "id": "2b32d43f0319657f",
+    "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for iOS",
+    "title": "1Password for Android",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "March 16 2026"
+    "date": "March 17 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -750,6 +750,16 @@
     "date": "2026-03-09T00:00:00+00:00"
   },
   {
+    "id": "2b32d43f0319657f",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for iOS",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "March 16 2026"
+  },
+  {
     "id": "1053fd937fb15b1a",
     "product_id": "scribe",
     "product_name": "Scribe",
@@ -988,15 +998,5 @@
     "link": "https://scribe.launchnotes.io/announcements/add-tables-within-pages",
     "summary": "Loading...",
     "date": "February 6, 2026"
-  },
-  {
-    "id": "80015b32e1cd635a",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pro Pro Team Enterprise Pages",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-03-06T17:54:14.686908+00:00"
   }
 ]
