@@ -560,7 +560,6 @@
     .zoom-badge .remove-zoom:hover { opacity:1; }
     .btn-zoom { display:inline-flex; align-items:center; gap:5px; background:#2D8CFF; color:#fff; border:none; padding:4px 12px; border-radius:6px; font-size:0.82rem; cursor:pointer; font-weight:500; }
     .btn-zoom:hover { background:#1a73e8; }
-    .gchat-badge { display:inline-flex; align-items:center; gap:4px; background:#00AC47; color:#fff; padding:2px 10px; border-radius:12px; font-size:0.82rem; font-weight:500; cursor:default; }
     .zoom-channel-item { display:flex; align-items:center; justify-content:space-between; padding:10px 14px; cursor:pointer; border-bottom:1px solid var(--border); transition:background 0.15s; }
     .zoom-channel-item:last-child { border-bottom:none; }
     .zoom-channel-item:hover { background:var(--bg-hover, #f5f5f5); }
@@ -781,13 +780,6 @@
                           <svg width="14" height="14" viewBox="0 0 48 48" fill="none" style="vertical-align:middle;flex-shrink:0"><rect width="48" height="48" rx="10" fill="#fff"/><path d="M12 17.5A3.5 3.5 0 0115.5 14h13A3.5 3.5 0 0132 17.5v13a3.5 3.5 0 01-3.5 3.5h-13A3.5 3.5 0 0112 30.5v-13z" fill="#2D8CFF"/><path d="M34 20l4-3v14l-4-3V20z" fill="#2D8CFF"/></svg> Add to Zoom
                         </button>
                       `}
-                    </span>
-                    ` : ''}
-                    ${team.gchat_webhook ? `
-                    <span style="margin-left:8px;">
-                      <span class="gchat-badge" title="Posting to Google Chat">
-                        <svg width="14" height="14" viewBox="0 0 48 48" fill="none" style="vertical-align:middle;flex-shrink:0"><rect width="48" height="48" rx="10" fill="#00AC47"/><path d="M14 14h10v10H14z" fill="#fff"/><path d="M24 14h10v10H24z" fill="#fff" opacity=".7"/><path d="M14 24h10v10H14z" fill="#fff" opacity=".7"/><path d="M24 24h6v6h-6z" fill="#fff" opacity=".4"/></svg> Connected
-                      </span>
                     </span>
                     ` : ''}
                     </div>
