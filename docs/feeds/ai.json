@@ -1,55 +1,5 @@
 [
   {
-    "id": "1b753391bc90cc73",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "interactive visual module",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "“Help me understand the Pythagorean theorem.”“Explain how PV = nRT works.”“How do I find the area of a circle?” Availability: Rolling out to all logged-in ChatGPT users across consumer and business plans.",
-    "date": "2026-03-10T20:15:11.984124+00:00"
-  },
-  {
-    "id": "7ac06d58854118c0",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "ChatGPT Images",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "All images you create with ChatGPT are automatically saved under My images at https://chatgpt.com/images, giving you a single place to browse, revisit, and reuse your work without having to sift through past conversations. Learn more about ChatGPT Images in our ChatGPT Images FAQ.",
-    "date": "2026-03-06T17:54:24.035520+00:00"
-  },
-  {
-    "id": "07ccb99ffa00b8e2",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Free, Go, Plus, Edu, and Pro",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "",
-    "date": "2026-03-06T17:54:24.035978+00:00"
-  },
-  {
-    "id": "fd620cca4aced1d4",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Plus, Pro, Business and Enterprise/Edu",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "Installing the app requires the connector to be enabled for your account. Visit the ChatGPT app for Slack page to get started with installation.",
-    "date": "2026-03-06T17:54:24.046172+00:00"
-  },
-  {
-    "id": "335a3faf364d1ba2",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "GPT-5 Instant",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "The model is trained to more accurately detect and respond to potential signs of mental and emotional distress. These updates were guided by mental health experts, and help ChatGPT de-escalate conversations and point people to real-world crisis resources when appropriate, while still using language...",
-    "date": "2026-03-06T17:54:24.048138+00:00"
-  },
-  {
     "id": "64e8e0c7a512bda0",
     "product_id": "claude",
     "product_name": "Claude",
@@ -148,6 +98,56 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We're committed to bringing Google's latest AI innovations faster to Google AI Ultra users, including our most powerful reasoning capabilities to help you tackle even more complex problems.",
     "date": "2026-03-06T17:54:27.084240+00:00"
+  },
+  {
+    "id": "1b753391bc90cc73",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "interactive visual module",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "“Help me understand the Pythagorean theorem.”“Explain how PV = nRT works.”“How do I find the area of a circle?” Availability: Rolling out to all logged-in ChatGPT users across consumer and business plans.",
+    "date": "2026-03-10T20:15:11.984124+00:00"
+  },
+  {
+    "id": "7ac06d58854118c0",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "ChatGPT Images",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "All images you create with ChatGPT are automatically saved under My images at https://chatgpt.com/images, giving you a single place to browse, revisit, and reuse your work without having to sift through past conversations. Learn more about ChatGPT Images in our ChatGPT Images FAQ.",
+    "date": "2026-03-06T17:54:24.035520+00:00"
+  },
+  {
+    "id": "07ccb99ffa00b8e2",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Free, Go, Plus, Edu, and Pro",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-03-06T17:54:24.035978+00:00"
+  },
+  {
+    "id": "fd620cca4aced1d4",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Plus, Pro, Business and Enterprise/Edu",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "Installing the app requires the connector to be enabled for your account. Visit the ChatGPT app for Slack page to get started with installation.",
+    "date": "2026-03-06T17:54:24.046172+00:00"
+  },
+  {
+    "id": "335a3faf364d1ba2",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "GPT-5 Instant",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "The model is trained to more accurately detect and respond to potential signs of mental and emotional distress. These updates were guided by mental health experts, and help ChatGPT de-escalate conversations and point people to real-world crisis resources when appropriate, while still using language...",
+    "date": "2026-03-06T17:54:24.048138+00:00"
   },
   {
     "id": "6b4d40304944bcb0",
