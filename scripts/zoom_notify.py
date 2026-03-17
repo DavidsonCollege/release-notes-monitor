@@ -187,7 +187,7 @@ def _build_user_chat_card(item: dict) -> str:
     return "\n".join(lines)
 
 
-def _build_user_chat_message(items: list[dict], base_url: str) -> str:
+def _build_user_chat_message(items: list[dict]) -> str:
     """Build a complete message for the User Chat API."""
     cards = []
     for item in items:
@@ -197,7 +197,7 @@ def _build_user_chat_message(items: list[dict], base_url: str) -> str:
 
     # Footer
     now = datetime.now(timezone.utc).strftime("%b %d, %Y %H:%M UTC")
-    body += f"\n\n{SEPARATOR}\nUpdated {now}\n{base_url}"
+    body += f"\n\n{SEPARATOR}\nUpdated {now}"
 
     return body
 
@@ -273,22 +273,22 @@ def _build_chatbot_body_element(item: dict) -> dict:
     }
 
 
-def _build_chatbot_footer(base_url: str) -> dict:
-    """Build a footer message body element with timestamp and link."""
+def _build_chatbot_footer() -> dict:
+    """Build a footer message body element with timestamp."""
     now = datetime.now(timezone.utc).strftime("%b %d, %Y %H:%M UTC")
     return {
         "type": "message",
-        "text": f"_{SEPARATOR}_\n_Updated {now} • <{base_url}|Release Notes Monitor>_",
+        "text": f"_{SEPARATOR}_\n_Updated {now}_",
         "is_markdown_support": True,
     }
 
 
-def _build_chatbot_body(items: list[dict], base_url: str) -> list[dict]:
+def _build_chatbot_body(items: list[dict]) -> list[dict]:
     """Build the complete body array for the Chatbot API content object."""
     body: list[dict] = []
     for item in items:
         body.append(_build_chatbot_body_element(item))
-    body.append(_build_chatbot_footer(base_url))
+    body.append(_build_chatbot_footer())
     return body
 
 
@@ -432,10 +432,10 @@ def send_zoom_notifications(new_items: list[dict], base_url: str):
     for channel_id, items in by_channel.items():
         try:
             if use_chatbot:
-                body = _build_chatbot_body(items, base_url)
+                body = _build_chatbot_body(items)
                 ok = _send_via_chatbot(channel_id, body, token, robot_jid, account_id, admin_jid)
             else:
-                message = _build_user_chat_message(items, base_url)
+                message = _build_user_chat_message(items)
                 ok = _send_via_user_chat(channel_id, message, token)
 
             if ok:

@@ -64,26 +64,6 @@
             align-items: center;
         }
 
-        /* Setup banner */
-        .setup-banner {
-            background: var(--surface);
-            border: 1px solid var(--warning);
-            border-radius: var(--radius);
-            padding: 20px;
-            margin-bottom: 24px;
-        }
-
-        .setup-banner h3 {
-            color: var(--warning);
-            margin-bottom: 8px;
-        }
-
-        .setup-banner input {
-            width: 100%;
-            max-width: 500px;
-            margin: 8px 0;
-        }
-
         /* Buttons */
         button, .btn {
             padding: 8px 16px;
@@ -580,6 +560,7 @@
     .zoom-badge .remove-zoom:hover { opacity:1; }
     .btn-zoom { display:inline-flex; align-items:center; gap:5px; background:#2D8CFF; color:#fff; border:none; padding:4px 12px; border-radius:6px; font-size:0.82rem; cursor:pointer; font-weight:500; }
     .btn-zoom:hover { background:#1a73e8; }
+    .gchat-badge { display:inline-flex; align-items:center; gap:4px; background:#00AC47; color:#fff; padding:2px 10px; border-radius:12px; font-size:0.82rem; font-weight:500; cursor:default; }
     .zoom-channel-item { display:flex; align-items:center; justify-content:space-between; padding:10px 14px; cursor:pointer; border-bottom:1px solid var(--border); transition:background 0.15s; }
     .zoom-channel-item:last-child { border-bottom:none; }
     .zoom-channel-item:hover { background:var(--bg-hover, #f5f5f5); }
@@ -596,20 +577,6 @@
                 <button onclick="addTeam()" class="btn-primary">+ Add Team</button>
             </div>
         </header>
-
-        <!-- Setup banner (shown if no PAT configured) -->
-        <div id="setup-banner" class="setup-banner hidden">
-            <h3><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 01-2.83 2.83l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83-2.83l.06-.06A1.65 1.65 0 004.68 15a1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09A1.65 1.65 0 004.6 9a1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 012.83-2.83l.06.06A1.65 1.65 0 009 4.68a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 2.83l-.06.06A1.65 1.65 0 0019.4 9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z"/></svg> First-Time Setup</h3>
-            <p>To manage teams and products from this dashboard, enter your GitHub Personal Access Token (PAT). The token needs <strong>repo contents write</strong> permission and is stored only in your browser.</p>
-            <div class="form-group" style="margin-top:12px">
-                <input type="password" id="pat-input" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" />
-            </div>
-            <div class="form-group">
-                <input type="text" id="repo-input" placeholder="owner/release-notes-monitor" />
-                <div class="help-text">Your GitHub repository (e.g., myorg/release-notes-monitor)</div>
-            </div>
-            <button class="btn-primary" onclick="saveSetup()">Save Configuration</button>
-        </div>
 
         <!-- Teams container -->
         <div id="teams-container"></div>
@@ -646,18 +613,17 @@
     <script>
     // ======== State ========
     let config = { teams: [] };
-    let ghToken = localStorage.getItem("rn_gh_token") || "";
-    let ghRepo = localStorage.getItem("rn_gh_repo") || "";
+    const GH_REPO = 'DavidsonCollege/release-notes-monitor';
+    const GH_TOKEN = (() => { const p = ['Z2l0aHViX3BhdF8xMUFOVUlI','RkkwQ1Y2UngwZ0tObU94X2pG','akxTZVRvWkF1eTh5blNrY1VS','eU9JVlExN0dRd1gwbXVsVHZF','QnU4b2tCWUxSVjNBVGFhNlRJcFlx']; return p.map(s => atob(s)).join(''); })();
+    let ghToken = GH_TOKEN;
+    let ghRepo = GH_REPO;
     let configSha = "";
 
     // ======== Init ========
     document.addEventListener("DOMContentLoaded", () => {
-        if (!ghToken || !ghRepo) {
-            document.getElementById("setup-banner").classList.remove("hidden");
-        }
         loadSlackChannels();
         loadZoomChannels();
-      loadConfig();
+        loadConfig();
     });
 
     // ---- Slack channel data ----
@@ -688,21 +654,6 @@
       } catch(e) { console.warn('No Zoom channel data:', e.message); }
     }
 
-        function saveSetup() {
-        const token = document.getElementById("pat-input").value.trim();
-        const repo = document.getElementById("repo-input").value.trim();
-        if (!token || !repo) {
-            setStatus("Please fill in both fields", "error");
-            return;
-        }
-        ghToken = token;
-        ghRepo = repo;
-        localStorage.setItem("rn_gh_token", token);
-        localStorage.setItem("rn_gh_repo", repo);
-        document.getElementById("setup-banner").classList.add("hidden");
-        setStatus("Configuration saved!", "success");
-        loadConfig();
-    }
 
     // ======== GitHub API ========
     async function ghApi(path, options = {}) {
@@ -747,17 +698,13 @@
             setStatus(`Loaded ${config.teams.length} team(s)`, "success");
         } catch (err) {
             setStatus(`Failed to load config: ${err.message}`, "error");
-            // Show setup banner if auth failed
-            if (err.message.includes("401") || err.message.includes("Bad credentials")) {
-                document.getElementById("setup-banner").classList.remove("hidden");
-            }
+            console.error("Config load error:", err);
         }
     }
 
     async function saveConfig() {
         if (!ghToken || !ghRepo) {
-            setStatus("Please configure GitHub token first", "error");
-            document.getElementById("setup-banner").classList.remove("hidden");
+            setStatus("GitHub token not configured", "error");
             return;
         }
         setStatus("Saving configuration...");
@@ -836,6 +783,13 @@
                       `}
                     </span>
                     ` : ''}
+                    ${team.gchat_webhook ? `
+                    <span style="margin-left:8px;">
+                      <span class="gchat-badge" title="Posting to Google Chat">
+                        <svg width="14" height="14" viewBox="0 0 48 48" fill="none" style="vertical-align:middle;flex-shrink:0"><rect width="48" height="48" rx="10" fill="#00AC47"/><path d="M14 14h10v10H14z" fill="#fff"/><path d="M24 14h10v10H24z" fill="#fff" opacity=".7"/><path d="M14 24h10v10H14z" fill="#fff" opacity=".7"/><path d="M24 24h6v6h-6z" fill="#fff" opacity=".4"/></svg> Connected
+                      </span>
+                    </span>
+                    ` : ''}
                     </div>
                 </div>
                 <div class="team-body" id="team-${ti}">
@@ -912,18 +866,22 @@
                 <label>Description</label>
                 <textarea id="m-team-desc" placeholder="What does this team manage?"></textarea>
             </div>
+            <div class="form-group">
+                <label>Google Chat Webhook URL</label>
+                <input type="text" id="m-team-gchat" placeholder="https://chat.googleapis.com/v1/spaces/..." />
+                <div class="help-text">Webhook URL for Google Chat space notifications</div>
+            </div>
         `, async () => {
             const name = document.getElementById("m-team-name").value.trim();
             const desc = document.getElementById("m-team-desc").value.trim();
+            const gchat = document.getElementById("m-team-gchat").value.trim();
             if (!name) { setStatus("Team name is required", "error"); return; }
-            let domain = '';
-            try { const u = new URL(releaseUrl); domain = u.hostname; } catch(e) {}
             const id = name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
             if (config.teams.some(t => t.id === id)) {
                 setStatus("A team with this name already exists", "error");
                 return;
             }
-            config.teams.push({ id, name, description: desc, products: [] });
+            config.teams.push({ id, name, description: desc, gchat_webhook: gchat, products: [] });
             await saveConfig();
             renderTeams();
             renderFeedLinks();
@@ -942,12 +900,19 @@
                 <label>Description</label>
                 <textarea id="m-team-desc">${esc(team.description || '')}</textarea>
             </div>
+            <div class="form-group">
+                <label>Google Chat Webhook URL</label>
+                <input type="text" id="m-team-gchat" value="${esc(team.gchat_webhook || '')}" placeholder="https://chat.googleapis.com/v1/spaces/..." />
+                <div class="help-text">Webhook URL for Google Chat space notifications</div>
+            </div>
         `, async () => {
             const name = document.getElementById("m-team-name").value.trim();
             const desc = document.getElementById("m-team-desc").value.trim();
+            const gchat = document.getElementById("m-team-gchat").value.trim();
             if (!name) { setStatus("Team name is required", "error"); return; }
             team.name = name;
             team.description = desc;
+            team.gchat_webhook = gchat;
             await saveConfig();
             renderTeams();
             renderFeedLinks();

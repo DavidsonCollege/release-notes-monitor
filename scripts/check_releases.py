@@ -23,6 +23,7 @@ from bs4 import BeautifulSoup
 import feedparser
 from slack_notify import send_slack_notifications
 from zoom_notify import send_zoom_notifications
+from gchat_notify import send_gchat_notifications
 
 # --- Configuration ---
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -1069,6 +1070,7 @@ def main():
         for item in new_team_items:
             item["slack_channel"] = team.get("slack_channel", "")
             item["zoom_channel"] = team.get("zoom_channel", "")
+            item["gchat_webhook"] = team.get("gchat_webhook", "")
         all_new_items.extend(new_team_items)
 
     # Generate OPML for easy subscription
@@ -1102,6 +1104,10 @@ def main():
 
     # Send Zoom Team Chat notifications for new items
     send_zoom_notifications(all_new_items, base_url)
+
+    # Send Google Chat notifications for new items
+    print("\n--- Google Chat ---")
+    send_gchat_notifications(all_new_items, base_url)
 
     # Save seen data
     save_json(SEEN_FILE, seen)

@@ -6,6 +6,7 @@
       "description": "Technology products managed by the Digital Campus team",
       "slack_channel": "C0AKDRVCDDW",
       "zoom_channel": "fefe8e7ef29c498495f45a68f174ada5",
+      "gchat_webhook": "https://chat.googleapis.com/v1/spaces/AAQAbb0bC_g/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=Wrd1uZxb7KaDL4fYoZQVYLzLCvZ__a7k8IhxP7gELYM",
       "products": [
         {
           "id": "1password",
@@ -278,6 +279,7 @@
       "description": "",
       "slack_channel": "C0AJ45N511V",
       "zoom_channel": "9fe0109f5a2841e59bbd79b9673d2046",
+      "gchat_webhook": "https://chat.googleapis.com/v1/spaces/AAQAYr75wjk/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=keiFKT9Y0n7K9ZVE9nmhPh_RU9aYMtysO6_DDjskcHA",
       "products": [
         {
           "id": "chatgpt",

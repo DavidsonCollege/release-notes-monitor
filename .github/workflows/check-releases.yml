@@ -41,12 +41,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 1
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
           cache: 'pip'
@@ -78,9 +78,7 @@ jobs:
           ZOOM_CLIENT_ID: ${{ secrets.ZOOM_CLIENT_ID }}
           ZOOM_CLIENT_SECRET: ${{ secrets.ZOOM_CLIENT_SECRET }}
           ZOOM_BOT_JID: ${{ secrets.ZOOM_BOT_JID }}
-          ZOOM_CHATBOT_CLIENT_ID: ${{ secrets.ZOOM_CHATBOT_CLIENT_ID }}
-          ZOOM_CHATBOT_CLIENT_SECRET: ${{ secrets.ZOOM_CHATBOT_CLIENT_SECRET }}
-          ZOOM_USER_EMAIL: ${{ secrets.ZOOM_USER_EMAIL }}
+          ZOOM_USER_JID: ${{ vars.ZOOM_USER_JID }}
           TEST_TEAMS: ${{ github.event.inputs.test_teams }}
         run: python scripts/test_notify.py
 
@@ -98,9 +96,7 @@ jobs:
           ZOOM_CLIENT_ID: ${{ secrets.ZOOM_CLIENT_ID }}
           ZOOM_CLIENT_SECRET: ${{ secrets.ZOOM_CLIENT_SECRET }}
           ZOOM_BOT_JID: ${{ secrets.ZOOM_BOT_JID }}
-          ZOOM_CHATBOT_CLIENT_ID: ${{ secrets.ZOOM_CHATBOT_CLIENT_ID }}
-          ZOOM_CHATBOT_CLIENT_SECRET: ${{ secrets.ZOOM_CHATBOT_CLIENT_SECRET }}
-          ZOOM_USER_EMAIL: ${{ secrets.ZOOM_USER_EMAIL }}
+          ZOOM_USER_JID: ${{ vars.ZOOM_USER_JID }}
         run: python scripts/check_releases.py
 
       - name: Commit and push changes
