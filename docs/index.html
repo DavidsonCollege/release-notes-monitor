@@ -566,6 +566,9 @@
     .zoom-channel-item.selected { background:rgba(45,140,255,0.35); border-left:3px solid #2D8CFF; box-shadow:inset 0 0 0 1px rgba(45,140,255,0.3); }
     .zoom-channel-item .ch-name { font-weight:500; }
     .zoom-channel-item .ch-meta { font-size:0.8rem; color:#666; }
+
+    /* Google Chat integration */
+    .gchat-badge { display:inline-flex; align-items:center; gap:4px; background:#1a73e8; color:#fff; padding:2px 10px; border-radius:12px; font-size:0.82rem; font-weight:500; cursor:default; }
     </style>
 </head>
 <body>
@@ -757,8 +760,8 @@
                     ${slackChannels.length > 0 ? `
                     <span style="margin-left:8px;">
                       ${team.slack_channel ? `
-                        <span class="slack-badge" title="Posting to this channel">
-                          <svg width=\"14\" height=\"14\" viewBox=\"0 0 124 124\" fill=\"none\" style=\"vertical-align:middle;flex-shrink:0\"><path d=\"M26.4 78.9c0 7.1-5.8 12.9-12.9 12.9S.6 86 .6 78.9s5.8-12.9 12.9-12.9h12.9v12.9zm6.5 0c0-7.1 5.8-12.9 12.9-12.9s12.9 5.8 12.9 12.9v32.3c0 7.1-5.8 12.9-12.9 12.9s-12.9-5.8-12.9-12.9V78.9z\" fill=\"#E01E5A\"/><path d=\"M45.8 26.4c-7.1 0-12.9-5.8-12.9-12.9S38.7.6 45.8.6s12.9 5.8 12.9 12.9v12.9H45.8zm0 6.5c7.1 0 12.9 5.8 12.9 12.9s-5.8 12.9-12.9 12.9H13.5c-7.1 0-12.9-5.8-12.9-12.9s5.8-12.9 12.9-12.9h32.3z\" fill=\"#36C5F0\"/><path d=\"M97.9 45.8c0-7.1 5.8-12.9 12.9-12.9s12.9 5.8 12.9 12.9-5.8 12.9-12.9 12.9H97.9V45.8zm-6.5 0c0 7.1-5.8 12.9-12.9 12.9s-12.9-5.8-12.9-12.9V13.5c0-7.1 5.8-12.9 12.9-12.9s12.9 5.8 12.9 12.9v32.3z\" fill=\"#2EB67D\"/><path d=\"M78.5 97.9c7.1 0 12.9 5.8 12.9 12.9s-5.8 12.9-12.9 12.9-12.9-5.8-12.9-12.9V97.9h12.9zm0-6.5c-7.1 0-12.9-5.8-12.9-12.9s5.8-12.9 12.9-12.9h32.3c7.1 0 12.9 5.8 12.9 12.9s-5.8 12.9-12.9 12.9H78.5z\" fill=\"#ECB22E\"/></svg> Channel: ${(slackChannels.find(c => c.id === team.slack_channel) || {name:'unknown'}).name}
+                        <span class="slack-badge" title="Posting to #${(slackChannels.find(c => c.id === team.slack_channel) || {name:'unknown'}).name}">
+                          <svg width=\"14\" height=\"14\" viewBox=\"0 0 124 124\" fill=\"none\" style=\"vertical-align:middle;flex-shrink:0\"><path d=\"M26.4 78.9c0 7.1-5.8 12.9-12.9 12.9S.6 86 .6 78.9s5.8-12.9 12.9-12.9h12.9v12.9zm6.5 0c0-7.1 5.8-12.9 12.9-12.9s12.9 5.8 12.9 12.9v32.3c0 7.1-5.8 12.9-12.9 12.9s-12.9-5.8-12.9-12.9V78.9z\" fill=\"#E01E5A\"/><path d=\"M45.8 26.4c-7.1 0-12.9-5.8-12.9-12.9S38.7.6 45.8.6s12.9 5.8 12.9 12.9v12.9H45.8zm0 6.5c7.1 0 12.9 5.8 12.9 12.9s-5.8 12.9-12.9 12.9H13.5c-7.1 0-12.9-5.8-12.9-12.9s5.8-12.9 12.9-12.9h32.3z\" fill=\"#36C5F0\"/><path d=\"M97.9 45.8c0-7.1 5.8-12.9 12.9-12.9s12.9 5.8 12.9 12.9-5.8 12.9-12.9 12.9H97.9V45.8zm-6.5 0c0 7.1-5.8 12.9-12.9 12.9s-12.9-5.8-12.9-12.9V13.5c0-7.1 5.8-12.9 12.9-12.9s12.9 5.8 12.9 12.9v32.3z\" fill=\"#2EB67D\"/><path d=\"M78.5 97.9c7.1 0 12.9 5.8 12.9 12.9s-5.8 12.9-12.9 12.9-12.9-5.8-12.9-12.9V97.9h12.9zm0-6.5c-7.1 0-12.9-5.8-12.9-12.9s5.8-12.9 12.9-12.9h32.3c7.1 0 12.9 5.8 12.9 12.9s-5.8 12.9-12.9 12.9H78.5z\" fill=\"#ECB22E\"/></svg> Slack Connected
                           <span class="remove-slack" onclick="removeSlackChannel(${ti})" title="Remove channel">&times;</span>
                         </span>
                       ` : `
@@ -771,8 +774,8 @@
                     ${zoomChannels.length > 0 ? `
                     <span style="margin-left:8px;">
                       ${team.zoom_channel ? `
-                        <span class="zoom-badge" title="Posting to this Zoom channel">
-                          <svg width="14" height="14" viewBox="0 0 48 48" fill="none" style="vertical-align:middle;flex-shrink:0"><rect width="48" height="48" rx="10" fill="#2D8CFF"/><path d="M12 17.5A3.5 3.5 0 0115.5 14h13A3.5 3.5 0 0132 17.5v13a3.5 3.5 0 01-3.5 3.5h-13A3.5 3.5 0 0112 30.5v-13z" fill="#fff"/><path d="M34 20l4-3v14l-4-3V20z" fill="#fff"/></svg> Channel: ${(zoomChannels.find(c => c.id === team.zoom_channel) || {name:'unknown'}).name}
+                        <span class="zoom-badge" title="Posting to ${(zoomChannels.find(c => c.id === team.zoom_channel) || {name:'unknown'}).name}">
+                          <svg width="14" height="14" viewBox="0 0 48 48" fill="none" style="vertical-align:middle;flex-shrink:0"><rect width="48" height="48" rx="10" fill="#2D8CFF"/><path d="M12 17.5A3.5 3.5 0 0115.5 14h13A3.5 3.5 0 0132 17.5v13a3.5 3.5 0 01-3.5 3.5h-13A3.5 3.5 0 0112 30.5v-13z" fill="#fff"/><path d="M34 20l4-3v14l-4-3V20z" fill="#fff"/></svg> Zoom Team Chat Connected
                           <span class="remove-zoom" onclick="removeZoomChannel(${ti})" title="Remove channel">&times;</span>
                         </span>
                       ` : `
@@ -780,6 +783,13 @@
                           <svg width="14" height="14" viewBox="0 0 48 48" fill="none" style="vertical-align:middle;flex-shrink:0"><rect width="48" height="48" rx="10" fill="#fff"/><path d="M12 17.5A3.5 3.5 0 0115.5 14h13A3.5 3.5 0 0132 17.5v13a3.5 3.5 0 01-3.5 3.5h-13A3.5 3.5 0 0112 30.5v-13z" fill="#2D8CFF"/><path d="M34 20l4-3v14l-4-3V20z" fill="#2D8CFF"/></svg> Add to Zoom
                         </button>
                       `}
+                    </span>
+                    ` : ''}
+                    ${team.gchat_webhook ? `
+                    <span style="margin-left:8px;">
+                      <span class="gchat-badge" title="Google Chat webhook configured">
+                        <svg width="14" height="14" viewBox="0 0 48 48" style="vertical-align:middle;flex-shrink:0"><path d="M44.5 20H24v8.5h11.8C34.7 33.9 30.1 37 24 37c-7.2 0-13-5.8-13-13s5.8-13 13-13c3.1 0 5.9 1.1 8.1 2.9l6.4-6.4C34.6 4.1 29.6 2 24 2 11.8 2 2 11.8 2 24s9.8 22 22 22c11 0 21-8 21-22 0-1.3-.2-2.7-.5-4z" fill="#4285F4"/><path d="M3.2 12.5l7 5.1C12.1 13.7 17.5 11 24 11c3.1 0 5.9 1.1 8.1 2.9l6.4-6.4C34.6 4.1 29.6 2 24 2 14.7 2 6.6 6.1 3.2 12.5z" fill="#EA4335"/><path d="M24 46c5.4 0 10.3-1.8 14.1-5l-6.5-5.5C29.5 37.1 26.9 38 24 38c-6 0-11.1-4-12.9-9.5l-7 5.4C7.4 40.3 15.1 46 24 46z" fill="#34A853"/><path d="M44.5 20H24v8.5h11.8c-1 2.7-2.8 5-5.2 6.5l6.5 5.5C40.7 37.3 46 31.5 46 24c0-1.3-.2-2.7-.5-4z" fill="#FBBC05"/></svg> Google Chat Connected
+                      </span>
                     </span>
                     ` : ''}
                     </div>
