@@ -480,36 +480,6 @@
     "date": "2025-10-03T00:00:00+00:00"
   },
   {
-    "id": "06a1b6a05e1c3232",
-    "product_id": "screencloud",
-    "product_name": "ScreenCloud",
-    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "4.11.2",
-    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
-    "summary": "New: Support for Amazon’s Remote Device Management (RDM) for Signage Sticks, including:Screen/TV mute and unmute via HDMI-CECScreen/TV power on and off via HDMI-CECDevice rebootScreenshot and full-screen captureDeep cache clearing (player app and Android system cache)Player app restartCPU and GPU...",
-    "date": "January 23, 2026"
-  },
-  {
-    "id": "e1dab31261398830",
-    "product_id": "screencloud",
-    "product_name": "ScreenCloud",
-    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "4.9.0",
-    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
-    "summary": "New: Amazon Signage Stick (ASS) dedicated player. Previously ran Amazon Fire OS player on ASS device.",
-    "date": "May 8, 2025"
-  },
-  {
-    "id": "25cbe092cc1d040f",
-    "product_id": "screencloud",
-    "product_name": "ScreenCloud",
-    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
-    "title": "4.7.16",
-    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
-    "summary": "Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.",
-    "date": "March 28, 2024"
-  },
-  {
     "id": "1053fd937fb15b1a",
     "product_id": "scribe",
     "product_name": "Scribe",
@@ -748,6 +718,36 @@
     "link": "https://developers.zoom.us/changelog/rooms/march-09-2026",
     "summary": "Tags: api-release | Added new response fields to Zoom Rooms API.",
     "date": "2026-03-09T00:00:00+00:00"
+  },
+  {
+    "id": "06a1b6a05e1c3232",
+    "product_id": "screencloud",
+    "product_name": "ScreenCloud",
+    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
+    "title": "4.11.2",
+    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
+    "summary": "New: Support for Amazon’s Remote Device Management (RDM) for Signage Sticks, including:Screen/TV mute and unmute via HDMI-CECScreen/TV power on and off via HDMI-CECDevice rebootScreenshot and full-screen captureDeep cache clearing (player app and Android system cache)Player app restartCPU and GPU...",
+    "date": "January 23, 2026"
+  },
+  {
+    "id": "e1dab31261398830",
+    "product_id": "screencloud",
+    "product_name": "ScreenCloud",
+    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
+    "title": "4.9.0",
+    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
+    "summary": "New: Amazon Signage Stick (ASS) dedicated player. Previously ran Amazon Fire OS player on ASS device.",
+    "date": "May 8, 2025"
+  },
+  {
+    "id": "25cbe092cc1d040f",
+    "product_id": "screencloud",
+    "product_name": "ScreenCloud",
+    "icon_url": "https://www.google.com/s2/favicons?domain=screencloud.com&sz=64",
+    "title": "4.7.16",
+    "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
+    "summary": "Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.",
+    "date": "March 28, 2024"
   },
   {
     "id": "7769b0f35019d1b5",
