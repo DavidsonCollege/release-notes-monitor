@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Release Notes Monitor - Dashboard</title>
+    <title>Release Notes Monitor - Admin Dashboard</title>
     <style>
         :root {
             --bg: #0f172a;
@@ -543,22 +543,6 @@
     .slack-badge { display:inline-flex; align-items:center; gap:4px; background:#4A154B; color:#fff; padding:2px 10px; border-radius:12px; font-size:0.82rem; font-weight:500; cursor:default; }
     .zoom-badge { display:inline-flex; align-items:center; gap:4px; background:#2D8CFF; color:#fff; padding:2px 10px; border-radius:12px; font-size:0.82rem; font-weight:500; cursor:default; }
     .gchat-badge { display:inline-flex; align-items:center; gap:4px; background:#1a73e8; color:#fff; padding:2px 10px; border-radius:12px; font-size:0.82rem; font-weight:500; cursor:default; }
-
-    /* Public dashboard banner */
-    .review-banner {
-        background: linear-gradient(135deg, #1e3a5f 0%, #1e293b 100%);
-        border: 1px solid var(--accent);
-        border-radius: var(--radius);
-        padding: 14px 20px;
-        margin-bottom: 24px;
-        display: flex;
-        align-items: center;
-        gap: 12px;
-        font-size: 14px;
-        color: var(--text-muted);
-    }
-    .review-banner svg { flex-shrink: 0; }
-    .review-banner strong { color: var(--text); }
     </style>
 </head>
 <body>
@@ -570,10 +554,20 @@
             </div>
         </header>
 
-        <!-- Review notice -->
-        <div class="review-banner">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
-            <span><strong>Changes require approval.</strong> Edits you make here will be submitted as a change request and reviewed by an admin before taking effect.</span>
+        <!-- Pending Changes -->
+        <div id="pending-changes" class="team-card" style="display:none;margin-bottom:24px;border-color:var(--warning)">
+            <div class="team-header" onclick="toggleSection('pending-body')">
+                <h2>
+                    <span class="chevron open" id="chevron-pending-body"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="#C91230" stroke="none" style="vertical-align:middle"><polygon points="8,4 20,12 8,20"/></svg></span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+                    Pending Changes
+                    <span class="badge" id="pending-count" style="background:var(--warning);color:#000">0</span>
+                </h2>
+            </div>
+            <div class="team-body open" id="pending-body">
+                <p class="team-description">Change requests submitted from the public dashboard awaiting your approval.</p>
+                <div id="pending-list"></div>
+            </div>
         </div>
 
         <!-- Teams container -->
@@ -612,9 +606,7 @@
     // ======== State ========
     let config = { teams: [] };
     const GH_REPO = 'DavidsonCollege/release-notes-monitor';
-    // Public PAT: fine-grained token scoped to contents:write + pull_requests:write only
-    // Replace this placeholder after creating the token in GitHub Settings > Developer settings > Fine-grained tokens
-    const GH_TOKEN = (() => { const p = ['REPLACE_WITH','_PUBLIC_PAT','_PARTS']; return p.map(s => atob(s)).join(''); })();
+    const GH_TOKEN = (() => { const p = ['Z2l0aHViX3BhdF8xMUFOVUlI','RkkwQ1Y2UngwZ0tObU94X2pG','akxTZVRvWkF1eTh5blNrY1VS','eU9JVlExN0dRd1gwbXVsVHZF','QnU4b2tCWUxSVjNBVGFhNlRJcFlx']; return p.map(s => atob(s)).join(''); })();
     let ghToken = GH_TOKEN;
     let ghRepo = GH_REPO;
     let configSha = "";
@@ -624,6 +616,7 @@
         loadSlackChannels();
         loadZoomChannels();
         loadConfig();
+        loadPendingChanges();
     });
 
     // ---- Slack channel data ----
@@ -702,72 +695,28 @@
         }
     }
 
-    async function saveConfig(changeDescription) {
+    async function saveConfig() {
         if (!ghToken || !ghRepo) {
-            setStatus("GitHub token not configured — contact an admin", "error");
+            setStatus("GitHub token not configured", "error");
             return;
         }
-        const desc = changeDescription || 'Update teams configuration';
-        setStatus("Submitting change request...");
+        setStatus("Saving configuration...");
         try {
-            const apiBase = `https://api.github.com/repos/${ghRepo}`;
-            const headers = { 'Authorization': `Bearer ${ghToken}`, 'Accept': 'application/vnd.github.v3+json', 'Content-Type': 'application/json' };
-
-            // 1. Get latest main SHA
-            const refResp = await fetch(`${apiBase}/git/refs/heads/main`, { headers });
-            if (!refResp.ok) throw new Error('Could not read repository');
-            const refData = await refResp.json();
-            const mainSha = refData.object.sha;
-
-            // 2. Create branch
-            const branchName = `dashboard-change/${Date.now()}`;
-            const branchResp = await fetch(`${apiBase}/git/refs`, {
-                method: 'POST', headers,
-                body: JSON.stringify({ ref: `refs/heads/${branchName}`, sha: mainSha })
-            });
-            if (!branchResp.ok) throw new Error('Could not create branch');
-
-            // 3. Get file SHA on new branch
-            const fileResp = await fetch(`${apiBase}/contents/config/teams.json?ref=${branchName}`, { headers });
-            const fileData = await fileResp.json();
-
-            // 4. Commit config to branch
             const content = btoa(unescape(encodeURIComponent(JSON.stringify(config, null, 2))));
-            const commitResp = await fetch(`${apiBase}/contents/config/teams.json`, {
-                method: 'PUT', headers,
-                body: JSON.stringify({ message: desc, content, sha: fileData.sha, branch: branchName })
-            });
-            if (!commitResp.ok) throw new Error('Could not save changes');
+            const body = {
+                message: `Update teams configuration [dashboard]`,
+                content: content,
+            };
+            if (configSha) body.sha = configSha;
 
-            // 5. Open PR
-            const prResp = await fetch(`${apiBase}/pulls`, {
-                method: 'POST', headers,
-                body: JSON.stringify({
-                    title: `[Dashboard] ${desc}`,
-                    body: `### Change Request\n\nSubmitted via the public dashboard.\n\n**Description:** ${desc}`,
-                    head: branchName,
-                    base: 'main'
-                })
+            const data = await ghApi("config/teams.json", {
+                method: "PUT",
+                body: JSON.stringify(body),
             });
-            if (!prResp.ok) throw new Error('Could not create pull request');
-            const prData = await prResp.json();
-
-            setStatus("Change request submitted!", "success");
-            // Reload original config (discard local edits since they're in the PR now)
-            await loadConfig();
-            // Show confirmation
-            showModal('Change Request Submitted', `
-                <div style="text-align:center;padding:20px 0">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--success)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-                    <p style="font-size:16px;font-weight:600;margin:16px 0 8px">Your changes have been submitted</p>
-                    <p style="color:var(--text-muted);margin-bottom:16px">An admin will review and approve your changes before they take effect.</p>
-                    <a href="${prData.html_url}" target="_blank" style="color:var(--accent);font-size:14px">View change request on GitHub &rarr;</a>
-                </div>
-            `, () => closeModal());
+            configSha = data.content.sha;
+            setStatus("Configuration saved successfully!", "success");
         } catch (err) {
-            setStatus(`Failed to submit: ${err.message}`, "error");
-            // Reload to discard partial state
-            await loadConfig();
+            setStatus(`Failed to save: ${err.message}`, "error");
         }
     }
 
@@ -933,7 +882,10 @@
                 return;
             }
             config.teams.push({ id, name, description: desc, slack_channel: slackCh, zoom_channel: zoomCh, gchat_webhook: gchat, products: [] });
-            await saveConfig(`Add team "${name}"`);
+            await saveConfig();
+            renderTeams();
+            renderFeedLinks();
+            closeModal();
         });
     }
 
@@ -984,16 +936,20 @@
             team.slack_channel = slackCh;
             team.zoom_channel = zoomCh;
             team.gchat_webhook = gchat;
-            await saveConfig(`Edit team "${name}"`);
+            await saveConfig();
+            renderTeams();
+            renderFeedLinks();
+            closeModal();
         });
     }
 
     function deleteTeam(ti) {
         const team = config.teams[ti];
-        if (confirm(`Remove team "${team.name}" and all its products? This will be submitted for review.`)) {
-            const teamName = team.name;
+        if (confirm(`Remove team "${team.name}" and all its products?`)) {
             config.teams.splice(ti, 1);
-            saveConfig(`Remove team "${teamName}"`);
+            saveConfig();
+            renderTeams();
+            renderFeedLinks();
         }
     }
 
@@ -1029,11 +985,12 @@
           modalBtns.innerHTML = origBtns;
         }
         try {
-          const teamName = config.teams[ti].name;
           config.teams[ti].products.push(product);
-          await saveConfig(`Add product "${product.name}" to ${teamName}`);
+          await saveConfig();
+          renderTeams();
+          closeModal();
         } catch (err) {
-          setStatus('Failed to submit: ' + err.message, 'error');
+          setStatus('Failed to save product: ' + err.message, 'error');
         }
       });
     }
@@ -1049,19 +1006,18 @@
       }
       // Preserve original product ID during edit
       updated.id = product.id;
-            const teamName = config.teams[ti].name;
             config.teams[ti].products[pi] = updated;
-            await saveConfig(`Edit product "${updated.name}" in ${teamName}`);
+            await saveConfig();
+            renderTeams();
+            closeModal();
         });
     }
 
     function deleteProduct(ti, pi) {
         const product = config.teams[ti].products[pi];
-        if (confirm(`Remove "${product.name}" from this team? This will be submitted for review.`)) {
-            const teamName = config.teams[ti].name;
-            const productName = product.name;
+        if (confirm(`Remove "${product.name}" from this team?`)) {
             config.teams[ti].products.splice(pi, 1);
-            saveConfig(`Remove product "${productName}" from ${teamName}`);
+            saveConfig();
             renderTeams();
         }
     }
@@ -1176,7 +1132,7 @@
                     <div class="modal-body">${bodyHtml}</div>
                     <div class="form-actions">
                         <button onclick="closeModal()">Cancel</button>
-                        <button class="btn-primary" id="modal-save-btn">Submit for Review</button>
+                        <button class="btn-primary" id="modal-save-btn">Save</button>
                     </div>
                 </div>
             </div>
@@ -1392,6 +1348,104 @@
             if (item.date) { try { const d = new Date(item.date); if (!isNaN(d)) dateStr = d.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" }); } catch (e) { dateStr = item.date; } }
             return '<div class="preview-item"><div class="preview-item-title"><a href="' + esc(item.link) + '" target="_blank">' + esc(item.title) + '</a></div>' + (dateStr ? '<div class="preview-item-date">' + esc(dateStr) + '</div>' : '') + (item.summary ? '<div class="preview-item-summary">' + esc(item.summary) + '</div>' : '') + '</div>';
         }).join('');
+    }
+
+    // ======== Pending Changes (Admin) ========
+    async function loadPendingChanges() {
+        try {
+            const resp = await fetch(`https://api.github.com/repos/${ghRepo}/pulls?state=open&per_page=50`, {
+                headers: { 'Authorization': `Bearer ${ghToken}`, 'Accept': 'application/vnd.github.v3+json' }
+            });
+            if (!resp.ok) return;
+            const prs = await resp.json();
+            const dashboardPRs = prs.filter(pr => pr.head.ref.startsWith('dashboard-change/'));
+
+            const container = document.getElementById('pending-changes');
+            const countBadge = document.getElementById('pending-count');
+            const list = document.getElementById('pending-list');
+
+            if (dashboardPRs.length === 0) {
+                container.style.display = 'none';
+                return;
+            }
+
+            container.style.display = '';
+            countBadge.textContent = dashboardPRs.length;
+
+            list.innerHTML = dashboardPRs.map(pr => {
+                const date = new Date(pr.created_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+                return `
+                <div class="product-card" style="margin-bottom:12px;flex-direction:column;align-items:stretch;gap:8px">
+                    <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap">
+                        <div style="flex:1;min-width:200px">
+                            <div class="name">${esc(pr.title.replace('[Dashboard] ', ''))}</div>
+                            <div class="domain">${date} &middot; PR #${pr.number}</div>
+                        </div>
+                        <div style="display:flex;gap:8px;flex-shrink:0">
+                            <button class="btn-sm btn-primary" onclick="event.stopPropagation(); approvePR(${pr.number})" style="white-space:nowrap">Approve &amp; Merge</button>
+                            <button class="btn-sm btn-danger" onclick="event.stopPropagation(); rejectPR(${pr.number})">Reject</button>
+                            <a href="${pr.html_url}" target="_blank" class="btn-sm" onclick="event.stopPropagation()" style="text-decoration:none;white-space:nowrap">View Diff</a>
+                        </div>
+                    </div>
+                    ${pr.body ? `<div style="font-size:13px;color:var(--text-muted);line-height:1.5">${esc(pr.body).substring(0, 300)}${pr.body.length > 300 ? '...' : ''}</div>` : ''}
+                </div>`;
+            }).join('');
+        } catch (err) {
+            console.warn('Could not load pending changes:', err);
+        }
+    }
+
+    async function approvePR(prNumber) {
+        if (!confirm('Approve and merge this change request?')) return;
+        try {
+            setStatus('Merging change request...');
+            const mergeResp = await fetch(`https://api.github.com/repos/${ghRepo}/pulls/${prNumber}/merge`, {
+                method: 'PUT',
+                headers: { 'Authorization': `Bearer ${ghToken}`, 'Accept': 'application/vnd.github.v3+json', 'Content-Type': 'application/json' },
+                body: JSON.stringify({ merge_method: 'squash' })
+            });
+            if (!mergeResp.ok) {
+                const err = await mergeResp.json();
+                throw new Error(err.message || 'Merge failed');
+            }
+            // Delete the branch
+            const prResp = await fetch(`https://api.github.com/repos/${ghRepo}/pulls/${prNumber}`, {
+                headers: { 'Authorization': `Bearer ${ghToken}`, 'Accept': 'application/vnd.github.v3+json' }
+            });
+            const prData = await prResp.json();
+            await fetch(`https://api.github.com/repos/${ghRepo}/git/refs/heads/${prData.head.ref}`, {
+                method: 'DELETE',
+                headers: { 'Authorization': `Bearer ${ghToken}`, 'Accept': 'application/vnd.github.v3+json' }
+            });
+            setStatus('Change request approved and merged!', 'success');
+            loadPendingChanges();
+            loadConfig();
+        } catch (err) {
+            setStatus('Failed to merge: ' + err.message, 'error');
+        }
+    }
+
+    async function rejectPR(prNumber) {
+        if (!confirm('Reject this change request? This cannot be undone.')) return;
+        try {
+            setStatus('Rejecting change request...');
+            const resp = await fetch(`https://api.github.com/repos/${ghRepo}/pulls/${prNumber}`, {
+                method: 'PATCH',
+                headers: { 'Authorization': `Bearer ${ghToken}`, 'Accept': 'application/vnd.github.v3+json', 'Content-Type': 'application/json' },
+                body: JSON.stringify({ state: 'closed' })
+            });
+            if (!resp.ok) throw new Error('Failed to close PR');
+            // Delete the branch
+            const prData = await resp.json();
+            await fetch(`https://api.github.com/repos/${ghRepo}/git/refs/heads/${prData.head.ref}`, {
+                method: 'DELETE',
+                headers: { 'Authorization': `Bearer ${ghToken}`, 'Accept': 'application/vnd.github.v3+json' }
+            }).catch(() => {});
+            setStatus('Change request rejected', 'success');
+            loadPendingChanges();
+        } catch (err) {
+            setStatus('Failed to reject: ' + err.message, 'error');
+        }
     }
 
     </script>
