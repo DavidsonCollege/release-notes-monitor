@@ -360,14 +360,14 @@
     "date": "2026-02-11T19:30:06Z"
   },
   {
-    "id": "e3dfdeffd61cbc47",
+    "id": "f5eaf66980377d58",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.3.2 (25D2140)",
-    "link": "https://developer.apple.com/news/releases/?id=03102026a",
+    "title": "macOS 26.4 RC (25E243)",
+    "link": "https://developer.apple.com/news/releases/?id=03182026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-03-10T17:00:00+00:00"
+    "date": "2026-03-18T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -750,6 +750,16 @@
     "date": "2026-03-09T00:00:00+00:00"
   },
   {
+    "id": "e3dfdeffd61cbc47",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.3.2 (25D2140)",
+    "link": "https://developer.apple.com/news/releases/?id=03102026a",
+    "summary": "View downloadsView release notes",
+    "date": "2026-03-10T17:00:00+00:00"
+  },
+  {
     "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
@@ -987,16 +997,6 @@
     "title": "Add tables within Pages",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "February 6, 2026"
-  },
-  {
-    "id": "e01cdf6739129daa",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Add tables within Pages",
-    "link": "https://scribe.launchnotes.io/announcements/add-tables-within-pages",
-    "summary": "Loading...",
     "date": "February 6, 2026"
   }
 ]
