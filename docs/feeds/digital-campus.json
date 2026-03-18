@@ -310,56 +310,6 @@
     "date": "2025-12-05T15:05:58+00:00"
   },
   {
-    "id": "54efe7748c92afb7",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "More Boolean Logic Options in Workflow and Conditional Visibility",
-    "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "25f39b9b77dcdb8c",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Private Data",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/21933242739227-Form-Gadget-Overview#private_data",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "267acb7c7073d4d2",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Apply field changes to older versions of form",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#apply_field_changes",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "6c14d4671587cc8e",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "External user approvals",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/42653174972059-Can-I-Route-to-External-Users",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "5fc19c27a002186e",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Document History",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/21915631807771-Form-Settings#additional_options",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
     "id": "e3dfdeffd61cbc47",
     "product_id": "macos",
     "product_name": "macOS",
@@ -600,6 +550,56 @@
     "date": "2026-02-19T00:00:00+00:00"
   },
   {
+    "id": "d04afd8189d29908",
+    "product_id": "smartdeploy",
+    "product_name": "SmartDeploy",
+    "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
+    "title": "What's new in SmartDeploy release 3.0.1060",
+    "link": "https://www.smartdeploy.com/blog/new-release-smartdeploy-301060",
+    "summary": "",
+    "date": "2023-02-23T00:00-07:00"
+  },
+  {
+    "id": "f3178e95c4d034d4",
+    "product_id": "smartdeploy",
+    "product_name": "SmartDeploy",
+    "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
+    "title": "New Release: SmartDeploy 3.0.1050",
+    "link": "https://www.smartdeploy.com/blog/new-release-smartdeploy-301050",
+    "summary": "",
+    "date": "2022-10-20T00:00-06:00"
+  },
+  {
+    "id": "b53f08061e093898",
+    "product_id": "smartdeploy",
+    "product_name": "SmartDeploy",
+    "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
+    "title": "Just launched: Windows patching functionality (and more!)",
+    "link": "https://www.smartdeploy.com/blog/just-launched-windows-patching",
+    "summary": "",
+    "date": "2022-05-18T00:00-06:00"
+  },
+  {
+    "id": "5e48da512d8b17c1",
+    "product_id": "smartdeploy",
+    "product_name": "SmartDeploy",
+    "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
+    "title": "New Release: SmartDeploy 3.0.1030, Software Asset Management",
+    "link": "https://www.smartdeploy.com/blog/new-release-smartdeploy-3-0-1030-software-asset-management",
+    "summary": "",
+    "date": "2022-02-01T00:00-06:00"
+  },
+  {
+    "id": "a1d2c1d6a50eeb16",
+    "product_id": "smartdeploy",
+    "product_name": "SmartDeploy",
+    "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
+    "title": "Press Release: PDQ.com Acquires SmartDeploy",
+    "link": "https://www.smartdeploy.com/blog/press-release-pdq-com-acquires-smartdeploy",
+    "summary": "",
+    "date": "2022-01-25T00:00-06:00"
+  },
+  {
     "id": "a89b346585eeb76b",
     "product_id": "windows",
     "product_name": "Windows",
@@ -700,54 +700,54 @@
     "date": "2026-03-09T00:00:00+00:00"
   },
   {
-    "id": "d04afd8189d29908",
-    "product_id": "smartdeploy",
-    "product_name": "SmartDeploy",
-    "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
-    "title": "What's new in SmartDeploy release 3.0.1060",
-    "link": "https://www.smartdeploy.com/blog/new-release-smartdeploy-301060",
+    "id": "54efe7748c92afb7",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "More Boolean Logic Options in Workflow and Conditional Visibility",
+    "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
     "summary": "",
-    "date": "2023-02-23T00:00-07:00"
+    "date": "2026-02-11T19:30:06Z"
   },
   {
-    "id": "f3178e95c4d034d4",
-    "product_id": "smartdeploy",
-    "product_name": "SmartDeploy",
-    "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
-    "title": "New Release: SmartDeploy 3.0.1050",
-    "link": "https://www.smartdeploy.com/blog/new-release-smartdeploy-301050",
+    "id": "25f39b9b77dcdb8c",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Private Data",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/21933242739227-Form-Gadget-Overview#private_data",
     "summary": "",
-    "date": "2022-10-20T00:00-06:00"
+    "date": "2026-02-11T19:30:06Z"
   },
   {
-    "id": "b53f08061e093898",
-    "product_id": "smartdeploy",
-    "product_name": "SmartDeploy",
-    "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
-    "title": "Just launched: Windows patching functionality (and more!)",
-    "link": "https://www.smartdeploy.com/blog/just-launched-windows-patching",
+    "id": "267acb7c7073d4d2",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Apply field changes to older versions of form",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#apply_field_changes",
     "summary": "",
-    "date": "2022-05-18T00:00-06:00"
+    "date": "2026-02-11T19:30:06Z"
   },
   {
-    "id": "5e48da512d8b17c1",
-    "product_id": "smartdeploy",
-    "product_name": "SmartDeploy",
-    "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
-    "title": "New Release: SmartDeploy 3.0.1030, Software Asset Management",
-    "link": "https://www.smartdeploy.com/blog/new-release-smartdeploy-3-0-1030-software-asset-management",
+    "id": "6c14d4671587cc8e",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "External user approvals",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/42653174972059-Can-I-Route-to-External-Users",
     "summary": "",
-    "date": "2022-02-01T00:00-06:00"
+    "date": "2026-02-11T19:30:06Z"
   },
   {
-    "id": "a1d2c1d6a50eeb16",
-    "product_id": "smartdeploy",
-    "product_name": "SmartDeploy",
-    "icon_url": "https://www.google.com/s2/favicons?domain=smartdeploy.com&sz=64",
-    "title": "Press Release: PDQ.com Acquires SmartDeploy",
-    "link": "https://www.smartdeploy.com/blog/press-release-pdq-com-acquires-smartdeploy",
+    "id": "5fc19c27a002186e",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Document History",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/21915631807771-Form-Settings#additional_options",
     "summary": "",
-    "date": "2022-01-25T00:00-06:00"
+    "date": "2026-02-11T19:30:06Z"
   },
   {
     "id": "9b4a49c55cd1a750",
