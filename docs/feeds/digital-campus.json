@@ -700,6 +700,26 @@
     "date": "2026-03-12T17:17:46+00:00"
   },
   {
+    "id": "3b0050945f24e21e",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Added new webhook events",
+    "link": "https://developers.zoom.us/changelog/rtms/march-19-2026",
+    "summary": "Tags: api-release | Added new webhooks for use with Zoom Contact Center.",
+    "date": "2026-03-19T00:00:00+00:00"
+  },
+  {
+    "id": "f23f9cbedd01fc72",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 3.1.1",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.1.1",
+    "summary": "Tags: bug-fix, sdk-version | Optimize CSS message transmission performance and bugfix.",
+    "date": "2026-03-16T00:00:00+00:00"
+  },
+  {
     "id": "5b22183ed3f95c9c",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -718,6 +738,16 @@
     "link": "https://developers.zoom.us/changelog/ui-toolkit/web/2.3.15-1",
     "summary": "Tags: action-required, bug-fix, sdk-version | Addresses a WebRTC issue that caused session negotiation failures and fallback to WASM on Chrome 147 and later. If you rely on WebRTC video, we strongly advise that you upgrade to ensure compatibility with upcoming Chrome versions.",
     "date": "2026-03-12T00:00:00+00:00"
+  },
+  {
+    "id": "dc25267cdd19a1ac",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Zoom AI Services - Now available to all developers!",
+    "link": "https://developers.zoom.us/changelog/ai-services/march-10-2026",
+    "summary": "Tags: api-release, new-feature | We are excited to announce the general availability of Zoom AI Services, a suite of enterprise-grade intelligence APIs for speech, language and vision processing, built on the same technology that powers AI features and processes millions of media hours daily across...",
+    "date": "2026-03-10T00:00:00+00:00"
   },
   {
     "id": "7f06f033ebc4f817",
@@ -968,35 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/new-device-id-for-google-meet-hardware.html",
     "summary": "We’re replacing the current Device ID (“Legacy ID”) for Google Meet hardware devices with a new Device ID. This new Device ID will be displayed everywhere you currently see the Legacy ID throughout the Google Admin console:The device list, details, history, and videocalling pages (Admin console >...",
     "date": "2026-03-09T14:49:00+00:00"
-  },
-  {
-    "id": "fed0c6241ef0745f",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Updates to meetings made by a delegate user are now sent in the name of the principal",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/updates-to-meetings-made-by-delegate-user-are-now-sent-in-the-name-of-the-principal.html",
-    "summary": "In many organizations, executives and senior leaders rely on admins or delegates to oversee their busy schedules. In Google Calendar this can be set up by sharing an executive’s calendar with “Make changes to events” or “Make changes and manage sharing” permissions with a delegate user.We’re...",
-    "date": "2026-03-09T14:18:00+00:00"
-  },
-  {
-    "id": "e6c813a351741844",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.7939 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-26300-7939-dev-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.7939 (KB 5077243) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.7939...",
-    "date": "2026-02-27T18:04:30+00:00"
-  },
-  {
-    "id": "e2a46e5fdb37eaf8",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.4 beta 4 (25E5233c)",
-    "link": "https://developer.apple.com/news/releases/?id=03092026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-03-09T17:00:00+00:00"
   }
 ]
