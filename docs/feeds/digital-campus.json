@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "490e89e0d863d3be",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Workspace audit logs: New functionality and expanded event fields",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/workspace-audit-logs-new-functionality.html",
+    "summary": "We’re releasing a number of enhancements to Workspace audit logs, including:Log filtering enhancements for Resource fields in the security investigation tool for Gmail and Google DriveUpdated Application and Network fields available in the Workspace audit log integration with Google Security...",
+    "date": "2026-03-19T16:39:00+00:00"
+  },
+  {
     "id": "b5ad098a85a9279b",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/whisk-is-moving-to-flow-on-april-30-2026.html",
     "summary": "On April 30, 2026, the best capabilities from Whisk are moving directly into Flow, Google's unified platform for AI-powered image and video creation.Users with active Whisk accounts will receive an email announcing this change. An in-product notification will guide them through migrating their...",
     "date": "2026-03-12T17:39:00+00:00"
-  },
-  {
-    "id": "e40cc1c2749016c0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use Help me schedule in Gmail to easily set up a meeting time with multiple guests",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/use-help-me-schedule-in-gmail-to-easily-set-up-a-meeting-time-with-multiple-guests.html",
-    "summary": "Finding time to meet often requires numerous back-and-forth emails, particularly when coordinating between multiple internal and external stakeholders. To address this, we are expanding the \"Help me schedule\" functionality in Gmail (introduced in October 2025) to support group meetings.Previously,...",
-    "date": "2026-03-12T17:32:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,16 @@
     "date": "2026-03-09T00:00:00+00:00"
   },
   {
+    "id": "e40cc1c2749016c0",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Use Help me schedule in Gmail to easily set up a meeting time with multiple guests",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/use-help-me-schedule-in-gmail-to-easily-set-up-a-meeting-time-with-multiple-guests.html",
+    "summary": "Finding time to meet often requires numerous back-and-forth emails, particularly when coordinating between multiple internal and external stakeholders. To address this, we are expanding the \"Help me schedule\" functionality in Gmail (introduced in October 2025) to support group meetings.Previously,...",
+    "date": "2026-03-12T17:32:00+00:00"
+  },
+  {
     "id": "677dba7875fa4724",
     "product_id": "slack",
     "product_name": "Slack",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=03092026c",
     "summary": "View downloadsView release notes",
     "date": "2026-03-09T17:00:00+00:00"
-  },
-  {
-    "id": "32d13778ec8d74b4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - March 6, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-06-2026.html",
-    "summary": "Improved join permission logging for Google Meet Audit eventsGoogle Meet Audit event logging for endpoints will now also include the permission type used to grant access to join a meeting. | Learn more about improved join permission logging for Google Meet Audit events.Workspace admins can allow...",
-    "date": "2026-03-06T20:22:00+00:00"
   }
 ]
