@@ -201,7 +201,7 @@
       "name": "dc-product-updates-2",
       "is_private": true,
       "topic": "",
-      "num_members": 2
+      "num_members": 5
     },
     {
       "id": "CCTTZDPDY",
@@ -960,6 +960,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-03-19T15:50:22.786174+00:00",
+  "last_updated": "2026-03-19T16:25:49.827788+00:00",
   "fetch_status": "success"
 }

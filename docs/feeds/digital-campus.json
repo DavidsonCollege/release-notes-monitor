@@ -550,6 +550,16 @@
     "date": "2026-03-17T17:30:39.630331+00:00"
   },
   {
+    "id": "75ea88db7f495000",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v3.15.0",
+    "link": "https://docs.slack.dev/changelog/2026/03/19/slack-cli",
+    "summary": "Version 3.15.0 of the developer tools for the Slack platform has arrived!",
+    "date": "2026-03-19T00:00:00+00:00"
+  },
+  {
     "id": "544e979428ac6810",
     "product_id": "slack",
     "product_name": "Slack",
@@ -588,16 +598,6 @@
     "link": "https://docs.slack.dev/changelog/2026/03/05/slack-cli",
     "summary": "Version 3.14.0 of the developer tools for the Slack platform has landed!",
     "date": "2026-03-05T00:00:00+00:00"
-  },
-  {
-    "id": "677dba7875fa4724",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v3.13.0",
-    "link": "https://docs.slack.dev/changelog/2026/02/19/slack-cli",
-    "summary": "Version 3.13.0 of the developer tools for the Slack platform has arrived!",
-    "date": "2026-02-19T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -748,6 +748,16 @@
     "link": "https://developers.zoom.us/changelog/rooms/march-09-2026",
     "summary": "Tags: api-release | Added new response fields to Zoom Rooms API.",
     "date": "2026-03-09T00:00:00+00:00"
+  },
+  {
+    "id": "677dba7875fa4724",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v3.13.0",
+    "link": "https://docs.slack.dev/changelog/2026/02/19/slack-cli",
+    "summary": "Version 3.13.0 of the developer tools for the Slack platform has arrived!",
+    "date": "2026-02-19T00:00:00+00:00"
   },
   {
     "id": "e3dfdeffd61cbc47",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-06-2026.html",
     "summary": "Improved join permission logging for Google Meet Audit eventsGoogle Meet Audit event logging for endpoints will now also include the permission type used to grant access to join a meeting. | Learn more about improved join permission logging for Google Meet Audit events.Workspace admins can allow...",
     "date": "2026-03-06T20:22:00+00:00"
-  },
-  {
-    "id": "5c619f9138a58456",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Add tables within Pages",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "February 6, 2026"
   }
 ]
