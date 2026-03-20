@@ -26,7 +26,7 @@
       "name": "ai-product-updates",
       "is_private": true,
       "topic": "",
-      "num_members": 2
+      "num_members": 8
     },
     {
       "id": "C017KEZG1CP",
@@ -960,6 +960,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-03-20T11:43:55.033360+00:00",
+  "last_updated": "2026-03-20T12:19:26.671364+00:00",
   "fetch_status": "success"
 }
