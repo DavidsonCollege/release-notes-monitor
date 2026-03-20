@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "205334155490b841",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - March 20, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-20-2026.html",
+    "summary": "Easily find and set time zones in Google Calendar by searching for city or countryWe’re introducing an improved time zone picker for Google Calendar on the web. Instead of manually scrolling through the list of options, you can now simply search for and select a specific city or country, making it...",
+    "date": "2026-03-20T21:05:00+00:00"
+  },
+  {
+    "id": "e7272b87861fe98e",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New ways to customize and interact with your content in NotebookLM",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/new-ways-to-customize-and-interact-with-your-content-in-NotebookLM.html",
+    "summary": "We’re introducing several updates to NotebookLM that give users more flexibility when uploading sources, new ways to create and edit visuals from NotebookLM and improvements to the interactive study tools.More functions and new visual communication toolsSlide revisions: Users can now revise...",
+    "date": "2026-03-20T21:00:00+00:00"
+  },
+  {
     "id": "fab557b59af3870d",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/easily-find-and-set-time-zones-in-Google-Calendar-by-searching-for-city-or-country.html",
     "summary": "We’re introducing an improved time zone picker for Google Calendar on the web. Instead of manually scrolling through the list of options, you can now simply search for and select a specific city or country, making it easier to coordinate and schedule with others in different time zones.This...",
     "date": "2026-03-16T17:14:00+00:00"
-  },
-  {
-    "id": "2b916459a31fa82c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - March 13, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-13-2026.html",
-    "summary": "Updates to meetings made by a delegate user are now sent in the name of the principalIn Google Calendar this can be set up by sharing an executive’s calendar with “Make changes to events” or “Make changes and manage sharing” permissions with a delegate user. | Learn more about how updates to...",
-    "date": "2026-03-13T19:26:00+00:00"
-  },
-  {
-    "id": "9316b5ff1c0a649b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini in Chrome expands to more countries and languages, including Canada, New Zealand, and India",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/gemini-in-chrome-expands-to-more-countries-and-languages.html",
-    "summary": "Gemini in Chrome is rolling out now to Canada, New Zealand, and India, and we’re adding support for 50+ more languages across these countries and in the United States. You can see the full list of supported languages here.Gemini in Chrome empowers business and education users with AI tools that...",
-    "date": "2026-03-13T17:26:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,26 @@
     "date": "2026-03-10T00:00:00+00:00"
   },
   {
+    "id": "2b916459a31fa82c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - March 13, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-13-2026.html",
+    "summary": "Updates to meetings made by a delegate user are now sent in the name of the principalIn Google Calendar this can be set up by sharing an executive’s calendar with “Make changes to events” or “Make changes and manage sharing” permissions with a delegate user. | Learn more about how updates to...",
+    "date": "2026-03-13T19:26:00+00:00"
+  },
+  {
+    "id": "9316b5ff1c0a649b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini in Chrome expands to more countries and languages, including Canada, New Zealand, and India",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/gemini-in-chrome-expands-to-more-countries-and-languages.html",
+    "summary": "Gemini in Chrome is rolling out now to Canada, New Zealand, and India, and we’re adding support for 50+ more languages across these countries and in the United States. You can see the full list of supported languages here.Gemini in Chrome empowers business and education users with AI tools that...",
+    "date": "2026-03-13T17:26:00+00:00"
+  },
+  {
     "id": "5c95185c6dad098c",
     "product_id": "windows",
     "product_name": "Windows",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/assign-google-calendars-to-google-meet.html",
     "summary": "We’re making it easier to manage calendar assignments for your Meet hardware devices. You can now assign or unassign Google Calendars to your Meet hardware devices in bulk by uploading a CSV file. For organizations with a large number of devices, this eliminates the need to assign calendars one by...",
     "date": "2026-03-09T19:38:00+00:00"
-  },
-  {
-    "id": "bcd02df440e2f627",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Optional scopes have landed",
-    "link": "https://docs.slack.dev/changelog/2026/03/12/optional-scopes",
-    "summary": "You can now mark individual OAuth scopes as optional when configuring your Slack app! Optional scopes give users more control over what data your app can access during installation, without blocking them from installing your app entirely.",
-    "date": "2026-03-12T00:00:00+00:00"
-  },
-  {
-    "id": "9625b141bb42d367",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 28020.1685 (Canary Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/06/announcing-windows-11-insider-preview-build-28020-1685-canary-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1685 to the Canary Channel. (KB 5079381) What’s new in Canary Build 28020.1685 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1685 (Canary Channel) appeared first on Windows...",
-    "date": "2026-03-06T18:05:00+00:00"
   }
 ]
