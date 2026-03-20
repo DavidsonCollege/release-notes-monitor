@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "6c69a5955f64668a",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "March 20, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/47415183812244-March-20-2026",
+    "summary": "",
+    "date": "2026-03-20T16:17:05Z"
+  },
+  {
     "id": "3218f8844f70fc26",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/46492904460180-February-20-2026",
     "summary": "",
     "date": "2026-02-20T18:27:25Z"
-  },
-  {
-    "id": "c3d986a3c7895cb9",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "February 13, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/46280296948628-February-13-2026",
-    "summary": "",
-    "date": "2026-02-13T17:03:09Z"
   },
   {
     "id": "6077feb66c340f69",
@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "fab557b59af3870d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing the new Meetings section in Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/introducing-new-meetings-section-in-Google-Chat.html",
+    "summary": "We’re introducing a dedicated Meetings section in Google Chat—a new way to organize your conversation list and keep your meeting conversations in one place.Previously, meeting conversations lived in your direct messages, often making it difficult to find specific project discussions or meeting...",
+    "date": "2026-03-20T13:45:00+00:00"
+  },
+  {
     "id": "490e89e0d863d3be",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/gemini-in-chrome-expands-to-more-countries-and-languages.html",
     "summary": "Gemini in Chrome is rolling out now to Canada, New Zealand, and India, and we’re adding support for 50+ more languages across these countries and in the United States. You can see the full list of supported languages here.Gemini in Chrome empowers business and education users with AI tools that...",
     "date": "2026-03-13T17:26:00+00:00"
-  },
-  {
-    "id": "6dab2cd132834c9a",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Whisk is moving to Flow on April 30, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/whisk-is-moving-to-flow-on-april-30-2026.html",
-    "summary": "On April 30, 2026, the best capabilities from Whisk are moving directly into Flow, Google's unified platform for AI-powered image and video creation.Users with active Whisk accounts will receive an email announcing this change. An in-product notification will guide them through migrating their...",
-    "date": "2026-03-12T17:39:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,26 @@
     "date": "2026-03-10T00:00:00+00:00"
   },
   {
+    "id": "c3d986a3c7895cb9",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "February 13, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/46280296948628-February-13-2026",
+    "summary": "",
+    "date": "2026-02-13T17:03:09Z"
+  },
+  {
+    "id": "6dab2cd132834c9a",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Whisk is moving to Flow on April 30, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/whisk-is-moving-to-flow-on-april-30-2026.html",
+    "summary": "On April 30, 2026, the best capabilities from Whisk are moving directly into Flow, Google's unified platform for AI-powered image and video creation.Users with active Whisk accounts will receive an email announcing this change. An in-product notification will guide them through migrating their...",
+    "date": "2026-03-12T17:39:00+00:00"
+  },
+  {
     "id": "7f06f033ebc4f817",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -978,25 +998,5 @@
     "link": "https://developers.zoom.us/changelog/scim2/march-09-2026",
     "summary": "Tags: api-release | New zoomEnhancedMedia field for the User APIs. You can now include this field in requests when creating or updating users (POST and PUT). It also appears in responses for user creation, updates, retrievals, and patches.",
     "date": "2026-03-09T00:00:00+00:00"
-  },
-  {
-    "id": "a531bf722ba08641",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New fields in the Channel API",
-    "link": "https://developers.zoom.us/changelog/video-management/march-09-2026",
-    "summary": "Tags: api-release | Added `access_type` request and response field.",
-    "date": "2026-03-09T00:00:00+00:00"
-  },
-  {
-    "id": "ab216b5d301a6a44",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New Device ID for Google Meet hardware",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/new-device-id-for-google-meet-hardware.html",
-    "summary": "We’re replacing the current Device ID (“Legacy ID”) for Google Meet hardware devices with a new Device ID. This new Device ID will be displayed everywhere you currently see the Legacy ID throughout the Google Admin console:The device list, details, history, and videocalling pages (Admin console >...",
-    "date": "2026-03-09T14:49:00+00:00"
   }
 ]
