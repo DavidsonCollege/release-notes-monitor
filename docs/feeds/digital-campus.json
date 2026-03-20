@@ -650,6 +650,46 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "3e2571f90a54dec5",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build for Canary Channel 29553.1000",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-for-canary-channel-29553-1000/",
+    "summary": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29553.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29553.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29553.1000...",
+    "date": "2026-03-20T17:06:13+00:00"
+  },
+  {
+    "id": "e8d17944cdd3e830",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 28020.1743 (Canary Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-28020-1743-canary-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1743 to the Canary Channel. (KB 5081339) What’s new in Canary Build 28020.1743 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1743 (Canary Channel) appeared first on Windows...",
+    "date": "2026-03-20T17:05:51+00:00"
+  },
+  {
+    "id": "04410fb8b91c20ee",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 26300.8085 (Dev Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-26300-8085-dev-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8085 (KB 5079483 The post Announcing Windows 11 Insider Preview Build 26300.8085 (Dev Channel) appeared first on Windows Insider Blog.",
+    "date": "2026-03-20T17:00:57+00:00"
+  },
+  {
+    "id": "36d566557cc4f069",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 26220.8079 (Beta Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-26220-8079-beta-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8079 (KB 5079482< The post Announcing Windows 11 Insider Preview Build 26220.8079 (Beta Channel) appeared first on Windows Insider Blog.",
+    "date": "2026-03-20T17:00:03+00:00"
+  },
+  {
     "id": "a89b346585eeb76b",
     "product_id": "windows",
     "product_name": "Windows",
@@ -658,46 +698,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-for-canary-channel-29550-1000/",
     "summary": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29550.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29550.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29550.1000...",
     "date": "2026-03-13T19:09:35+00:00"
-  },
-  {
-    "id": "5c95185c6dad098c",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 28020.1737 (Canary Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-28020-1737-canary-channel/",
-    "summary": "[UPDATE 3/18/26]: We are rolling out standalone Update Build 28020.1738 (KB5084491). This update does not include anything new and is designed to test our servicing pipeline for builds in Canary Channel. A restart will be required; d The post Announcing Windows 11 Insider Preview Build 28020.1737...",
-    "date": "2026-03-13T17:05:38+00:00"
-  },
-  {
-    "id": "3f1838623992ce48",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.8068 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-26300-8068-dev-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8068 (KB 5079464) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.8068...",
-    "date": "2026-03-13T17:04:20+00:00"
-  },
-  {
-    "id": "733a72a287f0f05a",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26220.8062 (Beta Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-26220-8062-beta-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8062 (KB 5079458) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (i The post Announcing Windows 11 Insider Preview Build 26220.8062...",
-    "date": "2026-03-13T17:04:05+00:00"
-  },
-  {
-    "id": "4f8c6546fdcd159b",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Releasing Windows 11 Builds 26100.8106 and 26200.8106 to the Release Preview Channel",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/12/releasing-windows-11-builds-26100-8106-and-26200-8106-to-the-release-preview-channel/",
-    "summary": "Hello Windows Insiders, today we’re releasing Windows 11 Builds 26100.8106 and 26200.8106 (KB5079387) to Insiders in the Release Preview Channel on Windows 11, versions 24H2 (Build 26100) and 25H2 (Build 26200). This update is available through tw The post Releasing Windows 11 Builds 26100.8106 and...",
-    "date": "2026-03-12T17:17:46+00:00"
   },
   {
     "id": "3b0050945f24e21e",
@@ -748,6 +748,46 @@
     "link": "https://developers.zoom.us/changelog/ai-services/march-10-2026",
     "summary": "Tags: api-release, new-feature | We are excited to announce the general availability of Zoom AI Services, a suite of enterprise-grade intelligence APIs for speech, language and vision processing, built on the same technology that powers AI features and processes millions of media hours daily across...",
     "date": "2026-03-10T00:00:00+00:00"
+  },
+  {
+    "id": "5c95185c6dad098c",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 28020.1737 (Canary Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-28020-1737-canary-channel/",
+    "summary": "[UPDATE 3/18/26]: We are rolling out standalone Update Build 28020.1738 (KB5084491). This update does not include anything new and is designed to test our servicing pipeline for builds in Canary Channel. A restart will be required; d The post Announcing Windows 11 Insider Preview Build 28020.1737...",
+    "date": "2026-03-13T17:05:38+00:00"
+  },
+  {
+    "id": "3f1838623992ce48",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 26300.8068 (Dev Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-26300-8068-dev-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8068 (KB 5079464) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.8068...",
+    "date": "2026-03-13T17:04:20+00:00"
+  },
+  {
+    "id": "733a72a287f0f05a",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 26220.8062 (Beta Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-26220-8062-beta-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8062 (KB 5079458) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (i The post Announcing Windows 11 Insider Preview Build 26220.8062...",
+    "date": "2026-03-13T17:04:05+00:00"
+  },
+  {
+    "id": "4f8c6546fdcd159b",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Releasing Windows 11 Builds 26100.8106 and 26200.8106 to the Release Preview Channel",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/12/releasing-windows-11-builds-26100-8106-and-26200-8106-to-the-release-preview-channel/",
+    "summary": "Hello Windows Insiders, today we’re releasing Windows 11 Builds 26100.8106 and 26200.8106 (KB5079387) to Insiders in the Release Preview Channel on Windows 11, versions 24H2 (Build 26100) and 25H2 (Build 26200). This update is available through tw The post Releasing Windows 11 Builds 26100.8106 and...",
+    "date": "2026-03-12T17:17:46+00:00"
   },
   {
     "id": "c3d986a3c7895cb9",
@@ -958,45 +998,5 @@
     "link": "https://blogs.windows.com/windows-insider/2026/03/06/announcing-windows-11-insider-preview-build-28020-1685-canary-channel/",
     "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1685 to the Canary Channel. (KB 5079381) What’s new in Canary Build 28020.1685 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1685 (Canary Channel) appeared first on Windows...",
     "date": "2026-03-06T18:05:00+00:00"
-  },
-  {
-    "id": "b1d80e6e9c91da50",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26220.7961 (Beta Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/06/announcing-windows-11-insider-preview-build-26220-7961-beta-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.7961 (KB 5079382) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (i The post Announcing Windows 11 Insider Preview Build 26220.7961...",
-    "date": "2026-03-06T18:04:36+00:00"
-  },
-  {
-    "id": "96503d0dad95b061",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.7965 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/06/announcing-windows-11-insider-preview-build-26300-7965-dev-channel/",
-    "summary": "[UPDATE 3/11/26]: We are rolling out standalone Update Build 26300.7966 (KB5082257). This update does not include anything new and is designed to test our servicing pipeline for builds in the The post Announcing Windows 11 Insider Preview Build 26300.7965 (Dev Channel) appeared first on Windows...",
-    "date": "2026-03-06T18:04:18+00:00"
-  },
-  {
-    "id": "5ad0d54815ecca3d",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 28020.1673 (Canary Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/02/27/announcing-windows-11-insider-preview-build-28020-1673-canary-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1673 to the Canary Channel. (KB 5077240) What’s new in Canary Build 28020.1673 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1673 (Canary Channel) appeared first on Windows...",
-    "date": "2026-02-27T18:05:47+00:00"
-  },
-  {
-    "id": "4ad3af70c537a60d",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New zoomEnhancedMedia Field Added to User APIs",
-    "link": "https://developers.zoom.us/changelog/scim2/march-09-2026",
-    "summary": "Tags: api-release | New zoomEnhancedMedia field for the User APIs. You can now include this field in requests when creating or updating users (POST and PUT). It also appears in responses for user creation, updates, retrievals, and patches.",
-    "date": "2026-03-09T00:00:00+00:00"
   }
 ]
