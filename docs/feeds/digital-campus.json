@@ -460,44 +460,44 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "8963336fdcb3350f",
+    "id": "5bf3050b75dbed17",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Keep every Scribe on brand, at scale",
+    "title": "Ask anything about your workflows with Agents",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "March 17, 2026"
+    "date": "March 23, 2026"
   },
   {
-    "id": "dfd7c44aeb4013e4",
+    "id": "f6e28fc9b58d9eee",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Keep every Scribe on brand, at scale",
-    "link": "https://scribe.launchnotes.io/announcements/keep-every-scribe-on-brand-at-scale",
+    "title": "Ask anything about your workflows with Agents",
+    "link": "https://scribe.launchnotes.io/announcements/ask-anything-about-your-workflows-with-agents",
     "summary": "Loading...",
-    "date": "March 17, 2026"
+    "date": "March 23, 2026"
   },
   {
-    "id": "52cc1e74aca05bf3",
+    "id": "c91c416740518220",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Enterprise Sharing",
+    "title": "Ask anything about your workflows with Agents",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-17T17:30:39.630317+00:00"
+    "date": "2026-03-23T15:29:59.725433+00:00"
   },
   {
-    "id": "443e5bbc04cdab86",
+    "id": "207faeb9b3b44bd3",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Keep every Scribe on brand, at scale",
+    "title": "Scribe Optimize now lets you ask questions about your workflow data in plain language. Instead of navigating dashboards to find what you need,.",
     "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-03-17T17:30:39.630331+00:00"
+    "summary": "Scribe Optimize now lets you ask questions about your workflow data in plain language. Instead of navigating dashboards to find what you need,...",
+    "date": "2026-03-23T15:29:59.725450+00:00"
   },
   {
     "id": "75ea88db7f495000",
@@ -698,6 +698,46 @@
     "link": "https://developers.zoom.us/changelog/ai-services/march-10-2026",
     "summary": "Tags: api-release, new-feature | We are excited to announce the general availability of Zoom AI Services, a suite of enterprise-grade intelligence APIs for speech, language and vision processing, built on the same technology that powers AI features and processes millions of media hours daily across...",
     "date": "2026-03-10T00:00:00+00:00"
+  },
+  {
+    "id": "8963336fdcb3350f",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Keep every Scribe on brand, at scale",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "March 17, 2026"
+  },
+  {
+    "id": "dfd7c44aeb4013e4",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Keep every Scribe on brand, at scale",
+    "link": "https://scribe.launchnotes.io/announcements/keep-every-scribe-on-brand-at-scale",
+    "summary": "Loading...",
+    "date": "March 17, 2026"
+  },
+  {
+    "id": "52cc1e74aca05bf3",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Enterprise Sharing",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-03-17T17:30:39.630317+00:00"
+  },
+  {
+    "id": "443e5bbc04cdab86",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Keep every Scribe on brand, at scale",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-03-17T17:30:39.630331+00:00"
   },
   {
     "id": "54efe7748c92afb7",
@@ -958,45 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/control-continuous-meeting-chat-for-your-organization.html",
     "summary": "Last year, we launched the ability to continue your Meet conversations in Chat. That rollout will continue this month, with the release to Scheduled Release domains planned to start the week of March 23. In the meantime, we’re excited to introduce a new admin control for this feature In the...",
     "date": "2026-03-11T15:59:00+00:00"
-  },
-  {
-    "id": "8ee4018a9aa3532b",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Announcing the Slack MCP server and Real-time Search API",
-    "link": "https://docs.slack.dev/changelog/2026/02/17/slack-mcp",
-    "summary": "We're excited to announce the release of not one, but two, major components designed to significantly enhance how Large Language Models (LLMs) and AI agents interact with your workspace data: the Slack Model Context Protocol (MCP) server and the Real-time Search (RTS) API!",
-    "date": "2026-02-17T00:00:00+00:00"
-  },
-  {
-    "id": "a534ef3ad28b0199",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "February 6, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/46062434530580-February-6-2026",
-    "summary": "",
-    "date": "2026-02-11T14:07:34Z"
-  },
-  {
-    "id": "33f60775effe5af4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Better screen scaling for Google Calendar on large monitors",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/better-screen-scaling-for-google-calendar-on-large-monitors.html",
-    "summary": "Google Calendar on the web now offers improved scaling on large, high-resolution monitors. This update provides a clearer overview of your day or week by reducing unnecessary whitespace and better utilizing your available screen space.Previously, users with large or high-resolution monitors may...",
-    "date": "2026-03-10T15:05:00+00:00"
-  },
-  {
-    "id": "990da43f581a47f3",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Assign Google Calendars to Google Meet hardware in bulk",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/assign-google-calendars-to-google-meet.html",
-    "summary": "We’re making it easier to manage calendar assignments for your Meet hardware devices. You can now assign or unassign Google Calendars to your Meet hardware devices in bulk by uploading a CSV file. For organizations with a large number of devices, this eliminates the need to assign calendars one by...",
-    "date": "2026-03-09T19:38:00+00:00"
   }
 ]
