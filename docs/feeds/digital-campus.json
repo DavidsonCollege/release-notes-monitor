@@ -700,6 +700,56 @@
     "date": "2026-03-13T19:09:35+00:00"
   },
   {
+    "id": "a57a1ec845fd1e91",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New endpoints for Survey Management API",
+    "link": "https://developers.zoom.us/changelog/accounts/march-23-2026",
+    "summary": "Tags: api-release | Added new Survey Management API endpoints to retrieve detailed information for survey and account instances.",
+    "date": "2026-03-23T00:00:00+00:00"
+  },
+  {
+    "id": "fc6e9531ba72ef03",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Rebrand \"Team Chat\" to \"Chat\"",
+    "link": "https://developers.zoom.us/changelog/chat/march-23-2026",
+    "summary": "Tags: api-release, new-feature | As of March 22, 2026, \"Zoom Team Chat\" is renamed to \"Zoom Chat\" or \"Chat\" (in brief). No feature or functionality is affected by this name change.",
+    "date": "2026-03-23T00:00:00+00:00"
+  },
+  {
+    "id": "73d9039f6ee6a9e9",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 3.1.2",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.1.2",
+    "summary": "Tags: bug-fix, sdk-version | Fixed CSS style and worker message bugs.",
+    "date": "2026-03-23T00:00:00+00:00"
+  },
+  {
+    "id": "cd0906331e1a4e43",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add new response fields to Account Management, Quote and Subscription APIs",
+    "link": "https://developers.zoom.us/changelog/commerce/march-23-2026",
+    "summary": "Tags: api-release | New enhancements added to Account Management, Quote and Subscription API.",
+    "date": "2026-03-23T00:00:00+00:00"
+  },
+  {
+    "id": "e6591cc4af5307a8",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Twenty new APIs and two new webhook events; additional request and response fields in existing endpoints and events",
+    "link": "https://developers.zoom.us/changelog/contact-center/march-23-2026",
+    "summary": "Tags: api-release, new-feature | Twenty new APIs and two new webhook events; additional request and response fields across over 25 API endpoints and 8 webhook events.",
+    "date": "2026-03-23T00:00:00+00:00"
+  },
+  {
     "id": "3b0050945f24e21e",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -948,55 +998,5 @@
     "link": "https://developers.zoom.us/changelog/rooms/march-09-2026",
     "summary": "Tags: api-release | Added new response fields to Zoom Rooms API.",
     "date": "2026-03-09T00:00:00+00:00"
-  },
-  {
-    "id": "e40cc1c2749016c0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use Help me schedule in Gmail to easily set up a meeting time with multiple guests",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/use-help-me-schedule-in-gmail-to-easily-set-up-a-meeting-time-with-multiple-guests.html",
-    "summary": "Finding time to meet often requires numerous back-and-forth emails, particularly when coordinating between multiple internal and external stakeholders. To address this, we are expanding the \"Help me schedule\" functionality in Gmail (introduced in October 2025) to support group meetings.Previously,...",
-    "date": "2026-03-12T17:32:00+00:00"
-  },
-  {
-    "id": "677dba7875fa4724",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v3.13.0",
-    "link": "https://docs.slack.dev/changelog/2026/02/19/slack-cli",
-    "summary": "Version 3.13.0 of the developer tools for the Slack platform has arrived!",
-    "date": "2026-02-19T00:00:00+00:00"
-  },
-  {
-    "id": "e3dfdeffd61cbc47",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.3.2 (25D2140)",
-    "link": "https://developer.apple.com/news/releases/?id=03102026a",
-    "summary": "View downloadsView release notes",
-    "date": "2026-03-10T17:00:00+00:00"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "March 17 2026"
-  },
-  {
-    "id": "2b32d43f0319657f",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for iOS",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "March 16 2026"
   }
 ]
