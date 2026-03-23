@@ -1,13 +1,13 @@
 [
   {
-    "id": "68bf4e06214d3b4d",
+    "id": "85fa3f89a4f80853",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
+    "title": "1Password CLI Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "March 18 2026"
+    "date": "March 23 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -750,6 +750,16 @@
     "date": "2026-03-10T00:00:00+00:00"
   },
   {
+    "id": "68bf4e06214d3b4d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "March 18 2026"
+  },
+  {
     "id": "8963336fdcb3350f",
     "product_id": "scribe",
     "product_name": "Scribe",
@@ -988,15 +998,5 @@
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
     "date": "2026-03-11T20:16:07.143572+00:00"
-  },
-  {
-    "id": "7769b0f35019d1b5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Control continuous meeting chat for your organization",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/control-continuous-meeting-chat-for-your-organization.html",
-    "summary": "Last year, we launched the ability to continue your Meet conversations in Chat. That rollout will continue this month, with the release to Scheduled Release domains planned to start the week of March 23. In the meantime, we’re excited to introduce a new admin control for this feature In the...",
-    "date": "2026-03-11T15:59:00+00:00"
   }
 ]
