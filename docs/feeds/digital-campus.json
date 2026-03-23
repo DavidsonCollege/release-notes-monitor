@@ -510,44 +510,44 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "5bf3050b75dbed17",
+    "id": "fd54c72132572e68",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Ask anything about your workflows with Agents",
+    "title": "Add code blocks and highlight text in Pages",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
     "date": "March 23, 2026"
   },
   {
-    "id": "f6e28fc9b58d9eee",
+    "id": "c30331bc590e8514",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Ask anything about your workflows with Agents",
-    "link": "https://scribe.launchnotes.io/announcements/ask-anything-about-your-workflows-with-agents",
+    "title": "Add code blocks and highlight text in Pages",
+    "link": "https://scribe.launchnotes.io/announcements/add-code-blocks-and-highlight-text-in-pages",
     "summary": "Loading...",
     "date": "March 23, 2026"
   },
   {
-    "id": "c91c416740518220",
+    "id": "64c31240b09dbc44",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Ask anything about your workflows with Agents",
+    "title": "Add code blocks and highlight text in Pages",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-23T15:29:59.725433+00:00"
+    "date": "2026-03-23T20:49:12.662847+00:00"
   },
   {
-    "id": "207faeb9b3b44bd3",
+    "id": "909403ee485d04d6",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Scribe Optimize now lets you ask questions about your workflow data in plain language. Instead of navigating dashboards to find what you need,.",
+    "title": "Pages now supports 2 new text formatting options: code blocks and text highlight colors. You can mark up text as inline code and add custom...",
     "link": "https://scribe.launchnotes.io/",
-    "summary": "Scribe Optimize now lets you ask questions about your workflow data in plain language. Instead of navigating dashboards to find what you need,...",
-    "date": "2026-03-23T15:29:59.725450+00:00"
+    "summary": "",
+    "date": "2026-03-23T20:49:12.662865+00:00"
   },
   {
     "id": "75ea88db7f495000",
@@ -748,6 +748,46 @@
     "link": "https://developers.zoom.us/changelog/ai-services/march-10-2026",
     "summary": "Tags: api-release, new-feature | We are excited to announce the general availability of Zoom AI Services, a suite of enterprise-grade intelligence APIs for speech, language and vision processing, built on the same technology that powers AI features and processes millions of media hours daily across...",
     "date": "2026-03-10T00:00:00+00:00"
+  },
+  {
+    "id": "5bf3050b75dbed17",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Ask anything about your workflows with Agents",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "March 23, 2026"
+  },
+  {
+    "id": "f6e28fc9b58d9eee",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Ask anything about your workflows with Agents",
+    "link": "https://scribe.launchnotes.io/announcements/ask-anything-about-your-workflows-with-agents",
+    "summary": "Loading...",
+    "date": "March 23, 2026"
+  },
+  {
+    "id": "c91c416740518220",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Ask anything about your workflows with Agents",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-03-23T15:29:59.725433+00:00"
+  },
+  {
+    "id": "207faeb9b3b44bd3",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Scribe Optimize now lets you ask questions about your workflow data in plain language. Instead of navigating dashboards to find what you need,.",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "Scribe Optimize now lets you ask questions about your workflow data in plain language. Instead of navigating dashboards to find what you need,...",
+    "date": "2026-03-23T15:29:59.725450+00:00"
   },
   {
     "id": "68bf4e06214d3b4d",
@@ -958,45 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "March 16 2026"
-  },
-  {
-    "id": "1053fd937fb15b1a",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Generate process maps from any workflow",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "March 11, 2026"
-  },
-  {
-    "id": "317b5d32b7c0b131",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Generate process maps from any workflow",
-    "link": "https://scribe.launchnotes.io/announcements/generate-process-maps-from-any-workflow",
-    "summary": "Loading...",
-    "date": "March 11, 2026"
-  },
-  {
-    "id": "bad0262a6166688d",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Generate process maps from any workflow",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-03-11T20:16:07.143558+00:00"
-  },
-  {
-    "id": "00477cfe32bf8a8b",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "You can now ask any Agent in Optimize to generate a process map from your workflow data. Agents create a BPMN-style map directly in the...",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-03-11T20:16:07.143572+00:00"
   }
 ]
