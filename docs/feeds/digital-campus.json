@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "fe61b167b10f8d24",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Safeguarded guest admit flow in Google Meet",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/safeguarded-guest-admit-flow-in-google-meet.html",
+    "summary": "The new safeguarded guest admit flow assists hosts in meetings when they respond to users who ask to join meetings (also known as ”knocking”). This makes it easier for hosts to handle large volumes of requests and helps reduce the attention and time needed.Meeting hosts will now get those requests...",
+    "date": "2026-03-24T19:45:00+00:00"
+  },
+  {
     "id": "205334155490b841",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/workspace-audit-logs-new-functionality.html",
     "summary": "We’re releasing a number of enhancements to Workspace audit logs, including:Log filtering enhancements for Resource fields in the security investigation tool for Gmail and Google DriveUpdated Application and Network fields available in the Workspace audit log integration with Google Security...",
     "date": "2026-03-19T16:39:00+00:00"
-  },
-  {
-    "id": "b5ad098a85a9279b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Easily find and set time zones in Google Calendar by searching for city or country",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/easily-find-and-set-time-zones-in-Google-Calendar-by-searching-for-city-or-country.html",
-    "summary": "We’re introducing an improved time zone picker for Google Calendar on the web. Instead of manually scrolling through the list of options, you can now simply search for and select a specific city or country, making it easier to coordinate and schedule with others in different time zones.This...",
-    "date": "2026-03-16T17:14:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-03-23T00:00:00+00:00"
   },
   {
+    "id": "b5ad098a85a9279b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Easily find and set time zones in Google Calendar by searching for city or country",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/easily-find-and-set-time-zones-in-Google-Calendar-by-searching-for-city-or-country.html",
+    "summary": "We’re introducing an improved time zone picker for Google Calendar on the web. Instead of manually scrolling through the list of options, you can now simply search for and select a specific city or country, making it easier to coordinate and schedule with others in different time zones.This...",
+    "date": "2026-03-16T17:14:00+00:00"
+  },
+  {
     "id": "fd54c72132572e68",
     "product_id": "scribe",
     "product_name": "Scribe",
@@ -988,15 +998,5 @@
     "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-26300-8068-dev-channel/",
     "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8068 (KB 5079464) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.8068...",
     "date": "2026-03-13T17:04:20+00:00"
-  },
-  {
-    "id": "733a72a287f0f05a",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26220.8062 (Beta Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-26220-8062-beta-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8062 (KB 5079458) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (i The post Announcing Windows 11 Insider Preview Build 26220.8062...",
-    "date": "2026-03-13T17:04:05+00:00"
   }
 ]
