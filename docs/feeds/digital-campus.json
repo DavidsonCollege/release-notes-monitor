@@ -420,6 +420,16 @@
     "date": "2026-03-06T17:54:07.627705+00:00"
   },
   {
+    "id": "e6eed6c1344b6f68",
+    "product_id": "ninjaone",
+    "product_name": "NinjaOne",
+    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
+    "title": "Gain Better IT Asset Control and Visibility into Software Licensing With NinjaOne 13.0",
+    "link": "https://www.ninjaone.com/blog/gain-visibility-with-ninjaone-13/",
+    "summary": "NinjaOne’s 13.0 release advances IT asset management (ITAM) capabilities with software license improvements that offer greater cost visibility, usage history for custom licenses, and refined control over permissions and assignments. The platform now includes robust Lost Mode support for managed...",
+    "date": "2026-03-24T14:00:45+00:00"
+  },
+  {
     "id": "4861482635a84858",
     "product_id": "ninjaone",
     "product_name": "NinjaOne",
@@ -987,16 +997,6 @@
     "title": "Version 3.1.0",
     "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.1.0",
     "summary": "Tags: bug-fix, sdk-version | Adds customizable style configurations for agent connection states, multi-agent control in remote assist sessions, keyboard-based annotation support for accessibility, and masking for image, SVG, and iframe elements. Optimizes display clarity for large images and...",
-    "date": "2026-03-09T00:00:00+00:00"
-  },
-  {
-    "id": "e9b43ef32d657f2e",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Updates to Zoom Rooms API",
-    "link": "https://developers.zoom.us/changelog/rooms/march-09-2026",
-    "summary": "Tags: api-release | Added new response fields to Zoom Rooms API.",
     "date": "2026-03-09T00:00:00+00:00"
   }
 ]
