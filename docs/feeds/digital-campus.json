@@ -520,44 +520,44 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "fd54c72132572e68",
+    "id": "0ffc590ee642e02a",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Add code blocks and highlight text in Pages",
+    "title": "Approval workflows are now customizable",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "March 23, 2026"
+    "date": "March 24, 2026"
   },
   {
-    "id": "c30331bc590e8514",
+    "id": "f0fda1f134dc9314",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Add code blocks and highlight text in Pages",
-    "link": "https://scribe.launchnotes.io/announcements/add-code-blocks-and-highlight-text-in-pages",
+    "title": "Approval workflows are now customizable",
+    "link": "https://scribe.launchnotes.io/announcements/approval-workflows-are-now-customizable",
     "summary": "Loading...",
-    "date": "March 23, 2026"
+    "date": "March 24, 2026"
   },
   {
-    "id": "64c31240b09dbc44",
+    "id": "e8f25f53f92f46d7",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Add code blocks and highlight text in Pages",
+    "title": "Enterprise Editing",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-23T20:49:12.662847+00:00"
+    "date": "2026-03-24T17:54:57.056887+00:00"
   },
   {
-    "id": "909403ee485d04d6",
+    "id": "820439a944d5e1b7",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pages now supports 2 new text formatting options: code blocks and text highlight colors. You can mark up text as inline code and add custom...",
+    "title": "Approval workflows are now customizable",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-23T20:49:12.662865+00:00"
+    "date": "2026-03-24T17:54:57.056905+00:00"
   },
   {
     "id": "75ea88db7f495000",
@@ -760,6 +760,46 @@
     "date": "2026-03-23T00:00:00+00:00"
   },
   {
+    "id": "fd54c72132572e68",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Add code blocks and highlight text in Pages",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "March 23, 2026"
+  },
+  {
+    "id": "c30331bc590e8514",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Add code blocks and highlight text in Pages",
+    "link": "https://scribe.launchnotes.io/announcements/add-code-blocks-and-highlight-text-in-pages",
+    "summary": "Loading...",
+    "date": "March 23, 2026"
+  },
+  {
+    "id": "64c31240b09dbc44",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Add code blocks and highlight text in Pages",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-03-23T20:49:12.662847+00:00"
+  },
+  {
+    "id": "909403ee485d04d6",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Pages now supports 2 new text formatting options: code blocks and text highlight colors. You can mark up text as inline code and add custom...",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-03-23T20:49:12.662865+00:00"
+  },
+  {
     "id": "f5eaf66980377d58",
     "product_id": "macos",
     "product_name": "macOS",
@@ -958,45 +998,5 @@
     "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-26220-8062-beta-channel/",
     "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8062 (KB 5079458) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (i The post Announcing Windows 11 Insider Preview Build 26220.8062...",
     "date": "2026-03-13T17:04:05+00:00"
-  },
-  {
-    "id": "4f8c6546fdcd159b",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Releasing Windows 11 Builds 26100.8106 and 26200.8106 to the Release Preview Channel",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/12/releasing-windows-11-builds-26100-8106-and-26200-8106-to-the-release-preview-channel/",
-    "summary": "Hello Windows Insiders, today we’re releasing Windows 11 Builds 26100.8106 and 26200.8106 (KB5079387) to Insiders in the Release Preview Channel on Windows 11, versions 24H2 (Build 26100) and 25H2 (Build 26200). This update is available through tw The post Releasing Windows 11 Builds 26100.8106 and...",
-    "date": "2026-03-12T17:17:46+00:00"
-  },
-  {
-    "id": "c3d986a3c7895cb9",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "February 13, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/46280296948628-February-13-2026",
-    "summary": "",
-    "date": "2026-02-13T17:03:09Z"
-  },
-  {
-    "id": "6dab2cd132834c9a",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Whisk is moving to Flow on April 30, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/whisk-is-moving-to-flow-on-april-30-2026.html",
-    "summary": "On April 30, 2026, the best capabilities from Whisk are moving directly into Flow, Google's unified platform for AI-powered image and video creation.Users with active Whisk accounts will receive an email announcing this change. An in-product notification will guide them through migrating their...",
-    "date": "2026-03-12T17:39:00+00:00"
-  },
-  {
-    "id": "7f06f033ebc4f817",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 2.13.4",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/2.13.4",
-    "summary": "Tags: sdk-version | Optimize CSS message transmission performance.",
-    "date": "2026-03-09T00:00:00+00:00"
   }
 ]
