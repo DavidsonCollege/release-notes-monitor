@@ -360,14 +360,14 @@
     "date": "2026-02-11T19:30:06Z"
   },
   {
-    "id": "f5eaf66980377d58",
+    "id": "3f064f56bd683957",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.4 RC (25E243)",
-    "link": "https://developer.apple.com/news/releases/?id=03182026c",
+    "title": "macOS 26.4 (25E246)",
+    "link": "https://developer.apple.com/news/releases/?id=03242026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-03-18T17:00:00+00:00"
+    "date": "2026-03-24T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -760,6 +760,16 @@
     "date": "2026-03-23T00:00:00+00:00"
   },
   {
+    "id": "f5eaf66980377d58",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.4 RC (25E243)",
+    "link": "https://developer.apple.com/news/releases/?id=03182026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-03-18T17:00:00+00:00"
+  },
+  {
     "id": "3b0050945f24e21e",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -987,16 +997,6 @@
     "title": "Version 2.13.4",
     "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/2.13.4",
     "summary": "Tags: sdk-version | Optimize CSS message transmission performance.",
-    "date": "2026-03-09T00:00:00+00:00"
-  },
-  {
-    "id": "c18b21ec8f214d04",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.1.0",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.1.0",
-    "summary": "Tags: bug-fix, sdk-version | Adds customizable style configurations for agent connection states, multi-agent control in remote assist sessions, keyboard-based annotation support for accessibility, and masking for image, SVG, and iframe elements. Optimizes display clarity for large images and...",
     "date": "2026-03-09T00:00:00+00:00"
   }
 ]
