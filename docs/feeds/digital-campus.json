@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "2905b00107e9c4a5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Generate custom music in Google Vids, powered by Lyria 3 and Lyria 3 Pro",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/generate-custom-music-in-google-vids-powered-by-Lyria-3-and-Lyria-3-Pro.html",
+    "summary": "You can now generate custom music in Google Vids, powered by Lyria 3 and Lyria 3 Pro, Google’s latest music generation model.Using text-based prompting, Vids users can generate clips (about 30 seconds) or longer tracks (up to three minutes) for their video projects. A user might, for instance, need...",
+    "date": "2026-03-25T16:03:00+00:00"
+  },
+  {
+    "id": "b39c6e9c97209855",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create longer musical tracks in the Gemini app with Lyria 3 Pro",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/create-longer-musical-tracks-in-gemini-app-with-Lyria-3-Pro.html",
+    "summary": "Last month, we introduced 30-second tracks with Lyria 3, featuring custom music generation designed to spark creative expression. Now, we’re also introducing Lyria 3 Pro, an advanced version that allows users to create tracks up to three minutes long, with customization and creative control. Lyria...",
+    "date": "2026-03-25T16:02:00+00:00"
+  },
+  {
     "id": "fe61b167b10f8d24",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/new-ways-to-customize-and-interact-with-your-content-in-NotebookLM.html",
     "summary": "We’re introducing several updates to NotebookLM that give users more flexibility when uploading sources, new ways to create and edit visuals from NotebookLM and improvements to the interactive study tools.More functions and new visual communication toolsSlide revisions: Users can now revise...",
     "date": "2026-03-20T21:00:00+00:00"
-  },
-  {
-    "id": "fab557b59af3870d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing the new Meetings section in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/introducing-new-meetings-section-in-Google-Chat.html",
-    "summary": "We’re introducing a dedicated Meetings section in Google Chat—a new way to organize your conversation list and keep your meeting conversations in one place.Previously, meeting conversations lived in your direct messages, often making it difficult to find specific project discussions or meeting...",
-    "date": "2026-03-20T13:45:00+00:00"
-  },
-  {
-    "id": "490e89e0d863d3be",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Workspace audit logs: New functionality and expanded event fields",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/workspace-audit-logs-new-functionality.html",
-    "summary": "We’re releasing a number of enhancements to Workspace audit logs, including:Log filtering enhancements for Resource fields in the security investigation tool for Gmail and Google DriveUpdated Application and Network fields available in the Workspace audit log integration with Google Security...",
-    "date": "2026-03-19T16:39:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -310,6 +310,16 @@
     "date": "2025-12-05T15:05:58+00:00"
   },
   {
+    "id": "cab9dd2ae697d867",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Associations",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#associations",
+    "summary": "",
+    "date": "2026-03-25T17:00:03Z"
+  },
+  {
     "id": "54efe7748c92afb7",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -317,7 +327,7 @@
     "title": "More Boolean Logic Options in Workflow and Conditional Visibility",
     "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
     "summary": "",
-    "date": "2026-02-11T19:30:06Z"
+    "date": "2026-03-25T17:00:03Z"
   },
   {
     "id": "25f39b9b77dcdb8c",
@@ -327,7 +337,7 @@
     "title": "Private Data",
     "link": "https://kuali.zendesk.com/hc/en-us/articles/21933242739227-Form-Gadget-Overview#private_data",
     "summary": "",
-    "date": "2026-02-11T19:30:06Z"
+    "date": "2026-03-25T17:00:03Z"
   },
   {
     "id": "267acb7c7073d4d2",
@@ -337,7 +347,7 @@
     "title": "Apply field changes to older versions of form",
     "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#apply_field_changes",
     "summary": "",
-    "date": "2026-02-11T19:30:06Z"
+    "date": "2026-03-25T17:00:03Z"
   },
   {
     "id": "6c14d4671587cc8e",
@@ -347,17 +357,7 @@
     "title": "External user approvals",
     "link": "https://kuali.zendesk.com/hc/en-us/articles/42653174972059-Can-I-Route-to-External-Users",
     "summary": "",
-    "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "5fc19c27a002186e",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Document History",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/21915631807771-Form-Settings#additional_options",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
+    "date": "2026-03-25T17:00:03Z"
   },
   {
     "id": "3f064f56bd683957",
@@ -760,6 +760,36 @@
     "date": "2026-03-23T00:00:00+00:00"
   },
   {
+    "id": "fab557b59af3870d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing the new Meetings section in Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/introducing-new-meetings-section-in-Google-Chat.html",
+    "summary": "We’re introducing a dedicated Meetings section in Google Chat—a new way to organize your conversation list and keep your meeting conversations in one place.Previously, meeting conversations lived in your direct messages, often making it difficult to find specific project discussions or meeting...",
+    "date": "2026-03-20T13:45:00+00:00"
+  },
+  {
+    "id": "490e89e0d863d3be",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Workspace audit logs: New functionality and expanded event fields",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/workspace-audit-logs-new-functionality.html",
+    "summary": "We’re releasing a number of enhancements to Workspace audit logs, including:Log filtering enhancements for Resource fields in the security investigation tool for Gmail and Google DriveUpdated Application and Network fields available in the Workspace audit log integration with Google Security...",
+    "date": "2026-03-19T16:39:00+00:00"
+  },
+  {
+    "id": "5fc19c27a002186e",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Document History",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/21915631807771-Form-Settings#additional_options",
+    "summary": "",
+    "date": "2026-02-11T19:30:06Z"
+  },
+  {
     "id": "92aca7ce8a209770",
     "product_id": "1password",
     "product_name": "1Password",
@@ -968,35 +998,5 @@
     "link": "https://scribe.launchnotes.io/",
     "summary": "Scribe Optimize now lets you ask questions about your workflow data in plain language. Instead of navigating dashboards to find what you need,...",
     "date": "2026-03-23T15:29:59.725450+00:00"
-  },
-  {
-    "id": "8963336fdcb3350f",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Keep every Scribe on brand, at scale",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "March 17, 2026"
-  },
-  {
-    "id": "dfd7c44aeb4013e4",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Keep every Scribe on brand, at scale",
-    "link": "https://scribe.launchnotes.io/announcements/keep-every-scribe-on-brand-at-scale",
-    "summary": "Loading...",
-    "date": "March 17, 2026"
-  },
-  {
-    "id": "52cc1e74aca05bf3",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Enterprise Sharing",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-03-17T17:30:39.630317+00:00"
   }
 ]
