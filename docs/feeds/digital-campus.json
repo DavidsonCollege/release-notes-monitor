@@ -520,44 +520,44 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "0ffc590ee642e02a",
+    "id": "8549143880d4f8f9",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Approval workflows are now customizable",
+    "title": "Pin guides anywhere on a webpage",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "March 24, 2026"
+    "date": "March 25, 2026"
   },
   {
-    "id": "f0fda1f134dc9314",
+    "id": "123ccc408fdbad82",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Approval workflows are now customizable",
-    "link": "https://scribe.launchnotes.io/announcements/approval-workflows-are-now-customizable",
+    "title": "Pin guides anywhere on a webpage",
+    "link": "https://scribe.launchnotes.io/announcements/pin-guides-anywhere-on-a-webpage",
     "summary": "Loading...",
-    "date": "March 24, 2026"
+    "date": "March 25, 2026"
   },
   {
-    "id": "e8f25f53f92f46d7",
+    "id": "27bfc6f072bded52",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Enterprise Editing",
+    "title": "Enterprise Viewing",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-24T17:54:57.056887+00:00"
+    "date": "2026-03-25T00:44:21.648082+00:00"
   },
   {
-    "id": "820439a944d5e1b7",
+    "id": "5ae9ebfd943800f9",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Approval workflows are now customizable",
+    "title": "Pin guides anywhere on a webpage",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-24T17:54:57.056905+00:00"
+    "date": "2026-03-25T00:44:21.648102+00:00"
   },
   {
     "id": "75ea88db7f495000",
@@ -760,6 +760,46 @@
     "date": "2026-03-23T00:00:00+00:00"
   },
   {
+    "id": "0ffc590ee642e02a",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Approval workflows are now customizable",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "March 24, 2026"
+  },
+  {
+    "id": "f0fda1f134dc9314",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Approval workflows are now customizable",
+    "link": "https://scribe.launchnotes.io/announcements/approval-workflows-are-now-customizable",
+    "summary": "Loading...",
+    "date": "March 24, 2026"
+  },
+  {
+    "id": "e8f25f53f92f46d7",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Enterprise Editing",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-03-24T17:54:57.056887+00:00"
+  },
+  {
+    "id": "820439a944d5e1b7",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Approval workflows are now customizable",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-03-24T17:54:57.056905+00:00"
+  },
+  {
     "id": "b5ad098a85a9279b",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -958,45 +998,5 @@
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
     "date": "2026-03-17T17:30:39.630331+00:00"
-  },
-  {
-    "id": "2b916459a31fa82c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - March 13, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-13-2026.html",
-    "summary": "Updates to meetings made by a delegate user are now sent in the name of the principalIn Google Calendar this can be set up by sharing an executive’s calendar with “Make changes to events” or “Make changes and manage sharing” permissions with a delegate user. | Learn more about how updates to...",
-    "date": "2026-03-13T19:26:00+00:00"
-  },
-  {
-    "id": "9316b5ff1c0a649b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini in Chrome expands to more countries and languages, including Canada, New Zealand, and India",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/gemini-in-chrome-expands-to-more-countries-and-languages.html",
-    "summary": "Gemini in Chrome is rolling out now to Canada, New Zealand, and India, and we’re adding support for 50+ more languages across these countries and in the United States. You can see the full list of supported languages here.Gemini in Chrome empowers business and education users with AI tools that...",
-    "date": "2026-03-13T17:26:00+00:00"
-  },
-  {
-    "id": "5c95185c6dad098c",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 28020.1737 (Canary Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-28020-1737-canary-channel/",
-    "summary": "[UPDATE 3/18/26]: We are rolling out standalone Update Build 28020.1738 (KB5084491). This update does not include anything new and is designed to test our servicing pipeline for builds in Canary Channel. A restart will be required; d The post Announcing Windows 11 Insider Preview Build 28020.1737...",
-    "date": "2026-03-13T17:05:38+00:00"
-  },
-  {
-    "id": "3f1838623992ce48",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.8068 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-26300-8068-dev-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8068 (KB 5079464) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.8068...",
-    "date": "2026-03-13T17:04:20+00:00"
   }
 ]
