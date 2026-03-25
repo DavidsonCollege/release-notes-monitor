@@ -1,13 +1,13 @@
 [
   {
-    "id": "92aca7ce8a209770",
+    "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI",
+    "title": "1Password for Android Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "March 24 2026"
+    "date": "March 25 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -760,6 +760,16 @@
     "date": "2026-03-23T00:00:00+00:00"
   },
   {
+    "id": "92aca7ce8a209770",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password CLI",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "March 24 2026"
+  },
+  {
     "id": "85fa3f89a4f80853",
     "product_id": "1password",
     "product_name": "1Password",
@@ -958,16 +968,6 @@
     "link": "https://scribe.launchnotes.io/",
     "summary": "Scribe Optimize now lets you ask questions about your workflow data in plain language. Instead of navigating dashboards to find what you need,...",
     "date": "2026-03-23T15:29:59.725450+00:00"
-  },
-  {
-    "id": "68bf4e06214d3b4d",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "March 18 2026"
   },
   {
     "id": "8963336fdcb3350f",
