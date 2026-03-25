@@ -220,7 +220,27 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
             anchor_el = soup.find("a", {"name": section_anchor})
         if not anchor_el:
             print(f"  [WARN] Section anchor '{section_anchor}' not found in article {article_id}")
-            return []
+            # Dynamic fallback: if anchor looks like "released_YYYY", find the
+            # latest "released_*" section in the document so the monitor keeps
+            # working across year boundaries without config changes.
+            import re as _re
+            if _re.match(r"released_\d{4}", section_anchor):
+                candidates = []
+                for el in soup.find_all(id=_re.compile(r"^released_\d{4}$")):
+                    candidates.append(el)
+                for el in soup.find_all("a", {"name": _re.compile(r"^released_\d{4}$")}):
+                    candidates.append(el)
+                if candidates:
+                    # Sort by year descending, pick the latest
+                    candidates.sort(
+                        key=lambda e: (e.get("id") or e.get("name", "")),
+                        reverse=True,
+                    )
+                    anchor_el = candidates[0]
+                    found_anchor = anchor_el.get("id") or anchor_el.get("name", "")
+                    print(f"  [INFO] Using fallback anchor '{found_anchor}' instead")
+            if not anchor_el:
+                return []
 
         section_heading = anchor_el
         if section_heading.name != "h2":
