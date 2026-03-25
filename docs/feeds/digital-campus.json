@@ -1,10 +1,10 @@
 [
   {
-    "id": "85fa3f89a4f80853",
+    "id": "92aca7ce8a209770",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI Beta",
+    "title": "1Password CLI",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "March 24 2026"
@@ -760,6 +760,16 @@
     "date": "2026-03-23T00:00:00+00:00"
   },
   {
+    "id": "85fa3f89a4f80853",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password CLI Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "March 24 2026"
+  },
+  {
     "id": "0ffc590ee642e02a",
     "product_id": "scribe",
     "product_name": "Scribe",
@@ -988,15 +998,5 @@
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
     "date": "2026-03-17T17:30:39.630317+00:00"
-  },
-  {
-    "id": "443e5bbc04cdab86",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Keep every Scribe on brand, at scale",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-03-17T17:30:39.630331+00:00"
   }
 ]
