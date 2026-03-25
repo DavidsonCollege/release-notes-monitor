@@ -1,5 +1,15 @@
 [
   {
+    "id": "73a8f1f96c852907",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "ChatGPT Plus",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-03-25T17:55:13.622068+00:00"
+  },
+  {
     "id": "84845adf541f7ca2",
     "product_id": "chatgpt",
     "product_name": "ChatGPT",
@@ -28,16 +38,6 @@
     "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "summary": "All images you create with ChatGPT are automatically saved under My images at https://chatgpt.com/images, giving you a single place to browse, revisit, and reuse your work without having to sift through past conversations. Learn more about ChatGPT Images in our ChatGPT Images FAQ.",
     "date": "2026-03-06T17:54:24.035520+00:00"
-  },
-  {
-    "id": "07ccb99ffa00b8e2",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Free, Go, Plus, Edu, and Pro",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "",
-    "date": "2026-03-06T17:54:24.035978+00:00"
   },
   {
     "id": "97caaf779d026592",
@@ -138,6 +138,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We're committed to bringing Google's latest AI innovations faster to Google AI Ultra users, including our most powerful reasoning capabilities to help you tackle even more complex problems.",
     "date": "2026-03-06T17:54:27.084240+00:00"
+  },
+  {
+    "id": "07ccb99ffa00b8e2",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Free, Go, Plus, Edu, and Pro",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-03-06T17:54:24.035978+00:00"
   },
   {
     "id": "d4d5f02a48af6654",
