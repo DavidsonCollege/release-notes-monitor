@@ -40,6 +40,26 @@
     "date": "2026-03-06T17:54:24.035520+00:00"
   },
   {
+    "id": "7565b92e53df154e",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Interactive apps in Claude for iOS and Android",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-03-25T00:00:00+00:00"
+  },
+  {
+    "id": "a36eeaf818e378e4",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Use interactive connectors in Claude",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-03-25T00:00:00+00:00"
+  },
+  {
     "id": "97caaf779d026592",
     "product_id": "claude",
     "product_name": "Claude",
@@ -68,26 +88,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-03-17T00:00:00+00:00"
-  },
-  {
-    "id": "893f3813f26c19fe",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Assign tasks to Claude from anywhere in Cowork",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-03-17T00:00:00+00:00"
-  },
-  {
-    "id": "64e8e0c7a512bda0",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude creates interactive charts, diagrams and visualizations",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-03-12T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -138,6 +138,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We're committed to bringing Google's latest AI innovations faster to Google AI Ultra users, including our most powerful reasoning capabilities to help you tackle even more complex problems.",
     "date": "2026-03-06T17:54:27.084240+00:00"
+  },
+  {
+    "id": "893f3813f26c19fe",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Assign tasks to Claude from anywhere in Cowork",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-03-17T00:00:00+00:00"
+  },
+  {
+    "id": "64e8e0c7a512bda0",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude creates interactive charts, diagrams and visualizations",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-03-12T00:00:00+00:00"
   },
   {
     "id": "07ccb99ffa00b8e2",
