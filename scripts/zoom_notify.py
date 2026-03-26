@@ -71,12 +71,14 @@ def _get_access_token() -> str:
 def _get_chatbot_token() -> str:
     """Obtain a Zoom Chatbot token using client_credentials grant.
 
-    Uses the same app credentials as the S2S path (ZOOM_CLIENT_ID / SECRET).
+    Uses the General App credentials (ZOOM_CHATBOT_CLIENT_ID / SECRET),
+    which are separate from the Server-to-Server OAuth credentials used
+    by the User Chat API fallback.
     """
-    client_id = os.environ.get("ZOOM_CLIENT_ID", "")
-    client_secret = os.environ.get("ZOOM_CLIENT_SECRET", "")
+    client_id = os.environ.get("ZOOM_CHATBOT_CLIENT_ID", "")
+    client_secret = os.environ.get("ZOOM_CHATBOT_CLIENT_SECRET", "")
     if not all([client_id, client_secret]):
-        raise RuntimeError("Missing ZOOM_CLIENT_ID or ZOOM_CLIENT_SECRET")
+        raise RuntimeError("Missing ZOOM_CHATBOT_CLIENT_ID or ZOOM_CHATBOT_CLIENT_SECRET")
 
     credentials = base64.b64encode(f"{client_id}:{client_secret}".encode()).decode()
     resp = requests.post(
@@ -377,7 +379,9 @@ def send_zoom_notifications(new_items: list[dict], base_url: str):
     appear under the bot's identity. Otherwise, falls back to the User
     Chat API (messages appear as the service account user).
     """
-    has_creds = bool(os.environ.get("ZOOM_CLIENT_ID", ""))
+    has_chatbot_creds = bool(os.environ.get("ZOOM_CHATBOT_CLIENT_ID", ""))
+    has_s2s_creds = bool(os.environ.get("ZOOM_CLIENT_ID", ""))
+    has_creds = has_chatbot_creds or has_s2s_creds
 
     if not has_creds:
         if new_items:
