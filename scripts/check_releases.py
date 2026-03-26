@@ -214,6 +214,20 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
 
     items = []
 
+    # Log all h2 headings and their IDs for debugging
+    all_h2s = soup.find_all("h2")
+    if all_h2s:
+        print(f"  [DEBUG] Article h2 headings found:")
+        for h2 in all_h2s:
+            h2_id = h2.get("id", "")
+            h2_text = h2.get_text(strip=True)[:80]
+            # Also check for anchor children
+            anchor_child = h2.find("a", {"name": True})
+            anchor_name = anchor_child.get("name", "") if anchor_child else ""
+            id_info = f" id='{h2_id}'" if h2_id else ""
+            anchor_info = f" anchor='{anchor_name}'" if anchor_name else ""
+            print(f"    - {h2_text}{id_info}{anchor_info}")
+
     if section_anchor:
         anchor_el = soup.find(id=section_anchor)
         if not anchor_el:
@@ -224,6 +238,8 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
             # latest "released_*" section in the document so the monitor keeps
             # working across year boundaries without config changes.
             import re as _re
+
+            # Strategy 1: look for released_YYYY pattern with any year
             if _re.match(r"released_\d{4}", section_anchor):
                 candidates = []
                 for el in soup.find_all(id=_re.compile(r"^released_\d{4}$")):
@@ -231,7 +247,6 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
                 for el in soup.find_all("a", {"name": _re.compile(r"^released_\d{4}$")}):
                     candidates.append(el)
                 if candidates:
-                    # Sort by year descending, pick the latest
                     candidates.sort(
                         key=lambda e: (e.get("id") or e.get("name", "")),
                         reverse=True,
@@ -239,6 +254,23 @@ def check_zendesk_article_source(product: dict) -> list[dict]:
                     anchor_el = candidates[0]
                     found_anchor = anchor_el.get("id") or anchor_el.get("name", "")
                     print(f"  [INFO] Using fallback anchor '{found_anchor}' instead")
+
+            # Strategy 2: look for any element whose id or anchor name
+            # contains "released" (case-insensitive)
+            if not anchor_el:
+                base_word = section_anchor.split("_")[0].lower()  # e.g. "released"
+                for el in soup.find_all(id=_re.compile(base_word, _re.IGNORECASE)):
+                    anchor_el = el
+                    found_anchor = el.get("id", "")
+                    print(f"  [INFO] Using fuzzy fallback anchor '{found_anchor}' instead")
+                    break
+                if not anchor_el:
+                    for el in soup.find_all("a", {"name": _re.compile(base_word, _re.IGNORECASE)}):
+                        anchor_el = el
+                        found_anchor = el.get("name", "")
+                        print(f"  [INFO] Using fuzzy fallback anchor '{found_anchor}' instead")
+                        break
+
             if not anchor_el:
                 return []
 
