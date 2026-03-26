@@ -549,7 +549,18 @@
     "zoom-ai-companion": [],
     "zoom-webinars": [],
     "zoom-clips": [],
-    "kuali-build": []
+    "kuali-build": [
+      "b3d51cb140e150ca",
+      "02c742af723aa7ae",
+      "f68fad5be0bbb964",
+      "eadece1cc263b0fe",
+      "1d53d2762cd2ff4f",
+      "a4b4d7745fcae17a",
+      "051a0b654f3555d2",
+      "2c2c06e2854343aa",
+      "5535a44bc7343fed",
+      "86fd1f729c0662ce"
+    ]
   },
   "ai": {
     "claude": [

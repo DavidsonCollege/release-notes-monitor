@@ -310,54 +310,54 @@
     "date": "2025-12-05T15:05:58+00:00"
   },
   {
-    "id": "cab9dd2ae697d867",
+    "id": "b3d51cb140e150ca",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
     "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Associations",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#associations",
-    "summary": "",
-    "date": "2026-03-25T17:00:03Z"
+    "title": "New: Form Outline Download",
+    "link": "https://announcekit.app/kuali/announcements/new-form-outline-download-2pu0M0",
+    "summary": "You can now download a complete, review-ready outline of your form directly from the form designer (either the saved Draft or Published vers...",
+    "date": "2026-03-25T22:00:00+00:00"
   },
   {
-    "id": "54efe7748c92afb7",
+    "id": "02c742af723aa7ae",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
     "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "More Boolean Logic Options in Workflow and Conditional Visibility",
-    "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
-    "summary": "",
-    "date": "2026-03-25T17:00:03Z"
+    "title": "New: Read Only Gadgets and Default Values",
+    "link": "https://announcekit.app/kuali/announcements/new-read-only-gadgets-and-default-values-2T0iiI",
+    "summary": "You can now control how data is set and edited in your forms with new Read-only and Default Value configurations. This makes it easier to su...",
+    "date": "2026-03-24T19:55:00+00:00"
   },
   {
-    "id": "25f39b9b77dcdb8c",
+    "id": "f68fad5be0bbb964",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
     "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Private Data",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/21933242739227-Form-Gadget-Overview#private_data",
-    "summary": "",
-    "date": "2026-03-25T17:00:03Z"
+    "title": "February 2026 Release Announcement",
+    "link": "https://announcekit.app/kuali/announcements/february-2026-release-announcement-4w3LEI",
+    "summary": "Feature Enhanced Logic for Conditional Visibility and Branch Workflow - We've added the ability to do All of the Below or Some of the Below...",
+    "date": "2026-03-23T17:01:34+00:00"
   },
   {
-    "id": "267acb7c7073d4d2",
+    "id": "eadece1cc263b0fe",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
     "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Apply field changes to older versions of form",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#apply_field_changes",
-    "summary": "",
-    "date": "2026-03-25T17:00:03Z"
+    "title": "New Associations Gadget!",
+    "link": "https://announcekit.app/kuali/announcements/new-associations-gadget-3zEwAU",
+    "summary": "Users often need visibility into how documents are connected across the system. The new Associations gadget provides a clear view of all do...",
+    "date": "2026-03-23T16:35:00+00:00"
   },
   {
-    "id": "6c14d4671587cc8e",
+    "id": "1d53d2762cd2ff4f",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
     "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "External user approvals",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/42653174972059-Can-I-Route-to-External-Users",
-    "summary": "",
-    "date": "2026-03-25T17:00:03Z"
+    "title": "New: Extended Person Fields",
+    "link": "https://announcekit.app/kuali/announcements/new-extended-person-fields-1Rp2Y8",
+    "summary": "We’ve enhanced the Person record with new fields to better support institutional needs. You can now manage richer user metadata and use it i...",
+    "date": "2026-03-09T16:15:00+00:00"
   },
   {
     "id": "3f064f56bd683957",
@@ -760,6 +760,56 @@
     "date": "2026-03-23T00:00:00+00:00"
   },
   {
+    "id": "cab9dd2ae697d867",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Associations",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#associations",
+    "summary": "",
+    "date": "2026-03-25T17:00:03Z"
+  },
+  {
+    "id": "54efe7748c92afb7",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "More Boolean Logic Options in Workflow and Conditional Visibility",
+    "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
+    "summary": "",
+    "date": "2026-03-25T17:00:03Z"
+  },
+  {
+    "id": "25f39b9b77dcdb8c",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Private Data",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/21933242739227-Form-Gadget-Overview#private_data",
+    "summary": "",
+    "date": "2026-03-25T17:00:03Z"
+  },
+  {
+    "id": "267acb7c7073d4d2",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Apply field changes to older versions of form",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#apply_field_changes",
+    "summary": "",
+    "date": "2026-03-25T17:00:03Z"
+  },
+  {
+    "id": "6c14d4671587cc8e",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "External user approvals",
+    "link": "https://kuali.zendesk.com/hc/en-us/articles/42653174972059-Can-I-Route-to-External-Users",
+    "summary": "",
+    "date": "2026-03-25T17:00:03Z"
+  },
+  {
     "id": "373413602022acad",
     "product_id": "papercut",
     "product_name": "PaperCut",
@@ -948,55 +998,5 @@
     "link": "https://developers.zoom.us/changelog/scim2/march-12-2026",
     "summary": "Tags: api-release | New request fields added to User API.",
     "date": "2026-03-12T00:00:00+00:00"
-  },
-  {
-    "id": "26492a70030f6e55",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 2.3.15-1",
-    "link": "https://developers.zoom.us/changelog/ui-toolkit/web/2.3.15-1",
-    "summary": "Tags: action-required, bug-fix, sdk-version | Addresses a WebRTC issue that caused session negotiation failures and fallback to WASM on Chrome 147 and later. If you rely on WebRTC video, we strongly advise that you upgrade to ensure compatibility with upcoming Chrome versions.",
-    "date": "2026-03-12T00:00:00+00:00"
-  },
-  {
-    "id": "dc25267cdd19a1ac",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Zoom AI Services - Now available to all developers!",
-    "link": "https://developers.zoom.us/changelog/ai-services/march-10-2026",
-    "summary": "Tags: api-release, new-feature | We are excited to announce the general availability of Zoom AI Services, a suite of enterprise-grade intelligence APIs for speech, language and vision processing, built on the same technology that powers AI features and processes millions of media hours daily across...",
-    "date": "2026-03-10T00:00:00+00:00"
-  },
-  {
-    "id": "5bf3050b75dbed17",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Ask anything about your workflows with Agents",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "March 23, 2026"
-  },
-  {
-    "id": "f6e28fc9b58d9eee",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Ask anything about your workflows with Agents",
-    "link": "https://scribe.launchnotes.io/announcements/ask-anything-about-your-workflows-with-agents",
-    "summary": "Loading...",
-    "date": "March 23, 2026"
-  },
-  {
-    "id": "c91c416740518220",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Ask anything about your workflows with Agents",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-03-23T15:29:59.725433+00:00"
   }
 ]
