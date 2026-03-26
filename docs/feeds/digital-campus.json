@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "46b69a5dc327e9b1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Ensure accurate meeting records with automatic language detection in Google Meet",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/ensure-accurate-meeting-records-with-automatic-language-detection-in-Google-Meet.html",
+    "summary": "We’re introducing automatic language detection in Google Meet to help ensure your meeting transcripts, summarized notes, and recorded captions are as accurate as possible.Meet now intelligently detects the language being spoken during a session one time per-meeting. If the detected language does...",
+    "date": "2026-03-26T20:59:00+00:00"
+  },
+  {
     "id": "2905b00107e9c4a5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-20-2026.html",
     "summary": "Easily find and set time zones in Google Calendar by searching for city or countryWe’re introducing an improved time zone picker for Google Calendar on the web. Instead of manually scrolling through the list of options, you can now simply search for and select a specific city or country, making it...",
     "date": "2026-03-20T21:05:00+00:00"
-  },
-  {
-    "id": "e7272b87861fe98e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New ways to customize and interact with your content in NotebookLM",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/new-ways-to-customize-and-interact-with-your-content-in-NotebookLM.html",
-    "summary": "We’re introducing several updates to NotebookLM that give users more flexibility when uploading sources, new ways to create and edit visuals from NotebookLM and improvements to the interactive study tools.More functions and new visual communication toolsSlide revisions: Users can now revise...",
-    "date": "2026-03-20T21:00:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-03-23T00:00:00+00:00"
   },
   {
+    "id": "e7272b87861fe98e",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New ways to customize and interact with your content in NotebookLM",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/new-ways-to-customize-and-interact-with-your-content-in-NotebookLM.html",
+    "summary": "We’re introducing several updates to NotebookLM that give users more flexibility when uploading sources, new ways to create and edit visuals from NotebookLM and improvements to the interactive study tools.More functions and new visual communication toolsSlide revisions: Users can now revise...",
+    "date": "2026-03-20T21:00:00+00:00"
+  },
+  {
     "id": "cab9dd2ae697d867",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.1.1",
     "summary": "Tags: bug-fix, sdk-version | Optimize CSS message transmission performance and bugfix.",
     "date": "2026-03-16T00:00:00+00:00"
-  },
-  {
-    "id": "5b22183ed3f95c9c",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added new User API fields",
-    "link": "https://developers.zoom.us/changelog/scim2/march-12-2026",
-    "summary": "Tags: api-release | New request fields added to User API.",
-    "date": "2026-03-12T00:00:00+00:00"
   }
 ]
