@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "27b74afa43a8a94e",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - March 27, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-27-2026.html",
+    "summary": "Safeguarded guest admit flow in Google MeetThe new safeguarded guest admit flow assists hosts in meetings when they respond to users who ask to join meetings (also known as ”knocking”). This makes it easier for hosts to handle large volumes of requests and helps reduce the attention and time...",
+    "date": "2026-03-27T20:28:00+00:00"
+  },
+  {
     "id": "46b69a5dc327e9b1",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/02/safeguarded-guest-admit-flow-in-google-meet.html",
     "summary": "The new safeguarded guest admit flow assists hosts in meetings when they respond to users who ask to join meetings (also known as ”knocking”). This makes it easier for hosts to handle large volumes of requests and helps reduce the attention and time needed.Meeting hosts will now get those requests...",
     "date": "2026-03-24T19:45:00+00:00"
-  },
-  {
-    "id": "205334155490b841",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - March 20, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-20-2026.html",
-    "summary": "Easily find and set time zones in Google Calendar by searching for city or countryWe’re introducing an improved time zone picker for Google Calendar on the web. Instead of manually scrolling through the list of options, you can now simply search for and select a specific city or country, making it...",
-    "date": "2026-03-20T21:05:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-03-26T00:00:00+00:00"
   },
   {
+    "id": "205334155490b841",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - March 20, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-20-2026.html",
+    "summary": "Easily find and set time zones in Google Calendar by searching for city or countryWe’re introducing an improved time zone picker for Google Calendar on the web. Instead of manually scrolling through the list of options, you can now simply search for and select a specific city or country, making it...",
+    "date": "2026-03-20T21:05:00+00:00"
+  },
+  {
     "id": "2cfed85194cd4abd",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/easily-find-and-set-time-zones-in-Google-Calendar-by-searching-for-city-or-country.html",
     "summary": "We’re introducing an improved time zone picker for Google Calendar on the web. Instead of manually scrolling through the list of options, you can now simply search for and select a specific city or country, making it easier to coordinate and schedule with others in different time zones.This...",
     "date": "2026-03-16T17:14:00+00:00"
-  },
-  {
-    "id": "fd54c72132572e68",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Add code blocks and highlight text in Pages",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "March 23, 2026"
   }
 ]
