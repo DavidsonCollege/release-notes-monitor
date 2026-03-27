@@ -100,14 +100,14 @@
     "date": "2026-03-06T17:54:27.083316+00:00"
   },
   {
-    "id": "c905a9660c8fb3e9",
+    "id": "6fd71624ee4b9782",
     "product_id": "gemini",
     "product_name": "Gemini",
     "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
     "title": "What: Starting today, we are rolling out new switching tools to your Settings page for all consumer accounts. You can now easily import your personal",
-    "link": "https://gemini.google/release-notes/",
+    "link": "https://gemini.google/import-memory/",
     "summary": "What: Starting today, we are rolling out new switching tools to your Settings page for all consumer accounts. You can now easily import your personal context, preferences, and full chat history from other AI apps directly into Gemini. To bring over your memories, simply select the import option in...",
-    "date": "2026-03-26T19:31:36.605324+00:00"
+    "date": "2026-03-27T16:26:06.581479+00:00"
   },
   {
     "id": "ca02b66669ac140f",
@@ -138,6 +138,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With the advanced reasoning of Gemini 3.1 Pro, you can now tackle your most complex projects with greater confidence.",
     "date": "2026-03-06T17:54:27.083809+00:00"
+  },
+  {
+    "id": "c905a9660c8fb3e9",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: Starting today, we are rolling out new switching tools to your Settings page for all consumer accounts. You can now easily import your personal",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "What: Starting today, we are rolling out new switching tools to your Settings page for all consumer accounts. You can now easily import your personal context, preferences, and full chat history from other AI apps directly into Gemini. To bring over your memories, simply select the import option in...",
+    "date": "2026-03-26T19:31:36.605324+00:00"
   },
   {
     "id": "e64d7e61b6dfb867",
