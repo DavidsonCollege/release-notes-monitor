@@ -710,6 +710,56 @@
     "date": "2026-03-13T19:09:35+00:00"
   },
   {
+    "id": "276dc3f95806b5a3",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Improved Cloud Peering Provider Exchange APIs with new request and response fields",
+    "link": "https://developers.zoom.us/changelog/number-management/march-26-2026",
+    "summary": "Tags: api-release | New request and response fields to Cloud Peering Provider Exchange APIs, including `allocated_product` and capability indicators.",
+    "date": "2026-03-26T00:00:00+00:00"
+  },
+  {
+    "id": "2ffcf4cbf9871422",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.5.5",
+    "link": "https://developers.zoom.us/changelog/video-sdk/android/2.5.5",
+    "summary": "Tags: action-required, breaking-change, sdk-version | Adds enhanced QoS statistics for Web SDK consistency, auto-loading multi-video stream support, multi-language telephony \"welcome\" messages, and new AI-friendly API documentation. Breaking changes to annotation and cleanup workflows, and requires...",
+    "date": "2026-03-26T00:00:00+00:00"
+  },
+  {
+    "id": "7878f2a70b6e1d72",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.5.5",
+    "link": "https://developers.zoom.us/changelog/video-sdk/linux/2.5.5",
+    "summary": "Tags: action-required, breaking-change, sdk-version | Adds detailed QoS statistics for Web SDK consistency, multi-language telephony \"welcome\" messages, and AI-friendly API documentation. It establishes Ubuntu 20 as the new minimum for Linux support and requires clients to be on version 2.2.10 or...",
+    "date": "2026-03-26T00:00:00+00:00"
+  },
+  {
+    "id": "15ac230cbf310a4d",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.5.5",
+    "link": "https://developers.zoom.us/changelog/video-sdk/macos/2.5.5",
+    "summary": "Tags: action-required, breaking-change, bug-fix, deprecation, sdk-version | Adds support for Xcode and iOS 26, AI-friendly structured API documentation, and enhanced QoS statistics consistent with the Web SDK. Key updates include multi-language telephony support and auto-loading multi-video...",
+    "date": "2026-03-26T00:00:00+00:00"
+  },
+  {
+    "id": "efdeef8710c56539",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.5.5",
+    "link": "https://developers.zoom.us/changelog/video-sdk/windows/2.5.5",
+    "summary": "Tags: action-required, breaking-change, sdk-version | Add AI-friendly structured API documentation, enhanced QoS statistics for better performance tracking, and support for multi-language telephony welcome messages. Includes breaking changes that make the OnStartSendShare callback asynchronous and...",
+    "date": "2026-03-26T00:00:00+00:00"
+  },
+  {
     "id": "a57a1ec845fd1e91",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -948,55 +998,5 @@
     "link": "https://scribe.launchnotes.io/announcements/add-code-blocks-and-highlight-text-in-pages",
     "summary": "Loading...",
     "date": "March 23, 2026"
-  },
-  {
-    "id": "64c31240b09dbc44",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Add code blocks and highlight text in Pages",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-03-23T20:49:12.662847+00:00"
-  },
-  {
-    "id": "909403ee485d04d6",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pages now supports 2 new text formatting options: code blocks and text highlight colors. You can mark up text as inline code and add custom...",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-03-23T20:49:12.662865+00:00"
-  },
-  {
-    "id": "f5eaf66980377d58",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.4 RC (25E243)",
-    "link": "https://developer.apple.com/news/releases/?id=03182026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-03-18T17:00:00+00:00"
-  },
-  {
-    "id": "3b0050945f24e21e",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added new webhook events",
-    "link": "https://developers.zoom.us/changelog/rtms/march-19-2026",
-    "summary": "Tags: api-release | Added new webhooks for use with Zoom Contact Center.",
-    "date": "2026-03-19T00:00:00+00:00"
-  },
-  {
-    "id": "f23f9cbedd01fc72",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.1.1",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.1.1",
-    "summary": "Tags: bug-fix, sdk-version | Optimize CSS message transmission performance and bugfix.",
-    "date": "2026-03-16T00:00:00+00:00"
   }
 ]
