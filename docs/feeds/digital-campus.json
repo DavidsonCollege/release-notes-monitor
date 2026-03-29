@@ -70,6 +70,46 @@
     "date": "2026-02-27T20:36:01Z"
   },
   {
+    "id": "8e642c0b32a90b7c",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "A new type request parameter has been added to the Create design API. Although this type is shown as required, for backward compatibility, if it isn't",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/create-design/",
+    "summary": "A new type request parameter has been added to the Create design API. Although this type is shown as required, for backward compatibility, if it isn't provided in a request, the request type will be assumed to be type_and_asset.",
+    "date": "2026-03-29T23:47:59.875578+00:00"
+  },
+  {
+    "id": "eb2eaea6cca0fce1",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Create design autofill job API now supports column_configs for chart data fields, allowing you to define column names and data types separately f",
+    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
+    "summary": "The Create design autofill job API now supports column_configs for chart data fields, allowing you to define column names and data types separately from your data.",
+    "date": "2026-03-29T23:47:59.875601+00:00"
+  },
+  {
+    "id": "dd3c1c79dc975c71",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Create design export job API now supports two additional email export formats: html_bundle and html_standalone. Use these formats when creating e",
+    "link": "https://www.canva.dev/docs/connect/api-reference/exports/create-design-export-job/",
+    "summary": "The Create design export job API now supports two additional email export formats: html_bundle and html_standalone. Use these formats when creating export jobs for email designs, depending on whether you need bundled assets (html_bundle) or a standalone HTML output (html_standalone).",
+    "date": "2026-03-29T23:47:59.875608+00:00"
+  },
+  {
+    "id": "54f24d9fe9316d8b",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Assets APIs⁠(opens in a new tab or window) now return an additional metadata property as part of the asset object.",
+    "link": "https://www.canva.dev/docs/connect/api-reference/assets/",
+    "summary": "",
+    "date": "2026-03-29T23:47:59.875627+00:00"
+  },
+  {
     "id": "6077feb66c340f69",
     "product_id": "canva",
     "product_name": "Canva",
@@ -78,46 +118,6 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
     "summary": "",
     "date": "2026-03-06T17:53:56.012065+00:00"
-  },
-  {
-    "id": "91f1004bd4c3644f",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Get design pages API now returns page dimensions for pages in bounded designs (unbounded designs like whiteboards and Canva Docs will not have pag",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/#success-response",
-    "summary": "The Get design pages API now returns page dimensions for pages in bounded designs (unbounded designs like whiteboards and Canva Docs will not have page dimensions).",
-    "date": "2026-03-06T17:53:56.012294+00:00"
-  },
-  {
-    "id": "2d55f7406a42ee4b",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Get design export formats API is no longer in preview, and is now generally available.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-export-formats/",
-    "summary": "",
-    "date": "2026-03-06T17:53:56.012510+00:00"
-  },
-  {
-    "id": "6ea47a0f0c1c8cff",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The List brand templates API now supports an optional limit parameter to control the number of brand templates returned per request.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/brand-templates/list-brand-templates/",
-    "summary": "",
-    "date": "2026-03-06T17:53:56.012724+00:00"
-  },
-  {
-    "id": "3ea86ca7e27b125c",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The List folder items API now supports a limit parameter to control the number of folder items returned per request.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
-    "summary": "",
-    "date": "2026-03-06T17:53:56.012925+00:00"
   },
   {
     "id": "2aa25658903bd41b",
@@ -760,6 +760,46 @@
     "date": "2026-03-26T00:00:00+00:00"
   },
   {
+    "id": "91f1004bd4c3644f",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Get design pages API now returns page dimensions for pages in bounded designs (unbounded designs like whiteboards and Canva Docs will not have pag",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/#success-response",
+    "summary": "The Get design pages API now returns page dimensions for pages in bounded designs (unbounded designs like whiteboards and Canva Docs will not have page dimensions).",
+    "date": "2026-03-06T17:53:56.012294+00:00"
+  },
+  {
+    "id": "2d55f7406a42ee4b",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Get design export formats API is no longer in preview, and is now generally available.",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-export-formats/",
+    "summary": "",
+    "date": "2026-03-06T17:53:56.012510+00:00"
+  },
+  {
+    "id": "6ea47a0f0c1c8cff",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The List brand templates API now supports an optional limit parameter to control the number of brand templates returned per request.",
+    "link": "https://www.canva.dev/docs/connect/api-reference/brand-templates/list-brand-templates/",
+    "summary": "",
+    "date": "2026-03-06T17:53:56.012724+00:00"
+  },
+  {
+    "id": "3ea86ca7e27b125c",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The List folder items API now supports a limit parameter to control the number of folder items returned per request.",
+    "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
+    "summary": "",
+    "date": "2026-03-06T17:53:56.012925+00:00"
+  },
+  {
     "id": "205334155490b841",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -958,45 +998,5 @@
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
     "date": "March 24, 2026"
-  },
-  {
-    "id": "f0fda1f134dc9314",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Approval workflows are now customizable",
-    "link": "https://scribe.launchnotes.io/announcements/approval-workflows-are-now-customizable",
-    "summary": "Loading...",
-    "date": "March 24, 2026"
-  },
-  {
-    "id": "e8f25f53f92f46d7",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Enterprise Editing",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-03-24T17:54:57.056887+00:00"
-  },
-  {
-    "id": "820439a944d5e1b7",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Approval workflows are now customizable",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-03-24T17:54:57.056905+00:00"
-  },
-  {
-    "id": "b5ad098a85a9279b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Easily find and set time zones in Google Calendar by searching for city or country",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/easily-find-and-set-time-zones-in-Google-Calendar-by-searching-for-city-or-country.html",
-    "summary": "We’re introducing an improved time zone picker for Google Calendar on the web. Instead of manually scrolling through the list of options, you can now simply search for and select a specific city or country, making it easier to coordinate and schedule with others in different time zones.This...",
-    "date": "2026-03-16T17:14:00+00:00"
   }
 ]
