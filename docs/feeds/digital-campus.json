@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "17e2f3fcbf8557a1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "An update on secondary calendar lifecycle changes and a new API",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/an-update-on-secondary-calendar-lifecycle-changes-and-a-new-API.html",
+    "summary": "We recently announced a change to the ownership model of secondary calendars to improve data governance. As part of this, we emailed impacted customers to let them know that orphan secondary calendars would be deleted starting on April 27, 2026.Since that announcement, we’ve received valuable...",
+    "date": "2026-03-30T20:18:00+00:00"
+  },
+  {
     "id": "b21fbaa10077df93",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-27-2026.html",
     "summary": "Safeguarded guest admit flow in Google MeetThe new safeguarded guest admit flow assists hosts in meetings when they respond to users who ask to join meetings (also known as ”knocking”). This makes it easier for hosts to handle large volumes of requests and helps reduce the attention and time...",
     "date": "2026-03-27T20:28:00+00:00"
-  },
-  {
-    "id": "46b69a5dc327e9b1",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Ensure accurate meeting records with automatic language detection in Google Meet",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/ensure-accurate-meeting-records-with-automatic-language-detection-in-Google-Meet.html",
-    "summary": "We’re introducing automatic language detection in Google Meet to help ensure your meeting transcripts, summarized notes, and recorded captions are as accurate as possible.Meet now intelligently detects the language being spoken during a session one time per-meeting. If the detected language does...",
-    "date": "2026-03-26T20:59:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -660,6 +660,46 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "33fd4036cd788581",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build for Canary Channel 29558.1000",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/30/announcing-windows-11-insider-preview-build-for-canary-channel-29558-1000/",
+    "summary": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29558.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29558.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29558.1000...",
+    "date": "2026-03-30T21:06:04+00:00"
+  },
+  {
+    "id": "b8f349ea880e5cd6",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 28020.1797 (Canary Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/30/announcing-windows-11-insider-preview-build-28020-1797-canary-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1797 to the Canary Channel. (KB 5079490) What’s new in Canary Build 28020.1797 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1797 (Canary Channel) appeared first on Windows...",
+    "date": "2026-03-30T21:05:51+00:00"
+  },
+  {
+    "id": "032861e26462393d",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 26300.8142 (Dev Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/30/announcing-windows-11-insider-preview-build-26300-8142-dev-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8142 (KB 5079492 The post Announcing Windows 11 Insider Preview Build 26300.8142 (Dev Channel) appeared first on Windows Insider Blog.",
+    "date": "2026-03-30T21:04:17+00:00"
+  },
+  {
+    "id": "5169fd66e0a56a02",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 26220.8138 (Beta Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/30/announcing-windows-11-insider-preview-build-26220-8138-beta-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8138 (KB 5079491< The post Announcing Windows 11 Insider Preview Build 26220.8138 (Beta Channel) appeared first on Windows Insider Blog.",
+    "date": "2026-03-30T09:05:21+00:00"
+  },
+  {
     "id": "3e2571f90a54dec5",
     "product_id": "windows",
     "product_name": "Windows",
@@ -668,46 +708,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-for-canary-channel-29553-1000/",
     "summary": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29553.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29553.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29553.1000...",
     "date": "2026-03-20T17:06:13+00:00"
-  },
-  {
-    "id": "e8d17944cdd3e830",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 28020.1743 (Canary Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-28020-1743-canary-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1743 to the Canary Channel. (KB 5081339) What’s new in Canary Build 28020.1743 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1743 (Canary Channel) appeared first on Windows...",
-    "date": "2026-03-20T17:05:51+00:00"
-  },
-  {
-    "id": "04410fb8b91c20ee",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.8085 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-26300-8085-dev-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8085 (KB 5079483 The post Announcing Windows 11 Insider Preview Build 26300.8085 (Dev Channel) appeared first on Windows Insider Blog.",
-    "date": "2026-03-20T17:00:57+00:00"
-  },
-  {
-    "id": "36d566557cc4f069",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26220.8079 (Beta Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-26220-8079-beta-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8079 (KB 5079482< The post Announcing Windows 11 Insider Preview Build 26220.8079 (Beta Channel) appeared first on Windows Insider Blog.",
-    "date": "2026-03-20T17:00:03+00:00"
-  },
-  {
-    "id": "a89b346585eeb76b",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build for Canary Channel 29550.1000",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-for-canary-channel-29550-1000/",
-    "summary": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29550.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29550.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29550.1000...",
-    "date": "2026-03-13T19:09:35+00:00"
   },
   {
     "id": "276dc3f95806b5a3",
@@ -758,6 +758,56 @@
     "link": "https://developers.zoom.us/changelog/video-sdk/windows/2.5.5",
     "summary": "Tags: action-required, breaking-change, sdk-version | Add AI-friendly structured API documentation, enhanced QoS statistics for better performance tracking, and support for multi-language telephony welcome messages. Includes breaking changes that make the OnStartSendShare callback asynchronous and...",
     "date": "2026-03-26T00:00:00+00:00"
+  },
+  {
+    "id": "46b69a5dc327e9b1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Ensure accurate meeting records with automatic language detection in Google Meet",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/ensure-accurate-meeting-records-with-automatic-language-detection-in-Google-Meet.html",
+    "summary": "We’re introducing automatic language detection in Google Meet to help ensure your meeting transcripts, summarized notes, and recorded captions are as accurate as possible.Meet now intelligently detects the language being spoken during a session one time per-meeting. If the detected language does...",
+    "date": "2026-03-26T20:59:00+00:00"
+  },
+  {
+    "id": "e8d17944cdd3e830",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 28020.1743 (Canary Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-28020-1743-canary-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1743 to the Canary Channel. (KB 5081339) What’s new in Canary Build 28020.1743 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1743 (Canary Channel) appeared first on Windows...",
+    "date": "2026-03-20T17:05:51+00:00"
+  },
+  {
+    "id": "04410fb8b91c20ee",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 26300.8085 (Dev Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-26300-8085-dev-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8085 (KB 5079483 The post Announcing Windows 11 Insider Preview Build 26300.8085 (Dev Channel) appeared first on Windows Insider Blog.",
+    "date": "2026-03-20T17:00:57+00:00"
+  },
+  {
+    "id": "36d566557cc4f069",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 26220.8079 (Beta Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-26220-8079-beta-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8079 (KB 5079482< The post Announcing Windows 11 Insider Preview Build 26220.8079 (Beta Channel) appeared first on Windows Insider Blog.",
+    "date": "2026-03-20T17:00:03+00:00"
+  },
+  {
+    "id": "a89b346585eeb76b",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build for Canary Channel 29550.1000",
+    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-for-canary-channel-29550-1000/",
+    "summary": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29550.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29550.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29550.1000...",
+    "date": "2026-03-13T19:09:35+00:00"
   },
   {
     "id": "2905b00107e9c4a5",
@@ -948,55 +998,5 @@
     "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
     "summary": "",
     "date": "2026-03-25T17:00:03Z"
-  },
-  {
-    "id": "25f39b9b77dcdb8c",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Private Data",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/21933242739227-Form-Gadget-Overview#private_data",
-    "summary": "",
-    "date": "2026-03-25T17:00:03Z"
-  },
-  {
-    "id": "267acb7c7073d4d2",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Apply field changes to older versions of form",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#apply_field_changes",
-    "summary": "",
-    "date": "2026-03-25T17:00:03Z"
-  },
-  {
-    "id": "6c14d4671587cc8e",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "External user approvals",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/42653174972059-Can-I-Route-to-External-Users",
-    "summary": "",
-    "date": "2026-03-25T17:00:03Z"
-  },
-  {
-    "id": "373413602022acad",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.3",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2025-10-03T00:00:00+00:00"
-  },
-  {
-    "id": "fab557b59af3870d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing the new Meetings section in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/introducing-new-meetings-section-in-Google-Chat.html",
-    "summary": "We’re introducing a dedicated Meetings section in Google Chat—a new way to organize your conversation list and keep your meeting conversations in one place.Previously, meeting conversations lived in your direct messages, often making it difficult to find specific project discussions or meeting...",
-    "date": "2026-03-20T13:45:00+00:00"
   }
 ]
