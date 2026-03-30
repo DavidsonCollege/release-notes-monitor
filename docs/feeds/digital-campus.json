@@ -710,6 +710,56 @@
     "date": "2026-03-20T17:06:13+00:00"
   },
   {
+    "id": "22bb1c5747afb5ed",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 5.3.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/android/5.3.0",
+    "summary": "Tags: bug-fix, new-feature, sdk-version | Added Hindi localization support; add support for toggling consumer cameras off or on; add support for left-right split screen in landscape orientation; upgrade Android version.",
+    "date": "2026-03-30T00:00:00+00:00"
+  },
+  {
+    "id": "58952b3e54ec169a",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 5.3.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/ios/5.3.0",
+    "summary": "Tags: bug-fix, new-feature, sdk-version | Added Hindi localization support; add support for toggling consumer cameras off or on; add support for left-right split screen in landscape orientation.",
+    "date": "2026-03-30T00:00:00+00:00"
+  },
+  {
+    "id": "8ec025a0f5720994",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New endpoint for Export API",
+    "link": "https://developers.zoom.us/changelog/docs/march-30-2026",
+    "summary": "Tags: api-release | Added new Export API.",
+    "date": "2026-03-30T00:00:00+00:00"
+  },
+  {
+    "id": "20b3bac6280b1ee2",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "RTMS March release",
+    "link": "https://developers.zoom.us/changelog/rtms/rtms-march-release",
+    "summary": "Tags: new-feature | Add RTMS integration with Zoom Contact Center, a reorganized audio parameters matrix, single individual video stream subscription, stream closure requests, and media-socket timeout extension.",
+    "date": "2026-03-30T00:00:00+00:00"
+  },
+  {
+    "id": "93db0bf88d692c5e",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 7.0.0",
+    "link": "https://developers.zoom.us/changelog/zoom-rooms-controller/android/7.0.0",
+    "summary": "Tags: new-feature, sdk-version | This initial Android ZRCSDK release introduces the first public SDK surface for Zoom Rooms, including SDK initialization, room pairing, pre-meeting workflows, meeting lifecycle, audio/video/sharing controls, participant management, recording, reminders, and room...",
+    "date": "2026-03-30T00:00:00+00:00"
+  },
+  {
     "id": "276dc3f95806b5a3",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -948,55 +998,5 @@
     "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.1.2",
     "summary": "Tags: bug-fix, sdk-version | Fixed CSS style and worker message bugs.",
     "date": "2026-03-23T00:00:00+00:00"
-  },
-  {
-    "id": "cd0906331e1a4e43",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Add new response fields to Account Management, Quote and Subscription APIs",
-    "link": "https://developers.zoom.us/changelog/commerce/march-23-2026",
-    "summary": "Tags: api-release | New enhancements added to Account Management, Quote and Subscription API.",
-    "date": "2026-03-23T00:00:00+00:00"
-  },
-  {
-    "id": "e6591cc4af5307a8",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Twenty new APIs and two new webhook events; additional request and response fields in existing endpoints and events",
-    "link": "https://developers.zoom.us/changelog/contact-center/march-23-2026",
-    "summary": "Tags: api-release, new-feature | Twenty new APIs and two new webhook events; additional request and response fields across over 25 API endpoints and 8 webhook events.",
-    "date": "2026-03-23T00:00:00+00:00"
-  },
-  {
-    "id": "e7272b87861fe98e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New ways to customize and interact with your content in NotebookLM",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/new-ways-to-customize-and-interact-with-your-content-in-NotebookLM.html",
-    "summary": "We’re introducing several updates to NotebookLM that give users more flexibility when uploading sources, new ways to create and edit visuals from NotebookLM and improvements to the interactive study tools.More functions and new visual communication toolsSlide revisions: Users can now revise...",
-    "date": "2026-03-20T21:00:00+00:00"
-  },
-  {
-    "id": "cab9dd2ae697d867",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Associations",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/27324765179291-Product-Roadmap-Build#associations",
-    "summary": "",
-    "date": "2026-03-25T17:00:03Z"
-  },
-  {
-    "id": "54efe7748c92afb7",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "More Boolean Logic Options in Workflow and Conditional Visibility",
-    "link": "https://announcekit.app/kuali/announcements/new-enhanced-logic-options-for-conditional-visibility-and-branch-workflow-2OpGGk",
-    "summary": "",
-    "date": "2026-03-25T17:00:03Z"
   }
 ]
