@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "693ccfb409db0ecb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing guest accounts: Collaborate securely and communicate with non-Workspace users in Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/introducing-guest-accounts.html",
+    "summary": "Today, we're excited to announce the general availability of guest accounts in Google Workspace. Guest accounts empower organizations to securely collaborate with customers, partners, and vendors that are not on Google Workspace. More than secure, real-time messaging in Google Chat, guest accounts...",
+    "date": "2026-03-30T18:07:00+00:00"
+  },
+  {
     "id": "27b74afa43a8a94e",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/create-longer-musical-tracks-in-gemini-app-with-Lyria-3-Pro.html",
     "summary": "Last month, we introduced 30-second tracks with Lyria 3, featuring custom music generation designed to spark creative expression. Now, we’re also introducing Lyria 3 Pro, an advanced version that allows users to create tracks up to three minutes long, with customization and creative control. Lyria...",
     "date": "2026-03-25T16:02:00+00:00"
-  },
-  {
-    "id": "fe61b167b10f8d24",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Safeguarded guest admit flow in Google Meet",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/safeguarded-guest-admit-flow-in-google-meet.html",
-    "summary": "The new safeguarded guest admit flow assists hosts in meetings when they respond to users who ask to join meetings (also known as ”knocking”). This makes it easier for hosts to handle large volumes of requests and helps reduce the attention and time needed.Meeting hosts will now get those requests...",
-    "date": "2026-03-24T19:45:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -360,14 +360,14 @@
     "date": "2026-03-09T16:15:00+00:00"
   },
   {
-    "id": "3f064f56bd683957",
+    "id": "fd15db8a53a19f10",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.4 (25E246)",
-    "link": "https://developer.apple.com/news/releases/?id=03242026c",
+    "title": "macOS 26.5 beta (25F5042g)",
+    "link": "https://developer.apple.com/news/releases/?id=03302026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-03-24T17:00:00+00:00"
+    "date": "2026-03-30T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -760,6 +760,26 @@
     "date": "2026-03-26T00:00:00+00:00"
   },
   {
+    "id": "fe61b167b10f8d24",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Safeguarded guest admit flow in Google Meet",
+    "link": "http://workspaceupdates.googleblog.com/2026/02/safeguarded-guest-admit-flow-in-google-meet.html",
+    "summary": "The new safeguarded guest admit flow assists hosts in meetings when they respond to users who ask to join meetings (also known as ”knocking”). This makes it easier for hosts to handle large volumes of requests and helps reduce the attention and time needed.Meeting hosts will now get those requests...",
+    "date": "2026-03-24T19:45:00+00:00"
+  },
+  {
+    "id": "3f064f56bd683957",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.4 (25E246)",
+    "link": "https://developer.apple.com/news/releases/?id=03242026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-03-24T17:00:00+00:00"
+  },
+  {
     "id": "9a2e27537d3719a8",
     "product_id": "slack",
     "product_name": "Slack",
@@ -978,25 +998,5 @@
     "link": "https://kuali.zendesk.com/hc/en-us/articles/21915631807771-Form-Settings#additional_options",
     "summary": "",
     "date": "2026-02-11T19:30:06Z"
-  },
-  {
-    "id": "92aca7ce8a209770",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "March 24 2026"
-  },
-  {
-    "id": "85fa3f89a4f80853",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "March 24 2026"
   }
 ]
