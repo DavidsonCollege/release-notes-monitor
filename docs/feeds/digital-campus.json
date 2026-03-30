@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "b21fbaa10077df93",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Download the third-party attestation for data regions",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/download-third-party-attestation-for-data-regions.html",
+    "summary": "Beginning today, admins have access to an independent review of Google Workspace’s data regions, not only for their compliance needs but also for their peace of mind.This external evaluation from Coalfire, a third-party assessment organization, gives Assured Controls customers the confidence that...",
+    "date": "2026-03-30T18:20:00+00:00"
+  },
+  {
+    "id": "adeebde5119ce43c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Ransomware detection and file restoration for Google Drive now generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/ransomware-detection-and-file-restoration-for-Google-Drive-now-generally-available.html",
+    "summary": "In September 2025, we launched ransomware detection and file restoration in beta to help organizations minimize the impact of malware attacks on personal computers. Today, we’re excited to share these two features are generally available with significant improvements in malware detection.Compared...",
+    "date": "2026-03-30T18:15:00+00:00"
+  },
+  {
     "id": "693ccfb409db0ecb",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/ensure-accurate-meeting-records-with-automatic-language-detection-in-Google-Meet.html",
     "summary": "We’re introducing automatic language detection in Google Meet to help ensure your meeting transcripts, summarized notes, and recorded captions are as accurate as possible.Meet now intelligently detects the language being spoken during a session one time per-meeting. If the detected language does...",
     "date": "2026-03-26T20:59:00+00:00"
-  },
-  {
-    "id": "2905b00107e9c4a5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Generate custom music in Google Vids, powered by Lyria 3 and Lyria 3 Pro",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/generate-custom-music-in-google-vids-powered-by-Lyria-3-and-Lyria-3-Pro.html",
-    "summary": "You can now generate custom music in Google Vids, powered by Lyria 3 and Lyria 3 Pro, Google’s latest music generation model.Using text-based prompting, Vids users can generate clips (about 30 seconds) or longer tracks (up to three minutes) for their video projects. A user might, for instance, need...",
-    "date": "2026-03-25T16:03:00+00:00"
-  },
-  {
-    "id": "b39c6e9c97209855",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create longer musical tracks in the Gemini app with Lyria 3 Pro",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/create-longer-musical-tracks-in-gemini-app-with-Lyria-3-Pro.html",
-    "summary": "Last month, we introduced 30-second tracks with Lyria 3, featuring custom music generation designed to spark creative expression. Now, we’re also introducing Lyria 3 Pro, an advanced version that allows users to create tracks up to three minutes long, with customization and creative control. Lyria...",
-    "date": "2026-03-25T16:02:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,26 @@
     "date": "2026-03-26T00:00:00+00:00"
   },
   {
+    "id": "2905b00107e9c4a5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Generate custom music in Google Vids, powered by Lyria 3 and Lyria 3 Pro",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/generate-custom-music-in-google-vids-powered-by-Lyria-3-and-Lyria-3-Pro.html",
+    "summary": "You can now generate custom music in Google Vids, powered by Lyria 3 and Lyria 3 Pro, Google’s latest music generation model.Using text-based prompting, Vids users can generate clips (about 30 seconds) or longer tracks (up to three minutes) for their video projects. A user might, for instance, need...",
+    "date": "2026-03-25T16:03:00+00:00"
+  },
+  {
+    "id": "b39c6e9c97209855",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create longer musical tracks in the Gemini app with Lyria 3 Pro",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/create-longer-musical-tracks-in-gemini-app-with-Lyria-3-Pro.html",
+    "summary": "Last month, we introduced 30-second tracks with Lyria 3, featuring custom music generation designed to spark creative expression. Now, we’re also introducing Lyria 3 Pro, an advanced version that allows users to create tracks up to three minutes long, with customization and creative control. Lyria...",
+    "date": "2026-03-25T16:02:00+00:00"
+  },
+  {
     "id": "fe61b167b10f8d24",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/introducing-new-meetings-section-in-Google-Chat.html",
     "summary": "We’re introducing a dedicated Meetings section in Google Chat—a new way to organize your conversation list and keep your meeting conversations in one place.Previously, meeting conversations lived in your direct messages, often making it difficult to find specific project discussions or meeting...",
     "date": "2026-03-20T13:45:00+00:00"
-  },
-  {
-    "id": "490e89e0d863d3be",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Workspace audit logs: New functionality and expanded event fields",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/workspace-audit-logs-new-functionality.html",
-    "summary": "We’re releasing a number of enhancements to Workspace audit logs, including:Log filtering enhancements for Resource fields in the security investigation tool for Gmail and Google DriveUpdated Application and Network fields available in the Workspace audit log integration with Google Security...",
-    "date": "2026-03-19T16:39:00+00:00"
-  },
-  {
-    "id": "5fc19c27a002186e",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Document History",
-    "link": "https://kuali.zendesk.com/hc/en-us/articles/21915631807771-Form-Settings#additional_options",
-    "summary": "",
-    "date": "2026-02-11T19:30:06Z"
   }
 ]
