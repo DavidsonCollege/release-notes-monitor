@@ -560,6 +560,16 @@
     "date": "2026-03-25T00:44:21.648102+00:00"
   },
   {
+    "id": "a202083b037a806a",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "PKCE is now generally available!",
+    "link": "https://docs.slack.dev/changelog/2026/03/30/pkce",
+    "summary": "We are excited to announce support for Proof Key for Code Exchange (PKCE). PKCE is an OAuth security extension that enables developers to build more secure Slack applications on public clients, such as desktop apps and mobile apps, without the need to embed a vulnerable client_secret.",
+    "date": "2026-03-30T00:00:00+00:00"
+  },
+  {
     "id": "75ea88db7f495000",
     "product_id": "slack",
     "product_name": "Slack",
@@ -597,16 +607,6 @@
     "title": "Set status method scope update",
     "link": "https://docs.slack.dev/changelog/2026/03/05/set-status-scope-update",
     "summary": "The assistant.threads.setStatus API method now accepts either the assistantwrite scope. This allows channel-based apps to use AI loading states in channels, without having to request assistantwrite scope in favor of the chat:write scope exclusively, so update your app soon!",
-    "date": "2026-03-05T00:00:00+00:00"
-  },
-  {
-    "id": "9a2e27537d3719a8",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v3.14.0",
-    "link": "https://docs.slack.dev/changelog/2026/03/05/slack-cli",
-    "summary": "Version 3.14.0 of the developer tools for the Slack platform has landed!",
     "date": "2026-03-05T00:00:00+00:00"
   },
   {
@@ -758,6 +758,16 @@
     "link": "https://developers.zoom.us/changelog/video-sdk/windows/2.5.5",
     "summary": "Tags: action-required, breaking-change, sdk-version | Add AI-friendly structured API documentation, enhanced QoS statistics for better performance tracking, and support for multi-language telephony welcome messages. Includes breaking changes that make the OnStartSendShare callback asynchronous and...",
     "date": "2026-03-26T00:00:00+00:00"
+  },
+  {
+    "id": "9a2e27537d3719a8",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v3.14.0",
+    "link": "https://docs.slack.dev/changelog/2026/03/05/slack-cli",
+    "summary": "Version 3.14.0 of the developer tools for the Slack platform has landed!",
+    "date": "2026-03-05T00:00:00+00:00"
   },
   {
     "id": "91f1004bd4c3644f",
@@ -988,15 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "March 24 2026"
-  },
-  {
-    "id": "0ffc590ee642e02a",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Approval workflows are now customizable",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "March 24, 2026"
   }
 ]
