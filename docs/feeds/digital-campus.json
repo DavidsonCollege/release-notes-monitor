@@ -310,6 +310,16 @@
     "date": "2025-12-05T15:05:58+00:00"
   },
   {
+    "id": "f34a2aae004f5696",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Coming Soon: Streamlined UI updates - Preview Now!",
+    "link": "https://announcekit.app/kuali/announcements/coming-soon-streamlined-ui-updates---preview-now-3SeYz6",
+    "summary": "We’re rolling out a set of user interface updates designed to streamline your experience and give you more flexibility when working in a for...",
+    "date": "2026-03-31T20:00:00+00:00"
+  },
+  {
     "id": "b3d51cb140e150ca",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-associations-gadget-3zEwAU",
     "summary": "Users often need visibility into how documents are connected across the system. The new Associations gadget provides a clear view of all do...",
     "date": "2026-03-23T16:35:00+00:00"
-  },
-  {
-    "id": "1d53d2762cd2ff4f",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Extended Person Fields",
-    "link": "https://announcekit.app/kuali/announcements/new-extended-person-fields-1Rp2Y8",
-    "summary": "We’ve enhanced the Person record with new fields to better support institutional needs. You can now manage richer user metadata and use it i...",
-    "date": "2026-03-09T16:15:00+00:00"
   },
   {
     "id": "fd15db8a53a19f10",
@@ -760,6 +760,16 @@
     "date": "2026-03-30T00:00:00+00:00"
   },
   {
+    "id": "1d53d2762cd2ff4f",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Extended Person Fields",
+    "link": "https://announcekit.app/kuali/announcements/new-extended-person-fields-1Rp2Y8",
+    "summary": "We’ve enhanced the Person record with new fields to better support institutional needs. You can now manage richer user metadata and use it i...",
+    "date": "2026-03-09T16:15:00+00:00"
+  },
+  {
     "id": "8549143880d4f8f9",
     "product_id": "scribe",
     "product_name": "Scribe",
@@ -988,15 +998,5 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/brand-templates/list-brand-templates/",
     "summary": "",
     "date": "2026-03-06T17:53:56.012724+00:00"
-  },
-  {
-    "id": "3ea86ca7e27b125c",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The List folder items API now supports a limit parameter to control the number of folder items returned per request.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
-    "summary": "",
-    "date": "2026-03-06T17:53:56.012925+00:00"
   }
 ]
