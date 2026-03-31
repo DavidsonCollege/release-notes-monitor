@@ -520,44 +520,44 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "8549143880d4f8f9",
+    "id": "5e682909839a6ae1",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pin guides anywhere on a webpage",
+    "title": "Document Import turns existing docs into usable Scribes",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "March 25, 2026"
+    "date": "March 31, 2026"
   },
   {
-    "id": "123ccc408fdbad82",
+    "id": "6df6cff416b50286",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pin guides anywhere on a webpage",
-    "link": "https://scribe.launchnotes.io/announcements/pin-guides-anywhere-on-a-webpage",
+    "title": "Document Import turns existing docs into usable Scribes",
+    "link": "https://scribe.launchnotes.io/announcements/document-import-turns-existing-docs-into-usable-scribes",
     "summary": "Loading...",
-    "date": "March 25, 2026"
+    "date": "March 31, 2026"
   },
   {
-    "id": "27bfc6f072bded52",
+    "id": "51db2b716d22e25d",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Enterprise Viewing",
+    "title": "Pro Pro Team Enterprise",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-25T00:44:21.648082+00:00"
+    "date": "2026-03-31T20:20:40.625180+00:00"
   },
   {
-    "id": "5ae9ebfd943800f9",
+    "id": "c85468d03abbc92b",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pin guides anywhere on a webpage",
+    "title": "Document Import turns existing docs into usable Scribes",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-03-25T00:44:21.648102+00:00"
+    "date": "2026-03-31T20:20:40.625197+00:00"
   },
   {
     "id": "a202083b037a806a",
@@ -760,6 +760,46 @@
     "date": "2026-03-30T00:00:00+00:00"
   },
   {
+    "id": "8549143880d4f8f9",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Pin guides anywhere on a webpage",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "March 25, 2026"
+  },
+  {
+    "id": "123ccc408fdbad82",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Pin guides anywhere on a webpage",
+    "link": "https://scribe.launchnotes.io/announcements/pin-guides-anywhere-on-a-webpage",
+    "summary": "Loading...",
+    "date": "March 25, 2026"
+  },
+  {
+    "id": "27bfc6f072bded52",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Enterprise Viewing",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-03-25T00:44:21.648082+00:00"
+  },
+  {
+    "id": "5ae9ebfd943800f9",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Pin guides anywhere on a webpage",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-03-25T00:44:21.648102+00:00"
+  },
+  {
     "id": "81947006244292b8",
     "product_id": "papercut",
     "product_name": "PaperCut",
@@ -958,45 +998,5 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
     "summary": "",
     "date": "2026-03-06T17:53:56.012925+00:00"
-  },
-  {
-    "id": "205334155490b841",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - March 20, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-20-2026.html",
-    "summary": "Easily find and set time zones in Google Calendar by searching for city or countryWe’re introducing an improved time zone picker for Google Calendar on the web. Instead of manually scrolling through the list of options, you can now simply search for and select a specific city or country, making it...",
-    "date": "2026-03-20T21:05:00+00:00"
-  },
-  {
-    "id": "2cfed85194cd4abd",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "February 20, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/46492904460180-February-20-2026",
-    "summary": "",
-    "date": "2026-02-20T18:27:25Z"
-  },
-  {
-    "id": "a57a1ec845fd1e91",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New endpoints for Survey Management API",
-    "link": "https://developers.zoom.us/changelog/accounts/march-23-2026",
-    "summary": "Tags: api-release | Added new Survey Management API endpoints to retrieve detailed information for survey and account instances.",
-    "date": "2026-03-23T00:00:00+00:00"
-  },
-  {
-    "id": "fc6e9531ba72ef03",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Rebrand \"Team Chat\" to \"Chat\"",
-    "link": "https://developers.zoom.us/changelog/chat/march-23-2026",
-    "summary": "Tags: api-release, new-feature | As of March 22, 2026, \"Zoom Team Chat\" is renamed to \"Zoom Chat\" or \"Chat\" (in brief). No feature or functionality is affected by this name change.",
-    "date": "2026-03-23T00:00:00+00:00"
   }
 ]
