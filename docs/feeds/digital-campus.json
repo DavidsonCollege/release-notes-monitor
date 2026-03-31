@@ -440,6 +440,16 @@
     "date": "2026-02-09T14:00:23+00:00"
   },
   {
+    "id": "4c648a6b3f65d207",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.10",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2026-03-31T00:00:00+00:00"
+  },
+  {
     "id": "29b118fba425721c",
     "product_id": "papercut",
     "product_name": "PaperCut",
@@ -478,16 +488,6 @@
     "link": "https://www.papercut.com/products/mf/release-history/25-0/",
     "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
     "date": "2025-10-28T00:00:00+00:00"
-  },
-  {
-    "id": "81947006244292b8",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.4",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2025-10-13T00:00:00+00:00"
   },
   {
     "id": "06a1b6a05e1c3232",
@@ -760,6 +760,16 @@
     "date": "2026-03-30T00:00:00+00:00"
   },
   {
+    "id": "81947006244292b8",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.4",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2025-10-13T00:00:00+00:00"
+  },
+  {
     "id": "276dc3f95806b5a3",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -987,16 +997,6 @@
     "title": "Rebrand \"Team Chat\" to \"Chat\"",
     "link": "https://developers.zoom.us/changelog/chat/march-23-2026",
     "summary": "Tags: api-release, new-feature | As of March 22, 2026, \"Zoom Team Chat\" is renamed to \"Zoom Chat\" or \"Chat\" (in brief). No feature or functionality is affected by this name change.",
-    "date": "2026-03-23T00:00:00+00:00"
-  },
-  {
-    "id": "73d9039f6ee6a9e9",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.1.2",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.1.2",
-    "summary": "Tags: bug-fix, sdk-version | Fixed CSS style and worker message bugs.",
     "date": "2026-03-23T00:00:00+00:00"
   }
 ]
