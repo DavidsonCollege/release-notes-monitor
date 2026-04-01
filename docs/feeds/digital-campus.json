@@ -310,6 +310,16 @@
     "date": "2025-12-05T15:05:58+00:00"
   },
   {
+    "id": "2eb9937ddce09c94",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Coming Soon: Updates to How Table Gadget Data is Returned Via API",
+    "link": "https://announcekit.app/kuali/announcements/coming-soon-updates-to-how-table-gadget-data-is-returned-via-api-4o7y6Y",
+    "summary": "We wanted to make you aware of forthcoming changes to how our Table gadget data is formatted in JSON when returned via the API. If you have ...",
+    "date": "2026-04-01T21:39:18+00:00"
+  },
+  {
     "id": "f34a2aae004f5696",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/february-2026-release-announcement-4w3LEI",
     "summary": "Feature Enhanced Logic for Conditional Visibility and Branch Workflow - We've added the ability to do All of the Below or Some of the Below...",
     "date": "2026-03-23T17:01:34+00:00"
-  },
-  {
-    "id": "eadece1cc263b0fe",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New Associations Gadget!",
-    "link": "https://announcekit.app/kuali/announcements/new-associations-gadget-3zEwAU",
-    "summary": "Users often need visibility into how documents are connected across the system. The new Associations gadget provides a clear view of all do...",
-    "date": "2026-03-23T16:35:00+00:00"
   },
   {
     "id": "fd15db8a53a19f10",
@@ -760,6 +760,16 @@
     "date": "2026-03-30T00:00:00+00:00"
   },
   {
+    "id": "eadece1cc263b0fe",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New Associations Gadget!",
+    "link": "https://announcekit.app/kuali/announcements/new-associations-gadget-3zEwAU",
+    "summary": "Users often need visibility into how documents are connected across the system. The new Associations gadget provides a clear view of all do...",
+    "date": "2026-03-23T16:35:00+00:00"
+  },
+  {
     "id": "adeebde5119ce43c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=03242026c",
     "summary": "View downloadsView release notes",
     "date": "2026-03-24T17:00:00+00:00"
-  },
-  {
-    "id": "9a2e27537d3719a8",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v3.14.0",
-    "link": "https://docs.slack.dev/changelog/2026/03/05/slack-cli",
-    "summary": "Version 3.14.0 of the developer tools for the Slack platform has landed!",
-    "date": "2026-03-05T00:00:00+00:00"
   }
 ]
