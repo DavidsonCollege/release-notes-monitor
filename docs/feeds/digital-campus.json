@@ -220,54 +220,54 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
-    "id": "d45c1c894460171d",
+    "id": "565b408be225300e",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
     "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Upcoming change to default setting for downloading Google Meet recordings",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/upcoming-change-to-default-setting-for-downloading-Google-Meet-recordings.html",
-    "summary": "Currently, Google Meet video recordings do not allow viewers to download or copy them by default unless the recording owner explicitly allows it. As a result, the \"Ask Gemini\" functionality within the Drive viewer is also disabled by default for viewers who aren’t file owners.Starting April 30,...",
-    "date": "2026-04-01T18:42:00+00:00"
+    "title": "Google Meet is now available on CarPlay",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/google-meet-is-now-available-on-carplay.html",
+    "summary": "We’re excited to announce Google Meet for Apple CarPlay, allowing on-the-go professionals to stay connected hands-free and join meetings safely while on the road.With this update, users can now access Google Meet directly from their car's dashboard. This feature is designed to provide a seamless...",
+    "date": "2026-04-02T16:50:00+00:00"
   },
   {
-    "id": "462517d4a537a06c",
+    "id": "31b4e888646cc1d5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
     "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Form creation with Gemini and more now available in more languages",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/form-creation-with-gemini-and-more-now-available-in-more-languages.html",
-    "summary": "Last year, we announced Help me create in Google Forms and then expanded access to the feature to seven more languages.Help me create in Google Forms drafts your questions 3x faster than doing it manually.*Now, this feature is also available to users in 21 more languages including Arabic, Catalan,...",
-    "date": "2026-04-01T17:32:00+00:00"
+    "title": "Export Google Vids directly to YouTube",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/export-google-vids-directly-to-youtube.html",
+    "summary": "You can now publish the videos you create in Google Vids directly to YouTube. This saves you a few steps - previously you would export the project as an MP4 file, then go to YouTube to upload the file.Whether you are creating marketing videos, training materials, or educational content, this...",
+    "date": "2026-04-02T16:13:00+00:00"
   },
   {
-    "id": "2533894b4313a680",
+    "id": "94fe1664e074e1c6",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
     "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Generate beautiful and editable slides with ease in Google Slides",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/enerate-beautiful-and-editable-slides-with-ease-in-Google-Slides.html",
-    "summary": "Slide generation just got a major upgrade. Gemini can now create fully editable, brand-matched slides using dynamic layouts tailored to your specific content. To ensure visual consistency, Gemini securely analyzes your existing deck to generate designs that fit your established style. You can also...",
-    "date": "2026-04-01T17:27:00+00:00"
+    "title": "Record your screen directly from Chrome with the Google Vids Screen Recorder Chrome Extension",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/record-your-screen-directly-from-chrome-with-the-Google-Vids-Screen-Recorder-Chrome-Extension.html",
+    "summary": "You can now quickly record your screen from any browser window using the new Google Vids Screen Recorder Chrome extension. Instead of having to open Google Vids to access recording functionality, you can now initiate a recording with a single click right from the Chrome extensions toolbar.This is...",
+    "date": "2026-04-02T16:10:00+00:00"
   },
   {
-    "id": "17e2f3fcbf8557a1",
+    "id": "98659d064b3b908c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
     "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "An update on secondary calendar lifecycle changes and a new API",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/an-update-on-secondary-calendar-lifecycle-changes-and-a-new-API.html",
-    "summary": "We recently announced a change to the ownership model of secondary calendars to improve data governance. As part of this, we emailed impacted customers to let them know that orphan secondary calendars would be deleted starting on April 27, 2026.Since that announcement, we’ve received valuable...",
-    "date": "2026-03-30T20:18:00+00:00"
+    "title": "Direct an avatar to speak and act anywhere with a consistent face and voice",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/direct-avatar-to-speak-and-act-anywhere-with-a-consistent-face-and-voice.html",
+    "summary": "AI Avatars in Google Vids can deliver your message with a consistent face and voice throughout a video, and they are preferred 5x more often than those on other platforms.Today we’re excited to announce you can now place avatars in different scenes and have them interact with objects you specify,...",
+    "date": "2026-04-02T16:06:00+00:00"
   },
   {
-    "id": "b21fbaa10077df93",
+    "id": "5a8d2d279a236257",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
     "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Download the third-party attestation for data regions",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/download-third-party-attestation-for-data-regions.html",
-    "summary": "Beginning today, admins have access to an independent review of Google Workspace’s data regions, not only for their compliance needs but also for their peace of mind.This external evaluation from Coalfire, a third-party assessment organization, gives Assured Controls customers the confidence that...",
-    "date": "2026-03-30T18:20:00+00:00"
+    "title": "Create and refine custom avatars in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/create-and-refine-custom-avatars-in-Google-Vids.html",
+    "summary": "AI Avatars in Google Vids provide high-quality speakers preferred five times more often than those on other platforms. Now you can customize and refine these avatars to match your brand and message, with Nano Banana 2.Why use custom avatars?Unique Branding: Build an exclusive look that represents...",
+    "date": "2026-04-02T16:03:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,56 @@
     "date": "2026-03-30T00:00:00+00:00"
   },
   {
+    "id": "d45c1c894460171d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Upcoming change to default setting for downloading Google Meet recordings",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/upcoming-change-to-default-setting-for-downloading-Google-Meet-recordings.html",
+    "summary": "Currently, Google Meet video recordings do not allow viewers to download or copy them by default unless the recording owner explicitly allows it. As a result, the \"Ask Gemini\" functionality within the Drive viewer is also disabled by default for viewers who aren’t file owners.Starting April 30,...",
+    "date": "2026-04-01T18:42:00+00:00"
+  },
+  {
+    "id": "462517d4a537a06c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Form creation with Gemini and more now available in more languages",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/form-creation-with-gemini-and-more-now-available-in-more-languages.html",
+    "summary": "Last year, we announced Help me create in Google Forms and then expanded access to the feature to seven more languages.Help me create in Google Forms drafts your questions 3x faster than doing it manually.*Now, this feature is also available to users in 21 more languages including Arabic, Catalan,...",
+    "date": "2026-04-01T17:32:00+00:00"
+  },
+  {
+    "id": "2533894b4313a680",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Generate beautiful and editable slides with ease in Google Slides",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/enerate-beautiful-and-editable-slides-with-ease-in-Google-Slides.html",
+    "summary": "Slide generation just got a major upgrade. Gemini can now create fully editable, brand-matched slides using dynamic layouts tailored to your specific content. To ensure visual consistency, Gemini securely analyzes your existing deck to generate designs that fit your established style. You can also...",
+    "date": "2026-04-01T17:27:00+00:00"
+  },
+  {
+    "id": "17e2f3fcbf8557a1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "An update on secondary calendar lifecycle changes and a new API",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/an-update-on-secondary-calendar-lifecycle-changes-and-a-new-API.html",
+    "summary": "We recently announced a change to the ownership model of secondary calendars to improve data governance. As part of this, we emailed impacted customers to let them know that orphan secondary calendars would be deleted starting on April 27, 2026.Since that announcement, we’ve received valuable...",
+    "date": "2026-03-30T20:18:00+00:00"
+  },
+  {
+    "id": "b21fbaa10077df93",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Download the third-party attestation for data regions",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/download-third-party-attestation-for-data-regions.html",
+    "summary": "Beginning today, admins have access to an independent review of Google Workspace’s data regions, not only for their compliance needs but also for their peace of mind.This external evaluation from Coalfire, a third-party assessment organization, gives Assured Controls customers the confidence that...",
+    "date": "2026-03-30T18:20:00+00:00"
+  },
+  {
     "id": "eadece1cc263b0fe",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -948,55 +998,5 @@
     "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-26220-8079-beta-channel/",
     "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8079 (KB 5079482< The post Announcing Windows 11 Insider Preview Build 26220.8079 (Beta Channel) appeared first on Windows Insider Blog.",
     "date": "2026-03-20T17:00:03+00:00"
-  },
-  {
-    "id": "a89b346585eeb76b",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build for Canary Channel 29550.1000",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-for-canary-channel-29550-1000/",
-    "summary": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29550.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29550.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29550.1000...",
-    "date": "2026-03-13T19:09:35+00:00"
-  },
-  {
-    "id": "2905b00107e9c4a5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Generate custom music in Google Vids, powered by Lyria 3 and Lyria 3 Pro",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/generate-custom-music-in-google-vids-powered-by-Lyria-3-and-Lyria-3-Pro.html",
-    "summary": "You can now generate custom music in Google Vids, powered by Lyria 3 and Lyria 3 Pro, Google’s latest music generation model.Using text-based prompting, Vids users can generate clips (about 30 seconds) or longer tracks (up to three minutes) for their video projects. A user might, for instance, need...",
-    "date": "2026-03-25T16:03:00+00:00"
-  },
-  {
-    "id": "b39c6e9c97209855",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create longer musical tracks in the Gemini app with Lyria 3 Pro",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/create-longer-musical-tracks-in-gemini-app-with-Lyria-3-Pro.html",
-    "summary": "Last month, we introduced 30-second tracks with Lyria 3, featuring custom music generation designed to spark creative expression. Now, we’re also introducing Lyria 3 Pro, an advanced version that allows users to create tracks up to three minutes long, with customization and creative control. Lyria...",
-    "date": "2026-03-25T16:02:00+00:00"
-  },
-  {
-    "id": "fe61b167b10f8d24",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Safeguarded guest admit flow in Google Meet",
-    "link": "http://workspaceupdates.googleblog.com/2026/02/safeguarded-guest-admit-flow-in-google-meet.html",
-    "summary": "The new safeguarded guest admit flow assists hosts in meetings when they respond to users who ask to join meetings (also known as ”knocking”). This makes it easier for hosts to handle large volumes of requests and helps reduce the attention and time needed.Meeting hosts will now get those requests...",
-    "date": "2026-03-24T19:45:00+00:00"
-  },
-  {
-    "id": "3f064f56bd683957",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.4 (25E246)",
-    "link": "https://developer.apple.com/news/releases/?id=03242026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-03-24T17:00:00+00:00"
   }
 ]
