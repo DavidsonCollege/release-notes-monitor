@@ -710,6 +710,46 @@
     "date": "2026-03-20T17:06:13+00:00"
   },
   {
+    "id": "bb9b1c389efaf659",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Phone API endpoint deprecations",
+    "link": "https://developers.zoom.us/changelog/phone/phone-api-endpoint-deprecations",
+    "summary": "Tags: breaking-change, deprecation | Zoom deprecated several endpoints for phone numbers, plans, cloud peering, SMS campaigns, and related settings. Use the new Number Management APIs for enhanced, streamlined management. Migrate by **June 30, 2026**. We will not support deprecated endpoints after...",
+    "date": "2026-04-02T00:00:00+00:00"
+  },
+  {
+    "id": "92f9b3973444bb77",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 1.0.4",
+    "link": "https://developers.zoom.us/changelog/probe-sdk/javascript/1.0.4",
+    "summary": "Tags: bug-fix, sdk-version | New diagnostic tools for screen sharing and camera troubleshooting, including APIs to detect environment issues, permission errors, and black screens, with real-time progress updates and privacy safeguards. New error codes, expanded test coverage, refactored user-agent...",
+    "date": "2026-04-02T00:00:00+00:00"
+  },
+  {
+    "id": "f4d8953eb059b908",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New session AI interpreter usage summary webhook",
+    "link": "https://developers.zoom.us/changelog/video-sdk/april-02-2026",
+    "summary": "Tags: api-release | New session AI interpreter usage summary webhook.",
+    "date": "2026-04-02T00:00:00+00:00"
+  },
+  {
+    "id": "6540b83dccba92b7",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Added new rc_reason response field for Dashboards API endpoints",
+    "link": "https://developers.zoom.us/changelog/accounts/march-30-2026",
+    "summary": "Tags: api-release | Added rc_response field for Dashboards quality of service API endpoints.",
+    "date": "2026-03-30T00:00:00+00:00"
+  },
+  {
     "id": "22bb1c5747afb5ed",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -958,45 +998,5 @@
     "link": "https://developers.zoom.us/changelog/video-sdk/windows/2.5.5",
     "summary": "Tags: action-required, breaking-change, sdk-version | Add AI-friendly structured API documentation, enhanced QoS statistics for better performance tracking, and support for multi-language telephony welcome messages. Includes breaking changes that make the OnStartSendShare callback asynchronous and...",
     "date": "2026-03-26T00:00:00+00:00"
-  },
-  {
-    "id": "46b69a5dc327e9b1",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Ensure accurate meeting records with automatic language detection in Google Meet",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/ensure-accurate-meeting-records-with-automatic-language-detection-in-Google-Meet.html",
-    "summary": "We’re introducing automatic language detection in Google Meet to help ensure your meeting transcripts, summarized notes, and recorded captions are as accurate as possible.Meet now intelligently detects the language being spoken during a session one time per-meeting. If the detected language does...",
-    "date": "2026-03-26T20:59:00+00:00"
-  },
-  {
-    "id": "e8d17944cdd3e830",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 28020.1743 (Canary Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-28020-1743-canary-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1743 to the Canary Channel. (KB 5081339) What’s new in Canary Build 28020.1743 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1743 (Canary Channel) appeared first on Windows...",
-    "date": "2026-03-20T17:05:51+00:00"
-  },
-  {
-    "id": "04410fb8b91c20ee",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.8085 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-26300-8085-dev-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8085 (KB 5079483 The post Announcing Windows 11 Insider Preview Build 26300.8085 (Dev Channel) appeared first on Windows Insider Blog.",
-    "date": "2026-03-20T17:00:57+00:00"
-  },
-  {
-    "id": "36d566557cc4f069",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26220.8079 (Beta Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-26220-8079-beta-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8079 (KB 5079482< The post Announcing Windows 11 Insider Preview Build 26220.8079 (Beta Channel) appeared first on Windows Insider Blog.",
-    "date": "2026-03-20T17:00:03+00:00"
   }
 ]
