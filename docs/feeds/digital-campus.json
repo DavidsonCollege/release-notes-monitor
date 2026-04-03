@@ -310,6 +310,16 @@
     "date": "2025-12-05T15:05:58+00:00"
   },
   {
+    "id": "80762f228c0d3a19",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "UPDATE: Updates to How Table Gadget Data is Returned Via API (now scheduled for April 19, 2026)",
+    "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-april-19-2026-2kXwT6",
+    "summary": "We’re postponing updates to how Table gadget data is formatted in API JSON responses (see the original announcement for details). To allow a...",
+    "date": "2026-04-03T16:50:15+00:00"
+  },
+  {
     "id": "2eb9937ddce09c94",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-read-only-gadgets-and-default-values-2T0iiI",
     "summary": "You can now control how data is set and edited in your forms with new Read-only and Default Value configurations. This makes it easier to su...",
     "date": "2026-03-24T19:55:00+00:00"
-  },
-  {
-    "id": "f68fad5be0bbb964",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "February 2026 Release Announcement",
-    "link": "https://announcekit.app/kuali/announcements/february-2026-release-announcement-4w3LEI",
-    "summary": "Feature Enhanced Logic for Conditional Visibility and Branch Workflow - We've added the ability to do All of the Below or Some of the Below...",
-    "date": "2026-03-23T17:01:34+00:00"
   },
   {
     "id": "fd15db8a53a19f10",
@@ -760,6 +760,16 @@
     "date": "2026-03-30T00:00:00+00:00"
   },
   {
+    "id": "f68fad5be0bbb964",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "February 2026 Release Announcement",
+    "link": "https://announcekit.app/kuali/announcements/february-2026-release-announcement-4w3LEI",
+    "summary": "Feature Enhanced Logic for Conditional Visibility and Branch Workflow - We've added the ability to do All of the Below or Some of the Below...",
+    "date": "2026-03-23T17:01:34+00:00"
+  },
+  {
     "id": "b8f349ea880e5cd6",
     "product_id": "windows",
     "product_name": "Windows",
@@ -988,15 +998,5 @@
     "link": "https://www.papercut.com/products/mf/release-history/25-0/",
     "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
     "date": "2025-10-13T00:00:00+00:00"
-  },
-  {
-    "id": "276dc3f95806b5a3",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Improved Cloud Peering Provider Exchange APIs with new request and response fields",
-    "link": "https://developers.zoom.us/changelog/number-management/march-26-2026",
-    "summary": "Tags: api-release | New request and response fields to Cloud Peering Provider Exchange APIs, including `allocated_product` and capability indicators.",
-    "date": "2026-03-26T00:00:00+00:00"
   }
 ]
