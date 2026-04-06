@@ -710,6 +710,56 @@
     "date": "2026-03-30T21:06:04+00:00"
   },
   {
+    "id": "f2b3dd8001b23cd9",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New search and ask APIs",
+    "link": "https://developers.zoom.us/changelog/ai-companion/april-06-2026",
+    "summary": "Tags: api-release | New search and ask APIs.",
+    "date": "2026-04-06T00:00:00+00:00"
+  },
+  {
+    "id": "a77114301066d410",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Several new webhooks; new engagement, invitee fields in Call Control APIs, Messaging APIs, and Messaging webhook",
+    "link": "https://developers.zoom.us/changelog/contact-center/april-06-2026",
+    "summary": "Tags: api-release | New Call Control and Conference webhooks; new engagement, invitee fields in Call Control APIs, Messaging APIs, and Messaging webhook; added fields in Engagements and Inboxes APIs.",
+    "date": "2026-04-06T00:00:00+00:00"
+  },
+  {
+    "id": "b17171d82d72493a",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New Import API added",
+    "link": "https://developers.zoom.us/changelog/docs/april-06-2026",
+    "summary": "Tags: api-release | New endpoint for Imports API.",
+    "date": "2026-04-06T00:00:00+00:00"
+  },
+  {
+    "id": "b8eefa2ca4320913",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Upcoming deprecation of Call Log APIs and enhancements to Call History APIs",
+    "link": "https://developers.zoom.us/changelog/phone/upcoming-deprecation-of-call-log-apis-and-enhancements-to-call-history-apis",
+    "summary": "Tags: breaking-change, deprecation | Zoom Phone API introduced new endpoints in December 2023 to replace Call Logs. The v1 Call Logs APIs will be deprecated in May 2026. This timeline extends the previously announced deprecation to give developers more time to migrate. Key migration endpoints - Get...",
+    "date": "2026-04-06T00:00:00+00:00"
+  },
+  {
+    "id": "9440b204b1d74ac0",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.5.6",
+    "link": "https://developers.zoom.us/changelog/video-sdk/windows/2.5.6",
+    "summary": "Tags: bug-fix, sdk-version | Minor bug fixes.",
+    "date": "2026-04-06T00:00:00+00:00"
+  },
+  {
     "id": "bb9b1c389efaf659",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -948,55 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/ransomware-detection-and-file-restoration-for-Google-Drive-now-generally-available.html",
     "summary": "In September 2025, we launched ransomware detection and file restoration in beta to help organizations minimize the impact of malware attacks on personal computers. Today, we’re excited to share these two features are generally available with significant improvements in malware detection.Compared...",
     "date": "2026-03-30T18:15:00+00:00"
-  },
-  {
-    "id": "693ccfb409db0ecb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing guest accounts: Collaborate securely and communicate with non-Workspace users in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/introducing-guest-accounts.html",
-    "summary": "Today, we're excited to announce the general availability of guest accounts in Google Workspace. Guest accounts empower organizations to securely collaborate with customers, partners, and vendors that are not on Google Workspace. More than secure, real-time messaging in Google Chat, guest accounts...",
-    "date": "2026-03-30T18:07:00+00:00"
-  },
-  {
-    "id": "27b74afa43a8a94e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - March 27, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/weekly-recap-03-27-2026.html",
-    "summary": "Safeguarded guest admit flow in Google MeetThe new safeguarded guest admit flow assists hosts in meetings when they respond to users who ask to join meetings (also known as ”knocking”). This makes it easier for hosts to handle large volumes of requests and helps reduce the attention and time...",
-    "date": "2026-03-27T20:28:00+00:00"
-  },
-  {
-    "id": "1d53d2762cd2ff4f",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Extended Person Fields",
-    "link": "https://announcekit.app/kuali/announcements/new-extended-person-fields-1Rp2Y8",
-    "summary": "We’ve enhanced the Person record with new fields to better support institutional needs. You can now manage richer user metadata and use it i...",
-    "date": "2026-03-09T16:15:00+00:00"
-  },
-  {
-    "id": "8549143880d4f8f9",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pin guides anywhere on a webpage",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "March 25, 2026"
-  },
-  {
-    "id": "123ccc408fdbad82",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pin guides anywhere on a webpage",
-    "link": "https://scribe.launchnotes.io/announcements/pin-guides-anywhere-on-a-webpage",
-    "summary": "Loading...",
-    "date": "March 25, 2026"
   }
 ]
