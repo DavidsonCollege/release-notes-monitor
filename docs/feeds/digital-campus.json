@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "9bc9c2fc4c19bea5",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "April 3, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/47962007274900-April-3-2026",
+    "summary": "",
+    "date": "2026-04-06T20:31:03Z"
+  },
+  {
     "id": "42a3f8f87b22f5a9",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/46950677019668-March-6-2026",
     "summary": "",
     "date": "2026-03-06T18:13:10Z"
-  },
-  {
-    "id": "f54aa9f1968974da",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "February 27, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/46722487093396-February-27-2026",
-    "summary": "",
-    "date": "2026-02-27T20:36:01Z"
   },
   {
     "id": "8e642c0b32a90b7c",
@@ -760,6 +760,16 @@
     "date": "2026-03-30T00:00:00+00:00"
   },
   {
+    "id": "f54aa9f1968974da",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "February 27, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/46722487093396-February-27-2026",
+    "summary": "",
+    "date": "2026-02-27T20:36:01Z"
+  },
+  {
     "id": "5a8d2d279a236257",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://scribe.launchnotes.io/announcements/pin-guides-anywhere-on-a-webpage",
     "summary": "Loading...",
     "date": "March 25, 2026"
-  },
-  {
-    "id": "27bfc6f072bded52",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Enterprise Viewing",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-03-25T00:44:21.648082+00:00"
   }
 ]
