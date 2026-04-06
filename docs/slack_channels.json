@@ -341,7 +341,7 @@
       "name": "outages",
       "is_private": false,
       "topic": "",
-      "num_members": 91
+      "num_members": 89
     },
     {
       "id": "CFA3D26NL",
@@ -953,6 +953,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-04-06T17:22:25.248322+00:00",
+  "last_updated": "2026-04-06T17:48:50.388117+00:00",
   "fetch_status": "success"
 }

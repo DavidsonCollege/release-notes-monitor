@@ -310,6 +310,16 @@
     "date": "2025-12-05T15:05:58+00:00"
   },
   {
+    "id": "8f69cdb419c85fe3",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Hierarchical Group Selection in Data Lookup Gadgets",
+    "link": "https://announcekit.app/kuali/announcements/new-hierarchical-group-selection-in-data-lookup-gadgets-1VYPrq",
+    "summary": "You can now select Groups from within your organizational blueprint hierarchy in a single lookup. Form designers can enable a new setting—...",
+    "date": "2026-04-06T17:25:00+00:00"
+  },
+  {
     "id": "80762f228c0d3a19",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-form-outline-download-2pu0M0",
     "summary": "You can now download a complete, review-ready outline of your form directly from the form designer (either the saved Draft or Published vers...",
     "date": "2026-03-25T22:00:00+00:00"
-  },
-  {
-    "id": "02c742af723aa7ae",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Read Only Gadgets and Default Values",
-    "link": "https://announcekit.app/kuali/announcements/new-read-only-gadgets-and-default-values-2T0iiI",
-    "summary": "You can now control how data is set and edited in your forms with new Read-only and Default Value configurations. This makes it easier to su...",
-    "date": "2026-03-24T19:55:00+00:00"
   },
   {
     "id": "fd15db8a53a19f10",
@@ -760,6 +760,16 @@
     "date": "2026-03-30T00:00:00+00:00"
   },
   {
+    "id": "02c742af723aa7ae",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Read Only Gadgets and Default Values",
+    "link": "https://announcekit.app/kuali/announcements/new-read-only-gadgets-and-default-values-2T0iiI",
+    "summary": "You can now control how data is set and edited in your forms with new Read-only and Default Value configurations. This makes it easier to su...",
+    "date": "2026-03-24T19:55:00+00:00"
+  },
+  {
     "id": "f68fad5be0bbb964",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -988,15 +998,5 @@
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
     "date": "2026-03-25T00:44:21.648102+00:00"
-  },
-  {
-    "id": "81947006244292b8",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.4",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2025-10-13T00:00:00+00:00"
   }
 ]
