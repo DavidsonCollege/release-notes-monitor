@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "58088ac4499805ff",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Book Google Workspace resources from third-party calendars",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/book-google-workspace-resources-from-third-party-calendars.html",
+    "summary": "Organizations that use both Google Workspace and other calendaring systems, like Microsoft Outlook, can now more easily coordinate shared resources, such as rooms, projectors, or company cars. We are introducing an open beta that allows non-Google users to book Google Workspace resources directly...",
+    "date": "2026-04-07T16:31:00+00:00"
+  },
+  {
     "id": "9a93826f31cc6210",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/record-your-screen-directly-from-chrome-with-the-Google-Vids-Screen-Recorder-Chrome-Extension.html",
     "summary": "You can now quickly record your screen from any browser window using the new Google Vids Screen Recorder Chrome extension. Instead of having to open Google Vids to access recording functionality, you can now initiate a recording with a single click right from the Chrome extensions toolbar.This is...",
     "date": "2026-04-02T16:10:00+00:00"
-  },
-  {
-    "id": "98659d064b3b908c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Direct an avatar to speak and act anywhere with a consistent face and voice",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/direct-avatar-to-speak-and-act-anywhere-with-a-consistent-face-and-voice.html",
-    "summary": "AI Avatars in Google Vids can deliver your message with a consistent face and voice throughout a video, and they are preferred 5x more often than those on other platforms.Today we’re excited to announce you can now place avatars in different scenes and have them interact with objects you specify,...",
-    "date": "2026-04-02T16:06:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-06T00:00:00+00:00"
   },
   {
+    "id": "98659d064b3b908c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Direct an avatar to speak and act anywhere with a consistent face and voice",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/direct-avatar-to-speak-and-act-anywhere-with-a-consistent-face-and-voice.html",
+    "summary": "AI Avatars in Google Vids can deliver your message with a consistent face and voice throughout a video, and they are preferred 5x more often than those on other platforms.Today we’re excited to announce you can now place avatars in different scenes and have them interact with objects you specify,...",
+    "date": "2026-04-02T16:06:00+00:00"
+  },
+  {
     "id": "6077feb66c340f69",
     "product_id": "canva",
     "product_name": "Canva",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/download-third-party-attestation-for-data-regions.html",
     "summary": "Beginning today, admins have access to an independent review of Google Workspace’s data regions, not only for their compliance needs but also for their peace of mind.This external evaluation from Coalfire, a third-party assessment organization, gives Assured Controls customers the confidence that...",
     "date": "2026-03-30T18:20:00+00:00"
-  },
-  {
-    "id": "eadece1cc263b0fe",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New Associations Gadget!",
-    "link": "https://announcekit.app/kuali/announcements/new-associations-gadget-3zEwAU",
-    "summary": "Users often need visibility into how documents are connected across the system. The new Associations gadget provides a clear view of all do...",
-    "date": "2026-03-23T16:35:00+00:00"
   }
 ]
