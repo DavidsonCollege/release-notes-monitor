@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "f970638aaa15439b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Migration update on restricted access items",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/migration-update-on-restricted-access-items.html",
+    "summary": "Last year, we stopped allowing restricted access on specific files and folders within a shared folder in Google Drive, and instead required that restricted access be managed consistently via the limited access folder setting. With this update, all items with legacy restricted access will be...",
+    "date": "2026-04-07T19:29:00+00:00"
+  },
+  {
     "id": "8e2fb36b9e3cc950",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/google-meet-is-now-available-on-carplay.html",
     "summary": "We’re excited to announce Google Meet for Apple CarPlay, allowing on-the-go professionals to stay connected hands-free and join meetings safely while on the road.With this update, users can now access Google Meet directly from their car's dashboard. This feature is designed to provide a seamless...",
     "date": "2026-04-02T16:50:00+00:00"
-  },
-  {
-    "id": "31b4e888646cc1d5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Export Google Vids directly to YouTube",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/export-google-vids-directly-to-youtube.html",
-    "summary": "You can now publish the videos you create in Google Vids directly to YouTube. This saves you a few steps - previously you would export the project as an MP4 file, then go to YouTube to upload the file.Whether you are creating marketing videos, training materials, or educational content, this...",
-    "date": "2026-04-02T16:13:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-06T00:00:00+00:00"
   },
   {
+    "id": "31b4e888646cc1d5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Export Google Vids directly to YouTube",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/export-google-vids-directly-to-youtube.html",
+    "summary": "You can now publish the videos you create in Google Vids directly to YouTube. This saves you a few steps - previously you would export the project as an MP4 file, then go to YouTube to upload the file.Whether you are creating marketing videos, training materials, or educational content, this...",
+    "date": "2026-04-02T16:13:00+00:00"
+  },
+  {
     "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/form-creation-with-gemini-and-more-now-available-in-more-languages.html",
     "summary": "Last year, we announced Help me create in Google Forms and then expanded access to the feature to seven more languages.Help me create in Google Forms drafts your questions 3x faster than doing it manually.*Now, this feature is also available to users in 21 more languages including Arabic, Catalan,...",
     "date": "2026-04-01T17:32:00+00:00"
-  },
-  {
-    "id": "2533894b4313a680",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Generate beautiful and editable slides with ease in Google Slides",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/enerate-beautiful-and-editable-slides-with-ease-in-Google-Slides.html",
-    "summary": "Slide generation just got a major upgrade. Gemini can now create fully editable, brand-matched slides using dynamic layouts tailored to your specific content. To ensure visual consistency, Gemini securely analyzes your existing deck to generate designs that fit your established style. You can also...",
-    "date": "2026-04-01T17:27:00+00:00"
   }
 ]
