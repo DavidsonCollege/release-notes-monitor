@@ -70,6 +70,16 @@
     "date": "2026-03-06T18:13:10Z"
   },
   {
+    "id": "4d32ad735cbf6a1b",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Create design API now supports email in the name field for preset types.",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/create-design/#body-parameters",
+    "summary": "",
+    "date": "2026-04-07T12:58:41.844147+00:00"
+  },
+  {
     "id": "8e642c0b32a90b7c",
     "product_id": "canva",
     "product_name": "Canva",
@@ -108,16 +118,6 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/assets/",
     "summary": "",
     "date": "2026-03-29T23:47:59.875627+00:00"
-  },
-  {
-    "id": "6077feb66c340f69",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The List folder items API now supports a pin_status parameter to filter for pinned items in a folder.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
-    "summary": "",
-    "date": "2026-03-06T17:53:56.012065+00:00"
   },
   {
     "id": "2aa25658903bd41b",
@@ -760,6 +760,16 @@
     "date": "2026-04-06T00:00:00+00:00"
   },
   {
+    "id": "6077feb66c340f69",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The List folder items API now supports a pin_status parameter to filter for pinned items in a folder.",
+    "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
+    "summary": "",
+    "date": "2026-03-06T17:53:56.012065+00:00"
+  },
+  {
     "id": "bb9b1c389efaf659",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "https://announcekit.app/kuali/announcements/new-associations-gadget-3zEwAU",
     "summary": "Users often need visibility into how documents are connected across the system. The new Associations gadget provides a clear view of all do...",
     "date": "2026-03-23T16:35:00+00:00"
-  },
-  {
-    "id": "adeebde5119ce43c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Ransomware detection and file restoration for Google Drive now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/ransomware-detection-and-file-restoration-for-Google-Drive-now-generally-available.html",
-    "summary": "In September 2025, we launched ransomware detection and file restoration in beta to help organizations minimize the impact of malware attacks on personal computers. Today, we’re excited to share these two features are generally available with significant improvements in malware detection.Compared...",
-    "date": "2026-03-30T18:15:00+00:00"
   }
 ]
