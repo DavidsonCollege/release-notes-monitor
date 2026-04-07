@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "8e2fb36b9e3cc950",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Greater control and error visibility for Google Sheets formulas",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/greater-control-and-error-visibility-for-Google-Sheets-formulas.html",
+    "summary": "We are introducing updates to the logic and parameter support for a targeted set of Google Sheets functions. These changes are designed to improve error visibility, offer more control over data, and ensure seamless compatibility when importing files.Specifically, you will notice improvements across...",
+    "date": "2026-04-07T17:36:00+00:00"
+  },
+  {
     "id": "58088ac4499805ff",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/export-google-vids-directly-to-youtube.html",
     "summary": "You can now publish the videos you create in Google Vids directly to YouTube. This saves you a few steps - previously you would export the project as an MP4 file, then go to YouTube to upload the file.Whether you are creating marketing videos, training materials, or educational content, this...",
     "date": "2026-04-02T16:13:00+00:00"
-  },
-  {
-    "id": "94fe1664e074e1c6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Record your screen directly from Chrome with the Google Vids Screen Recorder Chrome Extension",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/record-your-screen-directly-from-chrome-with-the-Google-Vids-Screen-Recorder-Chrome-Extension.html",
-    "summary": "You can now quickly record your screen from any browser window using the new Google Vids Screen Recorder Chrome extension. Instead of having to open Google Vids to access recording functionality, you can now initiate a recording with a single click right from the Chrome extensions toolbar.This is...",
-    "date": "2026-04-02T16:10:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-06T00:00:00+00:00"
   },
   {
+    "id": "94fe1664e074e1c6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Record your screen directly from Chrome with the Google Vids Screen Recorder Chrome Extension",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/record-your-screen-directly-from-chrome-with-the-Google-Vids-Screen-Recorder-Chrome-Extension.html",
+    "summary": "You can now quickly record your screen from any browser window using the new Google Vids Screen Recorder Chrome extension. Instead of having to open Google Vids to access recording functionality, you can now initiate a recording with a single click right from the Chrome extensions toolbar.This is...",
+    "date": "2026-04-02T16:10:00+00:00"
+  },
+  {
     "id": "98659d064b3b908c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/an-update-on-secondary-calendar-lifecycle-changes-and-a-new-API.html",
     "summary": "We recently announced a change to the ownership model of secondary calendars to improve data governance. As part of this, we emailed impacted customers to let them know that orphan secondary calendars would be deleted starting on April 27, 2026.Since that announcement, we’ve received valuable...",
     "date": "2026-03-30T20:18:00+00:00"
-  },
-  {
-    "id": "b21fbaa10077df93",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Download the third-party attestation for data regions",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/download-third-party-attestation-for-data-regions.html",
-    "summary": "Beginning today, admins have access to an independent review of Google Workspace’s data regions, not only for their compliance needs but also for their peace of mind.This external evaluation from Coalfire, a third-party assessment organization, gives Assured Controls customers the confidence that...",
-    "date": "2026-03-30T18:20:00+00:00"
   }
 ]
