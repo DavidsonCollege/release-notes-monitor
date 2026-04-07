@@ -1,13 +1,13 @@
 [
   {
-    "id": "68bf4e06214d3b4d",
+    "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
+    "title": "1Password for Android",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "March 25 2026"
+    "date": "April 7 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -760,6 +760,16 @@
     "date": "2026-04-06T00:00:00+00:00"
   },
   {
+    "id": "68bf4e06214d3b4d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "March 25 2026"
+  },
+  {
     "id": "94fe1664e074e1c6",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/enerate-beautiful-and-editable-slides-with-ease-in-Google-Slides.html",
     "summary": "Slide generation just got a major upgrade. Gemini can now create fully editable, brand-matched slides using dynamic layouts tailored to your specific content. To ensure visual consistency, Gemini securely analyzes your existing deck to generate designs that fit your established style. You can also...",
     "date": "2026-04-01T17:27:00+00:00"
-  },
-  {
-    "id": "17e2f3fcbf8557a1",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "An update on secondary calendar lifecycle changes and a new API",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/an-update-on-secondary-calendar-lifecycle-changes-and-a-new-API.html",
-    "summary": "We recently announced a change to the ownership model of secondary calendars to improve data governance. As part of this, we emailed impacted customers to let them know that orphan secondary calendars would be deleted starting on April 27, 2026.Since that announcement, we’ve received valuable...",
-    "date": "2026-03-30T20:18:00+00:00"
   }
 ]
