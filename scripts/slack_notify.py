@@ -82,21 +82,19 @@ def _build_card_blocks(item: dict) -> list[dict]:
 
     blocks: list[dict] = []
 
-    # ── Row 1: Product icon + name (context block for inline layout) ──
+    # ── Row 1: Product icon + name ──
+    # Use a section block with accessory image for a larger icon (~48px)
+    # instead of a context block (~20px).  The product name is rendered
+    # as the section text so it appears at normal section font size.
     if icon_url:
         blocks.append({
-            "type": "context",
-            "elements": [
-                {
-                    "type": "image",
-                    "image_url": icon_url,
-                    "alt_text": product_name,
-                },
-                {
-                    "type": "mrkdwn",
-                    "text": f"*{product_name}*",
-                },
-            ],
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": f"*{product_name}*"},
+            "accessory": {
+                "type": "image",
+                "image_url": icon_url,
+                "alt_text": product_name,
+            },
         })
     else:
         blocks.append({
