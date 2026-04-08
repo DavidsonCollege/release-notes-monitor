@@ -1,13 +1,13 @@
 [
   {
-    "id": "9b4a49c55cd1a750",
+    "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
+    "title": "1Password for Android Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "April 7 2026"
+    "date": "April 8 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -760,6 +760,16 @@
     "date": "2026-04-07T00:00:00+00:00"
   },
   {
+    "id": "9b4a49c55cd1a750",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "April 7 2026"
+  },
+  {
     "id": "f2b3dd8001b23cd9",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -878,16 +888,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/export-google-vids-directly-to-youtube.html",
     "summary": "You can now publish the videos you create in Google Vids directly to YouTube. This saves you a few steps - previously you would export the project as an MP4 file, then go to YouTube to upload the file.Whether you are creating marketing videos, training materials, or educational content, this...",
     "date": "2026-04-02T16:13:00+00:00"
-  },
-  {
-    "id": "68bf4e06214d3b4d",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "March 25 2026"
   },
   {
     "id": "94fe1664e074e1c6",
