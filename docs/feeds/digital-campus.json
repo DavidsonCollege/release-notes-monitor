@@ -120,6 +120,16 @@
     "date": "2026-03-29T23:47:59.875627+00:00"
   },
   {
+    "id": "ee39cb69a4114687",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Release Notes 4.03",
+    "link": "https://feedback.clickup.com/changelog/release-notes-403",
+    "summary": "Google Drive Automations, Granular Capacity in Workload View, and Smoother Teammate Onboarding!This week's release automates work between ClickUp and Google Drive, provides more detail into team capacity in Workload view, and lets you onboard invitees to teams faster.✨ Automate Workflows between...",
+    "date": "2026-04-08T13:54:50+00:00"
+  },
+  {
     "id": "2aa25658903bd41b",
     "product_id": "clickup",
     "product_name": "ClickUp",
@@ -158,16 +168,6 @@
     "link": "https://feedback.clickup.com/changelog/introducing-super-agents-the-worlds-first-human-like-ai-agents",
     "summary": "Today, we’re launching ClickUp Super Agents – the first human‑like AI agents that live inside ClickUp and collaborate with your team like real teammates.These aren’t just chatbots or one‑off automations. Super Agents:See your work the way you do: tasks, docs, chats, meetings, and schedules all in...",
     "date": "2025-12-22T17:30:47+00:00"
-  },
-  {
-    "id": "8133574dc872869a",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "4.0 Release Notes Takeover",
-    "link": "https://feedback.clickup.com/changelog/40-release-notes-takeover",
-    "summary": "4.0: A New Era of Craft, Quality, and ConvergenceA new era starts today. ClickUp 4.0 is crafted from the ground up for perfect human productivity - Projects, Databases, Scheduling, Chats, DMs, Video Calls. And context is maximized, perfect for AI Agents' productivity. ✨ Effortless Navigation,...",
-    "date": "2025-12-12T21:58:54+00:00"
   },
   {
     "id": "01fe930feaaa6a09",
@@ -760,6 +760,16 @@
     "date": "2026-04-06T00:00:00+00:00"
   },
   {
+    "id": "8133574dc872869a",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "4.0 Release Notes Takeover",
+    "link": "https://feedback.clickup.com/changelog/40-release-notes-takeover",
+    "summary": "4.0: A New Era of Craft, Quality, and ConvergenceA new era starts today. ClickUp 4.0 is crafted from the ground up for perfect human productivity - Projects, Databases, Scheduling, Chats, DMs, Video Calls. And context is maximized, perfect for AI Agents' productivity. ✨ Effortless Navigation,...",
+    "date": "2025-12-12T21:58:54+00:00"
+  },
+  {
     "id": "3ca2bd76a38407e8",
     "product_id": "korbyt",
     "product_name": "Korbyt",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/zoom-rooms-controller/android/7.0.0",
     "summary": "Tags: new-feature, sdk-version | This initial Android ZRCSDK release introduces the first public SDK surface for Zoom Rooms, including SDK initialization, room pairing, pre-meeting workflows, meeting lifecycle, audio/video/sharing controls, participant management, recording, reminders, and room...",
     "date": "2026-03-30T00:00:00+00:00"
-  },
-  {
-    "id": "d45c1c894460171d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Upcoming change to default setting for downloading Google Meet recordings",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/upcoming-change-to-default-setting-for-downloading-Google-Meet-recordings.html",
-    "summary": "Currently, Google Meet video recordings do not allow viewers to download or copy them by default unless the recording owner explicitly allows it. As a result, the \"Ask Gemini\" functionality within the Drive viewer is also disabled by default for viewers who aren’t file owners.Starting April 30,...",
-    "date": "2026-04-01T18:42:00+00:00"
   }
 ]
