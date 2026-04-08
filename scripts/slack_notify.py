@@ -82,24 +82,27 @@ def _build_card_blocks(item: dict) -> list[dict]:
 
     blocks: list[dict] = []
 
-    # ── Row 1: Product icon + name ──
-    # Use a section block with accessory image for a larger icon (~48px)
-    # instead of a context block (~20px).  The product name is rendered
-    # as the section text so it appears at normal section font size.
+    # ── Row 1: Product name (header block = largest text in Block Kit) ──
+    blocks.append({
+        "type": "header",
+        "text": {"type": "plain_text", "text": product_name, "emoji": True},
+    })
+
+    # ── Row 2: Product icon (context block, left-aligned) ──
     if icon_url:
         blocks.append({
-            "type": "section",
-            "text": {"type": "mrkdwn", "text": f"*{product_name}*"},
-            "accessory": {
-                "type": "image",
-                "image_url": icon_url,
-                "alt_text": product_name,
-            },
-        })
-    else:
-        blocks.append({
-            "type": "section",
-            "text": {"type": "mrkdwn", "text": f"*{product_name}*"},
+            "type": "context",
+            "elements": [
+                {
+                    "type": "image",
+                    "image_url": icon_url,
+                    "alt_text": product_name,
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "New Release Note",
+                },
+            ],
         })
 
     # ── Row 2: Title (bold, prominent, linked) ──
