@@ -710,6 +710,56 @@
     "date": "2026-03-30T21:06:04+00:00"
   },
   {
+    "id": "85b2afb02fc452f7",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 7.0.2",
+    "link": "https://developers.zoom.us/changelog/meeting-sdk/android/7.0.2",
+    "summary": "Tags: action-required, bug-fix, sdk-version | Rollback of versions 7.0.0 and 7.0.1, with 7.0.2 as the fix.",
+    "date": "2026-04-07T00:00:00+00:00"
+  },
+  {
+    "id": "c1de194ddbf214a0",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 7.0.2",
+    "link": "https://developers.zoom.us/changelog/meeting-sdk/electron/7.0.2",
+    "summary": "Tags: action-required, bug-fix, sdk-version | Rollback of versions 7.0.0 and 7.0.1, with 7.0.2 as the fix.",
+    "date": "2026-04-07T00:00:00+00:00"
+  },
+  {
+    "id": "68b296392998dc6d",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 7.0.2",
+    "link": "https://developers.zoom.us/changelog/meeting-sdk/ios/7.0.2",
+    "summary": "Tags: action-required, bug-fix, sdk-version | Rollback of versions 7.0.0 and 7.0.1, with 7.0.2 as the fix.",
+    "date": "2026-04-07T00:00:00+00:00"
+  },
+  {
+    "id": "73f3aa33dabdfd80",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 6.0.0",
+    "link": "https://developers.zoom.us/changelog/meeting-sdk/web/6.0.0",
+    "summary": "Tags: bug-fix, sdk-version | Allows hosts to disable desktop screen sharing, supports anonymous Q&amp;A comments, and adds a “Be right back” reaction. Users can now preview and manage virtual backgrounds, disable hyperlinks in chat, and enable transcript saving. Enhancements include a more...",
+    "date": "2026-04-07T00:00:00+00:00"
+  },
+  {
+    "id": "e3503fac4fd4d74b",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 7.0.2",
+    "link": "https://developers.zoom.us/changelog/meeting-sdk/windows/7.0.2",
+    "summary": "Tags: action-required, bug-fix, sdk-version | Rollback of versions 7.0.0 and 7.0.1, with 7.0.2 as the fix.",
+    "date": "2026-04-07T00:00:00+00:00"
+  },
+  {
     "id": "f2b3dd8001b23cd9",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -948,55 +998,5 @@
     "link": "https://announcekit.app/kuali/announcements/new-read-only-gadgets-and-default-values-2T0iiI",
     "summary": "You can now control how data is set and edited in your forms with new Read-only and Default Value configurations. This makes it easier to su...",
     "date": "2026-03-24T19:55:00+00:00"
-  },
-  {
-    "id": "f68fad5be0bbb964",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "February 2026 Release Announcement",
-    "link": "https://announcekit.app/kuali/announcements/february-2026-release-announcement-4w3LEI",
-    "summary": "Feature Enhanced Logic for Conditional Visibility and Branch Workflow - We've added the ability to do All of the Below or Some of the Below...",
-    "date": "2026-03-23T17:01:34+00:00"
-  },
-  {
-    "id": "b8f349ea880e5cd6",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 28020.1797 (Canary Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/30/announcing-windows-11-insider-preview-build-28020-1797-canary-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1797 to the Canary Channel. (KB 5079490) What’s new in Canary Build 28020.1797 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1797 (Canary Channel) appeared first on Windows...",
-    "date": "2026-03-30T21:05:51+00:00"
-  },
-  {
-    "id": "032861e26462393d",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.8142 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/30/announcing-windows-11-insider-preview-build-26300-8142-dev-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8142 (KB 5079492 The post Announcing Windows 11 Insider Preview Build 26300.8142 (Dev Channel) appeared first on Windows Insider Blog.",
-    "date": "2026-03-30T21:04:17+00:00"
-  },
-  {
-    "id": "5169fd66e0a56a02",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26220.8138 (Beta Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/30/announcing-windows-11-insider-preview-build-26220-8138-beta-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8138 (KB 5079491< The post Announcing Windows 11 Insider Preview Build 26220.8138 (Beta Channel) appeared first on Windows Insider Blog.",
-    "date": "2026-03-30T09:05:21+00:00"
-  },
-  {
-    "id": "3e2571f90a54dec5",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build for Canary Channel 29553.1000",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/20/announcing-windows-11-insider-preview-build-for-canary-channel-29553-1000/",
-    "summary": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29553.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29553.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29553.1000...",
-    "date": "2026-03-20T17:06:13+00:00"
   }
 ]
