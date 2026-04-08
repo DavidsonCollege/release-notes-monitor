@@ -176,22 +176,8 @@
       "num_members": 4
     },
     {
-      "id": "C02CG04T935",
-      "name": "dc-product-ops",
-      "is_private": false,
-      "topic": "",
-      "num_members": 7
-    },
-    {
-      "id": "C053ZQT0G30",
-      "name": "dc-product-updates",
-      "is_private": false,
-      "topic": "",
-      "num_members": 6
-    },
-    {
       "id": "C0AKDRVCDDW",
-      "name": "dc-product-updates-2",
+      "name": "dc-product-updates",
       "is_private": true,
       "topic": "",
       "num_members": 5
@@ -953,6 +939,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-04-08T14:41:45.354307+00:00",
+  "last_updated": "2026-04-08T15:36:32.593272+00:00",
   "fetch_status": "success"
 }
