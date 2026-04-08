@@ -280,16 +280,6 @@
     "date": "2026-02-13T15:38:48+00:00"
   },
   {
-    "id": "3ca2bd76a38407e8",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Booking V9.7.1",
-    "link": "https://product.korbyt.com/changelog/korbyt-booking-v971",
-    "summary": "# What’s New? ## Deep Link to Locate Colleague on Floorplan (Bookit) Implemented a deep link capability in Bookit that enables authenticated users to directly locate a colleague’s booked space on the floorplan via a URL and book near them. ### Key Functionality **Hyperlink Integration** • The...",
-    "date": "2026-02-12T09:05:29+00:00"
-  },
-  {
     "id": "3f5b910c597cabb5",
     "product_id": "korbyt",
     "product_name": "Korbyt",
@@ -308,6 +298,16 @@
     "link": "https://product.korbyt.com/changelog/korbyt-anywhere-release-recap-12052025",
     "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🐞 Squashed Bugs - Fixed an issue where YouTube element showed an error due to recent changes in YouTube's Terms of Service. - Resolved a styling inheritance issue in Korbyt Create AI Layouts where elements did not...",
     "date": "2025-12-05T15:05:58+00:00"
+  },
+  {
+    "id": "b0316679065746b8",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Product Recap - 11.21.2025",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-11212025",
+    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🆕 New & Enhanced - Added audio volume control for media in Korbyt Anywhere PWA, requested specifically to be used for Microsoft Teams Rooms use cases 🐞 Squashed Bugs - Fixed display issues in the NWS Weather Element...",
+    "date": "2025-11-21T16:13:40+00:00"
   },
   {
     "id": "8f69cdb419c85fe3",
@@ -760,6 +760,16 @@
     "date": "2026-04-06T00:00:00+00:00"
   },
   {
+    "id": "3ca2bd76a38407e8",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Booking V9.7.1",
+    "link": "https://product.korbyt.com/changelog/korbyt-booking-v971",
+    "summary": "# What’s New? ## Deep Link to Locate Colleague on Floorplan (Bookit) Implemented a deep link capability in Bookit that enables authenticated users to directly locate a colleague’s booked space on the floorplan via a URL and book near them. ### Key Functionality **Hyperlink Integration** • The...",
+    "date": "2026-02-12T09:05:29+00:00"
+  },
+  {
     "id": "31b4e888646cc1d5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/upcoming-change-to-default-setting-for-downloading-Google-Meet-recordings.html",
     "summary": "Currently, Google Meet video recordings do not allow viewers to download or copy them by default unless the recording owner explicitly allows it. As a result, the \"Ask Gemini\" functionality within the Drive viewer is also disabled by default for viewers who aren’t file owners.Starting April 30,...",
     "date": "2026-04-01T18:42:00+00:00"
-  },
-  {
-    "id": "462517d4a537a06c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Form creation with Gemini and more now available in more languages",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/form-creation-with-gemini-and-more-now-available-in-more-languages.html",
-    "summary": "Last year, we announced Help me create in Google Forms and then expanded access to the feature to seven more languages.Help me create in Google Forms drafts your questions 3x faster than doing it manually.*Now, this feature is also available to users in 21 more languages including Arabic, Catalan,...",
-    "date": "2026-04-01T17:32:00+00:00"
   }
 ]
