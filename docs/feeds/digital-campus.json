@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "f744ef7df3f80a5b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Expanding access to longer musical tracks in the Gemini app",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/expanding-access-to-longer-musical-tracks-in-the-Gemini-app.html",
+    "summary": "Last month, we introduced Lyria 3 Pro in the Gemini app for select Business, Enterprise, and Education editions. Starting today, more users can create longer tracks with Lyria 3 Pro in the Gemini app.Lyria 3 Pro allows users to create tracks up to three minutes long, with customization and creative...",
+    "date": "2026-04-09T19:09:00+00:00"
+  },
+  {
     "id": "dec7c877391d295c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/migration-update-on-restricted-access-items.html",
     "summary": "Last year, we stopped allowing restricted access on specific files and folders within a shared folder in Google Drive, and instead required that restricted access be managed consistently via the limited access folder setting. With this update, all items with legacy restricted access will be...",
     "date": "2026-04-07T19:29:00+00:00"
-  },
-  {
-    "id": "8e2fb36b9e3cc950",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Greater control and error visibility for Google Sheets formulas",
-    "link": "http://workspaceupdates.googleblog.com/2026/03/greater-control-and-error-visibility-for-Google-Sheets-formulas.html",
-    "summary": "We are introducing updates to the logic and parameter support for a targeted set of Google Sheets functions. These changes are designed to improve error visibility, offer more control over data, and ensure seamless compatibility when importing files.Specifically, you will notice improvements across...",
-    "date": "2026-04-07T17:36:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "8e2fb36b9e3cc950",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Greater control and error visibility for Google Sheets formulas",
+    "link": "http://workspaceupdates.googleblog.com/2026/03/greater-control-and-error-visibility-for-Google-Sheets-formulas.html",
+    "summary": "We are introducing updates to the logic and parameter support for a targeted set of Google Sheets functions. These changes are designed to improve error visibility, offer more control over data, and ensure seamless compatibility when importing files.Specifically, you will notice improvements across...",
+    "date": "2026-04-07T17:36:00+00:00"
+  },
+  {
     "id": "58088ac4499805ff",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/record-your-screen-directly-from-chrome-with-the-Google-Vids-Screen-Recorder-Chrome-Extension.html",
     "summary": "You can now quickly record your screen from any browser window using the new Google Vids Screen Recorder Chrome extension. Instead of having to open Google Vids to access recording functionality, you can now initiate a recording with a single click right from the Chrome extensions toolbar.This is...",
     "date": "2026-04-02T16:10:00+00:00"
-  },
-  {
-    "id": "98659d064b3b908c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Direct an avatar to speak and act anywhere with a consistent face and voice",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/direct-avatar-to-speak-and-act-anywhere-with-a-consistent-face-and-voice.html",
-    "summary": "AI Avatars in Google Vids can deliver your message with a consistent face and voice throughout a video, and they are preferred 5x more often than those on other platforms.Today we’re excited to announce you can now place avatars in different scenes and have them interact with objects you specify,...",
-    "date": "2026-04-02T16:06:00+00:00"
   }
 ]
