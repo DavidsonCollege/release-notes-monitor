@@ -201,14 +201,14 @@
       "name": "fellows",
       "is_private": false,
       "topic": "",
-      "num_members": 7
+      "num_members": 6
     },
     {
       "id": "C05HF829Z6G",
       "name": "food-thoughts",
       "is_private": false,
       "topic": "",
-      "num_members": 9
+      "num_members": 8
     },
     {
       "id": "C0PTBGB1P",
@@ -939,6 +939,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-04-09T11:51:49.310794+00:00",
+  "last_updated": "2026-04-09T12:32:35.372905+00:00",
   "fetch_status": "success"
 }
