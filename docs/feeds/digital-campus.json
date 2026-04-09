@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "dec7c877391d295c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gmail end-to-end encryption now available on mobile devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/gmail-end-to-end-encryption-now-available-on-mobile-devices.html",
+    "summary": "We’re expanding Gmail end-to-end encryption (E2EE) to Android and iOS devices for Gmail client-side encryption (CSE) users. With Gmail E2EE, your users can confidentially engage with your organization's most sensitive data from anywhere on their mobile devices while ensuring data remains compliant...",
+    "date": "2026-04-09T17:26:00+00:00"
+  },
+  {
     "id": "8ad67166f79bdd39",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/03/greater-control-and-error-visibility-for-Google-Sheets-formulas.html",
     "summary": "We are introducing updates to the logic and parameter support for a targeted set of Google Sheets functions. These changes are designed to improve error visibility, offer more control over data, and ensure seamless compatibility when importing files.Specifically, you will notice improvements across...",
     "date": "2026-04-07T17:36:00+00:00"
-  },
-  {
-    "id": "58088ac4499805ff",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Book Google Workspace resources from third-party calendars",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/book-google-workspace-resources-from-third-party-calendars.html",
-    "summary": "Organizations that use both Google Workspace and other calendaring systems, like Microsoft Outlook, can now more easily coordinate shared resources, such as rooms, projectors, or company cars. We are introducing an open beta that allows non-Google users to book Google Workspace resources directly...",
-    "date": "2026-04-07T16:31:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "58088ac4499805ff",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Book Google Workspace resources from third-party calendars",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/book-google-workspace-resources-from-third-party-calendars.html",
+    "summary": "Organizations that use both Google Workspace and other calendaring systems, like Microsoft Outlook, can now more easily coordinate shared resources, such as rooms, projectors, or company cars. We are introducing an open beta that allows non-Google users to book Google Workspace resources directly...",
+    "date": "2026-04-07T16:31:00+00:00"
+  },
+  {
     "id": "fd15db8a53a19f10",
     "product_id": "macos",
     "product_name": "macOS",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/direct-avatar-to-speak-and-act-anywhere-with-a-consistent-face-and-voice.html",
     "summary": "AI Avatars in Google Vids can deliver your message with a consistent face and voice throughout a video, and they are preferred 5x more often than those on other platforms.Today we’re excited to announce you can now place avatars in different scenes and have them interact with objects you specify,...",
     "date": "2026-04-02T16:06:00+00:00"
-  },
-  {
-    "id": "6077feb66c340f69",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The List folder items API now supports a pin_status parameter to filter for pinned items in a folder.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
-    "summary": "",
-    "date": "2026-03-06T17:53:56.012065+00:00"
   }
 ]
