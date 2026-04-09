@@ -1,5 +1,15 @@
 [
   {
+    "id": "081df5fb4f084d21",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Settings > My Plan",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-04-09T17:31:03.793706+00:00"
+  },
+  {
     "id": "73a8f1f96c852907",
     "product_id": "chatgpt",
     "product_name": "ChatGPT",
@@ -28,16 +38,6 @@
     "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "summary": "“Help me understand the Pythagorean theorem.”“Explain how PV = nRT works.”“How do I find the area of a circle?” Availability: Rolling out to all logged-in ChatGPT users across consumer and business plans.",
     "date": "2026-03-10T20:15:11.984124+00:00"
-  },
-  {
-    "id": "7ac06d58854118c0",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "ChatGPT Images",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "All images you create with ChatGPT are automatically saved under My images at https://chatgpt.com/images, giving you a single place to browse, revisit, and reuse your work without having to sift through past conversations. Learn more about ChatGPT Images in our ChatGPT Images FAQ.",
-    "date": "2026-03-06T17:54:24.035520+00:00"
   },
   {
     "id": "e693382313635a34",
@@ -138,6 +138,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With the advanced reasoning of Gemini 3.1 Pro, you can now tackle your most complex projects with greater confidence.",
     "date": "2026-03-06T17:54:27.083809+00:00"
+  },
+  {
+    "id": "7ac06d58854118c0",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "ChatGPT Images",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "All images you create with ChatGPT are automatically saved under My images at https://chatgpt.com/images, giving you a single place to browse, revisit, and reuse your work without having to sift through past conversations. Learn more about ChatGPT Images in our ChatGPT Images FAQ.",
+    "date": "2026-03-06T17:54:24.035520+00:00"
   },
   {
     "id": "db9579dd4e1c795b",

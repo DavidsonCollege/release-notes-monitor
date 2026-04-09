@@ -360,14 +360,14 @@
     "date": "2026-03-25T22:00:00+00:00"
   },
   {
-    "id": "fd15db8a53a19f10",
+    "id": "7b7a2e4938949620",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.5 beta (25F5042g)",
-    "link": "https://developer.apple.com/news/releases/?id=03302026c",
+    "title": "macOS 26.4.1 (25E253)",
+    "link": "https://developer.apple.com/news/releases/?id=04092026a",
     "summary": "View downloadsView release notes",
-    "date": "2026-03-30T17:00:00+00:00"
+    "date": "2026-04-09T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -760,6 +760,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "fd15db8a53a19f10",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.5 beta (25F5042g)",
+    "link": "https://developer.apple.com/news/releases/?id=03302026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-03-30T17:00:00+00:00"
+  },
+  {
     "id": "9a93826f31cc6210",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
     "summary": "",
     "date": "2026-03-06T17:53:56.012065+00:00"
-  },
-  {
-    "id": "bb9b1c389efaf659",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Phone API endpoint deprecations",
-    "link": "https://developers.zoom.us/changelog/phone/phone-api-endpoint-deprecations",
-    "summary": "Tags: breaking-change, deprecation | Zoom deprecated several endpoints for phone numbers, plans, cloud peering, SMS campaigns, and related settings. Use the new Number Management APIs for enhanced, streamlined management. Migrate by **June 30, 2026**. We will not support deprecated endpoints after...",
-    "date": "2026-04-02T00:00:00+00:00"
   }
 ]
