@@ -40,6 +40,26 @@
     "date": "2026-03-06T17:54:24.035520+00:00"
   },
   {
+    "id": "e693382313635a34",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Cowork generally available",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-04-09T00:00:00+00:00"
+  },
+  {
+    "id": "0505595af11b9f47",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Role-based access controls for Enterprise plans",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-04-09T00:00:00+00:00"
+  },
+  {
     "id": "7565b92e53df154e",
     "product_id": "claude",
     "product_name": "Claude",
@@ -68,26 +88,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-03-23T00:00:00+00:00"
-  },
-  {
-    "id": "db9579dd4e1c795b",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Let Claude use your computer in Cowork",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-03-23T00:00:00+00:00"
-  },
-  {
-    "id": "b472a8e2f2276c82",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Control Cowork from your phone with a persistent thread (research preview for Pro/Max)",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-03-17T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -138,6 +138,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With the advanced reasoning of Gemini 3.1 Pro, you can now tackle your most complex projects with greater confidence.",
     "date": "2026-03-06T17:54:27.083809+00:00"
+  },
+  {
+    "id": "db9579dd4e1c795b",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Let Claude use your computer in Cowork",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-03-23T00:00:00+00:00"
+  },
+  {
+    "id": "b472a8e2f2276c82",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Control Cowork from your phone with a persistent thread (research preview for Pro/Max)",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-03-17T00:00:00+00:00"
   },
   {
     "id": "c905a9660c8fb3e9",

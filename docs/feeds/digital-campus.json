@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "8ad67166f79bdd39",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Edit your AI-generated scripts when you convert Slides to Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/edit-your-ai-generated-scripts-when-you-convert-slides-to-vids.html",
+    "summary": "Now when you import Slides into Google Vids with Gemini enabled, you can see and edit your AI-generated scripts for each slide before completing the import, generating voiceovers, and applying animations. Previously, these edits could only be made after the import process was finished.This update...",
+    "date": "2026-04-09T15:07:00+00:00"
+  },
+  {
     "id": "dc7e3d16aa0b9ad9",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/book-google-workspace-resources-from-third-party-calendars.html",
     "summary": "Organizations that use both Google Workspace and other calendaring systems, like Microsoft Outlook, can now more easily coordinate shared resources, such as rooms, projectors, or company cars. We are introducing an open beta that allows non-Google users to book Google Workspace resources directly...",
     "date": "2026-04-07T16:31:00+00:00"
-  },
-  {
-    "id": "9a93826f31cc6210",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - April 3, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/weekly-recap-04-03-2026.html",
-    "summary": "Introducing guest accounts: Collaborate securely and communicate with non-Workspace users in Google ChatWe're excited to announce the general availability of guest accounts in Google Workspace. Guest accounts empower organizations to securely collaborate with customers, partners, and vendors that...",
-    "date": "2026-04-06T19:00:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -710,6 +710,66 @@
     "date": "2026-03-30T21:06:04+00:00"
   },
   {
+    "id": "5e018aa44f2d112c",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New Chat MCP API for sending messages",
+    "link": "https://developers.zoom.us/changelog/chat/april-09-2026",
+    "summary": "Tags: api-release | Introduces the Chat MCP API to send messages in Zoom Chat using the `POST /v2/zoomchat/message` endpoint.",
+    "date": "2026-04-09T00:00:00+00:00"
+  },
+  {
+    "id": "bc73adff60350813",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New File Management API",
+    "link": "https://developers.zoom.us/changelog/docs/april-09-2026",
+    "summary": "Tags: api-release | Added new endpoint for File Management API.",
+    "date": "2026-04-09T00:00:00+00:00"
+  },
+  {
+    "id": "ff20a1b7bf680ad0",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Zoom Claude Connector - Now available!",
+    "link": "https://developers.zoom.us/changelog/platform/zoom-claude-connector-now-available",
+    "summary": "Tags: new-feature | We are excited to announce the general availability of Zoom for Claude Connector, which allows users to use natural language within Anthropic’s Claude AI to search Zoom meeting assets, access recording resources, and generate summaries or action items from Zoom transcripts and...",
+    "date": "2026-04-09T00:00:00+00:00"
+  },
+  {
+    "id": "84b2c47d890e3c27",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.4.0-1",
+    "link": "https://developers.zoom.us/changelog/ui-toolkit/web/2.4.0-1",
+    "summary": "Tags: bug-fix, sdk-version | Added ISO Recording feature and enhanced subsession management. Supported manual share view attachment and detachment. Fixed self-video rotation dimensions and footer menu display issues.",
+    "date": "2026-04-09T00:00:00+00:00"
+  },
+  {
+    "id": "60a30fd1c2d9f2cd",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New response fields in Zoom Webinar accounts and users API endpoints",
+    "link": "https://developers.zoom.us/changelog/users/april-09-2026",
+    "summary": "Tags: api-release | Added new `zoom_webinars_plus_unlimited` and `zoom_webinars_plus_unlimited_capacities` fields for Users GET and PATCH endpoints.",
+    "date": "2026-04-09T00:00:00+00:00"
+  },
+  {
+    "id": "9a93826f31cc6210",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - April 3, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/weekly-recap-04-03-2026.html",
+    "summary": "Introducing guest accounts: Collaborate securely and communicate with non-Workspace users in Google ChatWe're excited to announce the general availability of guest accounts in Google Workspace. Guest accounts empower organizations to securely collaborate with customers, partners, and vendors that...",
+    "date": "2026-04-06T19:00:00+00:00"
+  },
+  {
     "id": "85b2afb02fc452f7",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -938,65 +998,5 @@
     "link": "https://developers.zoom.us/changelog/phone/phone-api-endpoint-deprecations",
     "summary": "Tags: breaking-change, deprecation | Zoom deprecated several endpoints for phone numbers, plans, cloud peering, SMS campaigns, and related settings. Use the new Number Management APIs for enhanced, streamlined management. Migrate by **June 30, 2026**. We will not support deprecated endpoints after...",
     "date": "2026-04-02T00:00:00+00:00"
-  },
-  {
-    "id": "92f9b3973444bb77",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 1.0.4",
-    "link": "https://developers.zoom.us/changelog/probe-sdk/javascript/1.0.4",
-    "summary": "Tags: bug-fix, sdk-version | New diagnostic tools for screen sharing and camera troubleshooting, including APIs to detect environment issues, permission errors, and black screens, with real-time progress updates and privacy safeguards. New error codes, expanded test coverage, refactored user-agent...",
-    "date": "2026-04-02T00:00:00+00:00"
-  },
-  {
-    "id": "f4d8953eb059b908",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New session AI interpreter usage summary webhook",
-    "link": "https://developers.zoom.us/changelog/video-sdk/april-02-2026",
-    "summary": "Tags: api-release | New session AI interpreter usage summary webhook.",
-    "date": "2026-04-02T00:00:00+00:00"
-  },
-  {
-    "id": "6540b83dccba92b7",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added new rc_reason response field for Dashboards API endpoints",
-    "link": "https://developers.zoom.us/changelog/accounts/march-30-2026",
-    "summary": "Tags: api-release | Added rc_response field for Dashboards quality of service API endpoints.",
-    "date": "2026-03-30T00:00:00+00:00"
-  },
-  {
-    "id": "22bb1c5747afb5ed",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 5.3.0",
-    "link": "https://developers.zoom.us/changelog/contact-center/android/5.3.0",
-    "summary": "Tags: bug-fix, new-feature, sdk-version | Added Hindi localization support; add support for toggling consumer cameras off or on; add support for left-right split screen in landscape orientation; upgrade Android version.",
-    "date": "2026-03-30T00:00:00+00:00"
-  },
-  {
-    "id": "f54aa9f1968974da",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "February 27, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/46722487093396-February-27-2026",
-    "summary": "",
-    "date": "2026-02-27T20:36:01Z"
-  },
-  {
-    "id": "5a8d2d279a236257",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create and refine custom avatars in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/create-and-refine-custom-avatars-in-Google-Vids.html",
-    "summary": "AI Avatars in Google Vids provide high-quality speakers preferred five times more often than those on other platforms. Now you can customize and refine these avatars to match your brand and message, with Nano Banana 2.Why use custom avatars?Unique Branding: Build an exclusive look that represents...",
-    "date": "2026-04-02T16:03:00+00:00"
   }
 ]
