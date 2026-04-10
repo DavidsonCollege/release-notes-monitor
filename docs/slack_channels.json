@@ -64,6 +64,13 @@
       "num_members": 7
     },
     {
+      "id": "C0AS7TJEGJ0",
+      "name": "bot-testing",
+      "is_private": false,
+      "topic": "",
+      "num_members": 2
+    },
+    {
       "id": "C0T34KUCV",
       "name": "bringthejam",
       "is_private": false,
@@ -939,6 +946,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-04-10T14:29:16.596075+00:00",
+  "last_updated": "2026-04-10T14:53:59.732156+00:00",
   "fetch_status": "success"
 }
