@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "c99143abde27490a",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - April 10, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/weekly-recap-04-10-2026.html",
+    "summary": "Book Google Workspace resources from third-party calendarsOrganizations that use both Google Workspace and other calendaring systems, like Microsoft Outlook, can now more easily coordinate shared resources, such as rooms, projectors, or company cars. | Learn more about how to book Google Workspace...",
+    "date": "2026-04-10T21:04:00+00:00"
+  },
+  {
     "id": "f744ef7df3f80a5b",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-devices.html",
     "summary": "Following our recent general availability launch for web, we are excited to announce that speech translation is now rolling out to the Meet Android and iOS apps. The feature allows audio to be translated to other languages in near-real-time, helping global teams communicate more naturally and...",
     "date": "2026-04-08T20:28:00+00:00"
-  },
-  {
-    "id": "f970638aaa15439b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Migration update on restricted access items",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/migration-update-on-restricted-access-items.html",
-    "summary": "Last year, we stopped allowing restricted access on specific files and folders within a shared folder in Google Drive, and instead required that restricted access be managed consistently via the limited access folder setting. With this update, all items with legacy restricted access will be...",
-    "date": "2026-04-07T19:29:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "f970638aaa15439b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Migration update on restricted access items",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/migration-update-on-restricted-access-items.html",
+    "summary": "Last year, we stopped allowing restricted access on specific files and folders within a shared folder in Google Drive, and instead required that restricted access be managed consistently via the limited access folder setting. With this update, all items with legacy restricted access will be...",
+    "date": "2026-04-07T19:29:00+00:00"
+  },
+  {
     "id": "9c637d154d42ca2c",
     "product_id": "windows",
     "product_name": "Windows",
@@ -987,16 +997,6 @@
     "title": "Document Import turns existing docs into usable Scribes",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "March 31, 2026"
-  },
-  {
-    "id": "6df6cff416b50286",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Document Import turns existing docs into usable Scribes",
-    "link": "https://scribe.launchnotes.io/announcements/document-import-turns-existing-docs-into-usable-scribes",
-    "summary": "Loading...",
     "date": "March 31, 2026"
   }
 ]
