@@ -560,6 +560,16 @@
     "date": "2026-04-08T16:35:30.051499+00:00"
   },
   {
+    "id": "868a9c2cb4445ac5",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.0.0 and v4.0.1",
+    "link": "https://docs.slack.dev/changelog/2026/04/10/slack-cli",
+    "summary": "Version 4.0.0 of the developer tools for the Slack platform has arrived with lots of goodies for you!",
+    "date": "2026-04-10T00:00:00+00:00"
+  },
+  {
     "id": "a202083b037a806a",
     "product_id": "slack",
     "product_name": "Slack",
@@ -598,16 +608,6 @@
     "link": "https://docs.slack.dev/changelog/2026/03/06/block-kit-rich-text",
     "summary": "The following new supported markdown types for rich text when using Block Kit in your apps are being rolled out:",
     "date": "2026-03-06T00:00:00+00:00"
-  },
-  {
-    "id": "c58291813e7015df",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Set status method scope update",
-    "link": "https://docs.slack.dev/changelog/2026/03/05/set-status-scope-update",
-    "summary": "The assistant.threads.setStatus API method now accepts either the assistantwrite scope. This allows channel-based apps to use AI loading states in channels, without having to request assistantwrite scope in favor of the chat:write scope exclusively, so update your app soon!",
-    "date": "2026-03-05T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -758,6 +758,16 @@
     "link": "https://developers.zoom.us/changelog/users/april-09-2026",
     "summary": "Tags: api-release | Added new `zoom_webinars_plus_unlimited` and `zoom_webinars_plus_unlimited_capacities` fields for Users GET and PATCH endpoints.",
     "date": "2026-04-09T00:00:00+00:00"
+  },
+  {
+    "id": "c58291813e7015df",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Set status method scope update",
+    "link": "https://docs.slack.dev/changelog/2026/03/05/set-status-scope-update",
+    "summary": "The assistant.threads.setStatus API method now accepts either the assistantwrite scope. This allows channel-based apps to use AI loading states in channels, without having to request assistantwrite scope in favor of the chat:write scope exclusively, so update your app soon!",
+    "date": "2026-03-05T00:00:00+00:00"
   },
   {
     "id": "c92b503e4e43b907",
@@ -988,15 +998,5 @@
     "link": "https://product.korbyt.com/changelog/korbyt-booking-v971",
     "summary": "# What’s New? ## Deep Link to Locate Colleague on Floorplan (Bookit) Implemented a deep link capability in Bookit that enables authenticated users to directly locate a colleague’s booked space on the floorplan via a URL and book near them. ### Key Functionality **Hyperlink Integration** • The...",
     "date": "2026-02-12T09:05:29+00:00"
-  },
-  {
-    "id": "31b4e888646cc1d5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Export Google Vids directly to YouTube",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/export-google-vids-directly-to-youtube.html",
-    "summary": "You can now publish the videos you create in Google Vids directly to YouTube. This saves you a few steps - previously you would export the project as an MP4 file, then go to YouTube to upload the file.Whether you are creating marketing videos, training materials, or educational content, this...",
-    "date": "2026-04-02T16:13:00+00:00"
   }
 ]
