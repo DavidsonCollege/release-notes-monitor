@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "b81e0ba8e2ed8c82",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "April 10, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/48103141930900-April-10-2026",
+    "summary": "",
+    "date": "2026-04-10T18:02:43Z"
+  },
+  {
     "id": "9bc9c2fc4c19bea5",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/47265807993492-March-13-2026",
     "summary": "",
     "date": "2026-03-16T15:49:25Z"
-  },
-  {
-    "id": "c92b503e4e43b907",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "March 6, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/46950677019668-March-6-2026",
-    "summary": "",
-    "date": "2026-03-06T18:13:10Z"
   },
   {
     "id": "4d32ad735cbf6a1b",
@@ -760,6 +760,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "c92b503e4e43b907",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "March 6, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/46950677019668-March-6-2026",
+    "summary": "",
+    "date": "2026-03-06T18:13:10Z"
+  },
+  {
     "id": "8e2fb36b9e3cc950",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/export-google-vids-directly-to-youtube.html",
     "summary": "You can now publish the videos you create in Google Vids directly to YouTube. This saves you a few steps - previously you would export the project as an MP4 file, then go to YouTube to upload the file.Whether you are creating marketing videos, training materials, or educational content, this...",
     "date": "2026-04-02T16:13:00+00:00"
-  },
-  {
-    "id": "94fe1664e074e1c6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Record your screen directly from Chrome with the Google Vids Screen Recorder Chrome Extension",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/record-your-screen-directly-from-chrome-with-the-Google-Vids-Screen-Recorder-Chrome-Extension.html",
-    "summary": "You can now quickly record your screen from any browser window using the new Google Vids Screen Recorder Chrome extension. Instead of having to open Google Vids to access recording functionality, you can now initiate a recording with a single click right from the Chrome extensions toolbar.This is...",
-    "date": "2026-04-02T16:10:00+00:00"
   }
 ]
