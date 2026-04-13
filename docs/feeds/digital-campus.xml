@@ -5,56 +5,70 @@
     <description>Technology products managed by the Digital Campus team</description>
     <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:36:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:30:52 +0000</lastBuildDate>
     <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>ScreenCloud - 4.9.0</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New: Amazon Signage Stick (ASS) dedicated player. Previously ran Amazon Fire OS player on ASS device.&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">e1dab31261398830</guid>
-      <pubDate>Mon, 13 Apr 2026 16:36:03 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 17:30:52 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.7.16</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">25cbe092cc1d040f</guid>
-      <pubDate>Mon, 13 Apr 2026 16:36:03 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 17:30:52 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.11.2</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New: Support for Amazon’s Remote Device Management (RDM) for Signage Sticks, including:Screen/TV mute and unmute via HDMI-CECScreen/TV power on and off via HDMI-CECDevice rebootScreenshot and full-screen captureDeep cache clearing (player app and Android system cache)Player app restartCPU and GPU...&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">06a1b6a05e1c3232</guid>
-      <pubDate>Mon, 13 Apr 2026 16:36:03 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 17:30:52 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Bring Scribe into your AI tools with Scribe MCP</title>
       <link>https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading... Loading...&lt;/p&gt;&lt;a href=&quot;https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">fbbac28395898bd8</guid>
-      <pubDate>Mon, 13 Apr 2026 16:36:03 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 17:30:52 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Bring Scribe into your AI tools with Scribe MCP</title>
       <link>https://scribe.launchnotes.io/announcements/bring-scribe-into-your-ai-tools-with-scribe-mcp</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading...&lt;/p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/bring-scribe-into-your-ai-tools-with-scribe-mcp&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">b80110c322bd1f70</guid>
-      <pubDate>Mon, 13 Apr 2026 16:36:03 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 17:30:52 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password for Android Beta</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">68bf4e06214d3b4d</guid>
-      <pubDate>Mon, 13 Apr 2026 16:36:03 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 17:30:52 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password for Android</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">9b4a49c55cd1a750</guid>
-      <pubDate>Mon, 13 Apr 2026 16:36:03 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 17:30:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace - Additional BYOD peripheral switchers certified for Google Meet in ChromeOS touch controller rooms</title>
+      <link>http://workspaceupdates.googleblog.com/2026/04/additional-byod-peripheral-switchers-certified-for-Google-Meet-in-ChromeOS-touch-controller-rooms.html</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;We have certified additional Lightware peripheral switchers, so that you and your team can bring your own devices (BYOD) to Google Meet on ChromeOS touch controller rooms. The new devices bring improvements for video processing, networking, connectivity and security.Plug your laptop into a Meet...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/04/additional-byod-peripheral-switchers-certified-for-Google-Meet-in-ChromeOS-touch-controller-rooms.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">c1caef481a73e2f3</guid>
+      <pubDate>Mon, 13 Apr 2026 16:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace - Prepare for the NEET UG with practice tests in Gemini</title>
+      <link>http://workspaceupdates.googleblog.com/2026/04/prepare-for-neet-ug-with-practice-tests-in-Gemini.html</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;We recently launched full-length, no-cost practice tests in Gemini, starting with the SAT and JEE Main. Today, we’re expanding practice tests to support the NEET UG.We have grounded practice tests in rigorously vetted content from leading education companies like Physics Wallah and Careers360, to...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/04/prepare-for-neet-ug-with-practice-tests-in-Gemini.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">588e84b885f14479</guid>
+      <pubDate>Mon, 13 Apr 2026 15:55:00 +0000</pubDate>
     </item>
     <item>
       <title>Google Workspace - Expanded NotebookLM capabilities for Education Plus and Teaching &amp; Learning add-on customers</title>
@@ -306,20 +320,6 @@
       <link>https://developers.zoom.us/changelog/docs/april-06-2026</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: api-release | New endpoint for Imports API.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/docs/april-06-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">b17171d82d72493a</guid>
-      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zoom - Upcoming deprecation of Call Log APIs and enhancements to Call History APIs</title>
-      <link>https://developers.zoom.us/changelog/phone/upcoming-deprecation-of-call-log-apis-and-enhancements-to-call-history-apis</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: breaking-change, deprecation | Zoom Phone API introduced new endpoints in December 2023 to replace Call Logs. The v1 Call Logs APIs will be deprecated in May 2026. This timeline extends the previously announced deprecation to give developers more time to migrate. Key migration endpoints - Get...&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/phone/upcoming-deprecation-of-call-log-apis-and-enhancements-to-call-history-apis&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">b8eefa2ca4320913</guid>
-      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zoom - Version 2.5.6</title>
-      <link>https://developers.zoom.us/changelog/video-sdk/windows/2.5.6</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: bug-fix, sdk-version | Minor bug fixes.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/video-sdk/windows/2.5.6&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">9440b204b1d74ac0</guid>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

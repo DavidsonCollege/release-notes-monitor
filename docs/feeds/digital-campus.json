@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "c1caef481a73e2f3",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Additional BYOD peripheral switchers certified for Google Meet in ChromeOS touch controller rooms",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/additional-byod-peripheral-switchers-certified-for-Google-Meet-in-ChromeOS-touch-controller-rooms.html",
+    "summary": "We have certified additional Lightware peripheral switchers, so that you and your team can bring your own devices (BYOD) to Google Meet on ChromeOS touch controller rooms. The new devices bring improvements for video processing, networking, connectivity and security.Plug your laptop into a Meet...",
+    "date": "2026-04-13T16:24:00+00:00"
+  },
+  {
+    "id": "588e84b885f14479",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Prepare for the NEET UG with practice tests in Gemini",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/prepare-for-neet-ug-with-practice-tests-in-Gemini.html",
+    "summary": "We recently launched full-length, no-cost practice tests in Gemini, starting with the SAT and JEE Main. Today, we’re expanding practice tests to support the NEET UG.We have grounded practice tests in rigorously vetted content from leading education companies like Physics Wallah and Careers360, to...",
+    "date": "2026-04-13T15:55:00+00:00"
+  },
+  {
     "id": "f08235c4d9e3abeb",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/expanding-access-to-longer-musical-tracks-in-the-Gemini-app.html",
     "summary": "Last month, we introduced Lyria 3 Pro in the Gemini app for select Business, Enterprise, and Education editions. Starting today, more users can create longer tracks with Lyria 3 Pro in the Gemini app.Lyria 3 Pro allows users to create tracks up to three minutes long, with customization and creative...",
     "date": "2026-04-09T19:09:00+00:00"
-  },
-  {
-    "id": "dec7c877391d295c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gmail end-to-end encryption now available on mobile devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/gmail-end-to-end-encryption-now-available-on-mobile-devices.html",
-    "summary": "We’re expanding Gmail end-to-end encryption (E2EE) to Android and iOS devices for Gmail client-side encryption (CSE) users. With Gmail E2EE, your users can confidentially engage with your organization's most sensitive data from anywhere on their mobile devices while ensuring data remains compliant...",
-    "date": "2026-04-09T17:26:00+00:00"
-  },
-  {
-    "id": "8ad67166f79bdd39",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Edit your AI-generated scripts when you convert Slides to Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/edit-your-ai-generated-scripts-when-you-convert-slides-to-vids.html",
-    "summary": "Now when you import Slides into Google Vids with Gemini enabled, you can see and edit your AI-generated scripts for each slide before completing the import, generating voiceovers, and applying animations. Previously, these edits could only be made after the import process was finished.This update...",
-    "date": "2026-04-09T15:07:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,26 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "dec7c877391d295c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gmail end-to-end encryption now available on mobile devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/gmail-end-to-end-encryption-now-available-on-mobile-devices.html",
+    "summary": "We’re expanding Gmail end-to-end encryption (E2EE) to Android and iOS devices for Gmail client-side encryption (CSE) users. With Gmail E2EE, your users can confidentially engage with your organization's most sensitive data from anywhere on their mobile devices while ensuring data remains compliant...",
+    "date": "2026-04-09T17:26:00+00:00"
+  },
+  {
+    "id": "8ad67166f79bdd39",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Edit your AI-generated scripts when you convert Slides to Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/edit-your-ai-generated-scripts-when-you-convert-slides-to-vids.html",
+    "summary": "Now when you import Slides into Google Vids with Gemini enabled, you can see and edit your AI-generated scripts for each slide before completing the import, generating voiceovers, and applying animations. Previously, these edits could only be made after the import process was finished.This update...",
+    "date": "2026-04-09T15:07:00+00:00"
+  },
+  {
     "id": "dc7e3d16aa0b9ad9",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -977,26 +997,6 @@
     "title": "New Import API added",
     "link": "https://developers.zoom.us/changelog/docs/april-06-2026",
     "summary": "Tags: api-release | New endpoint for Imports API.",
-    "date": "2026-04-06T00:00:00+00:00"
-  },
-  {
-    "id": "b8eefa2ca4320913",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Upcoming deprecation of Call Log APIs and enhancements to Call History APIs",
-    "link": "https://developers.zoom.us/changelog/phone/upcoming-deprecation-of-call-log-apis-and-enhancements-to-call-history-apis",
-    "summary": "Tags: breaking-change, deprecation | Zoom Phone API introduced new endpoints in December 2023 to replace Call Logs. The v1 Call Logs APIs will be deprecated in May 2026. This timeline extends the previously announced deprecation to give developers more time to migrate. Key migration endpoints - Get...",
-    "date": "2026-04-06T00:00:00+00:00"
-  },
-  {
-    "id": "9440b204b1d74ac0",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 2.5.6",
-    "link": "https://developers.zoom.us/changelog/video-sdk/windows/2.5.6",
-    "summary": "Tags: bug-fix, sdk-version | Minor bug fixes.",
     "date": "2026-04-06T00:00:00+00:00"
   }
 ]
