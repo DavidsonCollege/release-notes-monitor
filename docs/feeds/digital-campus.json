@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "f08235c4d9e3abeb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Expanded NotebookLM capabilities for Education Plus and Teaching & Learning add-on customers",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/expanded-notebooklm-capabilities-for-Education-Plus-and-Teaching-and-Learning-add-on-customers.html",
+    "summary": "We’re increasing limits across NotebookLM features for customers with Google Workspace for Education Plus or a Teaching and Learning add-on license at no additional cost. Users will now see a Plus badge next to their profile picture, indicating access to higher usage thresholds.Users with Google...",
+    "date": "2026-04-13T15:28:00+00:00"
+  },
+  {
     "id": "c99143abde27490a",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/edit-your-ai-generated-scripts-when-you-convert-slides-to-vids.html",
     "summary": "Now when you import Slides into Google Vids with Gemini enabled, you can see and edit your AI-generated scripts for each slide before completing the import, generating voiceovers, and applying animations. Previously, these edits could only be made after the import process was finished.This update...",
     "date": "2026-04-09T15:07:00+00:00"
-  },
-  {
-    "id": "dc7e3d16aa0b9ad9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Speech translation in Google Meet is now rolling out to mobile devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-devices.html",
-    "summary": "Following our recent general availability launch for web, we are excited to announce that speech translation is now rolling out to the Meet Android and iOS apps. The feature allows audio to be translated to other languages in near-real-time, helping global teams communicate more naturally and...",
-    "date": "2026-04-08T20:28:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "dc7e3d16aa0b9ad9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Speech translation in Google Meet is now rolling out to mobile devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-devices.html",
+    "summary": "Following our recent general availability launch for web, we are excited to announce that speech translation is now rolling out to the Meet Android and iOS apps. The feature allows audio to be translated to other languages in near-real-time, helping global teams communicate more naturally and...",
+    "date": "2026-04-08T20:28:00+00:00"
+  },
+  {
     "id": "f970638aaa15439b",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/video-sdk/windows/2.5.6",
     "summary": "Tags: bug-fix, sdk-version | Minor bug fixes.",
     "date": "2026-04-06T00:00:00+00:00"
-  },
-  {
-    "id": "5e682909839a6ae1",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Document Import turns existing docs into usable Scribes",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "March 31, 2026"
   }
 ]
