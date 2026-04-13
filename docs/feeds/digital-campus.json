@@ -360,6 +360,16 @@
     "date": "2026-03-25T22:00:00+00:00"
   },
   {
+    "id": "11e21e0b233078cd",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.5 beta 2 (25F5053d)",
+    "link": "https://developer.apple.com/news/releases/?id=04132026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-04-13T17:00:00+00:00"
+  },
+  {
     "id": "7b7a2e4938949620",
     "product_id": "macos",
     "product_name": "macOS",
@@ -987,16 +997,6 @@
     "title": "Several new webhooks; new engagement, invitee fields in Call Control APIs, Messaging APIs, and Messaging webhook",
     "link": "https://developers.zoom.us/changelog/contact-center/april-06-2026",
     "summary": "Tags: api-release | New Call Control and Conference webhooks; new engagement, invitee fields in Call Control APIs, Messaging APIs, and Messaging webhook; added fields in Engagements and Inboxes APIs.",
-    "date": "2026-04-06T00:00:00+00:00"
-  },
-  {
-    "id": "b17171d82d72493a",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Import API added",
-    "link": "https://developers.zoom.us/changelog/docs/april-06-2026",
-    "summary": "Tags: api-release | New endpoint for Imports API.",
     "date": "2026-04-06T00:00:00+00:00"
   }
 ]
