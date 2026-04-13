@@ -720,6 +720,16 @@
     "date": "2026-04-03T17:07:21+00:00"
   },
   {
+    "id": "878c2a73c72c972a",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New response fields in Order APIs",
+    "link": "https://developers.zoom.us/changelog/commerce/april-13-2026",
+    "summary": "Tags: api-release | Added new endpoints to Order API for response field old_subscription_pricelist_id and subscription_pricelist_id.",
+    "date": "2026-04-13T00:00:00+00:00"
+  },
+  {
     "id": "5e018aa44f2d112c",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -987,16 +997,6 @@
     "title": "New search and ask APIs",
     "link": "https://developers.zoom.us/changelog/ai-companion/april-06-2026",
     "summary": "Tags: api-release | New search and ask APIs.",
-    "date": "2026-04-06T00:00:00+00:00"
-  },
-  {
-    "id": "a77114301066d410",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Several new webhooks; new engagement, invitee fields in Call Control APIs, Messaging APIs, and Messaging webhook",
-    "link": "https://developers.zoom.us/changelog/contact-center/april-06-2026",
-    "summary": "Tags: api-release | New Call Control and Conference webhooks; new engagement, invitee fields in Call Control APIs, Messaging APIs, and Messaging webhook; added fields in Engagements and Inboxes APIs.",
     "date": "2026-04-06T00:00:00+00:00"
   }
 ]
