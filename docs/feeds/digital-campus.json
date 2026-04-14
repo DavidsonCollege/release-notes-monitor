@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "f5a6c0aca978cabb",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "March 2026 Release Announcement",
+    "link": "https://announcekit.app/kuali/announcements/march-2026-release-announcement-12lIZO",
+    "summary": "improvements Admin preview for streamlined UI updatesPerformance improvementsAccessibility Improvementsfeature Hierarchical group selectio...",
+    "date": "2026-04-14T18:40:00+00:00"
+  },
+  {
     "id": "8f69cdb419c85fe3",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/coming-soon-streamlined-ui-updates---preview-now-3SeYz6",
     "summary": "We’re rolling out a set of user interface updates designed to streamline your experience and give you more flexibility when working in a for...",
     "date": "2026-03-31T20:00:00+00:00"
-  },
-  {
-    "id": "b3d51cb140e150ca",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Form Outline Download",
-    "link": "https://announcekit.app/kuali/announcements/new-form-outline-download-2pu0M0",
-    "summary": "You can now download a complete, review-ready outline of your form directly from the form designer (either the saved Draft or Published vers...",
-    "date": "2026-03-25T22:00:00+00:00"
   },
   {
     "id": "11e21e0b233078cd",
@@ -770,6 +770,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "b3d51cb140e150ca",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Form Outline Download",
+    "link": "https://announcekit.app/kuali/announcements/new-form-outline-download-2pu0M0",
+    "summary": "You can now download a complete, review-ready outline of your form directly from the form designer (either the saved Draft or Published vers...",
+    "date": "2026-03-25T22:00:00+00:00"
+  },
+  {
     "id": "f744ef7df3f80a5b",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/google-meet-is-now-available-on-carplay.html",
     "summary": "We’re excited to announce Google Meet for Apple CarPlay, allowing on-the-go professionals to stay connected hands-free and join meetings safely while on the road.With this update, users can now access Google Meet directly from their car's dashboard. This feature is designed to provide a seamless...",
     "date": "2026-04-02T16:50:00+00:00"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "April 7 2026"
   }
 ]
