@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "cef7e862bc115827",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Now available: The Gemini app for Mac",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/now-available-gemini-app-for-mac.html",
+    "summary": "Today, we’re bringing the Gemini app to macOS as a native desktop experience, designed to live right where you work. It’s always just a keyboard shortcut away, allowing you to quickly get the help you need without losing your focus.Here are a few ways you can use it right now:Stay in your flow:...",
+    "date": "2026-04-15T17:45:00+00:00"
+  },
+  {
+    "id": "5d91d1b1dc5effb9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New more expressive AI voiceovers in Google Vids, and 16 additional languages, powered by Gemini 3.1 Flash TTS",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/new-more-expressive-ai-voiceovers-in-Google-Vids-and-16-additional-languages-powered-by-Gemini-3.1-Flash-TTS.html",
+    "summary": "With the release of our new Gemini 3.1 Flash Text-To-Speech (TTS) model, AI voiceovers in Google Vids now include 30 new conversational voice options that better capture natural expression and realism. All 30 AI voiceover options are now supported in 24 different languages.You can test these new...",
+    "date": "2026-04-15T16:03:00+00:00"
+  },
+  {
     "id": "8108edf1c0780a51",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/prepare-for-neet-ug-with-practice-tests-in-Gemini.html",
     "summary": "We recently launched full-length, no-cost practice tests in Gemini, starting with the SAT and JEE Main. Today, we’re expanding practice tests to support the NEET UG.We have grounded practice tests in rigorously vetted content from leading education companies like Physics Wallah and Careers360, to...",
     "date": "2026-04-13T15:55:00+00:00"
-  },
-  {
-    "id": "f08235c4d9e3abeb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Expanded NotebookLM capabilities for Education Plus and Teaching & Learning add-on customers",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/expanded-notebooklm-capabilities-for-Education-Plus-and-Teaching-and-Learning-add-on-customers.html",
-    "summary": "We’re increasing limits across NotebookLM features for customers with Google Workspace for Education Plus or a Teaching and Learning add-on license at no additional cost. Users will now see a Plus badge next to their profile picture, indicating access to higher usage thresholds.Users with Google...",
-    "date": "2026-04-13T15:28:00+00:00"
-  },
-  {
-    "id": "c99143abde27490a",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - April 10, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/weekly-recap-04-10-2026.html",
-    "summary": "Book Google Workspace resources from third-party calendarsOrganizations that use both Google Workspace and other calendaring systems, like Microsoft Outlook, can now more easily coordinate shared resources, such as rooms, projectors, or company cars. | Learn more about how to book Google Workspace...",
-    "date": "2026-04-10T21:04:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -770,6 +770,26 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "f08235c4d9e3abeb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Expanded NotebookLM capabilities for Education Plus and Teaching & Learning add-on customers",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/expanded-notebooklm-capabilities-for-Education-Plus-and-Teaching-and-Learning-add-on-customers.html",
+    "summary": "We’re increasing limits across NotebookLM features for customers with Google Workspace for Education Plus or a Teaching and Learning add-on license at no additional cost. Users will now see a Plus badge next to their profile picture, indicating access to higher usage thresholds.Users with Google...",
+    "date": "2026-04-13T15:28:00+00:00"
+  },
+  {
+    "id": "c99143abde27490a",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - April 10, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/weekly-recap-04-10-2026.html",
+    "summary": "Book Google Workspace resources from third-party calendarsOrganizations that use both Google Workspace and other calendaring systems, like Microsoft Outlook, can now more easily coordinate shared resources, such as rooms, projectors, or company cars. | Learn more about how to book Google Workspace...",
+    "date": "2026-04-10T21:04:00+00:00"
+  },
+  {
     "id": "b3d51cb140e150ca",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -978,25 +998,5 @@
     "link": "https://developers.zoom.us/changelog/meeting-sdk/web/6.0.0",
     "summary": "Tags: bug-fix, sdk-version | Allows hosts to disable desktop screen sharing, supports anonymous Q&amp;A comments, and adds a “Be right back” reaction. Users can now preview and manage virtual backgrounds, disable hyperlinks in chat, and enable transcript saving. Enhancements include a more...",
     "date": "2026-04-07T00:00:00+00:00"
-  },
-  {
-    "id": "e3503fac4fd4d74b",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 7.0.2",
-    "link": "https://developers.zoom.us/changelog/meeting-sdk/windows/7.0.2",
-    "summary": "Tags: action-required, bug-fix, sdk-version | Rollback of versions 7.0.0 and 7.0.1, with 7.0.2 as the fix.",
-    "date": "2026-04-07T00:00:00+00:00"
-  },
-  {
-    "id": "565b408be225300e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Meet is now available on CarPlay",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/google-meet-is-now-available-on-carplay.html",
-    "summary": "We’re excited to announce Google Meet for Apple CarPlay, allowing on-the-go professionals to stay connected hands-free and join meetings safely while on the road.With this update, users can now access Google Meet directly from their car's dashboard. This feature is designed to provide a seamless...",
-    "date": "2026-04-02T16:50:00+00:00"
   }
 ]
