@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "9c08d376aceaaf32",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "UPDATE: Updates to How Table Gadget Data is Returned Via API (now scheduled for May 10, 2026)",
+    "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-may-10-2026-4ACIYU",
+    "summary": "Based on customer feedback, we’re postponing the update to how Table gadget data is formatted in API JSON responses to May 10, 2026 to allow...",
+    "date": "2026-04-15T21:00:00+00:00"
+  },
+  {
     "id": "b925dbd94822ceaa",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-april-19-2026-2kXwT6",
     "summary": "We’re postponing updates to how Table gadget data is formatted in API JSON responses (see the original announcement for details). To allow a...",
     "date": "2026-04-03T16:50:15+00:00"
-  },
-  {
-    "id": "2eb9937ddce09c94",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Coming Soon: Updates to How Table Gadget Data is Returned Via API",
-    "link": "https://announcekit.app/kuali/announcements/coming-soon-updates-to-how-table-gadget-data-is-returned-via-api-4o7y6Y",
-    "summary": "We wanted to make you aware of forthcoming changes to how our Table gadget data is formatted in JSON when returned via the API. If you have ...",
-    "date": "2026-04-01T21:39:18+00:00"
   },
   {
     "id": "11e21e0b233078cd",
@@ -770,6 +770,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "2eb9937ddce09c94",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Coming Soon: Updates to How Table Gadget Data is Returned Via API",
+    "link": "https://announcekit.app/kuali/announcements/coming-soon-updates-to-how-table-gadget-data-is-returned-via-api-4o7y6Y",
+    "summary": "We wanted to make you aware of forthcoming changes to how our Table gadget data is formatted in JSON when returned via the API. If you have ...",
+    "date": "2026-04-01T21:39:18+00:00"
+  },
+  {
     "id": "f34a2aae004f5696",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -986,16 +996,6 @@
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
     "title": "Version 7.0.2",
     "link": "https://developers.zoom.us/changelog/meeting-sdk/electron/7.0.2",
-    "summary": "Tags: action-required, bug-fix, sdk-version | Rollback of versions 7.0.0 and 7.0.1, with 7.0.2 as the fix.",
-    "date": "2026-04-07T00:00:00+00:00"
-  },
-  {
-    "id": "68b296392998dc6d",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 7.0.2",
-    "link": "https://developers.zoom.us/changelog/meeting-sdk/ios/7.0.2",
     "summary": "Tags: action-required, bug-fix, sdk-version | Rollback of versions 7.0.0 and 7.0.1, with 7.0.2 as the fix.",
     "date": "2026-04-07T00:00:00+00:00"
   }
