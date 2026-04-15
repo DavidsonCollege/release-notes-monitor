@@ -5,8 +5,22 @@
     <description/>
     <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/ai.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 15:35:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 16:31:35 +0000</lastBuildDate>
     <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/ai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gemini - Why: By bringing a native app to Mac, we're cutting down on context switching and giving you a faster, more integrated way to use Gemini alongside the</title>
+      <link>https://gemini.google/release-notes/</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=gemini.google&amp;sz=64&quot; alt=&quot;Gemini&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Gemini&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Why: By bringing a native app to Mac, we're cutting down on context switching and giving you a faster, more integrated way to use Gemini alongside the tools you use every day.&lt;/p&gt;&lt;a href=&quot;https://gemini.google/release-notes/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">83098bf3cde693e8</guid>
+      <pubDate>Wed, 15 Apr 2026 16:31:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini - What: We’re introducing the Gemini app for Mac, a native desktop experience built to help you get more done without disrupting your flow. With a simpl</title>
+      <link>https://gemini.google/mac/</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=gemini.google&amp;sz=64&quot; alt=&quot;Gemini&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Gemini&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;What: We’re introducing the Gemini app for Mac, a native desktop experience built to help you get more done without disrupting your flow. With a simple keyboard shortcut (Option + Space), you can bring up Gemini alongside any application you're using. You can also seamlessly share your window,...&lt;/p&gt;&lt;a href=&quot;https://gemini.google/mac/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">e5a83ee7cdfa96a8</guid>
+      <pubDate>Wed, 15 Apr 2026 16:31:34 +0000</pubDate>
+    </item>
     <item>
       <title>ChatGPT - GPT-5.3 Instant Mini</title>
       <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>

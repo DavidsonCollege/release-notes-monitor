@@ -100,6 +100,26 @@
     "date": "2026-03-06T17:54:27.083316+00:00"
   },
   {
+    "id": "e5a83ee7cdfa96a8",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We’re introducing the Gemini app for Mac, a native desktop experience built to help you get more done without disrupting your flow. With a simpl",
+    "link": "https://gemini.google/mac/",
+    "summary": "What: We’re introducing the Gemini app for Mac, a native desktop experience built to help you get more done without disrupting your flow. With a simple keyboard shortcut (Option + Space), you can bring up Gemini alongside any application you're using. You can also seamlessly share your window,...",
+    "date": "2026-04-15T16:31:34.704013+00:00"
+  },
+  {
+    "id": "83098bf3cde693e8",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: By bringing a native app to Mac, we're cutting down on context switching and giving you a faster, more integrated way to use Gemini alongside the",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: By bringing a native app to Mac, we're cutting down on context switching and giving you a faster, more integrated way to use Gemini alongside the tools you use every day.",
+    "date": "2026-04-15T16:31:34.704038+00:00"
+  },
+  {
     "id": "6fd71624ee4b9782",
     "product_id": "gemini",
     "product_name": "Gemini",
