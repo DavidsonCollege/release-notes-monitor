@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "b925dbd94822ceaa",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Collapsible Sections",
+    "link": "https://announcekit.app/kuali/announcements/new-collapsible-sections-3LwVzi",
+    "summary": "You can now expand and collapse Sections in the Form Designer—making it much easier to work with large, complex forms. Why This MattersManag...",
+    "date": "2026-04-15T19:05:00+00:00"
+  },
+  {
     "id": "f5a6c0aca978cabb",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/coming-soon-updates-to-how-table-gadget-data-is-returned-via-api-4o7y6Y",
     "summary": "We wanted to make you aware of forthcoming changes to how our Table gadget data is formatted in JSON when returned via the API. If you have ...",
     "date": "2026-04-01T21:39:18+00:00"
-  },
-  {
-    "id": "f34a2aae004f5696",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Coming Soon: Streamlined UI updates - Preview Now!",
-    "link": "https://announcekit.app/kuali/announcements/coming-soon-streamlined-ui-updates---preview-now-3SeYz6",
-    "summary": "We’re rolling out a set of user interface updates designed to streamline your experience and give you more flexibility when working in a for...",
-    "date": "2026-03-31T20:00:00+00:00"
   },
   {
     "id": "11e21e0b233078cd",
@@ -770,6 +770,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "f34a2aae004f5696",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Coming Soon: Streamlined UI updates - Preview Now!",
+    "link": "https://announcekit.app/kuali/announcements/coming-soon-streamlined-ui-updates---preview-now-3SeYz6",
+    "summary": "We’re rolling out a set of user interface updates designed to streamline your experience and give you more flexibility when working in a for...",
+    "date": "2026-03-31T20:00:00+00:00"
+  },
+  {
     "id": "f08235c4d9e3abeb",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -987,16 +997,6 @@
     "title": "Version 7.0.2",
     "link": "https://developers.zoom.us/changelog/meeting-sdk/ios/7.0.2",
     "summary": "Tags: action-required, bug-fix, sdk-version | Rollback of versions 7.0.0 and 7.0.1, with 7.0.2 as the fix.",
-    "date": "2026-04-07T00:00:00+00:00"
-  },
-  {
-    "id": "73f3aa33dabdfd80",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 6.0.0",
-    "link": "https://developers.zoom.us/changelog/meeting-sdk/web/6.0.0",
-    "summary": "Tags: bug-fix, sdk-version | Allows hosts to disable desktop screen sharing, supports anonymous Q&amp;A comments, and adds a “Be right back” reaction. Users can now preview and manage virtual backgrounds, disable hyperlinks in chat, and enable transcript saving. Enhancements include a more...",
     "date": "2026-04-07T00:00:00+00:00"
   }
 ]
