@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "da6d6b1216627be8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Now in beta: Download client-side encrypted Google Slides",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/now-in-beta-download-client-side-encrypted-Google-Slides.html",
+    "summary": "We are pleased to share that export capabilities are now available for client-side encrypted (CSE) Slides files. Beta users can \"Download and decrypt\" CSE Slides files and export their Slides as PowerPoint files, facilitating seamless interoperability between platforms. This launch includes...",
+    "date": "2026-04-15T20:39:00+00:00"
+  },
+  {
     "id": "cef7e862bc115827",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/additional-byod-peripheral-switchers-certified-for-Google-Meet-in-ChromeOS-touch-controller-rooms.html",
     "summary": "We have certified additional Lightware peripheral switchers, so that you and your team can bring your own devices (BYOD) to Google Meet on ChromeOS touch controller rooms. The new devices bring improvements for video processing, networking, connectivity and security.Plug your laptop into a Meet...",
     "date": "2026-04-13T16:24:00+00:00"
-  },
-  {
-    "id": "588e84b885f14479",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Prepare for the NEET UG with practice tests in Gemini",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/prepare-for-neet-ug-with-practice-tests-in-Gemini.html",
-    "summary": "We recently launched full-length, no-cost practice tests in Gemini, starting with the SAT and JEE Main. Today, we’re expanding practice tests to support the NEET UG.We have grounded practice tests in rigorously vetted content from leading education companies like Physics Wallah and Careers360, to...",
-    "date": "2026-04-13T15:55:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -770,6 +770,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "588e84b885f14479",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Prepare for the NEET UG with practice tests in Gemini",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/prepare-for-neet-ug-with-practice-tests-in-Gemini.html",
+    "summary": "We recently launched full-length, no-cost practice tests in Gemini, starting with the SAT and JEE Main. Today, we’re expanding practice tests to support the NEET UG.We have grounded practice tests in rigorously vetted content from leading education companies like Physics Wallah and Careers360, to...",
+    "date": "2026-04-13T15:55:00+00:00"
+  },
+  {
     "id": "2eb9937ddce09c94",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -986,16 +996,6 @@
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
     "title": "Version 7.0.2",
     "link": "https://developers.zoom.us/changelog/meeting-sdk/android/7.0.2",
-    "summary": "Tags: action-required, bug-fix, sdk-version | Rollback of versions 7.0.0 and 7.0.1, with 7.0.2 as the fix.",
-    "date": "2026-04-07T00:00:00+00:00"
-  },
-  {
-    "id": "c1de194ddbf214a0",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 7.0.2",
-    "link": "https://developers.zoom.us/changelog/meeting-sdk/electron/7.0.2",
     "summary": "Tags: action-required, bug-fix, sdk-version | Rollback of versions 7.0.0 and 7.0.1, with 7.0.2 as the fix.",
     "date": "2026-04-07T00:00:00+00:00"
   }
