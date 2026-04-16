@@ -40,6 +40,26 @@
     "date": "2026-03-17T18:55:52.847736+00:00"
   },
   {
+    "id": "090d240d31afffe0",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Opus 4.7 launch",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-04-16T00:00:00+00:00"
+  },
+  {
+    "id": "5bbefc47c1234a1d",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Introducing Claude Opus 4.7",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-04-16T00:00:00+00:00"
+  },
+  {
     "id": "e693382313635a34",
     "product_id": "claude",
     "product_name": "Claude",
@@ -68,26 +88,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-03-25T00:00:00+00:00"
-  },
-  {
-    "id": "a36eeaf818e378e4",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Use interactive connectors in Claude",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-03-25T00:00:00+00:00"
-  },
-  {
-    "id": "97caaf779d026592",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Computer use research preview in Cowork and Claude Code + Dispatch improvements",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-03-23T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -138,6 +138,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: The most helpful AI assistant is one that understands your preferences and past conversations. Starting over with a new assistant can feel daunting, so we created these tools to let you quickly get Gemini up to speed on what matters most to you without starting from scratch. By bringing over...",
     "date": "2026-03-26T19:31:36.605341+00:00"
+  },
+  {
+    "id": "a36eeaf818e378e4",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Use interactive connectors in Claude",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-03-25T00:00:00+00:00"
+  },
+  {
+    "id": "97caaf779d026592",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Computer use research preview in Cowork and Claude Code + Dispatch improvements",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-03-23T00:00:00+00:00"
   },
   {
     "id": "64c778c4f29a3058",
