@@ -1,13 +1,13 @@
 [
   {
-    "id": "9b4a49c55cd1a750",
+    "id": "92aca7ce8a209770",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
+    "title": "1Password CLI",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "April 7 2026"
+    "date": "April 16 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -760,6 +760,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "9b4a49c55cd1a750",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "April 7 2026"
+  },
+  {
     "id": "7b7a2e4938949620",
     "product_id": "macos",
     "product_name": "macOS",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/book-google-workspace-resources-from-third-party-calendars.html",
     "summary": "Organizations that use both Google Workspace and other calendaring systems, like Microsoft Outlook, can now more easily coordinate shared resources, such as rooms, projectors, or company cars. We are introducing an open beta that allows non-Google users to book Google Workspace resources directly...",
     "date": "2026-04-07T16:31:00+00:00"
-  },
-  {
-    "id": "fd15db8a53a19f10",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.5 beta (25F5042g)",
-    "link": "https://developer.apple.com/news/releases/?id=03302026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-03-30T17:00:00+00:00"
   }
 ]
