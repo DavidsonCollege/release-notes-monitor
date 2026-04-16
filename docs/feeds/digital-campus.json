@@ -370,16 +370,6 @@
     "date": "2026-04-13T17:00:00+00:00"
   },
   {
-    "id": "7b7a2e4938949620",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.4.1 (25E253)",
-    "link": "https://developer.apple.com/news/releases/?id=04092026a",
-    "summary": "View downloadsView release notes",
-    "date": "2026-04-09T17:00:00+00:00"
-  },
-  {
     "id": "8f2885091136ab69",
     "product_id": "microsoft-office",
     "product_name": "Microsoft Office",
@@ -768,6 +758,16 @@
     "link": "https://developers.zoom.us/changelog/ui-toolkit/web/2.4.0-1",
     "summary": "Tags: bug-fix, sdk-version | Added ISO Recording feature and enhanced subsession management. Supported manual share view attachment and detachment. Fixed self-video rotation dimensions and footer menu display issues.",
     "date": "2026-04-09T00:00:00+00:00"
+  },
+  {
+    "id": "7b7a2e4938949620",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.4.1 (25E253)",
+    "link": "https://developer.apple.com/news/releases/?id=04092026a",
+    "summary": "View downloadsView release notes",
+    "date": "2026-04-09T17:00:00+00:00"
   },
   {
     "id": "68bf4e06214d3b4d",
