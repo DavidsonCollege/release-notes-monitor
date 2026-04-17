@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "99a7ee048fb293eb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - April 17, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/weekly-recap-04-17-2026.html",
+    "summary": "Expanded NotebookLM capabilities for Education Plus and Teaching and Learning add-on customersWe’re increasing limits across NotebookLM features for customers with Google Workspace for Education Plus or a Teaching and Learning add-on license at no additional cost. Users will now see a Plus badge...",
+    "date": "2026-04-17T20:58:00+00:00"
+  },
+  {
     "id": "c44ef2a2050c1322",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/now-available-gemini-app-for-mac.html",
     "summary": "Today, we’re bringing the Gemini app to macOS as a native desktop experience, designed to live right where you work. It’s always just a keyboard shortcut away, allowing you to quickly get the help you need without losing your focus.Here are a few ways you can use it right now:Stay in your flow:...",
     "date": "2026-04-15T17:45:00+00:00"
-  },
-  {
-    "id": "5d91d1b1dc5effb9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New more expressive AI voiceovers in Google Vids, and 16 additional languages, powered by Gemini 3.1 Flash TTS",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/new-more-expressive-ai-voiceovers-in-Google-Vids-and-16-additional-languages-powered-by-Gemini-3.1-Flash-TTS.html",
-    "summary": "With the release of our new Gemini 3.1 Flash Text-To-Speech (TTS) model, AI voiceovers in Google Vids now include 30 new conversational voice options that better capture natural expression and realism. All 30 AI voiceover options are now supported in 24 different languages.You can test these new...",
-    "date": "2026-04-15T16:03:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "5d91d1b1dc5effb9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New more expressive AI voiceovers in Google Vids, and 16 additional languages, powered by Gemini 3.1 Flash TTS",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/new-more-expressive-ai-voiceovers-in-Google-Vids-and-16-additional-languages-powered-by-Gemini-3.1-Flash-TTS.html",
+    "summary": "With the release of our new Gemini 3.1 Flash Text-To-Speech (TTS) model, AI voiceovers in Google Vids now include 30 new conversational voice options that better capture natural expression and realism. All 30 AI voiceover options are now supported in 24 different languages.You can test these new...",
+    "date": "2026-04-15T16:03:00+00:00"
+  },
+  {
     "id": "8108edf1c0780a51",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/migration-update-on-restricted-access-items.html",
     "summary": "Last year, we stopped allowing restricted access on specific files and folders within a shared folder in Google Drive, and instead required that restricted access be managed consistently via the limited access folder setting. With this update, all items with legacy restricted access will be...",
     "date": "2026-04-07T19:29:00+00:00"
-  },
-  {
-    "id": "9c637d154d42ca2c",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build for Canary Channel 29560.1000",
-    "link": "https://blogs.windows.com/windows-insider/2026/04/03/announcing-windows-11-insider-preview-build-for-canary-channel-29560-1000/",
-    "summary": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29560.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29560.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29560.1000...",
-    "date": "2026-04-03T17:07:07+00:00"
   }
 ]
