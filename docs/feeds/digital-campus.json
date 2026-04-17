@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "c44ef2a2050c1322",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Streamlining admin controls for Gemini Enterprise in the Google Workspace Admin console",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/streamlining-admin-controls-for-gemini-enterprise-in-the-Google-Workspace-Admin-console.html",
+    "summary": "Managing generative AI tools that can access your Google Workspace data will be easier than before with dedicated controls to manage Gemini Enterprise access in the Workspace Admin console. These settings will live in a new subsection in the left side menu bar under “Generative AI.” As part of this...",
+    "date": "2026-04-17T19:11:00+00:00"
+  },
+  {
     "id": "81576499dc866962",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/new-more-expressive-ai-voiceovers-in-Google-Vids-and-16-additional-languages-powered-by-Gemini-3.1-Flash-TTS.html",
     "summary": "With the release of our new Gemini 3.1 Flash Text-To-Speech (TTS) model, AI voiceovers in Google Vids now include 30 new conversational voice options that better capture natural expression and realism. All 30 AI voiceover options are now supported in 24 different languages.You can test these new...",
     "date": "2026-04-15T16:03:00+00:00"
-  },
-  {
-    "id": "8108edf1c0780a51",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini in Google Classroom is now available in all Classroom-supported languages",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/gemini-in-google-classroom-is-now-available-in-all-Classroom-supported-languages.html",
-    "summary": "Last year, we launched Gemini in Google Classroom in English to support educators with planning and creating engaging lessons, and to help students in higher education to study and learn. Starting this week, we’re beginning to expand availability to all Classroom-supported languages in which Gemini...",
-    "date": "2026-04-14T16:23:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "8108edf1c0780a51",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini in Google Classroom is now available in all Classroom-supported languages",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/gemini-in-google-classroom-is-now-available-in-all-Classroom-supported-languages.html",
+    "summary": "Last year, we launched Gemini in Google Classroom in English to support educators with planning and creating engaging lessons, and to help students in higher education to study and learn. Starting this week, we’re beginning to expand availability to all Classroom-supported languages in which Gemini...",
+    "date": "2026-04-14T16:23:00+00:00"
+  },
+  {
     "id": "c1caef481a73e2f3",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://blogs.windows.com/windows-insider/2026/04/03/announcing-windows-11-insider-preview-build-for-canary-channel-29560-1000/",
     "summary": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29560.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29560.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29560.1000...",
     "date": "2026-04-03T17:07:07+00:00"
-  },
-  {
-    "id": "a718addd96c8f9b4",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.8155 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/04/03/announcing-windows-11-insider-preview-build-26300-8155-dev-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8155 (KB 5083822) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.8155...",
-    "date": "2026-04-03T17:05:18+00:00"
   }
 ]
