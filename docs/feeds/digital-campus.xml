@@ -5,63 +5,98 @@
     <description>Technology products managed by the Digital Campus team</description>
     <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2026 16:53:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 17:23:55 +0000</lastBuildDate>
     <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>ScreenCloud - 4.9.0</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New: Amazon Signage Stick (ASS) dedicated player. Previously ran Amazon Fire OS player on ASS device.&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">e1dab31261398830</guid>
-      <pubDate>Fri, 17 Apr 2026 16:53:15 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 17:23:55 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.7.16</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">25cbe092cc1d040f</guid>
-      <pubDate>Fri, 17 Apr 2026 16:53:15 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 17:23:55 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.11.2</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New: Support for Amazon’s Remote Device Management (RDM) for Signage Sticks, including:Screen/TV mute and unmute via HDMI-CECScreen/TV power on and off via HDMI-CECDevice rebootScreenshot and full-screen captureDeep cache clearing (player app and Android system cache)Player app restartCPU and GPU...&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">06a1b6a05e1c3232</guid>
-      <pubDate>Fri, 17 Apr 2026 16:53:15 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 17:23:55 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Bring Scribe into your AI tools with Scribe MCP</title>
       <link>https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading... Loading...&lt;/p&gt;&lt;a href=&quot;https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">fbbac28395898bd8</guid>
-      <pubDate>Fri, 17 Apr 2026 16:53:15 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 17:23:55 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Bring Scribe into your AI tools with Scribe MCP</title>
       <link>https://scribe.launchnotes.io/announcements/bring-scribe-into-your-ai-tools-with-scribe-mcp</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading...&lt;/p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/bring-scribe-into-your-ai-tools-with-scribe-mcp&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">b80110c322bd1f70</guid>
-      <pubDate>Fri, 17 Apr 2026 16:53:15 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 17:23:55 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password for Android</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">9b4a49c55cd1a750</guid>
-      <pubDate>Fri, 17 Apr 2026 16:53:15 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 17:23:55 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password CLI</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">92aca7ce8a209770</guid>
-      <pubDate>Fri, 17 Apr 2026 16:53:15 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 17:23:55 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password for Android Beta</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">68bf4e06214d3b4d</guid>
-      <pubDate>Fri, 17 Apr 2026 16:53:15 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 17:23:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - Announcing Windows 11 Insider Preview Build 28020.1863 (Canary Channel)</title>
+      <link>https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-28020-1863-canary-channel/</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Windows&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1863 to the Canary Channel. (KB 5083725) What’s new in Canary Build 28020.1863 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1863 (Canary Channel) appeared first on Windows...&lt;/p&gt;&lt;a href=&quot;https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-28020-1863-canary-channel/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">32ca660c5e6a023c</guid>
+      <pubDate>Fri, 17 Apr 2026 17:07:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - Announcing Windows 11 Insider Preview Build for Canary Channel 29570.1000</title>
+      <link>https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-for-canary-channel-29570-1000/</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Windows&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29570.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29570.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29570.1000...&lt;/p&gt;&lt;a href=&quot;https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-for-canary-channel-29570-1000/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">263b3308d8b95fff</guid>
+      <pubDate>Fri, 17 Apr 2026 17:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - Releasing Windows 11 Builds 26100.8313 and 26200.8313 to the Release Preview Channel</title>
+      <link>https://blogs.windows.com/windows-insider/2026/04/17/releasing-windows-11-builds-26100-8313-and-26200-8313-to-the-release-preview-channel/</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Windows&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Hello Windows Insiders, today we’re releasing Windows 11 Builds 26100.8313 and 26200.8313 (KB5083631) to Insiders in the Release Preview Channel on Windows 11, versions 24H2 (Build 26100) and 25H2 (Build 26200). This update is available The post Releasing Windows 11 Builds 26100.8313 and 26200.8313...&lt;/p&gt;&lt;a href=&quot;https://blogs.windows.com/windows-insider/2026/04/17/releasing-windows-11-builds-26100-8313-and-26200-8313-to-the-release-preview-channel/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">e9f732f5ae04c4fb</guid>
+      <pubDate>Fri, 17 Apr 2026 17:06:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - Announcing Windows 11 Insider Preview Build 26220.8271 (Beta Channel)</title>
+      <link>https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-26220-8271-beta-channel/</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Windows&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8271 (KB 5083728) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (i The post Announcing Windows 11 Insider Preview Build 26220.8271...&lt;/p&gt;&lt;a href=&quot;https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-26220-8271-beta-channel/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">7f8923e6874360b0</guid>
+      <pubDate>Fri, 17 Apr 2026 17:05:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windows - Announcing Windows 11 Insider Preview Build 26300.8276 (Dev Channel)</title>
+      <link>https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-26300-8276-dev-channel/</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Windows&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8276 (KB 5083726) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.8276...&lt;/p&gt;&lt;a href=&quot;https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-26300-8276-dev-channel/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">9acb5fc8679672d0</guid>
+      <pubDate>Fri, 17 Apr 2026 17:04:54 +0000</pubDate>
     </item>
     <item>
       <title>Slack - New Block Kit blocks and Streaming API method updates</title>
@@ -302,20 +337,6 @@
       <pubDate>Tue, 07 Apr 2026 19:29:00 +0000</pubDate>
     </item>
     <item>
-      <title>Google Workspace - Greater control and error visibility for Google Sheets formulas</title>
-      <link>http://workspaceupdates.googleblog.com/2026/03/greater-control-and-error-visibility-for-Google-Sheets-formulas.html</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;We are introducing updates to the logic and parameter support for a targeted set of Google Sheets functions. These changes are designed to improve error visibility, offer more control over data, and ensure seamless compatibility when importing files.Specifically, you will notice improvements across...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/03/greater-control-and-error-visibility-for-Google-Sheets-formulas.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">8e2fb36b9e3cc950</guid>
-      <pubDate>Tue, 07 Apr 2026 17:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Workspace - Book Google Workspace resources from third-party calendars</title>
-      <link>http://workspaceupdates.googleblog.com/2026/04/book-google-workspace-resources-from-third-party-calendars.html</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Organizations that use both Google Workspace and other calendaring systems, like Microsoft Outlook, can now more easily coordinate shared resources, such as rooms, projectors, or company cars. We are introducing an open beta that allows non-Google users to book Google Workspace resources directly...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/04/book-google-workspace-resources-from-third-party-calendars.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">58088ac4499805ff</guid>
-      <pubDate>Tue, 07 Apr 2026 16:31:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Canva - The Create design API now supports email in the name field for preset types.</title>
       <link>https://www.canva.dev/docs/connect/api-reference/designs/create-design/#body-parameters</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=canva.com&amp;sz=64&quot; alt=&quot;Canva&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Canva&lt;/strong&gt;&lt;/div&gt;&lt;a href=&quot;https://www.canva.dev/docs/connect/api-reference/designs/create-design/#body-parameters&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
@@ -407,13 +428,6 @@
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Windows - Announcing Windows 11 Insider Preview Build for Canary Channel 29558.1000</title>
-      <link>https://blogs.windows.com/windows-insider/2026/03/30/announcing-windows-11-insider-preview-build-for-canary-channel-29558-1000/</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Windows&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29558.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29558.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29558.1000...&lt;/p&gt;&lt;a href=&quot;https://blogs.windows.com/windows-insider/2026/03/30/announcing-windows-11-insider-preview-build-for-canary-channel-29558-1000/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">33fd4036cd788581</guid>
-      <pubDate>Mon, 30 Mar 2026 21:06:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Slack - PKCE is now generally available!</title>
       <link>https://docs.slack.dev/changelog/2026/03/30/pkce</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Slack&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;We are excited to announce support for Proof Key for Code Exchange (PKCE). PKCE is an OAuth security extension that enables developers to build more secure Slack applications on public clients, such as desktop apps and mobile apps, without the need to embed a vulnerable client_secret.&lt;/p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2026/03/30/pkce&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
@@ -489,13 +503,6 @@
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Slack&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;You can now mark individual OAuth scopes as optional when configuring your Slack app! Optional scopes give users more control over what data your app can access during installation, without blocking them from installing your app entirely.&lt;/p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2026/03/16/optional-scopes&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">544e979428ac6810</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ad Astra - March 6, 2026</title>
-      <link>https://help.adastra.live/hc/en-us/articles/46950677019668-March-6-2026</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=aais.com&amp;sz=64&quot; alt=&quot;Ad Astra&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Ad Astra&lt;/strong&gt;&lt;/div&gt;&lt;a href=&quot;https://help.adastra.live/hc/en-us/articles/46950677019668-March-6-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">c92b503e4e43b907</guid>
-      <pubDate>Fri, 06 Mar 2026 18:13:10 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Office - Release Notes for Microsoft 365 Insiders</title>
@@ -580,13 +587,6 @@
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Slack&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;The following new supported markdown types for rich text when using Block Kit in your apps are being rolled out:&lt;/p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2026/03/06/block-kit-rich-text&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">97a112bfc59de73a</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Slack - Set status method scope update</title>
-      <link>https://docs.slack.dev/changelog/2026/03/05/set-status-scope-update</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Slack&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;The assistant.threads.setStatus API method now accepts either the assistantwrite scope. This allows channel-based apps to use AI loading states in channels, without having to request assistantwrite scope in favor of the chat:write scope exclusively, so update your app soon!&lt;/p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2026/03/05/set-status-scope-update&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">c58291813e7015df</guid>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ClickUp - Release Notes 4.02</title>
