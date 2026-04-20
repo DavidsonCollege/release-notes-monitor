@@ -360,14 +360,14 @@
     "date": "2026-04-03T16:50:15+00:00"
   },
   {
-    "id": "11e21e0b233078cd",
+    "id": "750c847736f2eb0a",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.5 beta 2 (25F5053d)",
-    "link": "https://developer.apple.com/news/releases/?id=04132026c",
+    "title": "macOS 26.5 beta 3 (25F5058e)",
+    "link": "https://developer.apple.com/news/releases/?id=04202026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-04-13T17:00:00+00:00"
+    "date": "2026-04-20T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -690,6 +690,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "11e21e0b233078cd",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.5 beta 2 (25F5053d)",
+    "link": "https://developer.apple.com/news/releases/?id=04132026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-04-13T17:00:00+00:00"
+  },
+  {
     "id": "e6eed6c1344b6f68",
     "product_id": "ninjaone",
     "product_name": "NinjaOne",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/gmail-end-to-end-encryption-now-available-on-mobile-devices.html",
     "summary": "We’re expanding Gmail end-to-end encryption (E2EE) to Android and iOS devices for Gmail client-side encryption (CSE) users. With Gmail E2EE, your users can confidentially engage with your organization's most sensitive data from anywhere on their mobile devices while ensuring data remains compliant...",
     "date": "2026-04-09T17:26:00+00:00"
-  },
-  {
-    "id": "8ad67166f79bdd39",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Edit your AI-generated scripts when you convert Slides to Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/edit-your-ai-generated-scripts-when-you-convert-slides-to-vids.html",
-    "summary": "Now when you import Slides into Google Vids with Gemini enabled, you can see and edit your AI-generated scripts for each slide before completing the import, generating voiceovers, and applying animations. Previously, these edits could only be made after the import process was finished.This update...",
-    "date": "2026-04-09T15:07:00+00:00"
   }
 ]
