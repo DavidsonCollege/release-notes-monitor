@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "0099dfdabaca0269",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Seamlessly join meetings on Google Meet hardware with “Connect Room”",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/seamlessly-join-meetings-on-google-meet-hardware-with-Connect-Room.html",
+    "summary": "In December 2025, we introduced Connect room to organizations on the Rapid Release track enrolled in Early Preview Rooms. We’re excited to announce that this feature is now rolling out to all Workspace customers with Google Meet hardware. This feature allows users to start or join meetings from...",
+    "date": "2026-04-20T14:43:00+00:00"
+  },
+  {
     "id": "99a7ee048fb293eb",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/now-in-beta-download-client-side-encrypted-Google-Slides.html",
     "summary": "We are pleased to share that export capabilities are now available for client-side encrypted (CSE) Slides files. Beta users can \"Download and decrypt\" CSE Slides files and export their Slides as PowerPoint files, facilitating seamless interoperability between platforms. This launch includes...",
     "date": "2026-04-15T20:39:00+00:00"
-  },
-  {
-    "id": "cef7e862bc115827",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Now available: The Gemini app for Mac",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/now-available-gemini-app-for-mac.html",
-    "summary": "Today, we’re bringing the Gemini app to macOS as a native desktop experience, designed to live right where you work. It’s always just a keyboard shortcut away, allowing you to quickly get the help you need without losing your focus.Here are a few ways you can use it right now:Stay in your flow:...",
-    "date": "2026-04-15T17:45:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "cef7e862bc115827",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Now available: The Gemini app for Mac",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/now-available-gemini-app-for-mac.html",
+    "summary": "Today, we’re bringing the Gemini app to macOS as a native desktop experience, designed to live right where you work. It’s always just a keyboard shortcut away, allowing you to quickly get the help you need without losing your focus.Here are a few ways you can use it right now:Stay in your flow:...",
+    "date": "2026-04-15T17:45:00+00:00"
+  },
+  {
     "id": "3218f8844f70fc26",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/edit-your-ai-generated-scripts-when-you-convert-slides-to-vids.html",
     "summary": "Now when you import Slides into Google Vids with Gemini enabled, you can see and edit your AI-generated scripts for each slide before completing the import, generating voiceovers, and applying animations. Previously, these edits could only be made after the import process was finished.This update...",
     "date": "2026-04-09T15:07:00+00:00"
-  },
-  {
-    "id": "dc7e3d16aa0b9ad9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Speech translation in Google Meet is now rolling out to mobile devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-devices.html",
-    "summary": "Following our recent general availability launch for web, we are excited to announce that speech translation is now rolling out to the Meet Android and iOS apps. The feature allows audio to be translated to other languages in near-real-time, helping global teams communicate more naturally and...",
-    "date": "2026-04-08T20:28:00+00:00"
   }
 ]
