@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "ea5f10536f76ee45",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "April 17, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/48391032193812-April-17-2026",
+    "summary": "",
+    "date": "2026-04-20T02:06:15Z"
+  },
+  {
     "id": "b81e0ba8e2ed8c82",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/47415183812244-March-20-2026",
     "summary": "",
     "date": "2026-03-20T16:17:05Z"
-  },
-  {
-    "id": "3218f8844f70fc26",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "March 13, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/47265807993492-March-13-2026",
-    "summary": "",
-    "date": "2026-03-16T15:49:25Z"
   },
   {
     "id": "4d32ad735cbf6a1b",
@@ -760,6 +760,16 @@
     "date": "2026-04-09T00:00:00+00:00"
   },
   {
+    "id": "3218f8844f70fc26",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "March 13, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/47265807993492-March-13-2026",
+    "summary": "",
+    "date": "2026-03-16T15:49:25Z"
+  },
+  {
     "id": "5d91d1b1dc5effb9",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-devices.html",
     "summary": "Following our recent general availability launch for web, we are excited to announce that speech translation is now rolling out to the Meet Android and iOS apps. The feature allows audio to be translated to other languages in near-real-time, helping global teams communicate more naturally and...",
     "date": "2026-04-08T20:28:00+00:00"
-  },
-  {
-    "id": "f970638aaa15439b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Migration update on restricted access items",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/migration-update-on-restricted-access-items.html",
-    "summary": "Last year, we stopped allowing restricted access on specific files and folders within a shared folder in Google Drive, and instead required that restricted access be managed consistently via the limited access folder setting. With this update, all items with legacy restricted access will be...",
-    "date": "2026-04-07T19:29:00+00:00"
   }
 ]
