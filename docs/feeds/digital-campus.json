@@ -640,6 +640,56 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "2b36bdbd68e3d609",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Enhance SMS APIs with delivery status and sorting options",
+    "link": "https://developers.zoom.us/changelog/phone/april-23-2026",
+    "summary": "Tags: api-release | Adds a `delivery_status` response field to SMS session and message endpoints, and introduces a `sort `request field to SMS session APIs to control result ordering.",
+    "date": "2026-04-23T00:00:00+00:00"
+  },
+  {
+    "id": "c0c03e707a3de896",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New fields in various existing APIs",
+    "link": "https://developers.zoom.us/changelog/commerce/april-20-2026",
+    "summary": "Tags: api-release | New response fields in the multiple Quote and Order APIs. New request fields in multiple Quote, Order, and Account Management APIs.",
+    "date": "2026-04-20T00:00:00+00:00"
+  },
+  {
+    "id": "3324c5e57067f3e2",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 5.4.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/android/5.4.0",
+    "summary": "Tags: sdk-version | Added network monitoring.",
+    "date": "2026-04-20T00:00:00+00:00"
+  },
+  {
+    "id": "ad8e61117baaae39",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "A dozen new endpoints, two new events, and several new fields in existing endpoints and events",
+    "link": "https://developers.zoom.us/changelog/contact-center/april-20-2026",
+    "summary": "Tags: api-release | Twelve new endpoints and two new webhook events; new request and response fields.",
+    "date": "2026-04-20T00:00:00+00:00"
+  },
+  {
+    "id": "81886f548fafc7e2",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 5.4.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/ios/5.4.0",
+    "summary": "Tags: sdk-version | Added network monitoring.",
+    "date": "2026-04-20T00:00:00+00:00"
+  },
+  {
     "id": "878c2a73c72c972a",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -948,55 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/expanded-notebooklm-capabilities-for-Education-Plus-and-Teaching-and-Learning-add-on-customers.html",
     "summary": "We’re increasing limits across NotebookLM features for customers with Google Workspace for Education Plus or a Teaching and Learning add-on license at no additional cost. Users will now see a Plus badge next to their profile picture, indicating access to higher usage thresholds.Users with Google...",
     "date": "2026-04-13T15:28:00+00:00"
-  },
-  {
-    "id": "c99143abde27490a",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - April 10, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/weekly-recap-04-10-2026.html",
-    "summary": "Book Google Workspace resources from third-party calendarsOrganizations that use both Google Workspace and other calendaring systems, like Microsoft Outlook, can now more easily coordinate shared resources, such as rooms, projectors, or company cars. | Learn more about how to book Google Workspace...",
-    "date": "2026-04-10T21:04:00+00:00"
-  },
-  {
-    "id": "b3d51cb140e150ca",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Form Outline Download",
-    "link": "https://announcekit.app/kuali/announcements/new-form-outline-download-2pu0M0",
-    "summary": "You can now download a complete, review-ready outline of your form directly from the form designer (either the saved Draft or Published vers...",
-    "date": "2026-03-25T22:00:00+00:00"
-  },
-  {
-    "id": "f744ef7df3f80a5b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Expanding access to longer musical tracks in the Gemini app",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/expanding-access-to-longer-musical-tracks-in-the-Gemini-app.html",
-    "summary": "Last month, we introduced Lyria 3 Pro in the Gemini app for select Business, Enterprise, and Education editions. Starting today, more users can create longer tracks with Lyria 3 Pro in the Gemini app.Lyria 3 Pro allows users to create tracks up to three minutes long, with customization and creative...",
-    "date": "2026-04-09T19:09:00+00:00"
-  },
-  {
-    "id": "60a30fd1c2d9f2cd",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New response fields in Zoom Webinar accounts and users API endpoints",
-    "link": "https://developers.zoom.us/changelog/users/april-09-2026",
-    "summary": "Tags: api-release | Added new `zoom_webinars_plus_unlimited` and `zoom_webinars_plus_unlimited_capacities` fields for Users GET and PATCH endpoints.",
-    "date": "2026-04-09T00:00:00+00:00"
-  },
-  {
-    "id": "dec7c877391d295c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gmail end-to-end encryption now available on mobile devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/gmail-end-to-end-encryption-now-available-on-mobile-devices.html",
-    "summary": "We’re expanding Gmail end-to-end encryption (E2EE) to Android and iOS devices for Gmail client-side encryption (CSE) users. With Gmail E2EE, your users can confidentially engage with your organization's most sensitive data from anywhere on their mobile devices while ensuring data remains compliant...",
-    "date": "2026-04-09T17:26:00+00:00"
   }
 ]
