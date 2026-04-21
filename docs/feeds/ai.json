@@ -1,5 +1,15 @@
 [
   {
+    "id": "9edbf1414a9f521d",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "ImageGen 2.0",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-04-21T19:34:34.691783+00:00"
+  },
+  {
     "id": "01ef066c52637ba9",
     "product_id": "chatgpt",
     "product_name": "ChatGPT",
