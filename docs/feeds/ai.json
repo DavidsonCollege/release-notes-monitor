@@ -1,13 +1,13 @@
 [
   {
-    "id": "9edbf1414a9f521d",
+    "id": "ecfd635d65b9b4f7",
     "product_id": "chatgpt",
     "product_name": "ChatGPT",
     "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "ImageGen 2.0",
+    "title": "ChatGPT Images 2.0",
     "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "summary": "",
-    "date": "2026-04-21T19:34:34.691783+00:00"
+    "date": "2026-04-22T04:33:43.555130+00:00"
   },
   {
     "id": "01ef066c52637ba9",
@@ -148,6 +148,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: The most helpful AI assistant is one that understands your preferences and past conversations. Starting over with a new assistant can feel daunting, so we created these tools to let you quickly get Gemini up to speed on what matters most to you without starting from scratch. By bringing over...",
     "date": "2026-03-26T19:31:36.605341+00:00"
+  },
+  {
+    "id": "9edbf1414a9f521d",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "ImageGen 2.0",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-04-21T19:34:34.691783+00:00"
   },
   {
     "id": "0505595af11b9f47",
