@@ -710,6 +710,46 @@
     "date": "2026-04-17T17:04:54+00:00"
   },
   {
+    "id": "d9aadb2bbda518a4",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New webinar dashboard fields for AI conversation and meeting summary",
+    "link": "https://developers.zoom.us/changelog/accounts/april-23-2026",
+    "summary": "Tags: api-release | Adds `has_aic_conversation` and `has_meeting_summary` response fields to webinar Dashboard APIs to indicate the availability of AI-generated conversation and meeting summary data.",
+    "date": "2026-04-23T00:00:00+00:00"
+  },
+  {
+    "id": "9a752204951c7518",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Four new response fields across two Billing API endpoints",
+    "link": "https://developers.zoom.us/changelog/billing/april-23-2026",
+    "summary": "Tags: api-release | Four new response fields across two Billing API endpoints.",
+    "date": "2026-04-23T00:00:00+00:00"
+  },
+  {
+    "id": "d54ce50e61641706",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add PATCH endpoint and tags field to Clips APIs",
+    "link": "https://developers.zoom.us/changelog/clips/april-23-2026",
+    "summary": "Tags: api-release | Adds a new `PATCH /v2/clips/{clipId} `API to update clips and introduces a tags response field across list and single Clips endpoints.",
+    "date": "2026-04-23T00:00:00+00:00"
+  },
+  {
+    "id": "6e02470016b68cb6",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New request fields in two Webinars APIs",
+    "link": "https://developers.zoom.us/changelog/meetings/april-23-2026",
+    "summary": "Tags: api-release | New request fields in two Webinars APIs.",
+    "date": "2026-04-23T00:00:00+00:00"
+  },
+  {
     "id": "2b36bdbd68e3d609",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -958,45 +998,5 @@
     "link": "https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-26300-8170-dev-channel/",
     "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8170 (KB 5083632) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.8170...",
     "date": "2026-04-10T19:02:11+00:00"
-  },
-  {
-    "id": "b05131967636d4b0",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26220.8165 (Beta Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-26220-8165-beta-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8165 (KB 5083635) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (i The post Announcing Windows 11 Insider Preview Build 26220.8165...",
-    "date": "2026-04-10T19:01:55+00:00"
-  },
-  {
-    "id": "f3e45ac525b4a384",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 28020.1803 (Canary Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/04/03/announcing-windows-11-insider-preview-build-28020-1803-canary-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1803 to the Canary Channel. (KB 5083824) What’s new in Canary Build 28020.1803 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1803 (Canary Channel) appeared first on Windows...",
-    "date": "2026-04-03T17:07:21+00:00"
-  },
-  {
-    "id": "7b7a2e4938949620",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.4.1 (25E253)",
-    "link": "https://developer.apple.com/news/releases/?id=04092026a",
-    "summary": "View downloadsView release notes",
-    "date": "2026-04-09T17:00:00+00:00"
-  },
-  {
-    "id": "68bf4e06214d3b4d",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "April 15 2026"
   }
 ]
