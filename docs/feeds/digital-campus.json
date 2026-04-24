@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "a795dde68778e0de",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - April 24, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/weekly-recap-04-24-2026.html",
+    "summary": "Seamlessly join meetings on Google Meet hardware with “Connect Room”In December 2025, we introduced Connect room to organizations on the Rapid Release track enrolled in Early Preview Rooms. We’re excited to announce that this feature is now rolling out to all Workspace customers with Google Meet...",
+    "date": "2026-04-24T21:14:00+00:00"
+  },
+  {
     "id": "4d902347d2cf8702",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/create-custom-branded-avatars-in-google-vids-with-Nano-Banana-2.html",
     "summary": "Starting today, you can brand your custom avatars in Google Vids by uploading a logo of your choice and using the power of Nano Banana 2 to refine how it appears on screen. You now have the creative control to ensure your AI-generated presenters align with your organization's visual identity.Brand...",
     "date": "2026-04-22T14:46:00+00:00"
-  },
-  {
-    "id": "c0cbe9da1e3e5b01",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "AI Overviews in Drive now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/ai-overviews-in-drive-now-generally-available.html",
-    "summary": "In March, we announced a beta for AI Overviews in Drive. This feature is now generally available and has started rolling out to eligible Google Workspace and Google AI plans.Instead of searching through endless files and opening dozens of tabs to find the information you need, you can now get...",
-    "date": "2026-04-22T14:43:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-23T00:00:00+00:00"
   },
   {
+    "id": "c0cbe9da1e3e5b01",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "AI Overviews in Drive now generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/ai-overviews-in-drive-now-generally-available.html",
+    "summary": "In March, we announced a beta for AI Overviews in Drive. This feature is now generally available and has started rolling out to eligible Google Workspace and Google AI plans.Instead of searching through endless files and opening dozens of tabs to find the information you need, you can now get...",
+    "date": "2026-04-22T14:43:00+00:00"
+  },
+  {
     "id": "6c69a5955f64668a",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -988,15 +998,5 @@
     "link": "https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-28020-1812-canary-channel/",
     "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1812 to the Canary Channel. (KB 5083824) What’s new in Canary Build 28020.1812 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1812 (Canary Channel) appeared first on Windows...",
     "date": "2026-04-10T19:03:43+00:00"
-  },
-  {
-    "id": "c516244571eb89cb",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build for Canary Channel 29565.1000",
-    "link": "https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-for-canary-channel-29565-1000/",
-    "summary": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29565.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29565.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29565.1000...",
-    "date": "2026-04-10T19:02:26+00:00"
   }
 ]
