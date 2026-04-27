@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "ff9960b046e89810",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Students can now create personal class notebooks with NotebookLM in Google Classroom",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/students-can-now-create-personal-class-notebooks-with-NotebookLM-in-Google-Classroom.html",
+    "summary": "Last year, we announced that educators can use NotebookLM to create teacher-led AI experiences for students in Google Classroom, based on their class materials. Since then, students have been able to access their teachers’ interactive study guides and other learning aids created with NotebookLM for...",
+    "date": "2026-04-27T21:09:00+00:00"
+  },
+  {
     "id": "a795dde68778e0de",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/search-faster-and-smarter-with-ai-overviews-in-Gmail-search.html",
     "summary": "Your inbox is full of critical information that you need to get your work done, but uncovering it shouldn't mean running endless searches just to sift through fragmented email threads. With AI Overviews in Gmail search, you can now ask natural language questions in Gmail’s search bar and get...",
     "date": "2026-04-22T14:47:00+00:00"
-  },
-  {
-    "id": "772f1e3ada14bdf0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create custom branded avatars in Google Vids with Nano Banana 2",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/create-custom-branded-avatars-in-google-vids-with-Nano-Banana-2.html",
-    "summary": "Starting today, you can brand your custom avatars in Google Vids by uploading a logo of your choice and using the power of Nano Banana 2 to refine how it appears on screen. You now have the creative control to ensure your AI-generated presenters align with your organization's visual identity.Brand...",
-    "date": "2026-04-22T14:46:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-23T00:00:00+00:00"
   },
   {
+    "id": "772f1e3ada14bdf0",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create custom branded avatars in Google Vids with Nano Banana 2",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/create-custom-branded-avatars-in-google-vids-with-Nano-Banana-2.html",
+    "summary": "Starting today, you can brand your custom avatars in Google Vids by uploading a logo of your choice and using the power of Nano Banana 2 to refine how it appears on screen. You now have the creative control to ensure your AI-generated presenters align with your organization's visual identity.Brand...",
+    "date": "2026-04-22T14:46:00+00:00"
+  },
+  {
     "id": "9a752204951c7518",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=04132026c",
     "summary": "View downloadsView release notes",
     "date": "2026-04-13T17:00:00+00:00"
-  },
-  {
-    "id": "cef7e862bc115827",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Now available: The Gemini app for Mac",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/now-available-gemini-app-for-mac.html",
-    "summary": "Today, we’re bringing the Gemini app to macOS as a native desktop experience, designed to live right where you work. It’s always just a keyboard shortcut away, allowing you to quickly get the help you need without losing your focus.Here are a few ways you can use it right now:Stay in your flow:...",
-    "date": "2026-04-15T17:45:00+00:00"
   }
 ]
