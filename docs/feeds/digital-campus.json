@@ -710,6 +710,46 @@
     "date": "2026-04-17T17:04:54+00:00"
   },
   {
+    "id": "fc7a1a44f84224e5",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New response field for meeting metrics APIs",
+    "link": "https://developers.zoom.us/changelog/accounts/april-27-2026",
+    "summary": "Tags: api-release | Introduced a new `has_aic_conversation` response field in Dashboards meeting metrics APIs to indicate whether a meeting includes an AI Companion conversation.",
+    "date": "2026-04-27T00:00:00+00:00"
+  },
+  {
+    "id": "062ac9347806683a",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New emoji and reaction fields to chat session reports API",
+    "link": "https://developers.zoom.us/changelog/chat/april-27-2026",
+    "summary": "Tags: api-release | Introduced `emoji_actions` and `include_reaction_recent_changed `response fields in the Reports chat session API to provide enhanced visibility into emoji usage and recent reaction updates.",
+    "date": "2026-04-27T00:00:00+00:00"
+  },
+  {
+    "id": "d329f6f3709829ba",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 3.4.0",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.4.0",
+    "summary": "Tags: sdk-version | Improves session transfer capabilities and enhances performance metrics and page synchronization.",
+    "date": "2026-04-27T00:00:00+00:00"
+  },
+  {
+    "id": "49c6f2645dd87172",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New fields in Reports V2 (CX Analytics) APIs",
+    "link": "https://developers.zoom.us/changelog/contact-center/april-27-2026",
+    "summary": "Tags: api-release | Four new fields in two Reports V2 (CX Analytics) APIs.",
+    "date": "2026-04-27T00:00:00+00:00"
+  },
+  {
     "id": "d9aadb2bbda518a4",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -958,45 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/now-available-gemini-app-for-mac.html",
     "summary": "Today, we’re bringing the Gemini app to macOS as a native desktop experience, designed to live right where you work. It’s always just a keyboard shortcut away, allowing you to quickly get the help you need without losing your focus.Here are a few ways you can use it right now:Stay in your flow:...",
     "date": "2026-04-15T17:45:00+00:00"
-  },
-  {
-    "id": "3218f8844f70fc26",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "March 13, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/47265807993492-March-13-2026",
-    "summary": "",
-    "date": "2026-03-16T15:49:25Z"
-  },
-  {
-    "id": "5d91d1b1dc5effb9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New more expressive AI voiceovers in Google Vids, and 16 additional languages, powered by Gemini 3.1 Flash TTS",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/new-more-expressive-ai-voiceovers-in-Google-Vids-and-16-additional-languages-powered-by-Gemini-3.1-Flash-TTS.html",
-    "summary": "With the release of our new Gemini 3.1 Flash Text-To-Speech (TTS) model, AI voiceovers in Google Vids now include 30 new conversational voice options that better capture natural expression and realism. All 30 AI voiceover options are now supported in 24 different languages.You can test these new...",
-    "date": "2026-04-15T16:03:00+00:00"
-  },
-  {
-    "id": "8108edf1c0780a51",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini in Google Classroom is now available in all Classroom-supported languages",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/gemini-in-google-classroom-is-now-available-in-all-Classroom-supported-languages.html",
-    "summary": "Last year, we launched Gemini in Google Classroom in English to support educators with planning and creating engaging lessons, and to help students in higher education to study and learn. Starting this week, we’re beginning to expand availability to all Classroom-supported languages in which Gemini...",
-    "date": "2026-04-14T16:23:00+00:00"
-  },
-  {
-    "id": "c1caef481a73e2f3",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Additional BYOD peripheral switchers certified for Google Meet in ChromeOS touch controller rooms",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/additional-byod-peripheral-switchers-certified-for-Google-Meet-in-ChromeOS-touch-controller-rooms.html",
-    "summary": "We have certified additional Lightware peripheral switchers, so that you and your team can bring your own devices (BYOD) to Google Meet on ChromeOS touch controller rooms. The new devices bring improvements for video processing, networking, connectivity and security.Plug your laptop into a Meet...",
-    "date": "2026-04-13T16:24:00+00:00"
   }
 ]
