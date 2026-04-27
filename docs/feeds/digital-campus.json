@@ -360,14 +360,14 @@
     "date": "2026-04-03T16:50:15+00:00"
   },
   {
-    "id": "750c847736f2eb0a",
+    "id": "43221276b1fb8908",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.5 beta 3 (25F5058e)",
-    "link": "https://developer.apple.com/news/releases/?id=04202026c",
+    "title": "macOS 26.5 beta 4 (25F5068a)",
+    "link": "https://developer.apple.com/news/releases/?id=04272026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-04-20T17:00:00+00:00"
+    "date": "2026-04-27T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -760,6 +760,16 @@
     "date": "2026-04-23T00:00:00+00:00"
   },
   {
+    "id": "750c847736f2eb0a",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.5 beta 3 (25F5058e)",
+    "link": "https://developer.apple.com/news/releases/?id=04202026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-04-20T17:00:00+00:00"
+  },
+  {
     "id": "c0cbe9da1e3e5b01",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/additional-byod-peripheral-switchers-certified-for-Google-Meet-in-ChromeOS-touch-controller-rooms.html",
     "summary": "We have certified additional Lightware peripheral switchers, so that you and your team can bring your own devices (BYOD) to Google Meet on ChromeOS touch controller rooms. The new devices bring improvements for video processing, networking, connectivity and security.Plug your laptop into a Meet...",
     "date": "2026-04-13T16:24:00+00:00"
-  },
-  {
-    "id": "386e45d918e9f48a",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 28020.1812 (Canary Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-28020-1812-canary-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1812 to the Canary Channel. (KB 5083824) What’s new in Canary Build 28020.1812 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1812 (Canary Channel) appeared first on Windows...",
-    "date": "2026-04-10T19:03:43+00:00"
   }
 ]
