@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "e92e645f855525a3",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Workspace audit logs: New functionality and expanded event fields in the Admin console",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/workspace-audit-logs-new-functionality-and-expanded-event-fields-in-the-admin-console.html",
+    "summary": "Today we’re announcing the release of several enhancements to deepen the security investigation capabilities of the Workspace audit log, including expanded fields across many data sources.These new enhancements include:Introduction of owner details for resource attributeExpansion of resource and...",
+    "date": "2026-04-29T18:57:00+00:00"
+  },
+  {
     "id": "ff9960b046e89810",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/use-your-gems-in-your-google-workspace-studio-flows.html",
     "summary": "We are integrating Gems into Google Workspace Studio as a step that you can add to your flows.The Ask a Gem step allows you to have your flows send a prompt to private Gems to automate tasks like creating summaries or writing documents. You can use any Gem with Drive files in its knowledge base...",
     "date": "2026-04-22T14:49:00+00:00"
-  },
-  {
-    "id": "811583b7d7d6f1f3",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing data import: An easier, faster, and higher-fidelity migration to Google Workspace at no additional tool cost",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/introducing-data-import-easier-faster-and-higher-fidelity-migration-to-Google-Workspace-at-no-additional-tool-cost.html",
-    "summary": "For enterprises, data migrations and change management for a new productivity and collaboration platform can feel daunting and create business disruption across the organization. Not anymore. Today, we are excited to announce the general availability of our new Google Workspace data migration tool...",
-    "date": "2026-04-22T14:48:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-23T00:00:00+00:00"
   },
   {
+    "id": "811583b7d7d6f1f3",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing data import: An easier, faster, and higher-fidelity migration to Google Workspace at no additional tool cost",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/introducing-data-import-easier-faster-and-higher-fidelity-migration-to-Google-Workspace-at-no-additional-tool-cost.html",
+    "summary": "For enterprises, data migrations and change management for a new productivity and collaboration platform can feel daunting and create business disruption across the organization. Not anymore. Today, we are excited to announce the general availability of our new Google Workspace data migration tool...",
+    "date": "2026-04-22T14:48:00+00:00"
+  },
+  {
     "id": "4118cadf17c26ea1",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/ui-toolkit/web/2.4.0-1",
     "summary": "Tags: bug-fix, sdk-version | Added ISO Recording feature and enhanced subsession management. Supported manual share view attachment and detachment. Fixed self-video rotation dimensions and footer menu display issues.",
     "date": "2026-04-09T00:00:00+00:00"
-  },
-  {
-    "id": "92aca7ce8a209770",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "April 16 2026"
   }
 ]
