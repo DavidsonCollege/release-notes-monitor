@@ -230,6 +230,16 @@
     "date": "2026-04-27T21:09:00+00:00"
   },
   {
+    "id": "78d37d7e8467e766",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Move from conversation to creation with file generation in Gemini",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/move-from-conversation-to-creation-with-file-generation-in-Gemini.html",
+    "summary": "Gemini can now transform your ideas, using conversational prompts, directly into thoughtfully formatted files, such as Google Docs, Sheets, and Slides, PDFs and more, directly in your chats with Gemini. This feature bridges the gap between brainstorming and ready-to-share files, allowing you to...",
+    "date": "2026-04-27T15:02:00+00:00"
+  },
+  {
     "id": "a795dde68778e0de",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/introducing-data-import-easier-faster-and-higher-fidelity-migration-to-Google-Workspace-at-no-additional-tool-cost.html",
     "summary": "For enterprises, data migrations and change management for a new productivity and collaboration platform can feel daunting and create business disruption across the organization. Not anymore. Today, we are excited to announce the general availability of our new Google Workspace data migration tool...",
     "date": "2026-04-22T14:48:00+00:00"
-  },
-  {
-    "id": "4118cadf17c26ea1",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Search faster and smarter with AI Overviews in Gmail search",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/search-faster-and-smarter-with-ai-overviews-in-Gmail-search.html",
-    "summary": "Your inbox is full of critical information that you need to get your work done, but uncovering it shouldn't mean running endless searches just to sift through fragmented email threads. With AI Overviews in Gmail search, you can now ask natural language questions in Gmail’s search bar and get...",
-    "date": "2026-04-22T14:47:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-23T00:00:00+00:00"
   },
   {
+    "id": "4118cadf17c26ea1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Search faster and smarter with AI Overviews in Gmail search",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/search-faster-and-smarter-with-ai-overviews-in-Gmail-search.html",
+    "summary": "Your inbox is full of critical information that you need to get your work done, but uncovering it shouldn't mean running endless searches just to sift through fragmented email threads. With AI Overviews in Gmail search, you can now ask natural language questions in Gmail’s search bar and get...",
+    "date": "2026-04-22T14:47:00+00:00"
+  },
+  {
     "id": "772f1e3ada14bdf0",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "April 16 2026"
-  },
-  {
-    "id": "11e21e0b233078cd",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.5 beta 2 (25F5053d)",
-    "link": "https://developer.apple.com/news/releases/?id=04132026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-04-13T17:00:00+00:00"
   }
 ]
