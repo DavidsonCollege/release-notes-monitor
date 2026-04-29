@@ -310,6 +310,56 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "9c08d376aceaaf32",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "UPDATE: Updates to How Table Gadget Data is Returned Via API (now scheduled for May 10, 2026)",
+    "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-may-10-2026-4ACIYU",
+    "summary": "Based on customer feedback, we’re postponing the update to how Table gadget data is formatted in API JSON responses to May 10, 2026 to allow...",
+    "date": "2026-04-15T21:00:00+00:00"
+  },
+  {
+    "id": "b925dbd94822ceaa",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Collapsible Sections",
+    "link": "https://announcekit.app/kuali/announcements/new-collapsible-sections-3LwVzi",
+    "summary": "You can now expand and collapse Sections in the Form Designer—making it much easier to work with large, complex forms. Why This MattersManag...",
+    "date": "2026-04-15T19:05:00+00:00"
+  },
+  {
+    "id": "f5a6c0aca978cabb",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "March 2026 Release Announcement",
+    "link": "https://announcekit.app/kuali/announcements/march-2026-release-announcement-12lIZO",
+    "summary": "improvements Admin preview for streamlined UI updatesPerformance improvementsAccessibility Improvementsfeature Hierarchical group selectio...",
+    "date": "2026-04-14T18:40:00+00:00"
+  },
+  {
+    "id": "8f69cdb419c85fe3",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Hierarchical Group Selection in Data Lookup Gadgets",
+    "link": "https://announcekit.app/kuali/announcements/new-hierarchical-group-selection-in-data-lookup-gadgets-1VYPrq",
+    "summary": "You can now select Groups from within your organizational blueprint hierarchy in a single lookup. Form designers can enable a new setting—...",
+    "date": "2026-04-06T17:25:00+00:00"
+  },
+  {
+    "id": "80762f228c0d3a19",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "UPDATE: Updates to How Table Gadget Data is Returned Via API (now scheduled for April 19, 2026)",
+    "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-april-19-2026-2kXwT6",
+    "summary": "We’re postponing updates to how Table gadget data is formatted in API JSON responses (see the original announcement for details). To allow a...",
+    "date": "2026-04-03T16:50:15+00:00"
+  },
+  {
     "id": "43221276b1fb8908",
     "product_id": "macos",
     "product_name": "macOS",
@@ -708,56 +758,6 @@
     "link": "https://developers.zoom.us/changelog/accounts/april-23-2026",
     "summary": "Tags: api-release | Adds `has_aic_conversation` and `has_meeting_summary` response fields to webinar Dashboard APIs to indicate the availability of AI-generated conversation and meeting summary data.",
     "date": "2026-04-23T00:00:00+00:00"
-  },
-  {
-    "id": "9c08d376aceaaf32",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "UPDATE: Updates to How Table Gadget Data is Returned Via API (now scheduled for May 10, 2026)",
-    "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-may-10-2026-4ACIYU",
-    "summary": "Based on customer feedback, we’re postponing the update to how Table gadget data is formatted in API JSON responses to May 10, 2026 to allow...",
-    "date": "2026-04-15T21:00:00+00:00"
-  },
-  {
-    "id": "b925dbd94822ceaa",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Collapsible Sections",
-    "link": "https://announcekit.app/kuali/announcements/new-collapsible-sections-3LwVzi",
-    "summary": "You can now expand and collapse Sections in the Form Designer—making it much easier to work with large, complex forms. Why This MattersManag...",
-    "date": "2026-04-15T19:05:00+00:00"
-  },
-  {
-    "id": "f5a6c0aca978cabb",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "March 2026 Release Announcement",
-    "link": "https://announcekit.app/kuali/announcements/march-2026-release-announcement-12lIZO",
-    "summary": "improvements Admin preview for streamlined UI updatesPerformance improvementsAccessibility Improvementsfeature Hierarchical group selectio...",
-    "date": "2026-04-14T18:40:00+00:00"
-  },
-  {
-    "id": "8f69cdb419c85fe3",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Hierarchical Group Selection in Data Lookup Gadgets",
-    "link": "https://announcekit.app/kuali/announcements/new-hierarchical-group-selection-in-data-lookup-gadgets-1VYPrq",
-    "summary": "You can now select Groups from within your organizational blueprint hierarchy in a single lookup. Form designers can enable a new setting—...",
-    "date": "2026-04-06T17:25:00+00:00"
-  },
-  {
-    "id": "80762f228c0d3a19",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "UPDATE: Updates to How Table Gadget Data is Returned Via API (now scheduled for April 19, 2026)",
-    "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-april-19-2026-2kXwT6",
-    "summary": "We’re postponing updates to how Table gadget data is formatted in API JSON responses (see the original announcement for details). To allow a...",
-    "date": "2026-04-03T16:50:15+00:00"
   },
   {
     "id": "772f1e3ada14bdf0",
