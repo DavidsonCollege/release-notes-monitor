@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 CONFIG_FILE = BASE_DIR / "config" / "teams.json"
 
 # Placeholder bell icon for the test card
-TEST_ICON_URL = "https://cdn-icons-png.flaticon.com/512/1827/1827422.png"
+TEST_ICON_URL = "https://raw.githubusercontent.com/DavidsonCollege/ti-assets/main/release-notes-monitor-icon-square.png"
 
 
 def create_test_item(team: dict, base_url: str) -> dict:
