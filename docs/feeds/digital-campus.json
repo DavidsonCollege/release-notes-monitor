@@ -710,6 +710,36 @@
     "date": "2026-04-17T17:04:54+00:00"
   },
   {
+    "id": "bf73d30726c86c50",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New API to decrypt customer managed keys",
+    "link": "https://developers.zoom.us/changelog/keybroker-keyconnector/april-30-2026",
+    "summary": "Tags: api-release | New API to decrypt customer managed keys.",
+    "date": "2026-04-30T00:00:00+00:00"
+  },
+  {
+    "id": "6d990f4ba121d6d7",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Introducing Testing for Zoom Rooms apps",
+    "link": "https://developers.zoom.us/changelog/rooms/introducing-testing-for-zoom-rooms-apps",
+    "summary": "Tags: new-feature | Guide to testing Zoom Rooms apps, setup, and debug workflow.",
+    "date": "2026-04-30T00:00:00+00:00"
+  },
+  {
+    "id": "eb044656ade70448",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New request fields in Organizational Groups, Imports, Users, Scheduling Groups, and Filter Groups APIs",
+    "link": "https://developers.zoom.us/changelog/workforce-management/april-30-2026",
+    "summary": "Tags: api-release | New request fields in Organizational Groups, Imports, Users, Scheduling Groups, and Filter Groups APIs.",
+    "date": "2026-04-30T00:00:00+00:00"
+  },
+  {
     "id": "fc7a1a44f84224e5",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -968,35 +998,5 @@
     "link": "https://developers.zoom.us/changelog/commerce/april-13-2026",
     "summary": "Tags: api-release | Added new endpoints to Order API for response field old_subscription_pricelist_id and subscription_pricelist_id.",
     "date": "2026-04-13T00:00:00+00:00"
-  },
-  {
-    "id": "5e018aa44f2d112c",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Chat MCP API for sending messages",
-    "link": "https://developers.zoom.us/changelog/chat/april-09-2026",
-    "summary": "Tags: api-release | Introduces the Chat MCP API to send messages in Zoom Chat using the `POST /v2/zoomchat/message` endpoint.",
-    "date": "2026-04-09T00:00:00+00:00"
-  },
-  {
-    "id": "bc73adff60350813",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New File Management API",
-    "link": "https://developers.zoom.us/changelog/docs/april-09-2026",
-    "summary": "Tags: api-release | Added new endpoint for File Management API.",
-    "date": "2026-04-09T00:00:00+00:00"
-  },
-  {
-    "id": "ff20a1b7bf680ad0",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Zoom Claude Connector - Now available!",
-    "link": "https://developers.zoom.us/changelog/platform/zoom-claude-connector-now-available",
-    "summary": "Tags: new-feature | We are excited to announce the general availability of Zoom for Claude Connector, which allows users to use natural language within Anthropic’s Claude AI to search Zoom meeting assets, access recording resources, and generate summaries or action items from Zoom transcripts and...",
-    "date": "2026-04-09T00:00:00+00:00"
   }
 ]
