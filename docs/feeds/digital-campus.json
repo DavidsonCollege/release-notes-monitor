@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "e0f16989e5e0cb6c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New ways to customize AI-generated meeting notes",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/new-ways-to-customize-ai-generated-meeting-notes.html",
+    "summary": "We are giving users more control over \"Take notes for me\" in Google Meet with new customization options and an improved Decisions section.“Take notes for me” recently introduced customizations for meeting artifacts, such as the option to set your preferred level of detail for your notes. Now, users...",
+    "date": "2026-04-30T17:54:00+00:00"
+  },
+  {
     "id": "e92e645f855525a3",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/weekly-recap-04-24-2026.html",
     "summary": "Seamlessly join meetings on Google Meet hardware with “Connect Room”In December 2025, we introduced Connect room to organizations on the Rapid Release track enrolled in Early Preview Rooms. We’re excited to announce that this feature is now rolling out to all Workspace customers with Google Meet...",
     "date": "2026-04-24T21:14:00+00:00"
-  },
-  {
-    "id": "4d902347d2cf8702",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use your Gems in your Google Workspace Studio flows",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/use-your-gems-in-your-google-workspace-studio-flows.html",
-    "summary": "We are integrating Gems into Google Workspace Studio as a step that you can add to your flows.The Ask a Gem step allows you to have your flows send a prompt to private Gems to automate tasks like creating summaries or writing documents. You can use any Gem with Drive files in its knowledge base...",
-    "date": "2026-04-22T14:49:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-04-23T00:00:00+00:00"
   },
   {
+    "id": "4d902347d2cf8702",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Use your Gems in your Google Workspace Studio flows",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/use-your-gems-in-your-google-workspace-studio-flows.html",
+    "summary": "We are integrating Gems into Google Workspace Studio as a step that you can add to your flows.The Ask a Gem step allows you to have your flows send a prompt to private Gems to automate tasks like creating summaries or writing documents. You can use any Gem with Drive files in its knowledge base...",
+    "date": "2026-04-22T14:49:00+00:00"
+  },
+  {
     "id": "811583b7d7d6f1f3",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -987,16 +997,6 @@
     "title": "Zoom Claude Connector - Now available!",
     "link": "https://developers.zoom.us/changelog/platform/zoom-claude-connector-now-available",
     "summary": "Tags: new-feature | We are excited to announce the general availability of Zoom for Claude Connector, which allows users to use natural language within Anthropic’s Claude AI to search Zoom meeting assets, access recording resources, and generate summaries or action items from Zoom transcripts and...",
-    "date": "2026-04-09T00:00:00+00:00"
-  },
-  {
-    "id": "84b2c47d890e3c27",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 2.4.0-1",
-    "link": "https://developers.zoom.us/changelog/ui-toolkit/web/2.4.0-1",
-    "summary": "Tags: bug-fix, sdk-version | Added ISO Recording feature and enhanced subsession management. Supported manual share view attachment and detachment. Fixed self-video rotation dimensions and footer menu display issues.",
     "date": "2026-04-09T00:00:00+00:00"
   }
 ]
