@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "1b41371f53d95768",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - May 1, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/google-workspace-updates-weekly-recap.html",
+    "summary": "Move from conversation to creation with file generation in GeminiGemini can now transform your ideas, using conversational prompts, directly into thoughtfully formatted files, such as Google Docs, Sheets, and Slides, PDFs and more, directly in your chats with Gemini. | Learn more about how to move...",
+    "date": "2026-05-01T20:08:00+00:00"
+  },
+  {
     "id": "02173bb5cf678da3",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/workspace-audit-logs-new-functionality-and-expanded-event-fields-in-the-admin-console.html",
     "summary": "Today we’re announcing the release of several enhancements to deepen the security investigation capabilities of the Workspace audit log, including expanded fields across many data sources.These new enhancements include:Introduction of owner details for resource attributeExpansion of resource and...",
     "date": "2026-04-29T18:57:00+00:00"
-  },
-  {
-    "id": "ff9960b046e89810",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Students can now create personal class notebooks with NotebookLM in Google Classroom",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/students-can-now-create-personal-class-notebooks-with-NotebookLM-in-Google-Classroom.html",
-    "summary": "Last year, we announced that educators can use NotebookLM to create teacher-led AI experiences for students in Google Classroom, based on their class materials. Since then, students have been able to access their teachers’ interactive study guides and other learning aids created with NotebookLM for...",
-    "date": "2026-04-27T21:09:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,16 @@
     "date": "2026-04-27T00:00:00+00:00"
   },
   {
+    "id": "ff9960b046e89810",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Students can now create personal class notebooks with NotebookLM in Google Classroom",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/students-can-now-create-personal-class-notebooks-with-NotebookLM-in-Google-Classroom.html",
+    "summary": "Last year, we announced that educators can use NotebookLM to create teacher-led AI experiences for students in Google Classroom, based on their class materials. Since then, students have been able to access their teachers’ interactive study guides and other learning aids created with NotebookLM for...",
+    "date": "2026-04-27T21:09:00+00:00"
+  },
+  {
     "id": "78d37d7e8467e766",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -987,16 +997,6 @@
     "title": "A dozen new endpoints, two new events, and several new fields in existing endpoints and events",
     "link": "https://developers.zoom.us/changelog/contact-center/april-20-2026",
     "summary": "Tags: api-release | Twelve new endpoints and two new webhook events; new request and response fields.",
-    "date": "2026-04-20T00:00:00+00:00"
-  },
-  {
-    "id": "81886f548fafc7e2",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 5.4.0",
-    "link": "https://developers.zoom.us/changelog/contact-center/ios/5.4.0",
-    "summary": "Tags: sdk-version | Added network monitoring.",
     "date": "2026-04-20T00:00:00+00:00"
   }
 ]
