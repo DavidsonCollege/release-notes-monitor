@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "02173bb5cf678da3",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Takeout Transfer now supports Google Photos for Education users",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/google-takeout-transfer-now-supports.html",
+    "summary": "When users graduate or leave an organization, they can preserve their academic work by using Google Takeout Transfer to take their Google Drive and Gmail content with them. We’re now expanding Google Takeout Transfer to include Google Photos, allowing users to migrate their memories from their...",
+    "date": "2026-05-01T19:55:00+00:00"
+  },
+  {
+    "id": "9cc86c57a73b6911",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New: Agent tools and security updates for Google Workspace developers",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html",
+    "summary": "At Cloud Next ‘26, we announced a new suite of agent tools for Google Workspace, including a Workspace MCP server, command line interface (CLI), and remote MCP integrations. Today, we are opening the Workspace MCP server to public developer preview. As AI agents become a central part of how we...",
+    "date": "2026-05-01T18:52:00+00:00"
+  },
+  {
     "id": "e0f16989e5e0cb6c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/students-can-now-create-personal-class-notebooks-with-NotebookLM-in-Google-Classroom.html",
     "summary": "Last year, we announced that educators can use NotebookLM to create teacher-led AI experiences for students in Google Classroom, based on their class materials. Since then, students have been able to access their teachers’ interactive study guides and other learning aids created with NotebookLM for...",
     "date": "2026-04-27T21:09:00+00:00"
-  },
-  {
-    "id": "78d37d7e8467e766",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Move from conversation to creation with file generation in Gemini",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/move-from-conversation-to-creation-with-file-generation-in-Gemini.html",
-    "summary": "Gemini can now transform your ideas, using conversational prompts, directly into thoughtfully formatted files, such as Google Docs, Sheets, and Slides, PDFs and more, directly in your chats with Gemini. This feature bridges the gap between brainstorming and ready-to-share files, allowing you to...",
-    "date": "2026-04-27T15:02:00+00:00"
-  },
-  {
-    "id": "a795dde68778e0de",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - April 24, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/weekly-recap-04-24-2026.html",
-    "summary": "Seamlessly join meetings on Google Meet hardware with “Connect Room”In December 2025, we introduced Connect room to organizations on the Rapid Release track enrolled in Early Preview Rooms. We’re excited to announce that this feature is now rolling out to all Workspace customers with Google Meet...",
-    "date": "2026-04-24T21:14:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,26 @@
     "date": "2026-04-27T00:00:00+00:00"
   },
   {
+    "id": "78d37d7e8467e766",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Move from conversation to creation with file generation in Gemini",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/move-from-conversation-to-creation-with-file-generation-in-Gemini.html",
+    "summary": "Gemini can now transform your ideas, using conversational prompts, directly into thoughtfully formatted files, such as Google Docs, Sheets, and Slides, PDFs and more, directly in your chats with Gemini. This feature bridges the gap between brainstorming and ready-to-share files, allowing you to...",
+    "date": "2026-04-27T15:02:00+00:00"
+  },
+  {
+    "id": "a795dde68778e0de",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - April 24, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/weekly-recap-04-24-2026.html",
+    "summary": "Seamlessly join meetings on Google Meet hardware with “Connect Room”In December 2025, we introduced Connect room to organizations on the Rapid Release track enrolled in Early Preview Rooms. We’re excited to announce that this feature is now rolling out to all Workspace customers with Google Meet...",
+    "date": "2026-04-24T21:14:00+00:00"
+  },
+  {
     "id": "4861482635a84858",
     "product_id": "ninjaone",
     "product_name": "NinjaOne",
@@ -978,25 +998,5 @@
     "link": "https://developers.zoom.us/changelog/contact-center/ios/5.4.0",
     "summary": "Tags: sdk-version | Added network monitoring.",
     "date": "2026-04-20T00:00:00+00:00"
-  },
-  {
-    "id": "0099dfdabaca0269",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Seamlessly join meetings on Google Meet hardware with “Connect Room”",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/seamlessly-join-meetings-on-google-meet-hardware-with-Connect-Room.html",
-    "summary": "In December 2025, we introduced Connect room to organizations on the Rapid Release track enrolled in Early Preview Rooms. We’re excited to announce that this feature is now rolling out to all Workspace customers with Google Meet hardware. This feature allows users to start or join meetings from...",
-    "date": "2026-04-20T14:43:00+00:00"
-  },
-  {
-    "id": "99a7ee048fb293eb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - April 17, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/weekly-recap-04-17-2026.html",
-    "summary": "Expanded NotebookLM capabilities for Education Plus and Teaching and Learning add-on customersWe’re increasing limits across NotebookLM features for customers with Google Workspace for Education Plus or a Teaching and Learning add-on license at no additional cost. Users will now see a Plus badge...",
-    "date": "2026-04-17T20:58:00+00:00"
   }
 ]
