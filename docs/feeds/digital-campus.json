@@ -700,12 +700,12 @@
     "date": "2026-04-17T17:04:54+00:00"
   },
   {
-    "id": "bf73d30726c86c50",
+    "id": "13b0069cb10329a5",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
     "title": "New API to decrypt customer managed keys",
-    "link": "https://developers.zoom.us/changelog/keybroker-keyconnector/april-30-2026",
+    "link": "https://developers.zoom.us/changelog/customer-managed-keys-hybrid/april-30-2026",
     "summary": "Tags: api-release | New API to decrypt customer managed keys.",
     "date": "2026-04-30T00:00:00+00:00"
   },
@@ -748,6 +748,16 @@
     "link": "https://developers.zoom.us/changelog/chat/april-27-2026",
     "summary": "Tags: api-release | Introduced `emoji_actions` and `include_reaction_recent_changed `response fields in the Reports chat session API to provide enhanced visibility into emoji usage and recent reaction updates.",
     "date": "2026-04-27T00:00:00+00:00"
+  },
+  {
+    "id": "bf73d30726c86c50",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New API to decrypt customer managed keys",
+    "link": "https://developers.zoom.us/changelog/keybroker-keyconnector/april-30-2026",
+    "summary": "Tags: api-release | New API to decrypt customer managed keys.",
+    "date": "2026-04-30T00:00:00+00:00"
   },
   {
     "id": "ff9960b046e89810",
@@ -987,16 +997,6 @@
     "title": "Version 5.4.0",
     "link": "https://developers.zoom.us/changelog/contact-center/android/5.4.0",
     "summary": "Tags: sdk-version | Added network monitoring.",
-    "date": "2026-04-20T00:00:00+00:00"
-  },
-  {
-    "id": "ad8e61117baaae39",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "A dozen new endpoints, two new events, and several new fields in existing endpoints and events",
-    "link": "https://developers.zoom.us/changelog/contact-center/april-20-2026",
-    "summary": "Tags: api-release | Twelve new endpoints and two new webhook events; new request and response fields.",
     "date": "2026-04-20T00:00:00+00:00"
   }
 ]
