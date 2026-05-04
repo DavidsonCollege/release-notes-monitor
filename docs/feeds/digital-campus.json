@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "4ba762649f806c34",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Securely manage AI and agent access to Workspace data with the AI control center",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/securely-manage-AI-and-agent-access-to-Workspace-data-with-the-AI-control-center.html",
+    "summary": "Securely managing access for generative AI and agent actions to Workspace data is easier ever than before with the new AI control center in the Admin console. This new capability gives enterprise organizations greater visibility and control, especially for teams with stringent data security and...",
+    "date": "2026-05-04T19:04:00+00:00"
+  },
+  {
     "id": "d1d03d0da7685e70",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -260,14 +270,44 @@
     "date": "2026-05-01T18:52:00+00:00"
   },
   {
-    "id": "e0f16989e5e0cb6c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New ways to customize AI-generated meeting notes",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/new-ways-to-customize-ai-generated-meeting-notes.html",
-    "summary": "We are giving users more control over \"Take notes for me\" in Google Meet with new customization options and an improved Decisions section.“Take notes for me” recently introduced customizations for meeting artifacts, such as the option to set your preferred level of detail for your notes. Now, users...",
-    "date": "2026-04-30T17:54:00+00:00"
+    "id": "f797e86c07e10880",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Weekly Recap - 02.13.2026",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-02132026",
+    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🆕 New & Enhanced - Enhanced Proof of Play (POP) with **Hourly Reporting**, giving all customers more granular visibility into content performance throughout the day. - Improved Proof of Play to ensure reporting data...",
+    "date": "2026-02-13T15:38:48+00:00"
+  },
+  {
+    "id": "3f5b910c597cabb5",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Product Recap - 01.12.2026",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-01122026",
+    "summary": "We're constantly working to improve Korbyt. Here's what we were up to over the break and last week week: 🆕 New & Enhanced - **Secrets API: Credential Management** — IT Admins can now securely manage the lifecycle of API credentials using a centralized Secrets API. This includes creating, listing,...",
+    "date": "2026-01-12T16:36:21+00:00"
+  },
+  {
+    "id": "ceaabe1754b3907a",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Release Recap - 12.05.2025",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-release-recap-12052025",
+    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🐞 Squashed Bugs - Fixed an issue where YouTube element showed an error due to recent changes in YouTube's Terms of Service. - Resolved a styling inheritance issue in Korbyt Create AI Layouts where elements did not...",
+    "date": "2025-12-05T15:05:58+00:00"
+  },
+  {
+    "id": "b0316679065746b8",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Product Recap - 11.21.2025",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-11212025",
+    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🆕 New & Enhanced - Added audio volume control for media in Korbyt Anywhere PWA, requested specifically to be used for Microsoft Teams Rooms use cases 🐞 Squashed Bugs - Fixed display issues in the NWS Weather Element...",
+    "date": "2025-11-21T16:13:40+00:00"
   },
   {
     "id": "9c08d376aceaaf32",
@@ -660,6 +700,16 @@
     "date": "2026-04-17T17:04:54+00:00"
   },
   {
+    "id": "8f6739cd166e1671",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New response field for Subscription API",
+    "link": "https://developers.zoom.us/changelog/commerce/may-04-2026",
+    "summary": "Tags: api-release | Added enhancements to Subscription API.",
+    "date": "2026-05-04T00:00:00+00:00"
+  },
+  {
     "id": "13b0069cb10329a5",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -700,6 +750,16 @@
     "date": "2026-04-27T00:00:00+00:00"
   },
   {
+    "id": "e0f16989e5e0cb6c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New ways to customize AI-generated meeting notes",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/new-ways-to-customize-ai-generated-meeting-notes.html",
+    "summary": "We are giving users more control over \"Take notes for me\" in Google Meet with new customization options and an improved Decisions section.“Take notes for me” recently introduced customizations for meeting artifacts, such as the option to set your preferred level of detail for your notes. Now, users...",
+    "date": "2026-04-30T17:54:00+00:00"
+  },
+  {
     "id": "062ac9347806683a",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -708,46 +768,6 @@
     "link": "https://developers.zoom.us/changelog/chat/april-27-2026",
     "summary": "Tags: api-release | Introduced `emoji_actions` and `include_reaction_recent_changed `response fields in the Reports chat session API to provide enhanced visibility into emoji usage and recent reaction updates.",
     "date": "2026-04-27T00:00:00+00:00"
-  },
-  {
-    "id": "f797e86c07e10880",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Weekly Recap - 02.13.2026",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-02132026",
-    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🆕 New & Enhanced - Enhanced Proof of Play (POP) with **Hourly Reporting**, giving all customers more granular visibility into content performance throughout the day. - Improved Proof of Play to ensure reporting data...",
-    "date": "2026-02-13T15:38:48+00:00"
-  },
-  {
-    "id": "3f5b910c597cabb5",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Product Recap - 01.12.2026",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-01122026",
-    "summary": "We're constantly working to improve Korbyt. Here's what we were up to over the break and last week week: 🆕 New & Enhanced - **Secrets API: Credential Management** — IT Admins can now securely manage the lifecycle of API credentials using a centralized Secrets API. This includes creating, listing,...",
-    "date": "2026-01-12T16:36:21+00:00"
-  },
-  {
-    "id": "ceaabe1754b3907a",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Release Recap - 12.05.2025",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-release-recap-12052025",
-    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🐞 Squashed Bugs - Fixed an issue where YouTube element showed an error due to recent changes in YouTube's Terms of Service. - Resolved a styling inheritance issue in Korbyt Create AI Layouts where elements did not...",
-    "date": "2025-12-05T15:05:58+00:00"
-  },
-  {
-    "id": "b0316679065746b8",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Product Recap - 11.21.2025",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-11212025",
-    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🆕 New & Enhanced - Added audio volume control for media in Korbyt Anywhere PWA, requested specifically to be used for Microsoft Teams Rooms use cases 🐞 Squashed Bugs - Fixed display issues in the NWS Weather Element...",
-    "date": "2025-11-21T16:13:40+00:00"
   },
   {
     "id": "e92e645f855525a3",
@@ -978,25 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=04202026c",
     "summary": "View downloadsView release notes",
     "date": "2026-04-20T17:00:00+00:00"
-  },
-  {
-    "id": "c0cbe9da1e3e5b01",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "AI Overviews in Drive now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/ai-overviews-in-drive-now-generally-available.html",
-    "summary": "In March, we announced a beta for AI Overviews in Drive. This feature is now generally available and has started rolling out to eligible Google Workspace and Google AI plans.Instead of searching through endless files and opening dozens of tabs to find the information you need, you can now get...",
-    "date": "2026-04-22T14:43:00+00:00"
-  },
-  {
-    "id": "6c69a5955f64668a",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "March 20, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/47415183812244-March-20-2026",
-    "summary": "",
-    "date": "2026-03-20T16:17:05Z"
   }
 ]
