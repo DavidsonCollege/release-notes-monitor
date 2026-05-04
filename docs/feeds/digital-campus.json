@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "fad11548dacefaec",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: View Effective Permissions for Any User",
+    "link": "https://announcekit.app/kuali/announcements/new-view-effective-permissions-for-any-user-48fF7y",
+    "summary": "You can now see exactly what permissions a user has—all in one place. The new Effective Permissions tab, located within each user’s record, ...",
+    "date": "2026-05-04T21:05:00+00:00"
+  },
+  {
     "id": "9c08d376aceaaf32",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-hierarchical-group-selection-in-data-lookup-gadgets-1VYPrq",
     "summary": "You can now select Groups from within your organizational blueprint hierarchy in a single lookup. Form designers can enable a new setting—...",
     "date": "2026-04-06T17:25:00+00:00"
-  },
-  {
-    "id": "80762f228c0d3a19",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "UPDATE: Updates to How Table Gadget Data is Returned Via API (now scheduled for April 19, 2026)",
-    "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-april-19-2026-2kXwT6",
-    "summary": "We’re postponing updates to how Table gadget data is formatted in API JSON responses (see the original announcement for details). To allow a...",
-    "date": "2026-04-03T16:50:15+00:00"
   },
   {
     "id": "6c1abd575258a9a1",
@@ -750,6 +750,16 @@
     "date": "2026-04-27T00:00:00+00:00"
   },
   {
+    "id": "80762f228c0d3a19",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "UPDATE: Updates to How Table Gadget Data is Returned Via API (now scheduled for April 19, 2026)",
+    "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-april-19-2026-2kXwT6",
+    "summary": "We’re postponing updates to how Table gadget data is formatted in API JSON responses (see the original announcement for details). To allow a...",
+    "date": "2026-04-03T16:50:15+00:00"
+  },
+  {
     "id": "e0f16989e5e0cb6c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/phone/april-23-2026",
     "summary": "Tags: api-release | Adds a `delivery_status` response field to SMS session and message endpoints, and introduces a `sort `request field to SMS session APIs to control result ordering.",
     "date": "2026-04-23T00:00:00+00:00"
-  },
-  {
-    "id": "750c847736f2eb0a",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.5 beta 3 (25F5058e)",
-    "link": "https://developer.apple.com/news/releases/?id=04202026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-04-20T17:00:00+00:00"
   }
 ]
