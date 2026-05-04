@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "f379a94b876510cb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Set custom instructions for Gemini in Google Docs",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/set-custom-instructions-for-gemini-in-Google-Docs.html",
+    "summary": "We are introducing the ability to set custom, persistent instructions for Gemini in Google Docs. These instructions ensure that Gemini adapts to your style, tone, and formatting preferences without needing to repeat them in every conversation, ultimately saving you time and ensuring...",
+    "date": "2026-05-04T20:47:00+00:00"
+  },
+  {
     "id": "4ba762649f806c34",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/google-takeout-transfer-now-supports.html",
     "summary": "When users graduate or leave an organization, they can preserve their academic work by using Google Takeout Transfer to take their Google Drive and Gmail content with them. We’re now expanding Google Takeout Transfer to include Google Photos, allowing users to migrate their memories from their...",
     "date": "2026-05-01T19:55:00+00:00"
-  },
-  {
-    "id": "9cc86c57a73b6911",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New: Agent tools and security updates for Google Workspace developers",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html",
-    "summary": "At Cloud Next ‘26, we announced a new suite of agent tools for Google Workspace, including a Workspace MCP server, command line interface (CLI), and remote MCP integrations. Today, we are opening the Workspace MCP server to public developer preview. As AI agents become a central part of how we...",
-    "date": "2026-05-01T18:52:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,16 @@
     "date": "2026-04-27T00:00:00+00:00"
   },
   {
+    "id": "9cc86c57a73b6911",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New: Agent tools and security updates for Google Workspace developers",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html",
+    "summary": "At Cloud Next ‘26, we announced a new suite of agent tools for Google Workspace, including a Workspace MCP server, command line interface (CLI), and remote MCP integrations. Today, we are opening the Workspace MCP server to public developer preview. As AI agents become a central part of how we...",
+    "date": "2026-05-01T18:52:00+00:00"
+  },
+  {
     "id": "80762f228c0d3a19",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -987,16 +997,6 @@
     "title": "New request fields in two Webinars APIs",
     "link": "https://developers.zoom.us/changelog/meetings/april-23-2026",
     "summary": "Tags: api-release | New request fields in two Webinars APIs.",
-    "date": "2026-04-23T00:00:00+00:00"
-  },
-  {
-    "id": "2b36bdbd68e3d609",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Enhance SMS APIs with delivery status and sorting options",
-    "link": "https://developers.zoom.us/changelog/phone/april-23-2026",
-    "summary": "Tags: api-release | Adds a `delivery_status` response field to SMS session and message endpoints, and introduces a `sort `request field to SMS session APIs to control result ordering.",
     "date": "2026-04-23T00:00:00+00:00"
   }
 ]
