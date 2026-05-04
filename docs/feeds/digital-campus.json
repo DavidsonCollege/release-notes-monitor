@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "d1d03d0da7685e70",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Now generally available: Bulk import using client-side encryption and the Drive API",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/now-generally-available-bulk-import-using-client-side-encryption-and-the-Drive-API.html",
+    "summary": "Previously available in beta, client-side encryption (CSE) customers can now conduct bulk migrations of sensitive files from both cloud and on-premises data sources. This process ensures confidential content is wrapped with customer-managed keys before it's imported into Google Workspace. Using...",
+    "date": "2026-05-04T16:27:00+00:00"
+  },
+  {
     "id": "1b41371f53d95768",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/new-ways-to-customize-ai-generated-meeting-notes.html",
     "summary": "We are giving users more control over \"Take notes for me\" in Google Meet with new customization options and an improved Decisions section.“Take notes for me” recently introduced customizations for meeting artifacts, such as the option to set your preferred level of detail for your notes. Now, users...",
     "date": "2026-04-30T17:54:00+00:00"
-  },
-  {
-    "id": "e92e645f855525a3",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Workspace audit logs: New functionality and expanded event fields in the Admin console",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/workspace-audit-logs-new-functionality-and-expanded-event-fields-in-the-admin-console.html",
-    "summary": "Today we’re announcing the release of several enhancements to deepen the security investigation capabilities of the Workspace audit log, including expanded fields across many data sources.These new enhancements include:Introduction of owner details for resource attributeExpansion of resource and...",
-    "date": "2026-04-29T18:57:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -360,14 +360,14 @@
     "date": "2026-04-03T16:50:15+00:00"
   },
   {
-    "id": "43221276b1fb8908",
+    "id": "6c1abd575258a9a1",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.5 beta 4 (25F5068a)",
-    "link": "https://developer.apple.com/news/releases/?id=04272026c",
+    "title": "macOS 26.5 RC (25F71)",
+    "link": "https://developer.apple.com/news/releases/?id=05042026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-04-27T17:00:00+00:00"
+    "date": "2026-05-04T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -750,6 +750,26 @@
     "date": "2026-04-27T00:00:00+00:00"
   },
   {
+    "id": "e92e645f855525a3",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Workspace audit logs: New functionality and expanded event fields in the Admin console",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/workspace-audit-logs-new-functionality-and-expanded-event-fields-in-the-admin-console.html",
+    "summary": "Today we’re announcing the release of several enhancements to deepen the security investigation capabilities of the Workspace audit log, including expanded fields across many data sources.These new enhancements include:Introduction of owner details for resource attributeExpansion of resource and...",
+    "date": "2026-04-29T18:57:00+00:00"
+  },
+  {
+    "id": "43221276b1fb8908",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.5 beta 4 (25F5068a)",
+    "link": "https://developer.apple.com/news/releases/?id=04272026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-04-27T17:00:00+00:00"
+  },
+  {
     "id": "bf73d30726c86c50",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -978,25 +998,5 @@
     "link": "https://help.adastra.live/hc/en-us/articles/47415183812244-March-20-2026",
     "summary": "",
     "date": "2026-03-20T16:17:05Z"
-  },
-  {
-    "id": "c0c03e707a3de896",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New fields in various existing APIs",
-    "link": "https://developers.zoom.us/changelog/commerce/april-20-2026",
-    "summary": "Tags: api-release | New response fields in the multiple Quote and Order APIs. New request fields in multiple Quote, Order, and Account Management APIs.",
-    "date": "2026-04-20T00:00:00+00:00"
-  },
-  {
-    "id": "3324c5e57067f3e2",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 5.4.0",
-    "link": "https://developers.zoom.us/changelog/contact-center/android/5.4.0",
-    "summary": "Tags: sdk-version | Added network monitoring.",
-    "date": "2026-04-20T00:00:00+00:00"
   }
 ]
