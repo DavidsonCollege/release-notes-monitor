@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "52c7f157b8a933ca",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Coming Soon: Streamlined UI updates - Arriving May 18, 2026",
+    "link": "https://announcekit.app/kuali/announcements/coming-soon-streamlined-ui-updates---arriving-may-18-2026-2grS9i",
+    "summary": "Our new user interface updates launch on May 18, 2026. See the original announcement for a detailed overview of what’s changing and how to p...",
+    "date": "2026-05-05T22:15:00+00:00"
+  },
+  {
     "id": "fd8986f3c4ae6d85",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-collapsible-sections-3LwVzi",
     "summary": "You can now expand and collapse Sections in the Form Designer—making it much easier to work with large, complex forms. Why This MattersManag...",
     "date": "2026-04-15T19:05:00+00:00"
-  },
-  {
-    "id": "f5a6c0aca978cabb",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "March 2026 Release Announcement",
-    "link": "https://announcekit.app/kuali/announcements/march-2026-release-announcement-12lIZO",
-    "summary": "improvements Admin preview for streamlined UI updatesPerformance improvementsAccessibility Improvementsfeature Hierarchical group selectio...",
-    "date": "2026-04-14T18:40:00+00:00"
   },
   {
     "id": "6c1abd575258a9a1",
@@ -750,6 +750,16 @@
     "date": "2026-04-27T00:00:00+00:00"
   },
   {
+    "id": "f5a6c0aca978cabb",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "March 2026 Release Announcement",
+    "link": "https://announcekit.app/kuali/announcements/march-2026-release-announcement-12lIZO",
+    "summary": "improvements Admin preview for streamlined UI updatesPerformance improvementsAccessibility Improvementsfeature Hierarchical group selectio...",
+    "date": "2026-04-14T18:40:00+00:00"
+  },
+  {
     "id": "02173bb5cf678da3",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/use-your-gems-in-your-google-workspace-studio-flows.html",
     "summary": "We are integrating Gems into Google Workspace Studio as a step that you can add to your flows.The Ask a Gem step allows you to have your flows send a prompt to private Gems to automate tasks like creating summaries or writing documents. You can use any Gem with Drive files in its knowledge base...",
     "date": "2026-04-22T14:49:00+00:00"
-  },
-  {
-    "id": "811583b7d7d6f1f3",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing data import: An easier, faster, and higher-fidelity migration to Google Workspace at no additional tool cost",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/introducing-data-import-easier-faster-and-higher-fidelity-migration-to-Google-Workspace-at-no-additional-tool-cost.html",
-    "summary": "For enterprises, data migrations and change management for a new productivity and collaboration platform can feel daunting and create business disruption across the organization. Not anymore. Today, we are excited to announce the general availability of our new Google Workspace data migration tool...",
-    "date": "2026-04-22T14:48:00+00:00"
   }
 ]
