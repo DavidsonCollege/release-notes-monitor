@@ -7,6 +7,7 @@
       "slack_channel": "C0AKDRVCDDW",
       "zoom_channel": "fefe8e7ef29c498495f45a68f174ada5",
       "gchat_webhook": "https://chat.googleapis.com/v1/spaces/AAQASLYu3Ic/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=-ruQDMVKXgOWLED6_7_OsRPTpFxUghK2RcKWRwz9s7Y",
+      "gchat_space_name": "Digital Campus",
       "products": [
         {
           "id": "1password",
@@ -276,6 +277,7 @@
       "slack_channel": "C0AJ45N511V",
       "zoom_channel": "9fe0109f5a2841e59bbd79b9673d2046",
       "gchat_webhook": "https://chat.googleapis.com/v1/spaces/AAQAaI6HYyg/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=d-BnDhF_4yiqq4K0hgACsEVuUT2TG1I-4TgbXUF4EC8",
+      "gchat_space_name": "AI",
       "products": [
         {
           "id": "chatgpt",
