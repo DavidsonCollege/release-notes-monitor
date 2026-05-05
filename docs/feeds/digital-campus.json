@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "6a623d84643a0459",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "May 1, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/48927635241492-May-1-2026",
+    "summary": "",
+    "date": "2026-05-05T14:13:55Z"
+  },
+  {
     "id": "55ebf1568fa68641",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/47962007274900-April-3-2026",
     "summary": "",
     "date": "2026-04-06T20:31:03Z"
-  },
-  {
-    "id": "42a3f8f87b22f5a9",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "March 27, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/47657628557716-March-27-2026",
-    "summary": "",
-    "date": "2026-03-31T14:02:45Z"
   },
   {
     "id": "4d32ad735cbf6a1b",
@@ -120,6 +120,16 @@
     "date": "2026-03-29T23:47:59.875627+00:00"
   },
   {
+    "id": "5cc3318b9fb82a1d",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Release Notes 4.04",
+    "link": "https://feedback.clickup.com/changelog/release-notes-404",
+    "summary": "Gantt Baselines, Brain goes Mobile, ClickUp in ChatGPT, and More!This week's ClickUpdates brings Gantt Baselines to track how your project plans shift over time, the full power of Brain to your mobile device, ClickUp right inside ChatGPT, and more ways to customize how your meetings are captured.✨...",
+    "date": "2026-05-05T14:07:51+00:00"
+  },
+  {
     "id": "ee39cb69a4114687",
     "product_id": "clickup",
     "product_name": "ClickUp",
@@ -158,16 +168,6 @@
     "link": "https://feedback.clickup.com/changelog/join-us-for-a-super-agents-ama-on-reddit",
     "summary": "Hey, everyone!We’re excited to announce a special Reddit AMA (Ask Me Anything) with the ClickUp AI Team, all about our latest feature: Super Agents!🗓️ When: Thursday, January 22nd, 10am–12pm PST📍 Where: the r/ClickUp subreddit on RedditThis is your opportunity to connect directly with Michael Van...",
     "date": "2026-01-15T21:57:59+00:00"
-  },
-  {
-    "id": "51abfa9f2c16ac15",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "Introducing Super Agents™: The world’s first human-like AI agents",
-    "link": "https://feedback.clickup.com/changelog/introducing-super-agents-the-worlds-first-human-like-ai-agents",
-    "summary": "Today, we’re launching ClickUp Super Agents – the first human‑like AI agents that live inside ClickUp and collaborate with your team like real teammates.These aren’t just chatbots or one‑off automations. Super Agents:See your work the way you do: tasks, docs, chats, meetings, and schedules all in...",
-    "date": "2025-12-22T17:30:47+00:00"
   },
   {
     "id": "01fe930feaaa6a09",
@@ -750,6 +750,26 @@
     "date": "2026-04-27T00:00:00+00:00"
   },
   {
+    "id": "42a3f8f87b22f5a9",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "March 27, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/47657628557716-March-27-2026",
+    "summary": "",
+    "date": "2026-03-31T14:02:45Z"
+  },
+  {
+    "id": "51abfa9f2c16ac15",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Introducing Super Agents™: The world’s first human-like AI agents",
+    "link": "https://feedback.clickup.com/changelog/introducing-super-agents-the-worlds-first-human-like-ai-agents",
+    "summary": "Today, we’re launching ClickUp Super Agents – the first human‑like AI agents that live inside ClickUp and collaborate with your team like real teammates.These aren’t just chatbots or one‑off automations. Super Agents:See your work the way you do: tasks, docs, chats, meetings, and schedules all in...",
+    "date": "2025-12-22T17:30:47+00:00"
+  },
+  {
     "id": "8f69cdb419c85fe3",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/search-faster-and-smarter-with-ai-overviews-in-Gmail-search.html",
     "summary": "Your inbox is full of critical information that you need to get your work done, but uncovering it shouldn't mean running endless searches just to sift through fragmented email threads. With AI Overviews in Gmail search, you can now ask natural language questions in Gmail’s search bar and get...",
     "date": "2026-04-22T14:47:00+00:00"
-  },
-  {
-    "id": "772f1e3ada14bdf0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create custom branded avatars in Google Vids with Nano Banana 2",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/create-custom-branded-avatars-in-google-vids-with-Nano-Banana-2.html",
-    "summary": "Starting today, you can brand your custom avatars in Google Vids by uploading a logo of your choice and using the power of Nano Banana 2 to refine how it appears on screen. You now have the creative control to ensure your AI-generated presenters align with your organization's visual identity.Brand...",
-    "date": "2026-04-22T14:46:00+00:00"
-  },
-  {
-    "id": "9a752204951c7518",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Four new response fields across two Billing API endpoints",
-    "link": "https://developers.zoom.us/changelog/billing/april-23-2026",
-    "summary": "Tags: api-release | Four new response fields across two Billing API endpoints.",
-    "date": "2026-04-23T00:00:00+00:00"
   }
 ]
