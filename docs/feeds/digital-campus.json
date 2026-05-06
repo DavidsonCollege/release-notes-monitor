@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "290302f2396fc6ee",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improvements to the Meet starter step and Calendar time-blocking capabilities in Google Workspace Studio",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-meet-starter-step-and-Calendar-time-blocking-capabilities-in-Google-Workspace-Studio.html",
+    "summary": "We’re introducing enhancements to the Google Meet starter step in Google Workspace Studio. As part of this, the step When a meeting transcript is ready has been renamed When meeting outputs are ready. This step now allows you to decide if the workflow should run when either meeting transcripts or...",
+    "date": "2026-05-06T16:54:00+00:00"
+  },
+  {
+    "id": "6a3d11391ef6d77f",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Turn your AI prompts into one-click tools using skills in Chrome",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/turn-your-ai-prompts-into-one-click-tools-using-skills-in-Chrome.html",
+    "summary": "Professionals are using Gemini in Chrome to accelerate their daily workflows—from summarizing complex reports to drafting client emails and analyzing market data.Until now, repeating a high-value AI task meant re-entering the same prompt every time you navigated to a new page or document. To...",
+    "date": "2026-05-06T16:44:00+00:00"
+  },
+  {
     "id": "629ccb2a78b6f1f4",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/securely-manage-AI-and-agent-access-to-Workspace-data-with-the-AI-control-center.html",
     "summary": "Securely managing access for generative AI and agent actions to Workspace data is easier ever than before with the new AI control center in the Admin console. This new capability gives enterprise organizations greater visibility and control, especially for teams with stringent data security and...",
     "date": "2026-05-04T19:04:00+00:00"
-  },
-  {
-    "id": "d1d03d0da7685e70",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Now generally available: Bulk import using client-side encryption and the Drive API",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/now-generally-available-bulk-import-using-client-side-encryption-and-the-Drive-API.html",
-    "summary": "Previously available in beta, client-side encryption (CSE) customers can now conduct bulk migrations of sensitive files from both cloud and on-premises data sources. This process ensures confidential content is wrapped with customer-managed keys before it's imported into Google Workspace. Using...",
-    "date": "2026-05-04T16:27:00+00:00"
-  },
-  {
-    "id": "1b41371f53d95768",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - May 1, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/google-workspace-updates-weekly-recap.html",
-    "summary": "Move from conversation to creation with file generation in GeminiGemini can now transform your ideas, using conversational prompts, directly into thoughtfully formatted files, such as Google Docs, Sheets, and Slides, PDFs and more, directly in your chats with Gemini. | Learn more about how to move...",
-    "date": "2026-05-01T20:08:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,26 @@
     "date": "2026-04-27T00:00:00+00:00"
   },
   {
+    "id": "d1d03d0da7685e70",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Now generally available: Bulk import using client-side encryption and the Drive API",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/now-generally-available-bulk-import-using-client-side-encryption-and-the-Drive-API.html",
+    "summary": "Previously available in beta, client-side encryption (CSE) customers can now conduct bulk migrations of sensitive files from both cloud and on-premises data sources. This process ensures confidential content is wrapped with customer-managed keys before it's imported into Google Workspace. Using...",
+    "date": "2026-05-04T16:27:00+00:00"
+  },
+  {
+    "id": "1b41371f53d95768",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - May 1, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/google-workspace-updates-weekly-recap.html",
+    "summary": "Move from conversation to creation with file generation in GeminiGemini can now transform your ideas, using conversational prompts, directly into thoughtfully formatted files, such as Google Docs, Sheets, and Slides, PDFs and more, directly in your chats with Gemini. | Learn more about how to move...",
+    "date": "2026-05-01T20:08:00+00:00"
+  },
+  {
     "id": "f5a6c0aca978cabb",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -978,25 +998,5 @@
     "link": "https://developers.zoom.us/changelog/contact-center/april-27-2026",
     "summary": "Tags: api-release | Four new fields in two Reports V2 (CX Analytics) APIs.",
     "date": "2026-04-27T00:00:00+00:00"
-  },
-  {
-    "id": "d9aadb2bbda518a4",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New webinar dashboard fields for AI conversation and meeting summary",
-    "link": "https://developers.zoom.us/changelog/accounts/april-23-2026",
-    "summary": "Tags: api-release | Adds `has_aic_conversation` and `has_meeting_summary` response fields to webinar Dashboard APIs to indicate the availability of AI-generated conversation and meeting summary data.",
-    "date": "2026-04-23T00:00:00+00:00"
-  },
-  {
-    "id": "4d902347d2cf8702",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use your Gems in your Google Workspace Studio flows",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/use-your-gems-in-your-google-workspace-studio-flows.html",
-    "summary": "We are integrating Gems into Google Workspace Studio as a step that you can add to your flows.The Ask a Gem step allows you to have your flows send a prompt to private Gems to automate tasks like creating summaries or writing documents. You can use any Gem with Drive files in its knowledge base...",
-    "date": "2026-04-22T14:49:00+00:00"
   }
 ]
