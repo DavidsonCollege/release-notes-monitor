@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "e6810110f7b0c239",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "View the Google Meet live stream automatically if an adaptive meeting becomes full",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/view-google-meet-live-stream-automatically-if-an-adaptive-meeting-becomes-full.html",
+    "summary": "We're making it simpler to join large Google Meet events. When an adaptive meeting reaches its maximum capacity for meeting contributors (those with camera, microphone, and screen sharing privileges), any additional users attempting to join the main call are automatically redirected to join the...",
+    "date": "2026-05-07T14:20:00+00:00"
+  },
+  {
     "id": "290302f2396fc6ee",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/set-custom-instructions-for-gemini-in-Google-Docs.html",
     "summary": "We are introducing the ability to set custom, persistent instructions for Gemini in Google Docs. These instructions ensure that Gemini adapts to your style, tone, and formatting preferences without needing to repeat them in every conversation, ultimately saving you time and ensuring...",
     "date": "2026-05-04T20:47:00+00:00"
-  },
-  {
-    "id": "4ba762649f806c34",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Securely manage AI and agent access to Workspace data with the AI control center",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/securely-manage-AI-and-agent-access-to-Workspace-data-with-the-AI-control-center.html",
-    "summary": "Securely managing access for generative AI and agent actions to Workspace data is easier ever than before with the new AI control center in the Admin console. This new capability gives enterprise organizations greater visibility and control, especially for teams with stringent data security and...",
-    "date": "2026-05-04T19:04:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,16 @@
     "date": "2026-04-27T00:00:00+00:00"
   },
   {
+    "id": "4ba762649f806c34",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Securely manage AI and agent access to Workspace data with the AI control center",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/securely-manage-AI-and-agent-access-to-Workspace-data-with-the-AI-control-center.html",
+    "summary": "Securely managing access for generative AI and agent actions to Workspace data is easier ever than before with the new AI control center in the Admin console. This new capability gives enterprise organizations greater visibility and control, especially for teams with stringent data security and...",
+    "date": "2026-05-04T19:04:00+00:00"
+  },
+  {
     "id": "d1d03d0da7685e70",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -987,16 +997,6 @@
     "title": "Version 3.4.0",
     "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.4.0",
     "summary": "Tags: sdk-version | Improves session transfer capabilities and enhances performance metrics and page synchronization.",
-    "date": "2026-04-27T00:00:00+00:00"
-  },
-  {
-    "id": "49c6f2645dd87172",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New fields in Reports V2 (CX Analytics) APIs",
-    "link": "https://developers.zoom.us/changelog/contact-center/april-27-2026",
-    "summary": "Tags: api-release | Four new fields in two Reports V2 (CX Analytics) APIs.",
     "date": "2026-04-27T00:00:00+00:00"
   }
 ]
