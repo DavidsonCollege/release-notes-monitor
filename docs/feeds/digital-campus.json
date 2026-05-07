@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "1de29ed755449c2f",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Studio available in more languages",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/google-workspace-studio-available-in-more-languages.html",
+    "summary": "Google Workspace Studio has expanded its support to include seven new languages. In addition to English, Workspace Studio now offers full capabilities in:FrenchGermanItalianJapaneseKoreanPortugueseSpanishGetting startedAdmins: There is no admin control for this feature.End users: Try out Google...",
+    "date": "2026-05-07T19:36:00+00:00"
+  },
+  {
     "id": "e6810110f7b0c239",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/require-explicit-consent-for-take-notes-with-Gemini-recordings-and-transcripts-in-Google-Meet.html",
     "summary": "We’re introducing a new feature that allows administrators to require explicit consent from meeting participants before automatic note-taking, recording, and/or transcription begins. With this update, admins can ensure that participants on supported devices must actively agree to be recorded, be...",
     "date": "2026-05-05T18:05:00+00:00"
-  },
-  {
-    "id": "f379a94b876510cb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Set custom instructions for Gemini in Google Docs",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/set-custom-instructions-for-gemini-in-Google-Docs.html",
-    "summary": "We are introducing the ability to set custom, persistent instructions for Gemini in Google Docs. These instructions ensure that Gemini adapts to your style, tone, and formatting preferences without needing to repeat them in every conversation, ultimately saving you time and ensuring...",
-    "date": "2026-05-04T20:47:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -700,6 +700,16 @@
     "date": "2026-04-17T17:04:54+00:00"
   },
   {
+    "id": "02c24ee9fe9fb20f",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New Workspaces API added",
+    "link": "https://developers.zoom.us/changelog/rooms/may-07-2026",
+    "summary": "Tags: api-release | Added new endpoint for Workspaces API.",
+    "date": "2026-05-07T00:00:00+00:00"
+  },
+  {
     "id": "8f6739cd166e1671",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -738,6 +748,16 @@
     "link": "https://developers.zoom.us/changelog/workforce-management/april-30-2026",
     "summary": "Tags: api-release | New request fields in Organizational Groups, Imports, Users, Scheduling Groups, and Filter Groups APIs.",
     "date": "2026-04-30T00:00:00+00:00"
+  },
+  {
+    "id": "f379a94b876510cb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Set custom instructions for Gemini in Google Docs",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/set-custom-instructions-for-gemini-in-Google-Docs.html",
+    "summary": "We are introducing the ability to set custom, persistent instructions for Gemini in Google Docs. These instructions ensure that Gemini adapts to your style, tone, and formatting preferences without needing to repeat them in every conversation, ultimately saving you time and ensuring...",
+    "date": "2026-05-04T20:47:00+00:00"
   },
   {
     "id": "fc7a1a44f84224e5",
@@ -978,25 +998,5 @@
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
     "date": "2026-04-08T16:35:30.051481+00:00"
-  },
-  {
-    "id": "0750c657ddbd01dd",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Bring Scribe into your AI tools with Scribe MCP",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-04-08T16:35:30.051499+00:00"
-  },
-  {
-    "id": "d329f6f3709829ba",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.4.0",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.4.0",
-    "summary": "Tags: sdk-version | Improves session transfer capabilities and enhances performance metrics and page synchronization.",
-    "date": "2026-04-27T00:00:00+00:00"
   }
 ]
