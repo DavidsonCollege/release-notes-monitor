@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "130d1f919ae0af3c",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Interactive Design Lab Improvements Release",
+    "link": "https://announcekit.app/kuali/announcements/interactive-design-lab-improvements-release-3pYMVy",
+    "summary": "We’re excited to share a new set of improvements inspired by our first-ever Interactive Design Lab at Kuali Days 2026. This session brought ...",
+    "date": "2026-05-08T00:00:00+00:00"
+  },
+  {
     "id": "52c7f157b8a933ca",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-may-10-2026-4ACIYU",
     "summary": "Based on customer feedback, we’re postponing the update to how Table gadget data is formatted in API JSON responses to May 10, 2026 to allow...",
     "date": "2026-04-15T21:00:00+00:00"
-  },
-  {
-    "id": "b925dbd94822ceaa",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Collapsible Sections",
-    "link": "https://announcekit.app/kuali/announcements/new-collapsible-sections-3LwVzi",
-    "summary": "You can now expand and collapse Sections in the Form Designer—making it much easier to work with large, complex forms. Why This MattersManag...",
-    "date": "2026-04-15T19:05:00+00:00"
   },
   {
     "id": "6c1abd575258a9a1",
@@ -750,6 +750,16 @@
     "date": "2026-04-30T00:00:00+00:00"
   },
   {
+    "id": "b925dbd94822ceaa",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Collapsible Sections",
+    "link": "https://announcekit.app/kuali/announcements/new-collapsible-sections-3LwVzi",
+    "summary": "You can now expand and collapse Sections in the Form Designer—making it much easier to work with large, complex forms. Why This MattersManag...",
+    "date": "2026-04-15T19:05:00+00:00"
+  },
+  {
     "id": "629ccb2a78b6f1f4",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -987,16 +997,6 @@
     "title": "Bring Scribe into your AI tools with Scribe MCP",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "April 8, 2026"
-  },
-  {
-    "id": "b80110c322bd1f70",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Bring Scribe into your AI tools with Scribe MCP",
-    "link": "https://scribe.launchnotes.io/announcements/bring-scribe-into-your-ai-tools-with-scribe-mcp",
-    "summary": "Loading...",
     "date": "April 8, 2026"
   }
 ]
