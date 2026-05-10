@@ -220,56 +220,6 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
-    "id": "f21acc3180f1ae61",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - May 8, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/weekly-recap-05-08-2026.html",
-    "summary": "Now generally available: Bulk import using client-side encryption and the Drive APIPreviously available in beta, client-side encryption (CSE) customers can now conduct bulk migrations of sensitive files from both cloud and on-premises data sources. | Learn more about how to bulk import using...",
-    "date": "2026-05-08T19:25:00+00:00"
-  },
-  {
-    "id": "fee04856943151e8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improvements To Help Me Write in Gmail",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-help-me-write-in-gmail.html",
-    "summary": "As previously announced, Help me write in Gmail is evolving into an even more helpful partner that can pull in your natural voice and personalized context to get you closer to the perfect draft every time. We’ve added two new personalization enhancements:Topic contextualization: The feature can now...",
-    "date": "2026-05-07T20:48:00+00:00"
-  },
-  {
-    "id": "1de29ed755449c2f",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Studio available in more languages",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/google-workspace-studio-available-in-more-languages.html",
-    "summary": "Google Workspace Studio has expanded its support to include seven new languages. In addition to English, Workspace Studio now offers full capabilities in:FrenchGermanItalianJapaneseKoreanPortugueseSpanishGetting startedAdmins: There is no admin control for this feature.End users: Try out Google...",
-    "date": "2026-05-07T19:36:00+00:00"
-  },
-  {
-    "id": "e6810110f7b0c239",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "View the Google Meet live stream automatically if an adaptive meeting becomes full",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/view-google-meet-live-stream-automatically-if-an-adaptive-meeting-becomes-full.html",
-    "summary": "We're making it simpler to join large Google Meet events. When an adaptive meeting reaches its maximum capacity for meeting contributors (those with camera, microphone, and screen sharing privileges), any additional users attempting to join the main call are automatically redirected to join the...",
-    "date": "2026-05-07T14:20:00+00:00"
-  },
-  {
-    "id": "290302f2396fc6ee",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improvements to the Meet starter step and Calendar time-blocking capabilities in Google Workspace Studio",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-meet-starter-step-and-Calendar-time-blocking-capabilities-in-Google-Workspace-Studio.html",
-    "summary": "We’re introducing enhancements to the Google Meet starter step in Google Workspace Studio. As part of this, the step When a meeting transcript is ready has been renamed When meeting outputs are ready. This step now allows you to decide if the workflow should run when either meeting transcripts or...",
-    "date": "2026-05-06T16:54:00+00:00"
-  },
-  {
     "id": "f797e86c07e10880",
     "product_id": "korbyt",
     "product_name": "Korbyt",
@@ -748,6 +698,56 @@
     "link": "https://developers.zoom.us/changelog/workforce-management/april-30-2026",
     "summary": "Tags: api-release | New request fields in Organizational Groups, Imports, Users, Scheduling Groups, and Filter Groups APIs.",
     "date": "2026-04-30T00:00:00+00:00"
+  },
+  {
+    "id": "f21acc3180f1ae61",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - May 8, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/weekly-recap-05-08-2026.html",
+    "summary": "Now generally available: Bulk import using client-side encryption and the Drive APIPreviously available in beta, client-side encryption (CSE) customers can now conduct bulk migrations of sensitive files from both cloud and on-premises data sources. | Learn more about how to bulk import using...",
+    "date": "2026-05-08T19:25:00+00:00"
+  },
+  {
+    "id": "fee04856943151e8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improvements To Help Me Write in Gmail",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-help-me-write-in-gmail.html",
+    "summary": "As previously announced, Help me write in Gmail is evolving into an even more helpful partner that can pull in your natural voice and personalized context to get you closer to the perfect draft every time. We’ve added two new personalization enhancements:Topic contextualization: The feature can now...",
+    "date": "2026-05-07T20:48:00+00:00"
+  },
+  {
+    "id": "1de29ed755449c2f",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Studio available in more languages",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/google-workspace-studio-available-in-more-languages.html",
+    "summary": "Google Workspace Studio has expanded its support to include seven new languages. In addition to English, Workspace Studio now offers full capabilities in:FrenchGermanItalianJapaneseKoreanPortugueseSpanishGetting startedAdmins: There is no admin control for this feature.End users: Try out Google...",
+    "date": "2026-05-07T19:36:00+00:00"
+  },
+  {
+    "id": "e6810110f7b0c239",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "View the Google Meet live stream automatically if an adaptive meeting becomes full",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/view-google-meet-live-stream-automatically-if-an-adaptive-meeting-becomes-full.html",
+    "summary": "We're making it simpler to join large Google Meet events. When an adaptive meeting reaches its maximum capacity for meeting contributors (those with camera, microphone, and screen sharing privileges), any additional users attempting to join the main call are automatically redirected to join the...",
+    "date": "2026-05-07T14:20:00+00:00"
+  },
+  {
+    "id": "290302f2396fc6ee",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improvements to the Meet starter step and Calendar time-blocking capabilities in Google Workspace Studio",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-meet-starter-step-and-Calendar-time-blocking-capabilities-in-Google-Workspace-Studio.html",
+    "summary": "We’re introducing enhancements to the Google Meet starter step in Google Workspace Studio. As part of this, the step When a meeting transcript is ready has been renamed When meeting outputs are ready. This step now allows you to decide if the workflow should run when either meeting transcripts or...",
+    "date": "2026-05-06T16:54:00+00:00"
   },
   {
     "id": "6a3d11391ef6d77f",
