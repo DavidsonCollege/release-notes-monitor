@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "3e3da8b7a949e6ce",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Add avatars when you convert presentations to Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/add-avatars-when-you-convert-presentations-to-Vids.html",
+    "summary": "You can already convert your Google Slides content into Google Vids, and use Gemini to generate scripts, voiceovers, and background music. Now, you can add a spokesperson to your videos using AI avatars when importing content from Slides. Avatars are dynamically inserted throughout the imported...",
+    "date": "2026-05-11T21:01:00+00:00"
+  },
+  {
     "id": "f21acc3180f1ae61",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/view-google-meet-live-stream-automatically-if-an-adaptive-meeting-becomes-full.html",
     "summary": "We're making it simpler to join large Google Meet events. When an adaptive meeting reaches its maximum capacity for meeting contributors (those with camera, microphone, and screen sharing privileges), any additional users attempting to join the main call are automatically redirected to join the...",
     "date": "2026-05-07T14:20:00+00:00"
-  },
-  {
-    "id": "290302f2396fc6ee",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improvements to the Meet starter step and Calendar time-blocking capabilities in Google Workspace Studio",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-meet-starter-step-and-Calendar-time-blocking-capabilities-in-Google-Workspace-Studio.html",
-    "summary": "We’re introducing enhancements to the Google Meet starter step in Google Workspace Studio. As part of this, the step When a meeting transcript is ready has been renamed When meeting outputs are ready. This step now allows you to decide if the workflow should run when either meeting transcripts or...",
-    "date": "2026-05-06T16:54:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -700,6 +700,66 @@
     "date": "2026-04-17T17:04:54+00:00"
   },
   {
+    "id": "4d94087345d3c04f",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Two new endpoints: usage, and information",
+    "link": "https://developers.zoom.us/changelog/billing/may-11-2026",
+    "summary": "Tags: api-release, new-feature | Two new endpoints: usage, and information.",
+    "date": "2026-05-11T00:00:00+00:00"
+  },
+  {
+    "id": "33795dfd24395bc0",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 3.1.3",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.1.3",
+    "summary": "Tags: sdk-version | Optimize latency.",
+    "date": "2026-05-11T00:00:00+00:00"
+  },
+  {
+    "id": "c19b4822ef12871f",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 3.4.1",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.4.1",
+    "summary": "Tags: sdk-version | Optimize latency.",
+    "date": "2026-05-11T00:00:00+00:00"
+  },
+  {
+    "id": "5911f89f85d5c18d",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New request fileld for Product Catalog API",
+    "link": "https://developers.zoom.us/changelog/commerce/may-11-2026",
+    "summary": "Tags: api-release | New request fileld for Product Catalog API",
+    "date": "2026-05-11T00:00:00+00:00"
+  },
+  {
+    "id": "5ebf171ccd97d26c",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New fields in two Evaluations API endpoints",
+    "link": "https://developers.zoom.us/changelog/quality-management/may-11-2026",
+    "summary": "Tags: api-release | New response fields in two Evaluations API endpoints.",
+    "date": "2026-05-11T00:00:00+00:00"
+  },
+  {
+    "id": "290302f2396fc6ee",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improvements to the Meet starter step and Calendar time-blocking capabilities in Google Workspace Studio",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-meet-starter-step-and-Calendar-time-blocking-capabilities-in-Google-Workspace-Studio.html",
+    "summary": "We’re introducing enhancements to the Google Meet starter step in Google Workspace Studio. As part of this, the step When a meeting transcript is ready has been renamed When meeting outputs are ready. This step now allows you to decide if the workflow should run when either meeting transcripts or...",
+    "date": "2026-05-06T16:54:00+00:00"
+  },
+  {
     "id": "02c24ee9fe9fb20f",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -938,65 +998,5 @@
     "link": "https://developers.zoom.us/changelog/chat/april-27-2026",
     "summary": "Tags: api-release | Introduced `emoji_actions` and `include_reaction_recent_changed `response fields in the Reports chat session API to provide enhanced visibility into emoji usage and recent reaction updates.",
     "date": "2026-04-27T00:00:00+00:00"
-  },
-  {
-    "id": "e92e645f855525a3",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Workspace audit logs: New functionality and expanded event fields in the Admin console",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/workspace-audit-logs-new-functionality-and-expanded-event-fields-in-the-admin-console.html",
-    "summary": "Today we’re announcing the release of several enhancements to deepen the security investigation capabilities of the Workspace audit log, including expanded fields across many data sources.These new enhancements include:Introduction of owner details for resource attributeExpansion of resource and...",
-    "date": "2026-04-29T18:57:00+00:00"
-  },
-  {
-    "id": "43221276b1fb8908",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.5 beta 4 (25F5068a)",
-    "link": "https://developer.apple.com/news/releases/?id=04272026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-04-27T17:00:00+00:00"
-  },
-  {
-    "id": "bf73d30726c86c50",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New API to decrypt customer managed keys",
-    "link": "https://developers.zoom.us/changelog/keybroker-keyconnector/april-30-2026",
-    "summary": "Tags: api-release | New API to decrypt customer managed keys.",
-    "date": "2026-04-30T00:00:00+00:00"
-  },
-  {
-    "id": "ff9960b046e89810",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Students can now create personal class notebooks with NotebookLM in Google Classroom",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/students-can-now-create-personal-class-notebooks-with-NotebookLM-in-Google-Classroom.html",
-    "summary": "Last year, we announced that educators can use NotebookLM to create teacher-led AI experiences for students in Google Classroom, based on their class materials. Since then, students have been able to access their teachers’ interactive study guides and other learning aids created with NotebookLM for...",
-    "date": "2026-04-27T21:09:00+00:00"
-  },
-  {
-    "id": "78d37d7e8467e766",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Move from conversation to creation with file generation in Gemini",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/move-from-conversation-to-creation-with-file-generation-in-Gemini.html",
-    "summary": "Gemini can now transform your ideas, using conversational prompts, directly into thoughtfully formatted files, such as Google Docs, Sheets, and Slides, PDFs and more, directly in your chats with Gemini. This feature bridges the gap between brainstorming and ready-to-share files, allowing you to...",
-    "date": "2026-04-27T15:02:00+00:00"
-  },
-  {
-    "id": "a795dde68778e0de",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - April 24, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/weekly-recap-04-24-2026.html",
-    "summary": "Seamlessly join meetings on Google Meet hardware with “Connect Room”In December 2025, we introduced Connect room to organizations on the Rapid Release track enrolled in Early Preview Rooms. We’re excited to announce that this feature is now rolling out to all Workspace customers with Google Meet...",
-    "date": "2026-04-24T21:14:00+00:00"
   }
 ]
