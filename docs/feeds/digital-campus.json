@@ -360,14 +360,14 @@
     "date": "2026-04-15T21:00:00+00:00"
   },
   {
-    "id": "6c1abd575258a9a1",
+    "id": "dece149d535428b7",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.5 RC (25F71)",
-    "link": "https://developer.apple.com/news/releases/?id=05042026c",
+    "title": "macOS 26.5 (25F71)",
+    "link": "https://developer.apple.com/news/releases/?id=05112026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-05-04T17:00:00+00:00"
+    "date": "2026-05-11T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -750,6 +750,16 @@
     "date": "2026-04-30T00:00:00+00:00"
   },
   {
+    "id": "6c1abd575258a9a1",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.5 RC (25F71)",
+    "link": "https://developer.apple.com/news/releases/?id=05042026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-05-04T17:00:00+00:00"
+  },
+  {
     "id": "6a3d11391ef6d77f",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/weekly-recap-04-24-2026.html",
     "summary": "Seamlessly join meetings on Google Meet hardware with “Connect Room”In December 2025, we introduced Connect room to organizations on the Rapid Release track enrolled in Early Preview Rooms. We’re excited to announce that this feature is now rolling out to all Workspace customers with Google Meet...",
     "date": "2026-04-24T21:14:00+00:00"
-  },
-  {
-    "id": "4861482635a84858",
-    "product_id": "ninjaone",
-    "product_name": "NinjaOne",
-    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
-    "title": "Unify IT Service, Assets, and Operations With NinjaOne 12.0",
-    "link": "https://www.ninjaone.com/blog/unify-it-with-ninjaone-12-0/",
-    "summary": "Release Schedule: January 27 – February 25 NinjaOne’s 12.0 release has arrived to improve how IT teams manage assets, integrate service delivery with business operations, gain insights into profitability and health status, and proactively resolve any recovery issues. MSPs can now sync service...",
-    "date": "2026-02-09T14:00:23+00:00"
   }
 ]
