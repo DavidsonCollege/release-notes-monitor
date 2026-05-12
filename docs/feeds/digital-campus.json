@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "2b065089b037fe0c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Use NotebookLM in your Google Workspace Studio flows",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/notebooklm-in-workspace-studio.html",
+    "summary": "We’re integrating NotebookLM into Google Workspace Studio. This enhancement lets you use your existing notebooks as an AI knowledge source for your automations. You can use the new Ask NotebookLM step to generate grounded responses based on the insights, summaries, and research in your...",
+    "date": "2026-05-12T20:21:56+00:00"
+  },
+  {
     "id": "4c77abfc17b8bc1c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-help-me-write-in-gmail.html",
     "summary": "As previously announced, Help me write in Gmail is evolving into an even more helpful partner that can pull in your natural voice and personalized context to get you closer to the perfect draft every time. We’ve added two new personalization enhancements:Topic contextualization: The feature can now...",
     "date": "2026-05-07T20:48:00+00:00"
-  },
-  {
-    "id": "1de29ed755449c2f",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Studio available in more languages",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/google-workspace-studio-available-in-more-languages.html",
-    "summary": "Google Workspace Studio has expanded its support to include seven new languages. In addition to English, Workspace Studio now offers full capabilities in:FrenchGermanItalianJapaneseKoreanPortugueseSpanishGetting startedAdmins: There is no admin control for this feature.End users: Try out Google...",
-    "date": "2026-05-07T19:36:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,16 @@
     "date": "2026-05-11T00:00:00+00:00"
   },
   {
+    "id": "1de29ed755449c2f",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Studio available in more languages",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/google-workspace-studio-available-in-more-languages.html",
+    "summary": "Google Workspace Studio has expanded its support to include seven new languages. In addition to English, Workspace Studio now offers full capabilities in:FrenchGermanItalianJapaneseKoreanPortugueseSpanishGetting startedAdmins: There is no admin control for this feature.End users: Try out Google...",
+    "date": "2026-05-07T19:36:00+00:00"
+  },
+  {
     "id": "e6810110f7b0c239",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://www.papercut.com/products/mf/release-history/25-0/",
     "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
     "date": "2025-10-28T00:00:00+00:00"
-  },
-  {
-    "id": "9cc86c57a73b6911",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New: Agent tools and security updates for Google Workspace developers",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html",
-    "summary": "At Cloud Next ‘26, we announced a new suite of agent tools for Google Workspace, including a Workspace MCP server, command line interface (CLI), and remote MCP integrations. Today, we are opening the Workspace MCP server to public developer preview. As AI agents become a central part of how we...",
-    "date": "2026-05-01T18:52:00+00:00"
   }
 ]
