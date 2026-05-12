@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "4c8795724923f502",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "May 8, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/49167196683028-May-8-2026",
+    "summary": "",
+    "date": "2026-05-12T13:49:41Z"
+  },
+  {
     "id": "6a623d84643a0459",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/48103141930900-April-10-2026",
     "summary": "",
     "date": "2026-04-10T18:02:43Z"
-  },
-  {
-    "id": "9bc9c2fc4c19bea5",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "April 3, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/47962007274900-April-3-2026",
-    "summary": "",
-    "date": "2026-04-06T20:31:03Z"
   },
   {
     "id": "4d32ad735cbf6a1b",
@@ -750,6 +750,16 @@
     "date": "2026-05-11T00:00:00+00:00"
   },
   {
+    "id": "9bc9c2fc4c19bea5",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "April 3, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/47962007274900-April-3-2026",
+    "summary": "",
+    "date": "2026-04-06T20:31:03Z"
+  },
+  {
     "id": "9c08d376aceaaf32",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -988,15 +998,5 @@
     "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-april-19-2026-2kXwT6",
     "summary": "We’re postponing updates to how Table gadget data is formatted in API JSON responses (see the original announcement for details). To allow a...",
     "date": "2026-04-03T16:50:15+00:00"
-  },
-  {
-    "id": "e0f16989e5e0cb6c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New ways to customize AI-generated meeting notes",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/new-ways-to-customize-ai-generated-meeting-notes.html",
-    "summary": "We are giving users more control over \"Take notes for me\" in Google Meet with new customization options and an improved Decisions section.“Take notes for me” recently introduced customizations for meeting artifacts, such as the option to set your preferred level of detail for your notes. Now, users...",
-    "date": "2026-04-30T17:54:00+00:00"
   }
 ]
