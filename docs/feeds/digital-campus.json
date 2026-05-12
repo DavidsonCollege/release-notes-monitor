@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "80045883651ea730",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Default View Settings Have Moved to Views",
+    "link": "https://announcekit.app/kuali/announcements/default-view-settings-have-moved-to-views-4zuBvG",
+    "summary": "Default View Settings are now managed directly in Views, making it easier to control what users see by default. Previously, admins configure...",
+    "date": "2026-05-12T11:35:00+00:00"
+  },
+  {
     "id": "130d1f919ae0af3c",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-view-effective-permissions-for-any-user-48fF7y",
     "summary": "You can now see exactly what permissions a user has—all in one place. The new Effective Permissions tab, located within each user’s record, ...",
     "date": "2026-05-04T21:05:00+00:00"
-  },
-  {
-    "id": "9c08d376aceaaf32",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "UPDATE: Updates to How Table Gadget Data is Returned Via API (now scheduled for May 10, 2026)",
-    "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-may-10-2026-4ACIYU",
-    "summary": "Based on customer feedback, we’re postponing the update to how Table gadget data is formatted in API JSON responses to May 10, 2026 to allow...",
-    "date": "2026-04-15T21:00:00+00:00"
   },
   {
     "id": "dece149d535428b7",
@@ -750,6 +750,16 @@
     "date": "2026-05-11T00:00:00+00:00"
   },
   {
+    "id": "9c08d376aceaaf32",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "UPDATE: Updates to How Table Gadget Data is Returned Via API (now scheduled for May 10, 2026)",
+    "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-may-10-2026-4ACIYU",
+    "summary": "Based on customer feedback, we’re postponing the update to how Table gadget data is formatted in API JSON responses to May 10, 2026 to allow...",
+    "date": "2026-04-15T21:00:00+00:00"
+  },
+  {
     "id": "290302f2396fc6ee",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/new-ways-to-customize-ai-generated-meeting-notes.html",
     "summary": "We are giving users more control over \"Take notes for me\" in Google Meet with new customization options and an improved Decisions section.“Take notes for me” recently introduced customizations for meeting artifacts, such as the option to set your preferred level of detail for your notes. Now, users...",
     "date": "2026-04-30T17:54:00+00:00"
-  },
-  {
-    "id": "062ac9347806683a",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New emoji and reaction fields to chat session reports API",
-    "link": "https://developers.zoom.us/changelog/chat/april-27-2026",
-    "summary": "Tags: api-release | Introduced `emoji_actions` and `include_reaction_recent_changed `response fields in the Reports chat session API to provide enhanced visibility into emoji usage and recent reaction updates.",
-    "date": "2026-04-27T00:00:00+00:00"
   }
 ]
