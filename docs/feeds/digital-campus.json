@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "4c77abfc17b8bc1c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Assignments LTI™ and Gemini LTI™ are now available for Moodle",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/workspace-assignments-lti-and-gemini-lti-for-moodle.html",
+    "summary": "We’re expanding the availability of Assignments LTI™ and Gemini LTI™ to include Moodle, joining our existing support for Canvas and Schoology. Gemini LTI™ brings Google AI tools like the Gemini app and NotebookLM directly into third-party Learning Management Systems (LMS), enabling students and...",
+    "date": "2026-05-12T16:09:32+00:00"
+  },
+  {
     "id": "3e3da8b7a949e6ce",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/google-workspace-studio-available-in-more-languages.html",
     "summary": "Google Workspace Studio has expanded its support to include seven new languages. In addition to English, Workspace Studio now offers full capabilities in:FrenchGermanItalianJapaneseKoreanPortugueseSpanishGetting startedAdmins: There is no admin control for this feature.End users: Try out Google...",
     "date": "2026-05-07T19:36:00+00:00"
-  },
-  {
-    "id": "e6810110f7b0c239",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "View the Google Meet live stream automatically if an adaptive meeting becomes full",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/view-google-meet-live-stream-automatically-if-an-adaptive-meeting-becomes-full.html",
-    "summary": "We're making it simpler to join large Google Meet events. When an adaptive meeting reaches its maximum capacity for meeting contributors (those with camera, microphone, and screen sharing privileges), any additional users attempting to join the main call are automatically redirected to join the...",
-    "date": "2026-05-07T14:20:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,16 @@
     "date": "2026-05-11T00:00:00+00:00"
   },
   {
+    "id": "e6810110f7b0c239",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "View the Google Meet live stream automatically if an adaptive meeting becomes full",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/view-google-meet-live-stream-automatically-if-an-adaptive-meeting-becomes-full.html",
+    "summary": "We're making it simpler to join large Google Meet events. When an adaptive meeting reaches its maximum capacity for meeting contributors (those with camera, microphone, and screen sharing privileges), any additional users attempting to join the main call are automatically redirected to join the...",
+    "date": "2026-05-07T14:20:00+00:00"
+  },
+  {
     "id": "9bc9c2fc4c19bea5",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html",
     "summary": "At Cloud Next ‘26, we announced a new suite of agent tools for Google Workspace, including a Workspace MCP server, command line interface (CLI), and remote MCP integrations. Today, we are opening the Workspace MCP server to public developer preview. As AI agents become a central part of how we...",
     "date": "2026-05-01T18:52:00+00:00"
-  },
-  {
-    "id": "80762f228c0d3a19",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "UPDATE: Updates to How Table Gadget Data is Returned Via API (now scheduled for April 19, 2026)",
-    "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-april-19-2026-2kXwT6",
-    "summary": "We’re postponing updates to how Table gadget data is formatted in API JSON responses (see the original announcement for details). To allow a...",
-    "date": "2026-04-03T16:50:15+00:00"
   }
 ]
