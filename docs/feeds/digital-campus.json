@@ -70,6 +70,16 @@
     "date": "2026-04-10T18:02:43Z"
   },
   {
+    "id": "518f53653205674c",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Create design export job API now supports CSV export using the csv export file type. Only Canva Sheets designs can be exported as CSV.",
+    "link": "https://www.canva.dev/docs/connect/api-reference/exports/create-design-export-job/",
+    "summary": "",
+    "date": "2026-05-13T02:24:47.810072+00:00"
+  },
+  {
     "id": "4d32ad735cbf6a1b",
     "product_id": "canva",
     "product_name": "Canva",
@@ -108,16 +118,6 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/exports/create-design-export-job/",
     "summary": "The Create design export job API now supports two additional email export formats: html_bundle and html_standalone. Use these formats when creating export jobs for email designs, depending on whether you need bundled assets (html_bundle) or a standalone HTML output (html_standalone).",
     "date": "2026-03-29T23:47:59.875608+00:00"
-  },
-  {
-    "id": "54f24d9fe9316d8b",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Assets APIs⁠(opens in a new tab or window) now return an additional metadata property as part of the asset object.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/assets/",
-    "summary": "",
-    "date": "2026-03-29T23:47:59.875627+00:00"
   },
   {
     "id": "5cc3318b9fb82a1d",
@@ -750,6 +750,16 @@
     "date": "2026-05-11T00:00:00+00:00"
   },
   {
+    "id": "54f24d9fe9316d8b",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Assets APIs⁠(opens in a new tab or window) now return an additional metadata property as part of the asset object.",
+    "link": "https://www.canva.dev/docs/connect/api-reference/assets/",
+    "summary": "",
+    "date": "2026-03-29T23:47:59.875627+00:00"
+  },
+  {
     "id": "1de29ed755449c2f",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://announcekit.app/kuali/announcements/new-hierarchical-group-selection-in-data-lookup-gadgets-1VYPrq",
     "summary": "You can now select Groups from within your organizational blueprint hierarchy in a single lookup. Form designers can enable a new setting—...",
     "date": "2026-04-06T17:25:00+00:00"
-  },
-  {
-    "id": "d815a5971e1aa4e6",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.5",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2025-10-28T00:00:00+00:00"
   }
 ]
