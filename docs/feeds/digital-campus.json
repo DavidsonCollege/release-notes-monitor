@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "33374ff4a54e5b46",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Small businesses can now seamlessly import users from Microsoft to Google Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/small-businesses-can-now-seamlessly-import-users-from-Microsoft-to-Google-Workspace.html",
+    "summary": "We’re excited to announce the beta release of a new, simplified way for very small and small-sized businesses to import their users from Microsoft to Google Workspace when setting up their Workspace account for the first time.This new feature allows these businesses and educational institutions to...",
+    "date": "2026-05-13T16:52:52+00:00"
+  },
+  {
     "id": "2b065089b037fe0c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/weekly-recap-05-08-2026.html",
     "summary": "Now generally available: Bulk import using client-side encryption and the Drive APIPreviously available in beta, client-side encryption (CSE) customers can now conduct bulk migrations of sensitive files from both cloud and on-premises data sources. | Learn more about how to bulk import using...",
     "date": "2026-05-08T19:25:00+00:00"
-  },
-  {
-    "id": "fee04856943151e8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improvements To Help Me Write in Gmail",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-help-me-write-in-gmail.html",
-    "summary": "As previously announced, Help me write in Gmail is evolving into an even more helpful partner that can pull in your natural voice and personalized context to get you closer to the perfect draft every time. We’ve added two new personalization enhancements:Topic contextualization: The feature can now...",
-    "date": "2026-05-07T20:48:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,16 @@
     "date": "2026-05-11T00:00:00+00:00"
   },
   {
+    "id": "fee04856943151e8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improvements To Help Me Write in Gmail",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-help-me-write-in-gmail.html",
+    "summary": "As previously announced, Help me write in Gmail is evolving into an even more helpful partner that can pull in your natural voice and personalized context to get you closer to the perfect draft every time. We’ve added two new personalization enhancements:Topic contextualization: The feature can now...",
+    "date": "2026-05-07T20:48:00+00:00"
+  },
+  {
     "id": "54f24d9fe9316d8b",
     "product_id": "canva",
     "product_name": "Canva",
@@ -988,15 +998,5 @@
     "link": "https://feedback.clickup.com/changelog/introducing-super-agents-the-worlds-first-human-like-ai-agents",
     "summary": "Today, we’re launching ClickUp Super Agents – the first human‑like AI agents that live inside ClickUp and collaborate with your team like real teammates.These aren’t just chatbots or one‑off automations. Super Agents:See your work the way you do: tasks, docs, chats, meetings, and schedules all in...",
     "date": "2025-12-22T17:30:47+00:00"
-  },
-  {
-    "id": "8f69cdb419c85fe3",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Hierarchical Group Selection in Data Lookup Gadgets",
-    "link": "https://announcekit.app/kuali/announcements/new-hierarchical-group-selection-in-data-lookup-gadgets-1VYPrq",
-    "summary": "You can now select Groups from within your organizational blueprint hierarchy in a single lookup. Form designers can enable a new setting—...",
-    "date": "2026-04-06T17:25:00+00:00"
   }
 ]
