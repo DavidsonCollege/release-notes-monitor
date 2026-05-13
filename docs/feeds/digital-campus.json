@@ -1,13 +1,13 @@
 [
   {
-    "id": "9b4a49c55cd1a750",
+    "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
+    "title": "1Password for Android Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "April 21 2026"
+    "date": "May 13 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -550,6 +550,16 @@
     "date": "2026-05-01T19:33:58.705402+00:00"
   },
   {
+    "id": "0f5efb7b55003816",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "New Slack MCP Server tools released",
+    "link": "https://docs.slack.dev/changelog/2026/05/13/new-mcp-tools",
+    "summary": "We've added the following tools to the Slack MCP server:",
+    "date": "2026-05-13T00:00:00+00:00"
+  },
+  {
     "id": "309be6155f413ebc",
     "product_id": "slack",
     "product_name": "Slack",
@@ -588,16 +598,6 @@
     "link": "https://docs.slack.dev/changelog/2026/03/19/slack-cli",
     "summary": "Version 3.15.0 of the developer tools for the Slack platform has arrived!",
     "date": "2026-03-19T00:00:00+00:00"
-  },
-  {
-    "id": "544e979428ac6810",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Optional scopes have landed",
-    "link": "https://docs.slack.dev/changelog/2026/03/16/optional-scopes",
-    "summary": "You can now mark individual OAuth scopes as optional when configuring your Slack app! Optional scopes give users more control over what data your app can access during installation, without blocking them from installing your app entirely.",
-    "date": "2026-03-16T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -748,6 +748,26 @@
     "link": "https://developers.zoom.us/changelog/quality-management/may-11-2026",
     "summary": "Tags: api-release | New response fields in two Evaluations API endpoints.",
     "date": "2026-05-11T00:00:00+00:00"
+  },
+  {
+    "id": "9b4a49c55cd1a750",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "April 21 2026"
+  },
+  {
+    "id": "544e979428ac6810",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Optional scopes have landed",
+    "link": "https://docs.slack.dev/changelog/2026/03/16/optional-scopes",
+    "summary": "You can now mark individual OAuth scopes as optional when configuring your Slack app! Optional scopes give users more control over what data your app can access during installation, without blocking them from installing your app entirely.",
+    "date": "2026-03-16T00:00:00+00:00"
   },
   {
     "id": "fee04856943151e8",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/google-takeout-transfer-now-supports.html",
     "summary": "When users graduate or leave an organization, they can preserve their academic work by using Google Takeout Transfer to take their Google Drive and Gmail content with them. We’re now expanding Google Takeout Transfer to include Google Photos, allowing users to migrate their memories from their...",
     "date": "2026-05-01T19:55:00+00:00"
-  },
-  {
-    "id": "42a3f8f87b22f5a9",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "March 27, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/47657628557716-March-27-2026",
-    "summary": "",
-    "date": "2026-03-31T14:02:45Z"
-  },
-  {
-    "id": "51abfa9f2c16ac15",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "Introducing Super Agents™: The world’s first human-like AI agents",
-    "link": "https://feedback.clickup.com/changelog/introducing-super-agents-the-worlds-first-human-like-ai-agents",
-    "summary": "Today, we’re launching ClickUp Super Agents – the first human‑like AI agents that live inside ClickUp and collaborate with your team like real teammates.These aren’t just chatbots or one‑off automations. Super Agents:See your work the way you do: tasks, docs, chats, meetings, and schedules all in...",
-    "date": "2025-12-22T17:30:47+00:00"
   }
 ]
