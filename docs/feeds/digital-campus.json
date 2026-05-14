@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "b40546da95282232",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Secondary Workflows",
+    "link": "https://announcekit.app/kuali/announcements/new-secondary-workflows-11fwRO",
+    "summary": "You can now create and run Secondary Workflows to support processes that happen outside your main submission workflow. This gives you more f...",
+    "date": "2026-05-14T21:10:00+00:00"
+  },
+  {
     "id": "80045883651ea730",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-smarter-search-results-in-document-lists-2YItig",
     "summary": "We’ve improved how search works in document lists to help you find the right records faster. These updates reduce noise and surface the most...",
     "date": "2026-05-05T12:00:00+00:00"
-  },
-  {
-    "id": "fad11548dacefaec",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: View Effective Permissions for Any User",
-    "link": "https://announcekit.app/kuali/announcements/new-view-effective-permissions-for-any-user-48fF7y",
-    "summary": "You can now see exactly what permissions a user has—all in one place. The new Effective Permissions tab, located within each user’s record, ...",
-    "date": "2026-05-04T21:05:00+00:00"
   },
   {
     "id": "dece149d535428b7",
@@ -750,6 +750,16 @@
     "date": "2026-05-11T00:00:00+00:00"
   },
   {
+    "id": "fad11548dacefaec",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: View Effective Permissions for Any User",
+    "link": "https://announcekit.app/kuali/announcements/new-view-effective-permissions-for-any-user-48fF7y",
+    "summary": "You can now see exactly what permissions a user has—all in one place. The new Effective Permissions tab, located within each user’s record, ...",
+    "date": "2026-05-04T21:05:00+00:00"
+  },
+  {
     "id": "33374ff4a54e5b46",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/require-explicit-consent-for-take-notes-with-Gemini-recordings-and-transcripts-in-Google-Meet.html",
     "summary": "We’re introducing a new feature that allows administrators to require explicit consent from meeting participants before automatic note-taking, recording, and/or transcription begins. With this update, admins can ensure that participants on supported devices must actively agree to be recorded, be...",
     "date": "2026-05-05T18:05:00+00:00"
-  },
-  {
-    "id": "f379a94b876510cb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Set custom instructions for Gemini in Google Docs",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/set-custom-instructions-for-gemini-in-Google-Docs.html",
-    "summary": "We are introducing the ability to set custom, persistent instructions for Gemini in Google Docs. These instructions ensure that Gemini adapts to your style, tone, and formatting preferences without needing to repeat them in every conversation, ultimately saving you time and ensuring...",
-    "date": "2026-05-04T20:47:00+00:00"
   }
 ]
