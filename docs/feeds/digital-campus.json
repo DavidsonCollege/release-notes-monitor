@@ -220,6 +220,36 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "b7f92fa8fa3f6f98",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Expanded options for header images in Google Forms",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/more-options-for-forms-headers.html",
+    "summary": "Form creators now have more options for header images in Google Forms. Previously, creators could only use a pre-selected theme, upload an image, or choose an image from Google Photos. In addition to these options, they can now choose an image from Google Drive or Google Images or use a URL. This...",
+    "date": "2026-05-14T16:30:57+00:00"
+  },
+  {
+    "id": "26232b6896a039df",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improving security posture with default context-aware access for all SAML applications",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/default-CAA-for-SAML.html",
+    "summary": "Administrators can now apply a global context-aware access (CAA) policy to all SAML applications within their organization. This update introduces a default assignment that serves as a universal security baseline, automatically protecting any SAML-based app that does not have a specific policy...",
+    "date": "2026-05-14T16:13:41+00:00"
+  },
+  {
+    "id": "96ffce0c4e805aea",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Enhancing the Datadog app for Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/enhancing-datadog-app-for-google-chat.html",
+    "summary": "The latest version of the Datadog app for Google Chat allows you to integrate Datadog into your Google Chat workflows more seamlessly and stay on top of critical infrastructure without leaving the flow of team collaboration. Newly added features include: Link previewsCut and paste a widget from a...",
+    "date": "2026-05-14T16:09:43+00:00"
+  },
+  {
     "id": "1f567d8f4125b1bb",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -238,36 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/small-businesses-can-now-seamlessly-import-users-from-Microsoft-to-Google-Workspace.html",
     "summary": "We’re excited to announce the beta release of a new, simplified way for very small and small-sized businesses to import their users from Microsoft to Google Workspace when setting up their Workspace account for the first time.This new feature allows these businesses and educational institutions to...",
     "date": "2026-05-13T16:52:52+00:00"
-  },
-  {
-    "id": "2b065089b037fe0c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use NotebookLM in your Google Workspace Studio flows",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/notebooklm-in-workspace-studio.html",
-    "summary": "We’re integrating NotebookLM into Google Workspace Studio. This enhancement lets you use your existing notebooks as an AI knowledge source for your automations. You can use the new Ask NotebookLM step to generate grounded responses based on the insights, summaries, and research in your...",
-    "date": "2026-05-12T20:21:56+00:00"
-  },
-  {
-    "id": "4c77abfc17b8bc1c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Assignments LTI™ and Gemini LTI™ are now available for Moodle",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/workspace-assignments-lti-and-gemini-lti-for-moodle.html",
-    "summary": "We’re expanding the availability of Assignments LTI™ and Gemini LTI™ to include Moodle, joining our existing support for Canvas and Schoology. Gemini LTI™ brings Google AI tools like the Gemini app and NotebookLM directly into third-party Learning Management Systems (LMS), enabling students and...",
-    "date": "2026-05-12T16:09:32+00:00"
-  },
-  {
-    "id": "3e3da8b7a949e6ce",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Add avatars when you convert presentations to Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/add-avatars-when-you-convert-presentations-to-Vids.html",
-    "summary": "You can already convert your Google Slides content into Google Vids, and use Gemini to generate scripts, voiceovers, and background music. Now, you can add a spokesperson to your videos using AI avatars when importing content from Slides. Avatars are dynamically inserted throughout the imported...",
-    "date": "2026-05-11T21:01:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -650,6 +650,16 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "de0111061eccd47e",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new Release Preview builds for 14 May 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/05/14/announcing-new-release-preview-builds-for-14-may-2026/",
+    "summary": "Hello Windows Insiders, Today we're releasing new builds for Release Preview across our supported versions of Windows 11. Please see the build numbers and links to the release notes below: Windows 11 version 24H2/25H2: Announcing new Release Preview builds for 14 May 2026 appeared first on Windows...",
+    "date": "2026-05-14T17:05:26+00:00"
+  },
+  {
     "id": "32ca660c5e6a023c",
     "product_id": "windows",
     "product_name": "Windows",
@@ -688,16 +698,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-26220-8271-beta-channel/",
     "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8271 (KB 5083728) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (i The post Announcing Windows 11 Insider Preview Build 26220.8271...",
     "date": "2026-04-17T17:05:13+00:00"
-  },
-  {
-    "id": "9acb5fc8679672d0",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.8276 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-26300-8276-dev-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8276 (KB 5083726) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.8276...",
-    "date": "2026-04-17T17:04:54+00:00"
   },
   {
     "id": "4d94087345d3c04f",
@@ -748,6 +748,46 @@
     "link": "https://developers.zoom.us/changelog/quality-management/may-11-2026",
     "summary": "Tags: api-release | New response fields in two Evaluations API endpoints.",
     "date": "2026-05-11T00:00:00+00:00"
+  },
+  {
+    "id": "2b065089b037fe0c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Use NotebookLM in your Google Workspace Studio flows",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/notebooklm-in-workspace-studio.html",
+    "summary": "We’re integrating NotebookLM into Google Workspace Studio. This enhancement lets you use your existing notebooks as an AI knowledge source for your automations. You can use the new Ask NotebookLM step to generate grounded responses based on the insights, summaries, and research in your...",
+    "date": "2026-05-12T20:21:56+00:00"
+  },
+  {
+    "id": "4c77abfc17b8bc1c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Assignments LTI™ and Gemini LTI™ are now available for Moodle",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/workspace-assignments-lti-and-gemini-lti-for-moodle.html",
+    "summary": "We’re expanding the availability of Assignments LTI™ and Gemini LTI™ to include Moodle, joining our existing support for Canvas and Schoology. Gemini LTI™ brings Google AI tools like the Gemini app and NotebookLM directly into third-party Learning Management Systems (LMS), enabling students and...",
+    "date": "2026-05-12T16:09:32+00:00"
+  },
+  {
+    "id": "3e3da8b7a949e6ce",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Add avatars when you convert presentations to Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/add-avatars-when-you-convert-presentations-to-Vids.html",
+    "summary": "You can already convert your Google Slides content into Google Vids, and use Gemini to generate scripts, voiceovers, and background music. Now, you can add a spokesperson to your videos using AI avatars when importing content from Slides. Avatars are dynamically inserted throughout the imported...",
+    "date": "2026-05-11T21:01:00+00:00"
+  },
+  {
+    "id": "9acb5fc8679672d0",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 26300.8276 (Dev Channel)",
+    "link": "https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-26300-8276-dev-channel/",
+    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8276 (KB 5083726) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.8276...",
+    "date": "2026-04-17T17:04:54+00:00"
   },
   {
     "id": "f21acc3180f1ae61",
@@ -958,45 +998,5 @@
     "link": "https://developers.zoom.us/changelog/accounts/april-27-2026",
     "summary": "Tags: api-release | Introduced a new `has_aic_conversation` response field in Dashboards meeting metrics APIs to indicate whether a meeting includes an AI Companion conversation.",
     "date": "2026-04-27T00:00:00+00:00"
-  },
-  {
-    "id": "4ba762649f806c34",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Securely manage AI and agent access to Workspace data with the AI control center",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/securely-manage-AI-and-agent-access-to-Workspace-data-with-the-AI-control-center.html",
-    "summary": "Securely managing access for generative AI and agent actions to Workspace data is easier ever than before with the new AI control center in the Admin console. This new capability gives enterprise organizations greater visibility and control, especially for teams with stringent data security and...",
-    "date": "2026-05-04T19:04:00+00:00"
-  },
-  {
-    "id": "d1d03d0da7685e70",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Now generally available: Bulk import using client-side encryption and the Drive API",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/now-generally-available-bulk-import-using-client-side-encryption-and-the-Drive-API.html",
-    "summary": "Previously available in beta, client-side encryption (CSE) customers can now conduct bulk migrations of sensitive files from both cloud and on-premises data sources. This process ensures confidential content is wrapped with customer-managed keys before it's imported into Google Workspace. Using...",
-    "date": "2026-05-04T16:27:00+00:00"
-  },
-  {
-    "id": "1b41371f53d95768",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - May 1, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/google-workspace-updates-weekly-recap.html",
-    "summary": "Move from conversation to creation with file generation in GeminiGemini can now transform your ideas, using conversational prompts, directly into thoughtfully formatted files, such as Google Docs, Sheets, and Slides, PDFs and more, directly in your chats with Gemini. | Learn more about how to move...",
-    "date": "2026-05-01T20:08:00+00:00"
-  },
-  {
-    "id": "f5a6c0aca978cabb",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "March 2026 Release Announcement",
-    "link": "https://announcekit.app/kuali/announcements/march-2026-release-announcement-12lIZO",
-    "summary": "improvements Admin preview for streamlined UI updatesPerformance improvementsAccessibility Improvementsfeature Hierarchical group selectio...",
-    "date": "2026-04-14T18:40:00+00:00"
   }
 ]
