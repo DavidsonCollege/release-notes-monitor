@@ -5,8 +5,15 @@
     <description/>
     <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/ai.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2026 22:56:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 23:26:13 +0000</lastBuildDate>
     <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/ai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ChatGPT - File library expands to Free and Go users, with storage management</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=openai.com&amp;sz=64&quot; alt=&quot;ChatGPT&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ChatGPT&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;File library is expanding to Free and Go users, including to users in the European Economic Area (EEA) making it easier to find, reuse, and build on files you upload or create in ChatGPT. You can add recent files from the composer, browse saved files in Library, and ask ChatGPT about files you’ve...&lt;/p&gt;&lt;a href=&quot;https://help.openai.com/en/articles/6825453-chatgpt-release-notes&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">58b63ff044a3bc29</guid>
+      <pubDate>Thu, 14 May 2026 23:26:09 +0000</pubDate>
+    </item>
     <item>
       <title>ChatGPT - ChatGPT Images 2.0</title>
       <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
