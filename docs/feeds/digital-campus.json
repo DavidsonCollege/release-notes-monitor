@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "1f567d8f4125b1bb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Deploying ServiceNow Now Assist Virtual Agent from the Google Workspace Marketplace",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/servicenow-now-assist-workspace-marketplace.html",
+    "summary": "Google Workspace customers can now deploy the Now Assist Virtual Agent for Google Chat integration directly from the Google Workspace Marketplace. This update simplifies the deployment process for Workspace and ServiceNow administrators, allowing them to provide employees with centralized access to...",
+    "date": "2026-05-14T14:51:06+00:00"
+  },
+  {
     "id": "33374ff4a54e5b46",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/add-avatars-when-you-convert-presentations-to-Vids.html",
     "summary": "You can already convert your Google Slides content into Google Vids, and use Gemini to generate scripts, voiceovers, and background music. Now, you can add a spokesperson to your videos using AI avatars when importing content from Slides. Avatars are dynamically inserted throughout the imported...",
     "date": "2026-05-11T21:01:00+00:00"
-  },
-  {
-    "id": "f21acc3180f1ae61",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - May 8, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/weekly-recap-05-08-2026.html",
-    "summary": "Now generally available: Bulk import using client-side encryption and the Drive APIPreviously available in beta, client-side encryption (CSE) customers can now conduct bulk migrations of sensitive files from both cloud and on-premises data sources. | Learn more about how to bulk import using...",
-    "date": "2026-05-08T19:25:00+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,16 @@
     "date": "2026-05-11T00:00:00+00:00"
   },
   {
+    "id": "f21acc3180f1ae61",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - May 8, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/weekly-recap-05-08-2026.html",
+    "summary": "Now generally available: Bulk import using client-side encryption and the Drive APIPreviously available in beta, client-side encryption (CSE) customers can now conduct bulk migrations of sensitive files from both cloud and on-premises data sources. | Learn more about how to bulk import using...",
+    "date": "2026-05-08T19:25:00+00:00"
+  },
+  {
     "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "https://announcekit.app/kuali/announcements/march-2026-release-announcement-12lIZO",
     "summary": "improvements Admin preview for streamlined UI updatesPerformance improvementsAccessibility Improvementsfeature Hierarchical group selectio...",
     "date": "2026-04-14T18:40:00+00:00"
-  },
-  {
-    "id": "02173bb5cf678da3",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Takeout Transfer now supports Google Photos for Education users",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/google-takeout-transfer-now-supports.html",
-    "summary": "When users graduate or leave an organization, they can preserve their academic work by using Google Takeout Transfer to take their Google Drive and Gmail content with them. We’re now expanding Google Takeout Transfer to include Google Photos, allowing users to migrate their memories from their...",
-    "date": "2026-05-01T19:55:00+00:00"
   }
 ]
