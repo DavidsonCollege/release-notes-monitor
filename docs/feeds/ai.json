@@ -1,15 +1,5 @@
 [
   {
-    "id": "58b63ff044a3bc29",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "File library expands to Free and Go users, with storage management",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "File library is expanding to Free and Go users, including to users in the European Economic Area (EEA) making it easier to find, reuse, and build on files you upload or create in ChatGPT. You can add recent files from the composer, browse saved files in Library, and ask ChatGPT about files you’ve...",
-    "date": "2026-05-14T23:26:09.806907+00:00"
-  },
-  {
     "id": "ecfd635d65b9b4f7",
     "product_id": "chatgpt",
     "product_name": "ChatGPT",
@@ -48,6 +38,16 @@
     "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "summary": "",
     "date": "2026-03-25T17:55:13.622068+00:00"
+  },
+  {
+    "id": "84845adf541f7ca2",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Configure",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-03-17T18:55:52.847736+00:00"
   },
   {
     "id": "c1caf4d27b22f1bd",
@@ -150,14 +150,14 @@
     "date": "2026-03-26T19:31:36.605341+00:00"
   },
   {
-    "id": "84845adf541f7ca2",
+    "id": "58b63ff044a3bc29",
     "product_id": "chatgpt",
     "product_name": "ChatGPT",
     "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Configure",
+    "title": "File library expands to Free and Go users, with storage management",
     "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "",
-    "date": "2026-03-17T18:55:52.847736+00:00"
+    "summary": "File library is expanding to Free and Go users, including to users in the European Economic Area (EEA) making it easier to find, reuse, and build on files you upload or create in ChatGPT. You can add recent files from the composer, browse saved files in Library, and ask ChatGPT about files you’ve...",
+    "date": "2026-05-14T23:26:09.806907+00:00"
   },
   {
     "id": "9edbf1414a9f521d",
