@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "53a176192b558355",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "May 15, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/49288100351380-May-15-2026",
+    "summary": "",
+    "date": "2026-05-15T17:04:18Z"
+  },
+  {
     "id": "4c8795724923f502",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/48391032193812-April-17-2026",
     "summary": "",
     "date": "2026-04-20T02:06:15Z"
-  },
-  {
-    "id": "b81e0ba8e2ed8c82",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "April 10, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/48103141930900-April-10-2026",
-    "summary": "",
-    "date": "2026-04-10T18:02:43Z"
   },
   {
     "id": "518f53653205674c",
@@ -750,6 +750,16 @@
     "date": "2026-05-11T00:00:00+00:00"
   },
   {
+    "id": "b81e0ba8e2ed8c82",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "April 10, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/48103141930900-April-10-2026",
+    "summary": "",
+    "date": "2026-04-10T18:02:43Z"
+  },
+  {
     "id": "fad11548dacefaec",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -988,15 +998,5 @@
     "link": "https://announcekit.app/kuali/announcements/new-collapsible-sections-3LwVzi",
     "summary": "You can now expand and collapse Sections in the Form Designer—making it much easier to work with large, complex forms. Why This MattersManag...",
     "date": "2026-04-15T19:05:00+00:00"
-  },
-  {
-    "id": "629ccb2a78b6f1f4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Require explicit consent for Take Notes with Gemini, recordings, and transcripts in Google Meet",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/require-explicit-consent-for-take-notes-with-Gemini-recordings-and-transcripts-in-Google-Meet.html",
-    "summary": "We’re introducing a new feature that allows administrators to require explicit consent from meeting participants before automatic note-taking, recording, and/or transcription begins. With this update, admins can ensure that participants on supported devices must actively agree to be recorded, be...",
-    "date": "2026-05-05T18:05:00+00:00"
   }
 ]
