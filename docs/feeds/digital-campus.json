@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "42a3f8f87b22f5a9",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "March 27, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/47657628557716-March-27-2026",
+    "summary": "",
+    "date": "2026-05-15T18:54:39Z"
+  },
+  {
     "id": "53a176192b558355",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/48568747200404-April-24-2026",
     "summary": "",
     "date": "2026-04-24T19:04:46Z"
-  },
-  {
-    "id": "ea5f10536f76ee45",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "April 17, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/48391032193812-April-17-2026",
-    "summary": "",
-    "date": "2026-04-20T02:06:15Z"
   },
   {
     "id": "518f53653205674c",
@@ -220,6 +220,36 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "5e57d2137ed0f7ff",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - May 15, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/workspace-updates-weekly-recap-may-15-2026.html",
+    "summary": "Whiteboarding add-ons now available for Android-based Google Meet hardwareThird-party whiteboarding add-ons for Google Meet, including Figma, Lucidspark, and Miro, will be available for room hardware based on Android. | Learn more about whiteboarding add-ons for Android-based Google Meet...",
+    "date": "2026-05-15T18:20:20+00:00"
+  },
+  {
+    "id": "21151303413235af",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Android-based all-in-one room devices from Neat and Logitech certified for Google Meet",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/android-all-in-one-devices-neat-logitech.html",
+    "summary": "The Neat Board series (32, 50, and Pro) and the Logitech Rally Board 65 are now certified for Google Meet as the first Android-based all-in-one devices. They package up and deliver a modern Meet experience in stylish form factors ideal for simple deployment in traditional meeting rooms, open...",
+    "date": "2026-05-15T18:18:27+00:00"
+  },
+  {
+    "id": "f921e21fa9029130",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Whiteboarding add-ons now available for Android-based Google Meet hardware",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/whiteboarding-add-ons-meet-hardware-android.html",
+    "summary": "Third-party whiteboarding add-ons for Google Meet will be available for room hardware based on Android. As all-in-one devices with touchscreens become certified for Meet, users will be able to whiteboard on them to share ideas, brainstorm, and work on projects together in real-time meetings,...",
+    "date": "2026-05-15T18:17:36+00:00"
+  },
+  {
     "id": "c097a4ca2eb60859",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -238,36 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/more-options-for-forms-headers.html",
     "summary": "Form creators now have more options for header images in Google Forms. Previously, creators could only use a pre-selected theme, upload an image, or choose an image from Google Photos. In addition to these options, they can now choose an image from Google Drive or Google Images or use a URL. This...",
     "date": "2026-05-14T16:30:57+00:00"
-  },
-  {
-    "id": "26232b6896a039df",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improving security posture with default context-aware access for all SAML applications",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/default-CAA-for-SAML.html",
-    "summary": "Administrators can now apply a global context-aware access (CAA) policy to all SAML applications within their organization. This update introduces a default assignment that serves as a universal security baseline, automatically protecting any SAML-based app that does not have a specific policy...",
-    "date": "2026-05-14T16:13:41+00:00"
-  },
-  {
-    "id": "96ffce0c4e805aea",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Enhancing the Datadog app for Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/enhancing-datadog-app-for-google-chat.html",
-    "summary": "The latest version of the Datadog app for Google Chat allows you to integrate Datadog into your Google Chat workflows more seamlessly and stay on top of critical infrastructure without leaving the flow of team collaboration. Newly added features include: Link previewsCut and paste a widget from a...",
-    "date": "2026-05-14T16:09:43+00:00"
-  },
-  {
-    "id": "1f567d8f4125b1bb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Deploying ServiceNow Now Assist Virtual Agent from the Google Workspace Marketplace",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/servicenow-now-assist-workspace-marketplace.html",
-    "summary": "Google Workspace customers can now deploy the Now Assist Virtual Agent for Google Chat integration directly from the Google Workspace Marketplace. This update simplifies the deployment process for Workspace and ServiceNow administrators, allowing them to provide employees with centralized access to...",
-    "date": "2026-05-14T14:51:06+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,46 @@
     "date": "2026-05-11T00:00:00+00:00"
   },
   {
+    "id": "ea5f10536f76ee45",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "April 17, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/48391032193812-April-17-2026",
+    "summary": "",
+    "date": "2026-04-20T02:06:15Z"
+  },
+  {
+    "id": "26232b6896a039df",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improving security posture with default context-aware access for all SAML applications",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/default-CAA-for-SAML.html",
+    "summary": "Administrators can now apply a global context-aware access (CAA) policy to all SAML applications within their organization. This update introduces a default assignment that serves as a universal security baseline, automatically protecting any SAML-based app that does not have a specific policy...",
+    "date": "2026-05-14T16:13:41+00:00"
+  },
+  {
+    "id": "96ffce0c4e805aea",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Enhancing the Datadog app for Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/enhancing-datadog-app-for-google-chat.html",
+    "summary": "The latest version of the Datadog app for Google Chat allows you to integrate Datadog into your Google Chat workflows more seamlessly and stay on top of critical infrastructure without leaving the flow of team collaboration. Newly added features include: Link previewsCut and paste a widget from a...",
+    "date": "2026-05-14T16:09:43+00:00"
+  },
+  {
+    "id": "1f567d8f4125b1bb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Deploying ServiceNow Now Assist Virtual Agent from the Google Workspace Marketplace",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/servicenow-now-assist-workspace-marketplace.html",
+    "summary": "Google Workspace customers can now deploy the Now Assist Virtual Agent for Google Chat integration directly from the Google Workspace Marketplace. This update simplifies the deployment process for Workspace and ServiceNow administrators, allowing them to provide employees with centralized access to...",
+    "date": "2026-05-14T14:51:06+00:00"
+  },
+  {
     "id": "b81e0ba8e2ed8c82",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -958,45 +998,5 @@
     "link": "https://developers.zoom.us/changelog/rooms/introducing-testing-for-zoom-rooms-apps",
     "summary": "Tags: new-feature | Guide to testing Zoom Rooms apps, setup, and debug workflow.",
     "date": "2026-04-30T00:00:00+00:00"
-  },
-  {
-    "id": "eb044656ade70448",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New request fields in Organizational Groups, Imports, Users, Scheduling Groups, and Filter Groups APIs",
-    "link": "https://developers.zoom.us/changelog/workforce-management/april-30-2026",
-    "summary": "Tags: api-release | New request fields in Organizational Groups, Imports, Users, Scheduling Groups, and Filter Groups APIs.",
-    "date": "2026-04-30T00:00:00+00:00"
-  },
-  {
-    "id": "6c1abd575258a9a1",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.5 RC (25F71)",
-    "link": "https://developer.apple.com/news/releases/?id=05042026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-05-04T17:00:00+00:00"
-  },
-  {
-    "id": "6a3d11391ef6d77f",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Turn your AI prompts into one-click tools using skills in Chrome",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/turn-your-ai-prompts-into-one-click-tools-using-skills-in-Chrome.html",
-    "summary": "Professionals are using Gemini in Chrome to accelerate their daily workflows—from summarizing complex reports to drafting client emails and analyzing market data.Until now, repeating a high-value AI task meant re-entering the same prompt every time you navigated to a new page or document. To...",
-    "date": "2026-05-06T16:44:00+00:00"
-  },
-  {
-    "id": "b925dbd94822ceaa",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Collapsible Sections",
-    "link": "https://announcekit.app/kuali/announcements/new-collapsible-sections-3LwVzi",
-    "summary": "You can now expand and collapse Sections in the Form Designer—making it much easier to work with large, complex forms. Why This MattersManag...",
-    "date": "2026-04-15T19:05:00+00:00"
   }
 ]
