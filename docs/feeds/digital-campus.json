@@ -680,6 +680,56 @@
     "date": "2026-04-17T17:07:00+00:00"
   },
   {
+    "id": "988f6ef0a996cb2c",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New response fields in Dashboards and Accounts API endpoints",
+    "link": "https://developers.zoom.us/changelog/accounts/may-18-2026",
+    "summary": "Tags: api-release | New response fields for Zoom Room in Dashboards API endpoints. And new response fields for webinar summary and questions with AI Companion in Accounts API endpoints.",
+    "date": "2026-05-18T00:00:00+00:00"
+  },
+  {
+    "id": "eef43a34e5dcc8ed",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Translator APIs for translation jobs and files and a new Scribe file retrieval API",
+    "link": "https://developers.zoom.us/changelog/ai-services/may-18-2026",
+    "summary": "Tags: api-release | Added Translator APIs to create and manage translation jobs, translate content, and retrieve translated files. Added a new Scribe API to retrieve processed files from a Scribe job.",
+    "date": "2026-05-18T00:00:00+00:00"
+  },
+  {
+    "id": "2dc1a7eb24153d30",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Renaming of Zoom Docs",
+    "link": "https://developers.zoom.us/changelog/canvas/may-18-2026",
+    "summary": "Tags: api-release, new-feature | Product name update Zoom Dos will now be called Canvas.",
+    "date": "2026-05-18T00:00:00+00:00"
+  },
+  {
+    "id": "e5a847b11b45c934",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Four new APIs, two new webhook events, and new fields in over 10 API endpoints",
+    "link": "https://developers.zoom.us/changelog/contact-center/may-18-2026",
+    "summary": "Tags: api-release | Four new APIs, two new webhook events, and new fields in over 10 API endpoints.",
+    "date": "2026-05-18T00:00:00+00:00"
+  },
+  {
+    "id": "aabe6440bbd4942e",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New fields in two API endpoints and the participant-feedback webhook events",
+    "link": "https://developers.zoom.us/changelog/meetings/may-18-2026",
+    "summary": "Tags: api-release | New fields in two API endpoints and the participant-feedback webhook events.",
+    "date": "2026-05-18T00:00:00+00:00"
+  },
+  {
     "id": "4d94087345d3c04f",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -948,55 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/google-workspace-studio-available-in-more-languages.html",
     "summary": "Google Workspace Studio has expanded its support to include seven new languages. In addition to English, Workspace Studio now offers full capabilities in:FrenchGermanItalianJapaneseKoreanPortugueseSpanishGetting startedAdmins: There is no admin control for this feature.End users: Try out Google...",
     "date": "2026-05-07T19:36:00+00:00"
-  },
-  {
-    "id": "e6810110f7b0c239",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "View the Google Meet live stream automatically if an adaptive meeting becomes full",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/view-google-meet-live-stream-automatically-if-an-adaptive-meeting-becomes-full.html",
-    "summary": "We're making it simpler to join large Google Meet events. When an adaptive meeting reaches its maximum capacity for meeting contributors (those with camera, microphone, and screen sharing privileges), any additional users attempting to join the main call are automatically redirected to join the...",
-    "date": "2026-05-07T14:20:00+00:00"
-  },
-  {
-    "id": "9bc9c2fc4c19bea5",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "April 3, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/47962007274900-April-3-2026",
-    "summary": "",
-    "date": "2026-04-06T20:31:03Z"
-  },
-  {
-    "id": "9c08d376aceaaf32",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "UPDATE: Updates to How Table Gadget Data is Returned Via API (now scheduled for May 10, 2026)",
-    "link": "https://announcekit.app/kuali/announcements/update-updates-to-how-table-gadget-data-is-returned-via-api-now-scheduled-for-may-10-2026-4ACIYU",
-    "summary": "Based on customer feedback, we’re postponing the update to how Table gadget data is formatted in API JSON responses to May 10, 2026 to allow...",
-    "date": "2026-04-15T21:00:00+00:00"
-  },
-  {
-    "id": "290302f2396fc6ee",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improvements to the Meet starter step and Calendar time-blocking capabilities in Google Workspace Studio",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-meet-starter-step-and-Calendar-time-blocking-capabilities-in-Google-Workspace-Studio.html",
-    "summary": "We’re introducing enhancements to the Google Meet starter step in Google Workspace Studio. As part of this, the step When a meeting transcript is ready has been renamed When meeting outputs are ready. This step now allows you to decide if the workflow should run when either meeting transcripts or...",
-    "date": "2026-05-06T16:54:00+00:00"
-  },
-  {
-    "id": "02c24ee9fe9fb20f",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Workspaces API added",
-    "link": "https://developers.zoom.us/changelog/rooms/may-07-2026",
-    "summary": "Tags: api-release | Added new endpoint for Workspaces API.",
-    "date": "2026-05-07T00:00:00+00:00"
   }
 ]
