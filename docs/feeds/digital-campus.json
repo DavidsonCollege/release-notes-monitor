@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "53a176192b558355",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "May 15, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/49288100351380-May-15-2026",
+    "summary": "",
+    "date": "2026-05-18T20:01:23Z"
+  },
+  {
     "id": "42a3f8f87b22f5a9",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -28,16 +38,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/47657628557716-March-27-2026",
     "summary": "",
     "date": "2026-05-15T18:54:39Z"
-  },
-  {
-    "id": "53a176192b558355",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "May 15, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/49288100351380-May-15-2026",
-    "summary": "",
-    "date": "2026-05-15T17:57:40Z"
   },
   {
     "id": "4c8795724923f502",
