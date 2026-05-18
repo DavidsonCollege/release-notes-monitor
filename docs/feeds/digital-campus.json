@@ -70,6 +70,16 @@
     "date": "2026-04-24T19:04:46Z"
   },
   {
+    "id": "549b539dc0dc537b",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Create design API now supports two new creation modes: copying an existing design using type: design, and creating a design from a brand template",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/create-design/",
+    "summary": "The Create design API now supports two new creation modes: copying an existing design using type: design, and creating a design from a brand template using type: brand_template. Both creation modes are currently a preview feature.",
+    "date": "2026-05-18T07:38:46.639859+00:00"
+  },
+  {
     "id": "518f53653205674c",
     "product_id": "canva",
     "product_name": "Canva",
@@ -78,6 +88,16 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/exports/create-design-export-job/",
     "summary": "",
     "date": "2026-05-13T02:24:47.810072+00:00"
+  },
+  {
+    "id": "1f87efd1b5cea818",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "New preview APIs are available: Create design merge job and Get design merge job. These APIs let you merge design pages by inserting, moving, or delet",
+    "link": "https://www.canva.dev/docs/connect/api-reference/merges/create-design-merge-job/",
+    "summary": "New preview APIs are available: Create design merge job and Get design merge job. These APIs let you merge design pages by inserting, moving, or deleting pages to create a new design or modify an existing one.",
+    "date": "2026-05-18T07:38:46.639894+00:00"
   },
   {
     "id": "4d32ad735cbf6a1b",
@@ -98,26 +118,6 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/create-design/",
     "summary": "A new type request parameter has been added to the Create design API. Although this type is shown as required, for backward compatibility, if it isn't provided in a request, the request type will be assumed to be type_and_asset.",
     "date": "2026-03-29T23:47:59.875578+00:00"
-  },
-  {
-    "id": "eb2eaea6cca0fce1",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Create design autofill job API now supports column_configs for chart data fields, allowing you to define column names and data types separately f",
-    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
-    "summary": "The Create design autofill job API now supports column_configs for chart data fields, allowing you to define column names and data types separately from your data.",
-    "date": "2026-03-29T23:47:59.875601+00:00"
-  },
-  {
-    "id": "dd3c1c79dc975c71",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Create design export job API now supports two additional email export formats: html_bundle and html_standalone. Use these formats when creating e",
-    "link": "https://www.canva.dev/docs/connect/api-reference/exports/create-design-export-job/",
-    "summary": "The Create design export job API now supports two additional email export formats: html_bundle and html_standalone. Use these formats when creating export jobs for email designs, depending on whether you need bundled assets (html_bundle) or a standalone HTML output (html_standalone).",
-    "date": "2026-03-29T23:47:59.875608+00:00"
   },
   {
     "id": "5cc3318b9fb82a1d",
@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "97fe8889531eaaa6",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Streamlined UI Updates Are Now Live",
+    "link": "https://announcekit.app/kuali/announcements/streamlined-ui-updates-are-now-live-2l00ko",
+    "summary": "Our new user interface updates are now live - see the original announcement for a detailed overview of what’s changed. These improvements a...",
+    "date": "2026-05-18T07:15:00+00:00"
+  },
+  {
     "id": "b40546da95282232",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/coming-soon-streamlined-ui-updates---arriving-may-18-2026-2grS9i",
     "summary": "Our new user interface updates launch on May 18, 2026. See the original announcement for a detailed overview of what’s changing and how to p...",
     "date": "2026-05-05T22:15:00+00:00"
-  },
-  {
-    "id": "fd8986f3c4ae6d85",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Smarter Search Results in Document Lists",
-    "link": "https://announcekit.app/kuali/announcements/new-smarter-search-results-in-document-lists-2YItig",
-    "summary": "We’ve improved how search works in document lists to help you find the right records faster. These updates reduce noise and surface the most...",
-    "date": "2026-05-05T12:00:00+00:00"
   },
   {
     "id": "dece149d535428b7",
@@ -730,6 +730,36 @@
     "date": "2026-05-11T00:00:00+00:00"
   },
   {
+    "id": "eb2eaea6cca0fce1",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Create design autofill job API now supports column_configs for chart data fields, allowing you to define column names and data types separately f",
+    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
+    "summary": "The Create design autofill job API now supports column_configs for chart data fields, allowing you to define column names and data types separately from your data.",
+    "date": "2026-03-29T23:47:59.875601+00:00"
+  },
+  {
+    "id": "dd3c1c79dc975c71",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Create design export job API now supports two additional email export formats: html_bundle and html_standalone. Use these formats when creating e",
+    "link": "https://www.canva.dev/docs/connect/api-reference/exports/create-design-export-job/",
+    "summary": "The Create design export job API now supports two additional email export formats: html_bundle and html_standalone. Use these formats when creating export jobs for email designs, depending on whether you need bundled assets (html_bundle) or a standalone HTML output (html_standalone).",
+    "date": "2026-03-29T23:47:59.875608+00:00"
+  },
+  {
+    "id": "fd8986f3c4ae6d85",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Smarter Search Results in Document Lists",
+    "link": "https://announcekit.app/kuali/announcements/new-smarter-search-results-in-document-lists-2YItig",
+    "summary": "We’ve improved how search works in document lists to help you find the right records faster. These updates reduce noise and surface the most...",
+    "date": "2026-05-05T12:00:00+00:00"
+  },
+  {
     "id": "e9f732f5ae04c4fb",
     "product_id": "windows",
     "product_name": "Windows",
@@ -968,35 +998,5 @@
     "link": "https://developers.zoom.us/changelog/rooms/may-07-2026",
     "summary": "Tags: api-release | Added new endpoint for Workspaces API.",
     "date": "2026-05-07T00:00:00+00:00"
-  },
-  {
-    "id": "8f6739cd166e1671",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New response field for Subscription API",
-    "link": "https://developers.zoom.us/changelog/commerce/may-04-2026",
-    "summary": "Tags: api-release | Added enhancements to Subscription API.",
-    "date": "2026-05-04T00:00:00+00:00"
-  },
-  {
-    "id": "13b0069cb10329a5",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New API to decrypt customer managed keys",
-    "link": "https://developers.zoom.us/changelog/customer-managed-keys-hybrid/april-30-2026",
-    "summary": "Tags: api-release | New API to decrypt customer managed keys.",
-    "date": "2026-04-30T00:00:00+00:00"
-  },
-  {
-    "id": "6d990f4ba121d6d7",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Introducing Testing for Zoom Rooms apps",
-    "link": "https://developers.zoom.us/changelog/rooms/introducing-testing-for-zoom-rooms-apps",
-    "summary": "Tags: new-feature | Guide to testing Zoom Rooms apps, setup, and debug workflow.",
-    "date": "2026-04-30T00:00:00+00:00"
   }
 ]
