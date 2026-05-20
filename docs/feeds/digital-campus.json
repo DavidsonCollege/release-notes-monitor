@@ -1,10 +1,10 @@
 [
   {
-    "id": "68bf4e06214d3b4d",
+    "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
+    "title": "1Password for Android",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "May 20 2026"
@@ -730,6 +730,16 @@
     "date": "2026-05-18T00:00:00+00:00"
   },
   {
+    "id": "68bf4e06214d3b4d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "May 20 2026"
+  },
+  {
     "id": "75ea88db7f495000",
     "product_id": "slack",
     "product_name": "Slack",
@@ -958,16 +968,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/weekly-recap-05-08-2026.html",
     "summary": "Now generally available: Bulk import using client-side encryption and the Drive APIPreviously available in beta, client-side encryption (CSE) customers can now conduct bulk migrations of sensitive files from both cloud and on-premises data sources. | Learn more about how to bulk import using...",
     "date": "2026-05-08T19:25:00+00:00"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "April 21 2026"
   },
   {
     "id": "544e979428ac6810",

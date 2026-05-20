@@ -110,6 +110,46 @@
     "date": "2026-03-06T17:54:27.083316+00:00"
   },
   {
+    "id": "43ed6a39dc4f33b6",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: Gemini Spark introduces a whole new way to get things done. It helps you navigate your digital life by working on your tasks on your behalf. G",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "What: Gemini Spark introduces a whole new way to get things done. It helps you navigate your digital life by working on your tasks on your behalf. Gemini Spark is rolling out today to trusted testers and in Beta to Google AI Ultra subscribers aged 18 and over in the United States in the coming...",
+    "date": "2026-05-20T18:21:21.902508+00:00"
+  },
+  {
+    "id": "37f436db6bcd18da",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: With Gemini Spark, we are transforming Gemini from an AI assistant that answers your questions into one that actually works proactively on your",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: With Gemini Spark, we are transforming Gemini from an AI assistant that answers your questions into one that actually works proactively on your behalf.",
+    "date": "2026-05-20T18:21:21.902529+00:00"
+  },
+  {
+    "id": "69c2316473ed118d",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: Gemini Omni helps you create and edit videos as easily as having a conversation. It’s like Nano Banana for videos. Blend any combination of te",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "What: Gemini Omni helps you create and edit videos as easily as having a conversation. It’s like Nano Banana for videos. Blend any combination of text, photos, and video to create high-quality video. You can even drop yourself right into the action by creating a custom AI avatar that looks and...",
+    "date": "2026-05-20T18:21:21.902547+00:00"
+  },
+  {
+    "id": "292260d490b835ec",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: We want to empower users to create, regardless of their technical skill set or access to complex software. With Gemini Omni, your natural langu",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: We want to empower users to create, regardless of their technical skill set or access to complex software. With Gemini Omni, your natural language is the only tool you need to direct, refine, and produce captivating videos.",
+    "date": "2026-05-20T18:21:21.902552+00:00"
+  },
+  {
     "id": "7ccfeaeea3c56e5b",
     "product_id": "gemini",
     "product_name": "Gemini",
