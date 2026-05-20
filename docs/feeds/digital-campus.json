@@ -550,6 +550,16 @@
     "date": "2026-05-01T19:33:58.705402+00:00"
   },
   {
+    "id": "f7d0e93c29e86cfb",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "New Block Kit data table block",
+    "link": "https://docs.slack.dev/changelog/2026/05/20/block-kit-more-new-blocks",
+    "summary": "The data table block is now available for use with Block Kit.",
+    "date": "2026-05-20T00:00:00+00:00"
+  },
+  {
     "id": "56319c407a021c52",
     "product_id": "slack",
     "product_name": "Slack",
@@ -588,16 +598,6 @@
     "link": "https://docs.slack.dev/changelog/2026/04/10/slack-cli",
     "summary": "Version 4.0.0 of the developer tools for the Slack platform has arrived with lots of goodies for you!",
     "date": "2026-04-10T00:00:00+00:00"
-  },
-  {
-    "id": "a202083b037a806a",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "PKCE is now generally available!",
-    "link": "https://docs.slack.dev/changelog/2026/03/30/pkce",
-    "summary": "We are excited to announce support for Proof Key for Code Exchange (PKCE). PKCE is an OAuth security extension that enables developers to build more secure Slack applications on public clients, such as desktop apps and mobile apps, without the need to embed a vulnerable client_secret.",
-    "date": "2026-03-30T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -728,6 +728,16 @@
     "link": "https://developers.zoom.us/changelog/meetings/may-18-2026",
     "summary": "Tags: api-release | New fields in two API endpoints and the participant-feedback webhook events.",
     "date": "2026-05-18T00:00:00+00:00"
+  },
+  {
+    "id": "a202083b037a806a",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "PKCE is now generally available!",
+    "link": "https://docs.slack.dev/changelog/2026/03/30/pkce",
+    "summary": "We are excited to announce support for Proof Key for Code Exchange (PKCE). PKCE is an OAuth security extension that enables developers to build more secure Slack applications on public clients, such as desktop apps and mobile apps, without the need to embed a vulnerable client_secret.",
+    "date": "2026-03-30T00:00:00+00:00"
   },
   {
     "id": "68bf4e06214d3b4d",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-help-me-write-in-gmail.html",
     "summary": "As previously announced, Help me write in Gmail is evolving into an even more helpful partner that can pull in your natural voice and personalized context to get you closer to the perfect draft every time. We’ve added two new personalization enhancements:Topic contextualization: The feature can now...",
     "date": "2026-05-07T20:48:00+00:00"
-  },
-  {
-    "id": "54f24d9fe9316d8b",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Assets APIs⁠(opens in a new tab or window) now return an additional metadata property as part of the asset object.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/assets/",
-    "summary": "",
-    "date": "2026-03-29T23:47:59.875627+00:00"
   }
 ]
