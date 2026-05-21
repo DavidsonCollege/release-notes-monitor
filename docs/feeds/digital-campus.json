@@ -680,6 +680,56 @@
     "date": "2026-04-17T17:07:00+00:00"
   },
   {
+    "id": "03e61192af590e4e",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New Summarizer job management APIs",
+    "link": "https://developers.zoom.us/changelog/ai-services/may-21-2026",
+    "summary": "Tags: api-release | Added APIs to list and delete summarizer jobs.",
+    "date": "2026-05-21T00:00:00+00:00"
+  },
+  {
+    "id": "2e12252b9d593abd",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Manage Clip chapters with new APIs",
+    "link": "https://developers.zoom.us/changelog/clips/may-21-2026",
+    "summary": "Tags: api-release | Added APIs to create and retrieve chapters for Clips.",
+    "date": "2026-05-21T00:00:00+00:00"
+  },
+  {
+    "id": "d6baa1789fa529fd",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New Product Catalog APIs",
+    "link": "https://developers.zoom.us/changelog/commerce/may-21-2026",
+    "summary": "Tags: api-release | New Product Catalog APIs",
+    "date": "2026-05-21T00:00:00+00:00"
+  },
+  {
+    "id": "2a4ec0ad0d683a88",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add `aiSalesAssist` fields to SCIM User API requests and responses",
+    "link": "https://developers.zoom.us/changelog/scim2/may-21-2026",
+    "summary": "Tags: api-release | New fields added to SCIM for User APIs.",
+    "date": "2026-05-21T00:00:00+00:00"
+  },
+  {
+    "id": "4e86711c0ad0bb26",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New request and response fields",
+    "link": "https://developers.zoom.us/changelog/video-management/may-21-2026",
+    "summary": "Tags: api-release | New request and response fields in multiple Playlists, Videos, and Channels APIs. New fields in a Surveys webhook event.",
+    "date": "2026-05-21T00:00:00+00:00"
+  },
+  {
     "id": "988f6ef0a996cb2c",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -948,55 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/notebooklm-in-workspace-studio.html",
     "summary": "We’re integrating NotebookLM into Google Workspace Studio. This enhancement lets you use your existing notebooks as an AI knowledge source for your automations. You can use the new Ask NotebookLM step to generate grounded responses based on the insights, summaries, and research in your...",
     "date": "2026-05-12T20:21:56+00:00"
-  },
-  {
-    "id": "4c77abfc17b8bc1c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Assignments LTI™ and Gemini LTI™ are now available for Moodle",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/workspace-assignments-lti-and-gemini-lti-for-moodle.html",
-    "summary": "We’re expanding the availability of Assignments LTI™ and Gemini LTI™ to include Moodle, joining our existing support for Canvas and Schoology. Gemini LTI™ brings Google AI tools like the Gemini app and NotebookLM directly into third-party Learning Management Systems (LMS), enabling students and...",
-    "date": "2026-05-12T16:09:32+00:00"
-  },
-  {
-    "id": "3e3da8b7a949e6ce",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Add avatars when you convert presentations to Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/add-avatars-when-you-convert-presentations-to-Vids.html",
-    "summary": "You can already convert your Google Slides content into Google Vids, and use Gemini to generate scripts, voiceovers, and background music. Now, you can add a spokesperson to your videos using AI avatars when importing content from Slides. Avatars are dynamically inserted throughout the imported...",
-    "date": "2026-05-11T21:01:00+00:00"
-  },
-  {
-    "id": "9acb5fc8679672d0",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26300.8276 (Dev Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-26300-8276-dev-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26300.8276 (KB 5083726) to the Dev Channel. Changes in Dev Channel builds and updates are documented in two buckets: new features, and improvements (inc The post Announcing Windows 11 Insider Preview Build 26300.8276...",
-    "date": "2026-04-17T17:04:54+00:00"
-  },
-  {
-    "id": "f21acc3180f1ae61",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - May 8, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/weekly-recap-05-08-2026.html",
-    "summary": "Now generally available: Bulk import using client-side encryption and the Drive APIPreviously available in beta, client-side encryption (CSE) customers can now conduct bulk migrations of sensitive files from both cloud and on-premises data sources. | Learn more about how to bulk import using...",
-    "date": "2026-05-08T19:25:00+00:00"
-  },
-  {
-    "id": "544e979428ac6810",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Optional scopes have landed",
-    "link": "https://docs.slack.dev/changelog/2026/03/16/optional-scopes",
-    "summary": "You can now mark individual OAuth scopes as optional when configuring your Slack app! Optional scopes give users more control over what data your app can access during installation, without blocking them from installing your app entirely.",
-    "date": "2026-03-16T00:00:00+00:00"
   }
 ]
