@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "d935c486587aef2b",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "May 22, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/49519305679508-May-22-2026",
+    "summary": "",
+    "date": "2026-05-22T16:44:29Z"
+  },
+  {
     "id": "53a176192b558355",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/48927635241492-May-1-2026",
     "summary": "",
     "date": "2026-05-05T14:13:55Z"
-  },
-  {
-    "id": "55ebf1568fa68641",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "April 24, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/48568747200404-April-24-2026",
-    "summary": "",
-    "date": "2026-04-24T19:04:46Z"
   },
   {
     "id": "549b539dc0dc537b",
@@ -730,6 +730,16 @@
     "date": "2026-05-21T00:00:00+00:00"
   },
   {
+    "id": "55ebf1568fa68641",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "April 24, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/48568747200404-April-24-2026",
+    "summary": "",
+    "date": "2026-04-24T19:04:46Z"
+  },
+  {
     "id": "988f6ef0a996cb2c",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/small-businesses-can-now-seamlessly-import-users-from-Microsoft-to-Google-Workspace.html",
     "summary": "We’re excited to announce the beta release of a new, simplified way for very small and small-sized businesses to import their users from Microsoft to Google Workspace when setting up their Workspace account for the first time.This new feature allows these businesses and educational institutions to...",
     "date": "2026-05-13T16:52:52+00:00"
-  },
-  {
-    "id": "2b065089b037fe0c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use NotebookLM in your Google Workspace Studio flows",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/notebooklm-in-workspace-studio.html",
-    "summary": "We’re integrating NotebookLM into Google Workspace Studio. This enhancement lets you use your existing notebooks as an AI knowledge source for your automations. You can use the new Ask NotebookLM step to generate grounded responses based on the insights, summaries, and research in your...",
-    "date": "2026-05-12T20:21:56+00:00"
   }
 ]
