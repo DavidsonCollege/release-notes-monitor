@@ -571,6 +571,12 @@
       "members_count": 0
     },
     {
+      "id": "web_sch_620d63c4c712488a83f29d9d7e66ec9c",
+      "name": "RI Rvw CIO",
+      "type": 4,
+      "members_count": 0
+    },
+    {
       "id": "web_sch_0dae556f5a2d4212a5f2ea6679ec68cd",
       "name": "Ritesh Kirad and Davidson I&O team",
       "type": 4,
@@ -667,6 +673,6 @@
       "members_count": 0
     }
   ],
-  "last_updated": "2026-05-22T03:49:42.485106+00:00",
+  "last_updated": "2026-05-22T05:30:52.201365+00:00",
   "fetch_status": "success"
 }
