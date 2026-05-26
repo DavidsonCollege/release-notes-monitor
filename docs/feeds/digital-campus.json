@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "b744aeb1b1dc53ac",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing a fresh visual identity for Google Workspace app icons",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/introducing-fresh-visual-identity-for-Google-Workspace-app-icons.html",
+    "summary": "We’re updating icons across Google Workspace to introduce a modern visual design that gives every app a more distinct identity. Over the next several weeks, users will see new icons for Gmail, Calendar, Chat, Meet, Drive, Docs, Slides, Sheets, Vids, Keep, Forms, Voice, Sites, and Tasks.These...",
+    "date": "2026-05-26T15:57:04+00:00"
+  },
+  {
     "id": "5e57d2137ed0f7ff",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/refine-in-chat-additional-language-support.html",
     "summary": "We are expanding the capabilities of Gemini in Google Chat by adding support for several new languages when refining message drafts. In addition to English, users can now use Gemini to polish their messages in French, German, Italian, Japanese, Korean, Portuguese, and Spanish. This update allows a...",
     "date": "2026-05-14T17:39:40+00:00"
-  },
-  {
-    "id": "b7f92fa8fa3f6f98",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Expanded options for header images in Google Forms",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/more-options-for-forms-headers.html",
-    "summary": "Form creators now have more options for header images in Google Forms. Previously, creators could only use a pre-selected theme, upload an image, or choose an image from Google Photos. In addition to these options, they can now choose an image from Google Drive or Google Images or use a URL. This...",
-    "date": "2026-05-14T16:30:57+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -720,6 +720,16 @@
     "date": "2026-05-21T00:00:00+00:00"
   },
   {
+    "id": "b7f92fa8fa3f6f98",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Expanded options for header images in Google Forms",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/more-options-for-forms-headers.html",
+    "summary": "Form creators now have more options for header images in Google Forms. Previously, creators could only use a pre-selected theme, upload an image, or choose an image from Google Photos. In addition to these options, they can now choose an image from Google Drive or Google Images or use a URL. This...",
+    "date": "2026-05-14T16:30:57+00:00"
+  },
+  {
     "id": "263b3308d8b95fff",
     "product_id": "windows",
     "product_name": "Windows",
@@ -988,15 +998,5 @@
     "link": "https://announcekit.app/kuali/announcements/new-view-effective-permissions-for-any-user-48fF7y",
     "summary": "You can now see exactly what permissions a user has—all in one place. The new Effective Permissions tab, located within each user’s record, ...",
     "date": "2026-05-04T21:05:00+00:00"
-  },
-  {
-    "id": "33374ff4a54e5b46",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Small businesses can now seamlessly import users from Microsoft to Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/small-businesses-can-now-seamlessly-import-users-from-Microsoft-to-Google-Workspace.html",
-    "summary": "We’re excited to announce the beta release of a new, simplified way for very small and small-sized businesses to import their users from Microsoft to Google Workspace when setting up their Workspace account for the first time.This new feature allows these businesses and educational institutions to...",
-    "date": "2026-05-13T16:52:52+00:00"
   }
 ]
