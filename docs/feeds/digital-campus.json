@@ -360,14 +360,14 @@
     "date": "2026-05-08T00:00:00+00:00"
   },
   {
-    "id": "dece149d535428b7",
+    "id": "468709793bf24a70",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.5 (25F71)",
-    "link": "https://developer.apple.com/news/releases/?id=05112026c",
+    "title": "macOS 26.6 beta (25G5028f)",
+    "link": "https://developer.apple.com/news/releases/?id=05262026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-05-11T17:00:00+00:00"
+    "date": "2026-05-26T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -720,6 +720,16 @@
     "date": "2026-05-21T00:00:00+00:00"
   },
   {
+    "id": "dece149d535428b7",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.5 (25F71)",
+    "link": "https://developer.apple.com/news/releases/?id=05112026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-05-11T17:00:00+00:00"
+  },
+  {
     "id": "b7f92fa8fa3f6f98",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://help.adastra.live/hc/en-us/articles/48103141930900-April-10-2026",
     "summary": "",
     "date": "2026-04-10T18:02:43Z"
-  },
-  {
-    "id": "fad11548dacefaec",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: View Effective Permissions for Any User",
-    "link": "https://announcekit.app/kuali/announcements/new-view-effective-permissions-for-any-user-48fF7y",
-    "summary": "You can now see exactly what permissions a user has—all in one place. The new Effective Permissions tab, located within each user’s record, ...",
-    "date": "2026-05-04T21:05:00+00:00"
   }
 ]
