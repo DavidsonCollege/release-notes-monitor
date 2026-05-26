@@ -220,6 +220,46 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "dd41949f814cfa93",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini LTI Update: Include your LMS sources when using NotebookLM in Powerschool Schoology",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/gemini-lti-update-include-your-lms-sources-when-using-NotebookLM-in-Powerschool-Schoology.html",
+    "summary": "When creating a notebook in Powerschool Schoology, Gemini LTI users can now add content directly from their course as sources. This integration allows educators and students to seamlessly bridge their course materials with AI-powered research and analysis, and generate Studio artifacts like Audio...",
+    "date": "2026-05-26T18:17:20+00:00"
+  },
+  {
+    "id": "6d40a16fc356d19c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Keep your sources up to date with automatic Drive syncing in NotebookLM",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/keep-your-sources-up-to-date-with-automatic-Drive-syncing-in-NotebookLM.html",
+    "summary": "We’re making it easier to keep your sources and insights current in NotebookLM by enabling automatic syncing with Google Drive. Previously, if you uploaded a file in Google Docs, Sheets, or Slides, you’d have to manually update it in NotebookLM to see the changes. With this update, as the content...",
+    "date": "2026-05-26T17:27:11+00:00"
+  },
+  {
+    "id": "74f4ee939630e7f9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improvements to Out-of-Domain file-level warnings",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-out-of-domain-file-level-warnings.html",
+    "summary": "Today, we’re announcing improvements to our Out-of-Domain file-level warnings. First launched in April 2025, these badges alert users to documents and users outside of their Workspace organization, helping to prevent accidental data exfiltration and potential phishing attacks that spoof internal...",
+    "date": "2026-05-26T16:58:09+00:00"
+  },
+  {
+    "id": "3018a8cc22eca18d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Simplify decision-making with Polly, now available for Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/simplify-decision-making-with-polly-now-available-for-Google-Chat.html",
+    "summary": "Making decisions in a fast-paced environment often leads to long, messy threads and lost consensus. Polly helps teams solve this by enabling the creation of interactive polls within existing Chat conversations. By keeping the feedback loop inside the \"flow of work,\" Polly helps eliminate the...",
+    "date": "2026-05-26T16:47:08+00:00"
+  },
+  {
     "id": "b744aeb1b1dc53ac",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -228,46 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/introducing-fresh-visual-identity-for-Google-Workspace-app-icons.html",
     "summary": "We’re updating icons across Google Workspace to introduce a modern visual design that gives every app a more distinct identity. Over the next several weeks, users will see new icons for Gmail, Calendar, Chat, Meet, Drive, Docs, Slides, Sheets, Vids, Keep, Forms, Voice, Sites, and Tasks.These...",
     "date": "2026-05-26T15:57:04+00:00"
-  },
-  {
-    "id": "5e57d2137ed0f7ff",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - May 15, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/workspace-updates-weekly-recap-may-15-2026.html",
-    "summary": "Whiteboarding add-ons now available for Android-based Google Meet hardwareThird-party whiteboarding add-ons for Google Meet, including Figma, Lucidspark, and Miro, will be available for room hardware based on Android. | Learn more about whiteboarding add-ons for Android-based Google Meet...",
-    "date": "2026-05-15T18:20:20+00:00"
-  },
-  {
-    "id": "21151303413235af",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Android-based all-in-one room devices from Neat and Logitech certified for Google Meet",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/android-all-in-one-devices-neat-logitech.html",
-    "summary": "The Neat Board series (32, 50, and Pro) and the Logitech Rally Board 65 are now certified for Google Meet as the first Android-based all-in-one devices. They package up and deliver a modern Meet experience in stylish form factors ideal for simple deployment in traditional meeting rooms, open...",
-    "date": "2026-05-15T18:18:27+00:00"
-  },
-  {
-    "id": "f921e21fa9029130",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Whiteboarding add-ons now available for Android-based Google Meet hardware",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/whiteboarding-add-ons-meet-hardware-android.html",
-    "summary": "Third-party whiteboarding add-ons for Google Meet will be available for room hardware based on Android. As all-in-one devices with touchscreens become certified for Meet, users will be able to whiteboard on them to share ideas, brainstorm, and work on projects together in real-time meetings,...",
-    "date": "2026-05-15T18:17:36+00:00"
-  },
-  {
-    "id": "c097a4ca2eb60859",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Expanding language support for refining messages with Gemini in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/refine-in-chat-additional-language-support.html",
-    "summary": "We are expanding the capabilities of Gemini in Google Chat by adding support for several new languages when refining message drafts. In addition to English, users can now use Gemini to polish their messages in French, German, Italian, Japanese, Korean, Portuguese, and Spanish. This update allows a...",
-    "date": "2026-05-14T17:39:40+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -670,6 +670,96 @@
     "date": "2026-04-17T17:07:15+00:00"
   },
   {
+    "id": "bb9b1c389efaf659",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Phone API endpoint deprecations",
+    "link": "https://developers.zoom.us/changelog/phone/phone-api-endpoint-deprecations",
+    "summary": "Tags: breaking-change, deprecation | Zoom deprecated several endpoints for phone numbers, plans, cloud peering, SMS campaigns, and related settings. Use the new Number Management APIs for enhanced, streamlined management. Migrate by June 30, 2026. We will not support deprecated endpoints after this...",
+    "date": "2026-05-26T00:00:00+00:00"
+  },
+  {
+    "id": "ff2283e912d066cf",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Added new Dashboard APIs.",
+    "link": "https://developers.zoom.us/changelog/accounts/may-25-2026",
+    "summary": "Tags: api-release | Added new Dashboard API endpoints for AIC return on investment (ROI) data.",
+    "date": "2026-05-25T00:00:00+00:00"
+  },
+  {
+    "id": "63b32256a18cc614",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New Clip duplication API and thumbnail support",
+    "link": "https://developers.zoom.us/changelog/clips/may-25-2026",
+    "summary": "Tags: api-release | Added a new API to duplicate clips and enhanced clip updates with support for specifying a thumbnail file ID.",
+    "date": "2026-05-25T00:00:00+00:00"
+  },
+  {
+    "id": "1b88a8bad4407681",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 5.5.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/android/5.5.0",
+    "summary": "Tags: sdk-version | Added support for real-time audio translation to video; changed default C++ language version.",
+    "date": "2026-05-25T00:00:00+00:00"
+  },
+  {
+    "id": "021df3901d67a739",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 5.5.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/ios/5.5.0",
+    "summary": "Tags: sdk-version | Added support for real-time audio translation in video; changed default C++ language version; dropped x86_64 support in simulator builds.",
+    "date": "2026-05-25T00:00:00+00:00"
+  },
+  {
+    "id": "5e57d2137ed0f7ff",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - May 15, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/workspace-updates-weekly-recap-may-15-2026.html",
+    "summary": "Whiteboarding add-ons now available for Android-based Google Meet hardwareThird-party whiteboarding add-ons for Google Meet, including Figma, Lucidspark, and Miro, will be available for room hardware based on Android. | Learn more about whiteboarding add-ons for Android-based Google Meet...",
+    "date": "2026-05-15T18:20:20+00:00"
+  },
+  {
+    "id": "21151303413235af",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Android-based all-in-one room devices from Neat and Logitech certified for Google Meet",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/android-all-in-one-devices-neat-logitech.html",
+    "summary": "The Neat Board series (32, 50, and Pro) and the Logitech Rally Board 65 are now certified for Google Meet as the first Android-based all-in-one devices. They package up and deliver a modern Meet experience in stylish form factors ideal for simple deployment in traditional meeting rooms, open...",
+    "date": "2026-05-15T18:18:27+00:00"
+  },
+  {
+    "id": "f921e21fa9029130",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Whiteboarding add-ons now available for Android-based Google Meet hardware",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/whiteboarding-add-ons-meet-hardware-android.html",
+    "summary": "Third-party whiteboarding add-ons for Google Meet will be available for room hardware based on Android. As all-in-one devices with touchscreens become certified for Meet, users will be able to whiteboard on them to share ideas, brainstorm, and work on projects together in real-time meetings,...",
+    "date": "2026-05-15T18:17:36+00:00"
+  },
+  {
+    "id": "c097a4ca2eb60859",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Expanding language support for refining messages with Gemini in Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/refine-in-chat-additional-language-support.html",
+    "summary": "We are expanding the capabilities of Gemini in Google Chat by adding support for several new languages when refining message drafts. In addition to English, users can now use Gemini to polish their messages in French, German, Italian, Japanese, Korean, Portuguese, and Spanish. This update allows a...",
+    "date": "2026-05-14T17:39:40+00:00"
+  },
+  {
     "id": "03e61192af590e4e",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -908,95 +998,5 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
     "summary": "The Create design autofill job API now supports column_configs for chart data fields, allowing you to define column names and data types separately from your data.",
     "date": "2026-03-29T23:47:59.875601+00:00"
-  },
-  {
-    "id": "dd3c1c79dc975c71",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Create design export job API now supports two additional email export formats: html_bundle and html_standalone. Use these formats when creating e",
-    "link": "https://www.canva.dev/docs/connect/api-reference/exports/create-design-export-job/",
-    "summary": "The Create design export job API now supports two additional email export formats: html_bundle and html_standalone. Use these formats when creating export jobs for email designs, depending on whether you need bundled assets (html_bundle) or a standalone HTML output (html_standalone).",
-    "date": "2026-03-29T23:47:59.875608+00:00"
-  },
-  {
-    "id": "fd8986f3c4ae6d85",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Smarter Search Results in Document Lists",
-    "link": "https://announcekit.app/kuali/announcements/new-smarter-search-results-in-document-lists-2YItig",
-    "summary": "We’ve improved how search works in document lists to help you find the right records faster. These updates reduce noise and surface the most...",
-    "date": "2026-05-05T12:00:00+00:00"
-  },
-  {
-    "id": "e9f732f5ae04c4fb",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Releasing Windows 11 Builds 26100.8313 and 26200.8313 to the Release Preview Channel",
-    "link": "https://blogs.windows.com/windows-insider/2026/04/17/releasing-windows-11-builds-26100-8313-and-26200-8313-to-the-release-preview-channel/",
-    "summary": "Hello Windows Insiders, today we’re releasing Windows 11 Builds 26100.8313 and 26200.8313 (KB5083631) to Insiders in the Release Preview Channel on Windows 11, versions 24H2 (Build 26100) and 25H2 (Build 26200). This update is available The post Releasing Windows 11 Builds 26100.8313 and 26200.8313...",
-    "date": "2026-04-17T17:06:11+00:00"
-  },
-  {
-    "id": "7f8923e6874360b0",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 26220.8271 (Beta Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-26220-8271-beta-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 26220.8271 (KB 5083728) to the Beta Channel. Changes in Beta Channel builds and updates are documented in two buckets: new features, and improvements (i The post Announcing Windows 11 Insider Preview Build 26220.8271...",
-    "date": "2026-04-17T17:05:13+00:00"
-  },
-  {
-    "id": "ea5f10536f76ee45",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "April 17, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/48391032193812-April-17-2026",
-    "summary": "",
-    "date": "2026-04-20T02:06:15Z"
-  },
-  {
-    "id": "26232b6896a039df",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improving security posture with default context-aware access for all SAML applications",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/default-CAA-for-SAML.html",
-    "summary": "Administrators can now apply a global context-aware access (CAA) policy to all SAML applications within their organization. This update introduces a default assignment that serves as a universal security baseline, automatically protecting any SAML-based app that does not have a specific policy...",
-    "date": "2026-05-14T16:13:41+00:00"
-  },
-  {
-    "id": "96ffce0c4e805aea",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Enhancing the Datadog app for Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/enhancing-datadog-app-for-google-chat.html",
-    "summary": "The latest version of the Datadog app for Google Chat allows you to integrate Datadog into your Google Chat workflows more seamlessly and stay on top of critical infrastructure without leaving the flow of team collaboration. Newly added features include: Link previewsCut and paste a widget from a...",
-    "date": "2026-05-14T16:09:43+00:00"
-  },
-  {
-    "id": "1f567d8f4125b1bb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Deploying ServiceNow Now Assist Virtual Agent from the Google Workspace Marketplace",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/servicenow-now-assist-workspace-marketplace.html",
-    "summary": "Google Workspace customers can now deploy the Now Assist Virtual Agent for Google Chat integration directly from the Google Workspace Marketplace. This update simplifies the deployment process for Workspace and ServiceNow administrators, allowing them to provide employees with centralized access to...",
-    "date": "2026-05-14T14:51:06+00:00"
-  },
-  {
-    "id": "b81e0ba8e2ed8c82",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "April 10, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/48103141930900-April-10-2026",
-    "summary": "",
-    "date": "2026-04-10T18:02:43Z"
   }
 ]
