@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "5c12bc83acbb7735",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Ask Gemini in Google Meet is becoming more easily accessible on web",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/ask-gemini-in-google-meet-is-becoming-more-easily-accessible-on-web.html",
+    "summary": "In September 2025, we launched Ask Gemini in Meet, which brings the power of Gemini into your organization’s meetings. Today, we’re excited to announce that we’re making the feature more easily accessible by moving the Ask Gemini prompt box into the bottom left-hand corner of the Google Meet web...",
+    "date": "2026-05-27T20:47:20+00:00"
+  },
+  {
+    "id": "db1e5557caa278be",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Easily identify data irregularities with anomaly detection in Connected Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/easily-identify-data-irregularities-with-anomaly-detection-in-Connected-Sheets.html",
+    "summary": "You can now easily identify critical irregularities and outliers in your time-series data when using Connected Sheets to analyze BigQuery data sets from Google Sheets. Anomaly detection in Connected Sheets allows users to distinguish between expected trends and true outliers without requiring...",
+    "date": "2026-05-27T20:38:35+00:00"
+  },
+  {
     "id": "487efaa21588d9b6",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/keep-your-sources-up-to-date-with-automatic-Drive-syncing-in-NotebookLM.html",
     "summary": "We’re making it easier to keep your sources and insights current in NotebookLM by enabling automatic syncing with Google Drive. Previously, if you uploaded a file in Google Docs, Sheets, or Slides, you’d have to manually update it in NotebookLM to see the changes. With this update, as the content...",
     "date": "2026-05-26T17:27:11+00:00"
-  },
-  {
-    "id": "74f4ee939630e7f9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improvements to Out-of-Domain file-level warnings",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-out-of-domain-file-level-warnings.html",
-    "summary": "Today, we’re announcing improvements to our Out-of-Domain file-level warnings. First launched in April 2025, these badges alert users to documents and users outside of their Workspace organization, helping to prevent accidental data exfiltration and potential phishing attacks that spoof internal...",
-    "date": "2026-05-26T16:58:09+00:00"
-  },
-  {
-    "id": "3018a8cc22eca18d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Simplify decision-making with Polly, now available for Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/simplify-decision-making-with-polly-now-available-for-Google-Chat.html",
-    "summary": "Making decisions in a fast-paced environment often leads to long, messy threads and lost consensus. Polly helps teams solve this by enabling the creation of interactive polls within existing Chat conversations. By keeping the feedback loop inside the \"flow of work,\" Polly helps eliminate the...",
-    "date": "2026-05-26T16:47:08+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -720,6 +720,26 @@
     "date": "2026-05-25T00:00:00+00:00"
   },
   {
+    "id": "74f4ee939630e7f9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improvements to Out-of-Domain file-level warnings",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-out-of-domain-file-level-warnings.html",
+    "summary": "Today, we’re announcing improvements to our Out-of-Domain file-level warnings. First launched in April 2025, these badges alert users to documents and users outside of their Workspace organization, helping to prevent accidental data exfiltration and potential phishing attacks that spoof internal...",
+    "date": "2026-05-26T16:58:09+00:00"
+  },
+  {
+    "id": "3018a8cc22eca18d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Simplify decision-making with Polly, now available for Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/simplify-decision-making-with-polly-now-available-for-Google-Chat.html",
+    "summary": "Making decisions in a fast-paced environment often leads to long, messy threads and lost consensus. Polly helps teams solve this by enabling the creation of interactive polls within existing Chat conversations. By keeping the feedback loop inside the \"flow of work,\" Polly helps eliminate the...",
+    "date": "2026-05-26T16:47:08+00:00"
+  },
+  {
     "id": "5f04dcafca5355df",
     "product_id": "scribe",
     "product_name": "Scribe",
@@ -978,25 +998,5 @@
     "link": "https://docs.slack.dev/changelog/2026/03/30/pkce",
     "summary": "We are excited to announce support for Proof Key for Code Exchange (PKCE). PKCE is an OAuth security extension that enables developers to build more secure Slack applications on public clients, such as desktop apps and mobile apps, without the need to embed a vulnerable client_secret.",
     "date": "2026-03-30T00:00:00+00:00"
-  },
-  {
-    "id": "75ea88db7f495000",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v3.15.0",
-    "link": "https://docs.slack.dev/changelog/2026/03/19/slack-cli",
-    "summary": "Version 3.15.0 of the developer tools for the Slack platform has arrived!",
-    "date": "2026-03-19T00:00:00+00:00"
-  },
-  {
-    "id": "4d94087345d3c04f",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Two new endpoints: usage, and information",
-    "link": "https://developers.zoom.us/changelog/billing/may-11-2026",
-    "summary": "Tags: api-release, new-feature | Two new endpoints: usage, and information.",
-    "date": "2026-05-11T00:00:00+00:00"
   }
 ]
