@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "487efaa21588d9b6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "More granular admin controls for Workspace Studio steps and starters",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/more-granular-admin-controls-for-Workspace-Studio-steps-and-starters.html",
+    "summary": "We’re introducing more granular admin controls for Workspace Studio steps and starters. With these new controls, admins can define which steps and starters people in their organization can use to create flows, including by Workspace service or individually. They provide admins more granular control...",
+    "date": "2026-05-27T14:28:28+00:00"
+  },
+  {
     "id": "dd41949f814cfa93",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/simplify-decision-making-with-polly-now-available-for-Google-Chat.html",
     "summary": "Making decisions in a fast-paced environment often leads to long, messy threads and lost consensus. Polly helps teams solve this by enabling the creation of interactive polls within existing Chat conversations. By keeping the feedback loop inside the \"flow of work,\" Polly helps eliminate the...",
     "date": "2026-05-26T16:47:08+00:00"
-  },
-  {
-    "id": "b744aeb1b1dc53ac",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing a fresh visual identity for Google Workspace app icons",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/introducing-fresh-visual-identity-for-Google-Workspace-app-icons.html",
-    "summary": "We’re updating icons across Google Workspace to introduce a modern visual design that gives every app a more distinct identity. Over the next several weeks, users will see new icons for Gmail, Calendar, Chat, Meet, Drive, Docs, Slides, Sheets, Vids, Keep, Forms, Voice, Sites, and Tasks.These...",
-    "date": "2026-05-26T15:57:04+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -720,6 +720,16 @@
     "date": "2026-05-25T00:00:00+00:00"
   },
   {
+    "id": "b744aeb1b1dc53ac",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing a fresh visual identity for Google Workspace app icons",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/introducing-fresh-visual-identity-for-Google-Workspace-app-icons.html",
+    "summary": "We’re updating icons across Google Workspace to introduce a modern visual design that gives every app a more distinct identity. Over the next several weeks, users will see new icons for Gmail, Calendar, Chat, Meet, Drive, Docs, Slides, Sheets, Vids, Keep, Forms, Voice, Sites, and Tasks.These...",
+    "date": "2026-05-26T15:57:04+00:00"
+  },
+  {
     "id": "5e57d2137ed0f7ff",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/quality-management/may-11-2026",
     "summary": "Tags: api-release | New response fields in two Evaluations API endpoints.",
     "date": "2026-05-11T00:00:00+00:00"
-  },
-  {
-    "id": "eb2eaea6cca0fce1",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Create design autofill job API now supports column_configs for chart data fields, allowing you to define column names and data types separately f",
-    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
-    "summary": "The Create design autofill job API now supports column_configs for chart data fields, allowing you to define column names and data types separately from your data.",
-    "date": "2026-03-29T23:47:59.875601+00:00"
   }
 ]
