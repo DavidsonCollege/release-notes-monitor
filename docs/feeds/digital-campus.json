@@ -670,6 +670,16 @@
     "date": "2026-04-17T17:07:15+00:00"
   },
   {
+    "id": "a16e2e44e6d660af",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.5.10",
+    "link": "https://developers.zoom.us/changelog/video-sdk/react-native/2.5.10",
+    "summary": "Tags: bug-fix, sdk-version | Added AI-friendly docs and Broadcast Streaming support. Fixed `enableMicOriginalInput`.",
+    "date": "2026-05-28T00:00:00+00:00"
+  },
+  {
     "id": "bb9b1c389efaf659",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -987,16 +997,6 @@
     "title": "Renaming of Zoom Docs",
     "link": "https://developers.zoom.us/changelog/canvas/may-18-2026",
     "summary": "Tags: api-release, new-feature | Product name update Zoom Dos will now be called Canvas.",
-    "date": "2026-05-18T00:00:00+00:00"
-  },
-  {
-    "id": "e5a847b11b45c934",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Four new APIs, two new webhook events, and new fields in over 10 API endpoints",
-    "link": "https://developers.zoom.us/changelog/contact-center/may-18-2026",
-    "summary": "Tags: api-release | Four new APIs, two new webhook events, and new fields in over 10 API endpoints.",
     "date": "2026-05-18T00:00:00+00:00"
   }
 ]
