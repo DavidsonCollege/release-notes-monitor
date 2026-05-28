@@ -70,6 +70,16 @@
     "date": "2026-05-05T14:13:55Z"
   },
   {
+    "id": "b225942de8a8c777",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The preview Get design pages API now returns a page_number property on each page, which is a replacement for the now-deprecated index property. The tw",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/",
+    "summary": "The preview Get design pages API now returns a page_number property on each page, which is a replacement for the now-deprecated index property. The two properties always return the same value. The index property will be removed in a future release after existing integrations have migrated; new...",
+    "date": "2026-05-28T01:00:34.981677+00:00"
+  },
+  {
     "id": "549b539dc0dc537b",
     "product_id": "canva",
     "product_name": "Canva",
@@ -108,16 +118,6 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/create-design/#body-parameters",
     "summary": "",
     "date": "2026-04-07T12:58:41.844147+00:00"
-  },
-  {
-    "id": "8e642c0b32a90b7c",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "A new type request parameter has been added to the Create design API. Although this type is shown as required, for backward compatibility, if it isn't",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/create-design/",
-    "summary": "A new type request parameter has been added to the Create design API. Although this type is shown as required, for backward compatibility, if it isn't provided in a request, the request type will be assumed to be type_and_asset.",
-    "date": "2026-03-29T23:47:59.875578+00:00"
   },
   {
     "id": "5cc3318b9fb82a1d",
@@ -720,6 +720,16 @@
     "date": "2026-05-25T00:00:00+00:00"
   },
   {
+    "id": "8e642c0b32a90b7c",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "A new type request parameter has been added to the Create design API. Although this type is shown as required, for backward compatibility, if it isn't",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/create-design/",
+    "summary": "A new type request parameter has been added to the Create design API. Although this type is shown as required, for backward compatibility, if it isn't provided in a request, the request type will be assumed to be type_and_asset.",
+    "date": "2026-03-29T23:47:59.875578+00:00"
+  },
+  {
     "id": "74f4ee939630e7f9",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://announcekit.app/kuali/announcements/coming-soon-streamlined-ui-updates---arriving-may-18-2026-2grS9i",
     "summary": "Our new user interface updates launch on May 18, 2026. See the original announcement for a detailed overview of what’s changing and how to p...",
     "date": "2026-05-05T22:15:00+00:00"
-  },
-  {
-    "id": "a202083b037a806a",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "PKCE is now generally available!",
-    "link": "https://docs.slack.dev/changelog/2026/03/30/pkce",
-    "summary": "We are excited to announce support for Proof Key for Code Exchange (PKCE). PKCE is an OAuth security extension that enables developers to build more secure Slack applications on public clients, such as desktop apps and mobile apps, without the need to embed a vulnerable client_secret.",
-    "date": "2026-03-30T00:00:00+00:00"
   }
 ]
