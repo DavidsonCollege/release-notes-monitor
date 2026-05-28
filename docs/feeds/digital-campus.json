@@ -220,6 +220,36 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "11a1cf838ca25eda",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Chat external interoperability with Microsoft Teams via NextPlane OpenHub is now available",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/google-chat-external-interoperability-with-Microsoft-Teams-via-NextPlane-OpenHub-is-now-available.html",
+    "summary": "Organizations often need to collaborate with customers, partners, and suppliers who use Microsoft Teams. NextPlane OpenHub was built to bridge this Google Chat and Microsoft Teams divide, and it is now launching external interoperability to allow communication across organizational boundaries....",
+    "date": "2026-05-28T17:12:34+00:00"
+  },
+  {
+    "id": "6ec39651a8b2dfd4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Share chats, canvases, and generated media from the Gemini app securely via Google Drive",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/share-chats-canvases-and-generated-media-from-the-Gemini-app-securely-via-Google-Drive.html",
+    "summary": "We are introducing the ability for Workspace users on the web to share snapshots of their chats, canvases, and generated media in the Gemini app. Because this feature is powered by the same underlying technology as Google Drive, it uses the familiar, consistent sharing interface you already rely on...",
+    "date": "2026-05-28T17:07:48+00:00"
+  },
+  {
+    "id": "fecc75369f92351d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Prevent account takeovers with Device Bound Session Credentials (DBSC), now generally available in the Chrome browser for Windows",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/prevent-account-takeovers-with-DBSC-now-generally-available-in-the-Chrome-browser-for-Windows.html",
+    "summary": "Previously available in beta, Device Bound Session Credentials (DBSC) in the Chrome browser on Windows is now generally available and enabled by default for Google Workspace users.DBSC strengthens account security after users are logged in and helps bind a session cookie — small files used by...",
+    "date": "2026-05-28T15:54:28+00:00"
+  },
+  {
     "id": "5c12bc83acbb7735",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -238,36 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/easily-identify-data-irregularities-with-anomaly-detection-in-Connected-Sheets.html",
     "summary": "You can now easily identify critical irregularities and outliers in your time-series data when using Connected Sheets to analyze BigQuery data sets from Google Sheets. Anomaly detection in Connected Sheets allows users to distinguish between expected trends and true outliers without requiring...",
     "date": "2026-05-27T20:38:35+00:00"
-  },
-  {
-    "id": "487efaa21588d9b6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "More granular admin controls for Workspace Studio steps and starters",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/more-granular-admin-controls-for-Workspace-Studio-steps-and-starters.html",
-    "summary": "We’re introducing more granular admin controls for Workspace Studio steps and starters. With these new controls, admins can define which steps and starters people in their organization can use to create flows, including by Workspace service or individually. They provide admins more granular control...",
-    "date": "2026-05-27T14:28:28+00:00"
-  },
-  {
-    "id": "dd41949f814cfa93",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini LTI Update: Include your LMS sources when using NotebookLM in Powerschool Schoology",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/gemini-lti-update-include-your-lms-sources-when-using-NotebookLM-in-Powerschool-Schoology.html",
-    "summary": "When creating a notebook in Powerschool Schoology, Gemini LTI users can now add content directly from their course as sources. This integration allows educators and students to seamlessly bridge their course materials with AI-powered research and analysis, and generate Studio artifacts like Audio...",
-    "date": "2026-05-26T18:17:20+00:00"
-  },
-  {
-    "id": "6d40a16fc356d19c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Keep your sources up to date with automatic Drive syncing in NotebookLM",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/keep-your-sources-up-to-date-with-automatic-Drive-syncing-in-NotebookLM.html",
-    "summary": "We’re making it easier to keep your sources and insights current in NotebookLM by enabling automatic syncing with Google Drive. Previously, if you uploaded a file in Google Docs, Sheets, or Slides, you’d have to manually update it in NotebookLM to see the changes. With this update, as the content...",
-    "date": "2026-05-26T17:27:11+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -720,6 +720,36 @@
     "date": "2026-05-25T00:00:00+00:00"
   },
   {
+    "id": "487efaa21588d9b6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "More granular admin controls for Workspace Studio steps and starters",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/more-granular-admin-controls-for-Workspace-Studio-steps-and-starters.html",
+    "summary": "We’re introducing more granular admin controls for Workspace Studio steps and starters. With these new controls, admins can define which steps and starters people in their organization can use to create flows, including by Workspace service or individually. They provide admins more granular control...",
+    "date": "2026-05-27T14:28:28+00:00"
+  },
+  {
+    "id": "dd41949f814cfa93",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini LTI Update: Include your LMS sources when using NotebookLM in Powerschool Schoology",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/gemini-lti-update-include-your-lms-sources-when-using-NotebookLM-in-Powerschool-Schoology.html",
+    "summary": "When creating a notebook in Powerschool Schoology, Gemini LTI users can now add content directly from their course as sources. This integration allows educators and students to seamlessly bridge their course materials with AI-powered research and analysis, and generate Studio artifacts like Audio...",
+    "date": "2026-05-26T18:17:20+00:00"
+  },
+  {
+    "id": "6d40a16fc356d19c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Keep your sources up to date with automatic Drive syncing in NotebookLM",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/keep-your-sources-up-to-date-with-automatic-Drive-syncing-in-NotebookLM.html",
+    "summary": "We’re making it easier to keep your sources and insights current in NotebookLM by enabling automatic syncing with Google Drive. Previously, if you uploaded a file in Google Docs, Sheets, or Slides, you’d have to manually update it in NotebookLM to see the changes. With this update, as the content...",
+    "date": "2026-05-26T17:27:11+00:00"
+  },
+  {
     "id": "8e642c0b32a90b7c",
     "product_id": "canva",
     "product_name": "Canva",
@@ -968,35 +998,5 @@
     "link": "https://developers.zoom.us/changelog/contact-center/may-18-2026",
     "summary": "Tags: api-release | Four new APIs, two new webhook events, and new fields in over 10 API endpoints.",
     "date": "2026-05-18T00:00:00+00:00"
-  },
-  {
-    "id": "aabe6440bbd4942e",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New fields in two API endpoints and the participant-feedback webhook events",
-    "link": "https://developers.zoom.us/changelog/meetings/may-18-2026",
-    "summary": "Tags: api-release | New fields in two API endpoints and the participant-feedback webhook events.",
-    "date": "2026-05-18T00:00:00+00:00"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "May 20 2026"
-  },
-  {
-    "id": "52c7f157b8a933ca",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Coming Soon: Streamlined UI updates - Arriving May 18, 2026",
-    "link": "https://announcekit.app/kuali/announcements/coming-soon-streamlined-ui-updates---arriving-may-18-2026-2grS9i",
-    "summary": "Our new user interface updates launch on May 18, 2026. See the original announcement for a detailed overview of what’s changing and how to p...",
-    "date": "2026-05-05T22:15:00+00:00"
   }
 ]
