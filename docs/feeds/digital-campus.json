@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "24df0e13a898b796",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - May 29, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/weekly-recap-05-29-2026.html",
+    "summary": "Introducing a fresh visual identity for Google Workspace app iconsWe’re updating icons across Google Workspace to introduce a modern visual design that gives every app a more distinct identity. Over the next several weeks, users will see new icons for Gmail, Calendar, Chat, Meet, Drive, Docs,...",
+    "date": "2026-05-29T20:32:58+00:00"
+  },
+  {
     "id": "6aca7315c80950dd",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/04/share-chats-canvases-and-generated-media-from-the-Gemini-app-securely-via-Google-Drive.html",
     "summary": "We are introducing the ability for Workspace users on the web to share snapshots of their chats, canvases, and generated media in the Gemini app. Because this feature is powered by the same underlying technology as Google Drive, it uses the familiar, consistent sharing interface you already rely on...",
     "date": "2026-05-28T17:07:48+00:00"
-  },
-  {
-    "id": "fecc75369f92351d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Prevent account takeovers with Device Bound Session Credentials (DBSC), now generally available in the Chrome browser for Windows",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/prevent-account-takeovers-with-DBSC-now-generally-available-in-the-Chrome-browser-for-Windows.html",
-    "summary": "Previously available in beta, Device Bound Session Credentials (DBSC) in the Chrome browser on Windows is now generally available and enabled by default for Google Workspace users.DBSC strengthens account security after users are logged in and helps bind a session cookie — small files used by...",
-    "date": "2026-05-28T15:54:28+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -720,6 +720,16 @@
     "date": "2026-05-25T00:00:00+00:00"
   },
   {
+    "id": "fecc75369f92351d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Prevent account takeovers with Device Bound Session Credentials (DBSC), now generally available in the Chrome browser for Windows",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/prevent-account-takeovers-with-DBSC-now-generally-available-in-the-Chrome-browser-for-Windows.html",
+    "summary": "Previously available in beta, Device Bound Session Credentials (DBSC) in the Chrome browser on Windows is now generally available and enabled by default for Google Workspace users.DBSC strengthens account security after users are logged in and helps bind a session cookie — small files used by...",
+    "date": "2026-05-28T15:54:28+00:00"
+  },
+  {
     "id": "6a623d84643a0459",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/more-options-for-forms-headers.html",
     "summary": "Form creators now have more options for header images in Google Forms. Previously, creators could only use a pre-selected theme, upload an image, or choose an image from Google Photos. In addition to these options, they can now choose an image from Google Drive or Google Images or use a URL. This...",
     "date": "2026-05-14T16:30:57+00:00"
-  },
-  {
-    "id": "263b3308d8b95fff",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build for Canary Channel 29570.1000",
-    "link": "https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-for-canary-channel-29570-1000/",
-    "summary": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29570.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29570.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29570.1000...",
-    "date": "2026-04-17T17:07:00+00:00"
   }
 ]
