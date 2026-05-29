@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "d7c2530270203923",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "May 29, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/49754007355540-May-29-2026",
+    "summary": "",
+    "date": "2026-05-29T19:21:11Z"
+  },
+  {
     "id": "d935c486587aef2b",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/49167196683028-May-8-2026",
     "summary": "",
     "date": "2026-05-13T16:35:49Z"
-  },
-  {
-    "id": "6a623d84643a0459",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "May 1, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/48927635241492-May-1-2026",
-    "summary": "",
-    "date": "2026-05-05T14:13:55Z"
   },
   {
     "id": "b225942de8a8c777",
@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "6aca7315c80950dd",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Keep track of student progress with learning standards and skills in Google Classroom",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/keep-track-of-student-progress-with-learning-standards-and-skills-in-Google-Classroom.html",
+    "summary": "Google Classroom now allows educators to tag coursework and rubrics with learning goals, including specific learning standards and skills, providing a more structured way to monitor student growth. When creating assignments, quiz assignments, questions, or materials, educators can search for...",
+    "date": "2026-05-29T17:28:04+00:00"
+  },
+  {
     "id": "e91beb63b7596128",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/prevent-account-takeovers-with-DBSC-now-generally-available-in-the-Chrome-browser-for-Windows.html",
     "summary": "Previously available in beta, Device Bound Session Credentials (DBSC) in the Chrome browser on Windows is now generally available and enabled by default for Google Workspace users.DBSC strengthens account security after users are logged in and helps bind a session cookie — small files used by...",
     "date": "2026-05-28T15:54:28+00:00"
-  },
-  {
-    "id": "5c12bc83acbb7735",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Ask Gemini in Google Meet is becoming more easily accessible on web",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/ask-gemini-in-google-meet-is-becoming-more-easily-accessible-on-web.html",
-    "summary": "In September 2025, we launched Ask Gemini in Meet, which brings the power of Gemini into your organization’s meetings. Today, we’re excited to announce that we’re making the feature more easily accessible by moving the Ask Gemini prompt box into the bottom left-hand corner of the Google Meet web...",
-    "date": "2026-05-27T20:47:20+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -720,6 +720,26 @@
     "date": "2026-05-25T00:00:00+00:00"
   },
   {
+    "id": "6a623d84643a0459",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "May 1, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/48927635241492-May-1-2026",
+    "summary": "",
+    "date": "2026-05-05T14:13:55Z"
+  },
+  {
+    "id": "5c12bc83acbb7735",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Ask Gemini in Google Meet is becoming more easily accessible on web",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/ask-gemini-in-google-meet-is-becoming-more-easily-accessible-on-web.html",
+    "summary": "In September 2025, we launched Ask Gemini in Meet, which brings the power of Gemini into your organization’s meetings. Today, we’re excited to announce that we’re making the feature more easily accessible by moving the Ask Gemini prompt box into the bottom left-hand corner of the Google Meet web...",
+    "date": "2026-05-27T20:47:20+00:00"
+  },
+  {
     "id": "db1e5557caa278be",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-for-canary-channel-29570-1000/",
     "summary": "Hello Windows Insiders, today we’re releasing Windows Insider Preview Build 29570.1000 to the Windows 11 Insider Canary Channel on the optional 29500 build series. What’s new in Canary Build 29570.1000 Change The post Announcing Windows 11 Insider Preview Build for Canary Channel 29570.1000...",
     "date": "2026-04-17T17:07:00+00:00"
-  },
-  {
-    "id": "55ebf1568fa68641",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "April 24, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/48568747200404-April-24-2026",
-    "summary": "",
-    "date": "2026-04-24T19:04:46Z"
-  },
-  {
-    "id": "988f6ef0a996cb2c",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New response fields in Dashboards and Accounts API endpoints",
-    "link": "https://developers.zoom.us/changelog/accounts/may-18-2026",
-    "summary": "Tags: api-release | New response fields for Zoom Room in Dashboards API endpoints. And new response fields for webinar summary and questions with AI Companion in Accounts API endpoints.",
-    "date": "2026-05-18T00:00:00+00:00"
   }
 ]
