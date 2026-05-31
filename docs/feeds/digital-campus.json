@@ -650,26 +650,6 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
-    "id": "f0ccedc8b994efcf",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 29 May 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/05/29/announcing-new-builds-for-29-may-2026/",
-    "summary": "Hello Windows Insiders, This week we continue to expand the rollout of the new Windows Insider Program changes to devices in channels already announced. New builds this week Today we are releasing new Windows 11 Insider Preview B The post Announcing new builds for 29 May 2026 appeared first on...",
-    "date": "2026-05-29T17:05:27+00:00"
-  },
-  {
-    "id": "de0111061eccd47e",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new Release Preview builds for 14 May 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/05/14/announcing-new-release-preview-builds-for-14-may-2026/",
-    "summary": "[19 May 2026: Updated build numbers for new releases containing bug fixes - see release notes for details] Hello Windows Insiders, Today we're releasing new builds for Release Preview across our supported versions of Windows 11. Please see the bu The post Announcing new Release Preview builds for...",
-    "date": "2026-05-14T17:05:26+00:00"
-  },
-  {
     "id": "a16e2e44e6d660af",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -718,6 +698,26 @@
     "link": "https://developers.zoom.us/changelog/contact-center/android/5.5.0",
     "summary": "Tags: sdk-version | Added support for real-time audio translation to video; changed default C++ language version.",
     "date": "2026-05-25T00:00:00+00:00"
+  },
+  {
+    "id": "f0ccedc8b994efcf",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 29 May 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/05/29/announcing-new-builds-for-29-may-2026/",
+    "summary": "Hello Windows Insiders, This week we continue to expand the rollout of the new Windows Insider Program changes to devices in channels already announced. New builds this week Today we are releasing new Windows 11 Insider Preview B The post Announcing new builds for 29 May 2026 appeared first on...",
+    "date": "2026-05-29T17:05:27+00:00"
+  },
+  {
+    "id": "de0111061eccd47e",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new Release Preview builds for 14 May 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/05/14/announcing-new-release-preview-builds-for-14-may-2026/",
+    "summary": "[19 May 2026: Updated build numbers for new releases containing bug fixes - see release notes for details] Hello Windows Insiders, Today we're releasing new builds for Release Preview across our supported versions of Windows 11. Please see the bu The post Announcing new Release Preview builds for...",
+    "date": "2026-05-14T17:05:26+00:00"
   },
   {
     "id": "fecc75369f92351d",
