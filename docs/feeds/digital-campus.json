@@ -680,6 +680,56 @@
     "date": "2026-05-14T17:05:26+00:00"
   },
   {
+    "id": "4bfd83472a7df5ca",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Added socker_break response fields to Dashboards API endpoints",
+    "link": "https://developers.zoom.us/changelog/accounts/june-01-2026",
+    "summary": "Tags: api-release | Additional response fields to capture information when a socket (network connection) breaks.",
+    "date": "2026-06-01T00:00:00+00:00"
+  },
+  {
+    "id": "4e2e38401f22a535",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New endpoint for File Management API",
+    "link": "https://developers.zoom.us/changelog/canvas/june-01-2026",
+    "summary": "Tags: api-release | New endpoint for File Management API.",
+    "date": "2026-06-01T00:00:00+00:00"
+  },
+  {
+    "id": "63b3825dde1f3d0d",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Four new response fields in two Cloud Recording APIs",
+    "link": "https://developers.zoom.us/changelog/meetings/june-01-2026",
+    "summary": "Tags: api-release | Four new response fields in two Cloud Recording APIs",
+    "date": "2026-06-01T00:00:00+00:00"
+  },
+  {
+    "id": "cd839b3bd3d53738",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New call ID filtering for call history APIs",
+    "link": "https://developers.zoom.us/changelog/phone/june-01-2026",
+    "summary": "Tags: api-release | Added a new `call_ids` request field to Call Logs APIs to enable filtering and retrieval of call history records by specific call IDs.",
+    "date": "2026-06-01T00:00:00+00:00"
+  },
+  {
+    "id": "8a4688bc8946b582",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.4.5",
+    "link": "https://developers.zoom.us/changelog/video-sdk/web/2.4.5",
+    "summary": "Tags: bug-fix, sdk-version | Adds RTMP ingestion for external streaming sources and a customAudioConstraints audio option; improves shared screen rendering, AMD environment support, and virtual background on low-performance devices; fixes a Traditional Chinese language code and a missing userKey...",
+    "date": "2026-06-01T00:00:00+00:00"
+  },
+  {
     "id": "a16e2e44e6d660af",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -948,55 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/refine-in-chat-additional-language-support.html",
     "summary": "We are expanding the capabilities of Gemini in Google Chat by adding support for several new languages when refining message drafts. In addition to English, users can now use Gemini to polish their messages in French, German, Italian, Japanese, Korean, Portuguese, and Spanish. This update allows a...",
     "date": "2026-05-14T17:39:40+00:00"
-  },
-  {
-    "id": "03e61192af590e4e",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Summarizer job management APIs",
-    "link": "https://developers.zoom.us/changelog/ai-services/may-21-2026",
-    "summary": "Tags: api-release | Added APIs to list and delete summarizer jobs.",
-    "date": "2026-05-21T00:00:00+00:00"
-  },
-  {
-    "id": "2e12252b9d593abd",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Manage Clip chapters with new APIs",
-    "link": "https://developers.zoom.us/changelog/clips/may-21-2026",
-    "summary": "Tags: api-release | Added APIs to create and retrieve chapters for Clips.",
-    "date": "2026-05-21T00:00:00+00:00"
-  },
-  {
-    "id": "d6baa1789fa529fd",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Product Catalog APIs",
-    "link": "https://developers.zoom.us/changelog/commerce/may-21-2026",
-    "summary": "Tags: api-release | New Product Catalog APIs",
-    "date": "2026-05-21T00:00:00+00:00"
-  },
-  {
-    "id": "2a4ec0ad0d683a88",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Add `aiSalesAssist` fields to SCIM User API requests and responses",
-    "link": "https://developers.zoom.us/changelog/scim2/may-21-2026",
-    "summary": "Tags: api-release | New fields added to SCIM for User APIs.",
-    "date": "2026-05-21T00:00:00+00:00"
-  },
-  {
-    "id": "4e86711c0ad0bb26",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New request and response fields",
-    "link": "https://developers.zoom.us/changelog/video-management/may-21-2026",
-    "summary": "Tags: api-release | New request and response fields in multiple Playlists, Videos, and Channels APIs. New fields in a Surveys webhook event.",
-    "date": "2026-05-21T00:00:00+00:00"
   }
 ]
