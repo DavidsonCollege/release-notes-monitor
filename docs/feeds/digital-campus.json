@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "5733a525be988b56",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Organize My Files in Drive now generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/organize-my-files-in-drive-now-generally-available.html",
+    "summary": "In October 2025, we launched a beta for Organize My Files in Drive. This feature is now generally available and has started rolling out to eligible Google Workspace and Google AI plans.It can be overwhelming to see loose files in your Drive and moving them into the right folder can be manual,...",
+    "date": "2026-06-01T14:47:43+00:00"
+  },
+  {
     "id": "24df0e13a898b796",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/google-chat-external-interoperability-with-Microsoft-Teams-via-NextPlane-OpenHub-is-now-available.html",
     "summary": "Organizations often need to collaborate with customers, partners, and suppliers who use Microsoft Teams. NextPlane OpenHub was built to bridge this Google Chat and Microsoft Teams divide, and it is now launching external interoperability to allow communication across organizational boundaries....",
     "date": "2026-05-28T17:12:34+00:00"
-  },
-  {
-    "id": "6ec39651a8b2dfd4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Share chats, canvases, and generated media from the Gemini app securely via Google Drive",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/share-chats-canvases-and-generated-media-from-the-Gemini-app-securely-via-Google-Drive.html",
-    "summary": "We are introducing the ability for Workspace users on the web to share snapshots of their chats, canvases, and generated media in the Gemini app. Because this feature is powered by the same underlying technology as Google Drive, it uses the familiar, consistent sharing interface you already rely on...",
-    "date": "2026-05-28T17:07:48+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -720,6 +720,16 @@
     "date": "2026-05-25T00:00:00+00:00"
   },
   {
+    "id": "6ec39651a8b2dfd4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Share chats, canvases, and generated media from the Gemini app securely via Google Drive",
+    "link": "http://workspaceupdates.googleblog.com/2026/04/share-chats-canvases-and-generated-media-from-the-Gemini-app-securely-via-Google-Drive.html",
+    "summary": "We are introducing the ability for Workspace users on the web to share snapshots of their chats, canvases, and generated media in the Gemini app. Because this feature is powered by the same underlying technology as Google Drive, it uses the familiar, consistent sharing interface you already rely on...",
+    "date": "2026-05-28T17:07:48+00:00"
+  },
+  {
     "id": "fecc75369f92351d",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=05112026c",
     "summary": "View downloadsView release notes",
     "date": "2026-05-11T17:00:00+00:00"
-  },
-  {
-    "id": "b7f92fa8fa3f6f98",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Expanded options for header images in Google Forms",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/more-options-for-forms-headers.html",
-    "summary": "Form creators now have more options for header images in Google Forms. Previously, creators could only use a pre-selected theme, upload an image, or choose an image from Google Photos. In addition to these options, they can now choose an image from Google Drive or Google Images or use a URL. This...",
-    "date": "2026-05-14T16:30:57+00:00"
   }
 ]
