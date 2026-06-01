@@ -222,7 +222,7 @@
       "name": "general",
       "is_private": false,
       "topic": "Company-wide announcements and work-based matters",
-      "num_members": 95
+      "num_members": 96
     },
     {
       "id": "C2ETFB938",
@@ -264,7 +264,7 @@
       "name": "ideas",
       "is_private": false,
       "topic": "Ideas for IT@Davidson",
-      "num_members": 49
+      "num_members": 50
     },
     {
       "id": "C07QZEBRGFL",
@@ -334,7 +334,7 @@
       "name": "outages",
       "is_private": false,
       "topic": "",
-      "num_members": 91
+      "num_members": 92
     },
     {
       "id": "CFA3D26NL",
@@ -502,7 +502,7 @@
       "name": "proj-oracle-redwood-july14",
       "is_private": false,
       "topic": "",
-      "num_members": 2
+      "num_members": 4
     },
     {
       "id": "C0899G6F4L8",
@@ -579,7 +579,7 @@
       "name": "random",
       "is_private": false,
       "topic": "\r\n",
-      "num_members": 85
+      "num_members": 86
     },
     {
       "id": "C35AAKFNU",
@@ -768,7 +768,7 @@
       "name": "team-infrastructure",
       "is_private": false,
       "topic": "",
-      "num_members": 35
+      "num_members": 36
     },
     {
       "id": "C03SHVDPLJX",
@@ -960,6 +960,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-06-01T12:24:25.107024+00:00",
+  "last_updated": "2026-06-01T14:34:59.072841+00:00",
   "fetch_status": "success"
 }
