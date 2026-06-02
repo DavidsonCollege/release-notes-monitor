@@ -1,13 +1,13 @@
 [
   {
-    "id": "68bf4e06214d3b4d",
+    "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
+    "title": "1Password for Android",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "May 26 2026"
+    "date": "June 2 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -730,6 +730,16 @@
     "date": "2026-06-01T00:00:00+00:00"
   },
   {
+    "id": "68bf4e06214d3b4d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "May 26 2026"
+  },
+  {
     "id": "a16e2e44e6d660af",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/whiteboarding-add-ons-meet-hardware-android.html",
     "summary": "Third-party whiteboarding add-ons for Google Meet will be available for room hardware based on Android. As all-in-one devices with touchscreens become certified for Meet, users will be able to whiteboard on them to share ideas, brainstorm, and work on projects together in real-time meetings,...",
     "date": "2026-05-15T18:17:36+00:00"
-  },
-  {
-    "id": "c097a4ca2eb60859",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Expanding language support for refining messages with Gemini in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/refine-in-chat-additional-language-support.html",
-    "summary": "We are expanding the capabilities of Gemini in Google Chat by adding support for several new languages when refining message drafts. In addition to English, users can now use Gemini to polish their messages in French, German, Italian, Japanese, Korean, Portuguese, and Spanish. This update allows a...",
-    "date": "2026-05-14T17:39:40+00:00"
   }
 ]
