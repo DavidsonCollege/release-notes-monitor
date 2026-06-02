@@ -561,6 +561,13 @@
       "num_members": 6
     },
     {
+      "id": "C0B7SDLSWV8",
+      "name": "quarantine-release-request",
+      "is_private": false,
+      "topic": "",
+      "num_members": 4
+    },
+    {
       "id": "C2DMWS4TE",
       "name": "quick-wins",
       "is_private": false,
@@ -579,7 +586,7 @@
       "name": "random",
       "is_private": false,
       "topic": "\r\n",
-      "num_members": 86
+      "num_members": 85
     },
     {
       "id": "C35AAKFNU",
@@ -824,7 +831,7 @@
       "name": "temp-duo-desktop",
       "is_private": false,
       "topic": "",
-      "num_members": 16
+      "num_members": 15
     },
     {
       "id": "C0A2V1GMGKZ",
@@ -960,6 +967,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-06-02T15:32:48.919065+00:00",
+  "last_updated": "2026-06-02T17:40:19.723073+00:00",
   "fetch_status": "success"
 }
