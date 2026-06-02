@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "42c7f3138a3fac4f",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing the ability to loop over a list of items in Workspace Studio",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/introducing-ability-to-loop-over-list-of-items-in-Workspace-Studio.html",
+    "summary": "We are introducing the ability to loop over a list of items in Google Workspace Studio flows, bringing more power and flexibility to your everyday workflows. As part of this, the Ask Gemini step has a new configuration section called Response format where you can decide if the output of the step...",
+    "date": "2026-06-02T18:15:52+00:00"
+  },
+  {
     "id": "5733a525be988b56",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/available-in-beta-convert-your-client-side-encrypted-Slides-after-a-Vault-or-Takeout-export.html",
     "summary": "Admins can now bulk export client-side encrypted (CSE) Slides using Vault or Data Export (takeout), and then convert those exports into PowerPoint files. This allows your organization to retain complete ownership, access, and control of sensitive data in a highly portable format.Eligible Google...",
     "date": "2026-05-29T15:45:35+00:00"
-  },
-  {
-    "id": "11a1cf838ca25eda",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Chat external interoperability with Microsoft Teams via NextPlane OpenHub is now available",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/google-chat-external-interoperability-with-Microsoft-Teams-via-NextPlane-OpenHub-is-now-available.html",
-    "summary": "Organizations often need to collaborate with customers, partners, and suppliers who use Microsoft Teams. NextPlane OpenHub was built to bridge this Google Chat and Microsoft Teams divide, and it is now launching external interoperability to allow communication across organizational boundaries....",
-    "date": "2026-05-28T17:12:34+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -730,6 +730,16 @@
     "date": "2026-06-01T00:00:00+00:00"
   },
   {
+    "id": "11a1cf838ca25eda",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Chat external interoperability with Microsoft Teams via NextPlane OpenHub is now available",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/google-chat-external-interoperability-with-Microsoft-Teams-via-NextPlane-OpenHub-is-now-available.html",
+    "summary": "Organizations often need to collaborate with customers, partners, and suppliers who use Microsoft Teams. NextPlane OpenHub was built to bridge this Google Chat and Microsoft Teams divide, and it is now launching external interoperability to allow communication across organizational boundaries....",
+    "date": "2026-05-28T17:12:34+00:00"
+  },
+  {
     "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/android-all-in-one-devices-neat-logitech.html",
     "summary": "The Neat Board series (32, 50, and Pro) and the Logitech Rally Board 65 are now certified for Google Meet as the first Android-based all-in-one devices. They package up and deliver a modern Meet experience in stylish form factors ideal for simple deployment in traditional meeting rooms, open...",
     "date": "2026-05-15T18:18:27+00:00"
-  },
-  {
-    "id": "f921e21fa9029130",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Whiteboarding add-ons now available for Android-based Google Meet hardware",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/whiteboarding-add-ons-meet-hardware-android.html",
-    "summary": "Third-party whiteboarding add-ons for Google Meet will be available for room hardware based on Android. As all-in-one devices with touchscreens become certified for Meet, users will be able to whiteboard on them to share ideas, brainstorm, and work on projects together in real-time meetings,...",
-    "date": "2026-05-15T18:17:36+00:00"
   }
 ]
