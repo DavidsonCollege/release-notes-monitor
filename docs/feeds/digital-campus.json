@@ -1,13 +1,13 @@
 [
   {
-    "id": "9b4a49c55cd1a750",
+    "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
+    "title": "1Password for Android Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "June 2 2026"
+    "date": "June 3 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -730,6 +730,16 @@
     "date": "2026-06-01T00:00:00+00:00"
   },
   {
+    "id": "9b4a49c55cd1a750",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "June 2 2026"
+  },
+  {
     "id": "11a1cf838ca25eda",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -738,16 +748,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/google-chat-external-interoperability-with-Microsoft-Teams-via-NextPlane-OpenHub-is-now-available.html",
     "summary": "Organizations often need to collaborate with customers, partners, and suppliers who use Microsoft Teams. NextPlane OpenHub was built to bridge this Google Chat and Microsoft Teams divide, and it is now launching external interoperability to allow communication across organizational boundaries....",
     "date": "2026-05-28T17:12:34+00:00"
-  },
-  {
-    "id": "68bf4e06214d3b4d",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "May 26 2026"
   },
   {
     "id": "a16e2e44e6d660af",
