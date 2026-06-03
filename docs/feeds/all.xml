@@ -5,70 +5,98 @@
     <description>Combined release notes from all teams</description>
     <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/all.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2026 20:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 22:02:50 +0000</lastBuildDate>
     <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>ScreenCloud - 4.9.0</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New: Amazon Signage Stick (ASS) dedicated player. Previously ran Amazon Fire OS player on ASS device.&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">e1dab31261398830</guid>
-      <pubDate>Wed, 03 Jun 2026 20:40:17 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 22:02:50 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Capture context in your language, now in 5 additional languages</title>
       <link>https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading... Loading...&lt;/p&gt;&lt;a href=&quot;https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">e6ffaed137767ac5</guid>
-      <pubDate>Wed, 03 Jun 2026 20:40:17 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 22:02:50 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Capture context in your language, now in 5 additional languages</title>
       <link>https://scribe.launchnotes.io/announcements/capture-context-in-your-language-now-in-5-additional-languages</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading...&lt;/p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/capture-context-in-your-language-now-in-5-additional-languages&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">fd602ac3c74bcc12</guid>
-      <pubDate>Wed, 03 Jun 2026 20:40:17 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 22:02:50 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Polish your Scribes in seconds with AI-powered editing</title>
       <link>https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading... Loading...&lt;/p&gt;&lt;a href=&quot;https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">5f04dcafca5355df</guid>
-      <pubDate>Wed, 03 Jun 2026 20:40:17 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 22:02:50 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Polish your Scribes in seconds with AI-powered editing</title>
       <link>https://scribe.launchnotes.io/announcements/polish-your-scribes-in-seconds-with-ai-powered-editing</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading...&lt;/p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/polish-your-scribes-in-seconds-with-ai-powered-editing&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">127c72bc6680ec2b</guid>
-      <pubDate>Wed, 03 Jun 2026 20:40:17 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 22:02:50 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.7.16</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">25cbe092cc1d040f</guid>
-      <pubDate>Wed, 03 Jun 2026 20:40:17 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 22:02:50 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password for Android Beta</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">68bf4e06214d3b4d</guid>
-      <pubDate>Wed, 03 Jun 2026 20:40:17 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 22:02:50 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password for Android</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">9b4a49c55cd1a750</guid>
-      <pubDate>Wed, 03 Jun 2026 20:40:17 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 22:02:50 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.11.2</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New: Support for Amazon’s Remote Device Management (RDM) for Signage Sticks, including:Screen/TV mute and unmute via HDMI-CECScreen/TV power on and off via HDMI-CECDevice rebootScreenshot and full-screen captureDeep cache clearing (player app and Android system cache)Player app restartCPU and GPU...&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">06a1b6a05e1c3232</guid>
-      <pubDate>Wed, 03 Jun 2026 20:40:17 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 22:02:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace - Data loss prevention policies for Google Calendar now available in GA</title>
+      <link>http://workspaceupdates.googleblog.com/2026/05/data-loss-prevention-policies-for-Google-Calendar-now-available-in-GA.html</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Data loss prevention (DLP) for Google Calendar is now generally available to protect sensitive information shared within event details. Previously available in beta, this feature allows you to create and apply data protection rules that scan calendar event titles, descriptions, and locations for...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/05/data-loss-prevention-policies-for-Google-Calendar-now-available-in-GA.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">04eb53e2a913ea34</guid>
+      <pubDate>Wed, 03 Jun 2026 19:32:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace - New data loss prevention capabilities for file attachments and proximity conditions are generally available</title>
+      <link>http://workspaceupdates.googleblog.com/2026/06/new-data-loss-prevention-capabilities-for-file-attachments-and-proximity-conditions-are-generally-available.html</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Data loss prevention (DLP) rules for non-Workspace file attachments and associated proximity conditions are now generally available. These new capabilities enable organizations to target files with specific parameters, such as blocking the sharing of sensitive file formats or identifying files that...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/06/new-data-loss-prevention-capabilities-for-file-attachments-and-proximity-conditions-are-generally-available.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">bc5a9c83eccb9e7c</guid>
+      <pubDate>Wed, 03 Jun 2026 19:14:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace - Quickly scan multiple pages in Google Drive on Android</title>
+      <link>http://workspaceupdates.googleblog.com/2026/06/quickly-scan-multiple-pages-in-google-Drive-on-Android.html</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tired of scanning one page at a time? With the new Document Scanner in Google Drive on Android, you can now scan multiple pages at the same time. Flip through the pages of a book or lay your receipts out on a table and our Document Scanner will identify, separate, and capture each page within the...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/06/quickly-scan-multiple-pages-in-google-Drive-on-Android.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">8ee57e1dda38890c</guid>
+      <pubDate>Wed, 03 Jun 2026 18:25:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace - Enhanced data protection for managed third-party apps</title>
+      <link>http://workspaceupdates.googleblog.com/2026/06/enhanced-data-protection-for-managed-third-party-apps.html</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Previously, data transfers from corporate Google Workspace accounts to third-party apps were restricted. We’re now recalibrating these restrictions to allow for a &quot;trusted ecosystem&quot; between managed apps.With this release, users are now able to maintain efficient workflows and securely move data...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/06/enhanced-data-protection-for-managed-third-party-apps.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">34eb1ffb93fd334d</guid>
+      <pubDate>Wed, 03 Jun 2026 16:51:34 +0000</pubDate>
     </item>
     <item>
       <title>ChatGPT - Active sessions</title>
@@ -302,13 +330,6 @@
       <pubDate>Tue, 26 May 2026 16:47:08 +0000</pubDate>
     </item>
     <item>
-      <title>Google Workspace - Introducing a fresh visual identity for Google Workspace app icons</title>
-      <link>http://workspaceupdates.googleblog.com/2026/05/introducing-fresh-visual-identity-for-Google-Workspace-app-icons.html</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;We’re updating icons across Google Workspace to introduce a modern visual design that gives every app a more distinct identity. Over the next several weeks, users will see new icons for Gmail, Calendar, Chat, Meet, Drive, Docs, Slides, Sheets, Vids, Keep, Forms, Voice, Sites, and Tasks.These...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/05/introducing-fresh-visual-identity-for-Google-Workspace-app-icons.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">b744aeb1b1dc53ac</guid>
-      <pubDate>Tue, 26 May 2026 15:57:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Zoom - Phone API endpoint deprecations</title>
       <link>https://developers.zoom.us/changelog/phone/phone-api-endpoint-deprecations</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: breaking-change, deprecation | Zoom deprecated several endpoints for phone numbers, plans, cloud peering, SMS campaigns, and related settings. Use the new Number Management APIs for enhanced, streamlined management. Migrate by June 30, 2026. We will not support deprecated endpoints after this...&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/phone/phone-api-endpoint-deprecations&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
@@ -477,20 +498,6 @@
       <pubDate>Fri, 15 May 2026 18:54:39 +0000</pubDate>
     </item>
     <item>
-      <title>Google Workspace - Google Workspace Updates Weekly Recap - May 15, 2026</title>
-      <link>http://workspaceupdates.googleblog.com/2026/05/workspace-updates-weekly-recap-may-15-2026.html</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Whiteboarding add-ons now available for Android-based Google Meet hardwareThird-party whiteboarding add-ons for Google Meet, including Figma, Lucidspark, and Miro, will be available for room hardware based on Android. | Learn more about whiteboarding add-ons for Android-based Google Meet...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/05/workspace-updates-weekly-recap-may-15-2026.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">5e57d2137ed0f7ff</guid>
-      <pubDate>Fri, 15 May 2026 18:20:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Workspace - Android-based all-in-one room devices from Neat and Logitech certified for Google Meet</title>
-      <link>http://workspaceupdates.googleblog.com/2026/05/android-all-in-one-devices-neat-logitech.html</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;The Neat Board series (32, 50, and Pro) and the Logitech Rally Board 65 are now certified for Google Meet as the first Android-based all-in-one devices. They package up and deliver a modern Meet experience in stylish form factors ideal for simple deployment in traditional meeting rooms, open...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/05/android-all-in-one-devices-neat-logitech.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">21151303413235af</guid>
-      <pubDate>Fri, 15 May 2026 18:18:27 +0000</pubDate>
-    </item>
-    <item>
       <title>ChatGPT - File library expands to Free and Go users, with storage management</title>
       <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=openai.com&amp;sz=64&quot; alt=&quot;ChatGPT&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ChatGPT&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;File library is expanding to Free and Go users, including to users in the European Economic Area (EEA) making it easier to find, reuse, and build on files you upload or create in ChatGPT. You can add recent files from the composer, browse saved files in Library, and ask ChatGPT about files you’ve...&lt;/p&gt;&lt;a href=&quot;https://help.openai.com/en/articles/6825453-chatgpt-release-notes&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
@@ -566,13 +573,6 @@
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=papercut.com&amp;sz=64&quot; alt=&quot;PaperCut&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;PaperCut&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...&lt;/p&gt;&lt;a href=&quot;https://www.papercut.com/products/mf/release-history/25-0/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">192f3d32a50553a3</guid>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scribe - Polish your Scribes in seconds with AI-powered editing</title>
-      <link>https://scribe.launchnotes.io/</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;a href=&quot;https://scribe.launchnotes.io/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">82f543b70decea4f</guid>
-      <pubDate>Fri, 01 May 2026 19:33:58 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - All Plans Editing</title>

@@ -220,6 +220,46 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "04eb53e2a913ea34",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Data loss prevention policies for Google Calendar now available in GA",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/data-loss-prevention-policies-for-Google-Calendar-now-available-in-GA.html",
+    "summary": "Data loss prevention (DLP) for Google Calendar is now generally available to protect sensitive information shared within event details. Previously available in beta, this feature allows you to create and apply data protection rules that scan calendar event titles, descriptions, and locations for...",
+    "date": "2026-06-03T19:32:27+00:00"
+  },
+  {
+    "id": "bc5a9c83eccb9e7c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New data loss prevention capabilities for file attachments and proximity conditions are generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/new-data-loss-prevention-capabilities-for-file-attachments-and-proximity-conditions-are-generally-available.html",
+    "summary": "Data loss prevention (DLP) rules for non-Workspace file attachments and associated proximity conditions are now generally available. These new capabilities enable organizations to target files with specific parameters, such as blocking the sharing of sensitive file formats or identifying files that...",
+    "date": "2026-06-03T19:14:32+00:00"
+  },
+  {
+    "id": "8ee57e1dda38890c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Quickly scan multiple pages in Google Drive on Android",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/quickly-scan-multiple-pages-in-google-Drive-on-Android.html",
+    "summary": "Tired of scanning one page at a time? With the new Document Scanner in Google Drive on Android, you can now scan multiple pages at the same time. Flip through the pages of a book or lay your receipts out on a table and our Document Scanner will identify, separate, and capture each page within the...",
+    "date": "2026-06-03T18:25:26+00:00"
+  },
+  {
+    "id": "34eb1ffb93fd334d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Enhanced data protection for managed third-party apps",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/enhanced-data-protection-for-managed-third-party-apps.html",
+    "summary": "Previously, data transfers from corporate Google Workspace accounts to third-party apps were restricted. We’re now recalibrating these restrictions to allow for a \"trusted ecosystem\" between managed apps.With this release, users are now able to maintain efficient workflows and securely move data...",
+    "date": "2026-06-03T16:51:34+00:00"
+  },
+  {
     "id": "42c7f3138a3fac4f",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -228,46 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/introducing-ability-to-loop-over-list-of-items-in-Workspace-Studio.html",
     "summary": "We are introducing the ability to loop over a list of items in Google Workspace Studio flows, bringing more power and flexibility to your everyday workflows. As part of this, the Ask Gemini step has a new configuration section called Response format where you can decide if the output of the step...",
     "date": "2026-06-02T18:15:52+00:00"
-  },
-  {
-    "id": "5733a525be988b56",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Organize My Files in Drive now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/organize-my-files-in-drive-now-generally-available.html",
-    "summary": "In October 2025, we launched a beta for Organize My Files in Drive. This feature is now generally available and has started rolling out to eligible Google Workspace and Google AI plans.It can be overwhelming to see loose files in your Drive and moving them into the right folder can be manual,...",
-    "date": "2026-06-01T14:47:43+00:00"
-  },
-  {
-    "id": "24df0e13a898b796",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - May 29, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/weekly-recap-05-29-2026.html",
-    "summary": "Introducing a fresh visual identity for Google Workspace app iconsWe’re updating icons across Google Workspace to introduce a modern visual design that gives every app a more distinct identity. Over the next several weeks, users will see new icons for Gmail, Calendar, Chat, Meet, Drive, Docs,...",
-    "date": "2026-05-29T20:32:58+00:00"
-  },
-  {
-    "id": "6aca7315c80950dd",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Keep track of student progress with learning standards and skills in Google Classroom",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/keep-track-of-student-progress-with-learning-standards-and-skills-in-Google-Classroom.html",
-    "summary": "Google Classroom now allows educators to tag coursework and rubrics with learning goals, including specific learning standards and skills, providing a more structured way to monitor student growth. When creating assignments, quiz assignments, questions, or materials, educators can search for...",
-    "date": "2026-05-29T17:28:04+00:00"
-  },
-  {
-    "id": "e91beb63b7596128",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Available in beta: Convert your client-side encrypted Slides after a Vault or Takeout export",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/available-in-beta-convert-your-client-side-encrypted-Slides-after-a-Vault-or-Takeout-export.html",
-    "summary": "Admins can now bulk export client-side encrypted (CSE) Slides using Vault or Data Export (takeout), and then convert those exports into PowerPoint files. This allows your organization to retain complete ownership, access, and control of sensitive data in a highly portable format.Eligible Google...",
-    "date": "2026-05-29T15:45:35+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -730,6 +730,46 @@
     "date": "2026-06-01T00:00:00+00:00"
   },
   {
+    "id": "5733a525be988b56",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Organize My Files in Drive now generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/organize-my-files-in-drive-now-generally-available.html",
+    "summary": "In October 2025, we launched a beta for Organize My Files in Drive. This feature is now generally available and has started rolling out to eligible Google Workspace and Google AI plans.It can be overwhelming to see loose files in your Drive and moving them into the right folder can be manual,...",
+    "date": "2026-06-01T14:47:43+00:00"
+  },
+  {
+    "id": "24df0e13a898b796",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - May 29, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/weekly-recap-05-29-2026.html",
+    "summary": "Introducing a fresh visual identity for Google Workspace app iconsWe’re updating icons across Google Workspace to introduce a modern visual design that gives every app a more distinct identity. Over the next several weeks, users will see new icons for Gmail, Calendar, Chat, Meet, Drive, Docs,...",
+    "date": "2026-05-29T20:32:58+00:00"
+  },
+  {
+    "id": "6aca7315c80950dd",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Keep track of student progress with learning standards and skills in Google Classroom",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/keep-track-of-student-progress-with-learning-standards-and-skills-in-Google-Classroom.html",
+    "summary": "Google Classroom now allows educators to tag coursework and rubrics with learning goals, including specific learning standards and skills, providing a more structured way to monitor student growth. When creating assignments, quiz assignments, questions, or materials, educators can search for...",
+    "date": "2026-05-29T17:28:04+00:00"
+  },
+  {
+    "id": "e91beb63b7596128",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Available in beta: Convert your client-side encrypted Slides after a Vault or Takeout export",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/available-in-beta-convert-your-client-side-encrypted-Slides-after-a-Vault-or-Takeout-export.html",
+    "summary": "Admins can now bulk export client-side encrypted (CSE) Slides using Vault or Data Export (takeout), and then convert those exports into PowerPoint files. This allows your organization to retain complete ownership, access, and control of sensitive data in a highly portable format.Eligible Google...",
+    "date": "2026-05-29T15:45:35+00:00"
+  },
+  {
     "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
@@ -958,45 +998,5 @@
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
     "date": "2026-05-01T19:33:58.705386+00:00"
-  },
-  {
-    "id": "82f543b70decea4f",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Polish your Scribes in seconds with AI-powered editing",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-05-01T19:33:58.705402+00:00"
-  },
-  {
-    "id": "b744aeb1b1dc53ac",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing a fresh visual identity for Google Workspace app icons",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/introducing-fresh-visual-identity-for-Google-Workspace-app-icons.html",
-    "summary": "We’re updating icons across Google Workspace to introduce a modern visual design that gives every app a more distinct identity. Over the next several weeks, users will see new icons for Gmail, Calendar, Chat, Meet, Drive, Docs, Slides, Sheets, Vids, Keep, Forms, Voice, Sites, and Tasks.These...",
-    "date": "2026-05-26T15:57:04+00:00"
-  },
-  {
-    "id": "5e57d2137ed0f7ff",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - May 15, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/workspace-updates-weekly-recap-may-15-2026.html",
-    "summary": "Whiteboarding add-ons now available for Android-based Google Meet hardwareThird-party whiteboarding add-ons for Google Meet, including Figma, Lucidspark, and Miro, will be available for room hardware based on Android. | Learn more about whiteboarding add-ons for Android-based Google Meet...",
-    "date": "2026-05-15T18:20:20+00:00"
-  },
-  {
-    "id": "21151303413235af",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Android-based all-in-one room devices from Neat and Logitech certified for Google Meet",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/android-all-in-one-devices-neat-logitech.html",
-    "summary": "The Neat Board series (32, 50, and Pro) and the Logitech Rally Board 65 are now certified for Google Meet as the first Android-based all-in-one devices. They package up and deliver a modern Meet experience in stylish form factors ideal for simple deployment in traditional meeting rooms, open...",
-    "date": "2026-05-15T18:18:27+00:00"
   }
 ]
