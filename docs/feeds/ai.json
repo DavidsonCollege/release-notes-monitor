@@ -50,6 +50,26 @@
     "date": "2026-03-25T17:55:13.622068+00:00"
   },
   {
+    "id": "9df71274a5638c1b",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Enterprise plans can manage admin permissions with custom roles",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-02T00:00:00+00:00"
+  },
+  {
+    "id": "40a32fe2d1371d1c",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Manage custom roles on Enterprise plans",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-02T00:00:00+00:00"
+  },
+  {
     "id": "1f65ac5511ac5eea",
     "product_id": "claude",
     "product_name": "Claude",
@@ -78,26 +98,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-05-28T00:00:00+00:00"
-  },
-  {
-    "id": "40a32fe2d1371d1c",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Manage custom roles on Enterprise plans",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-05-28T00:00:00+00:00"
-  },
-  {
-    "id": "1ecc1d71681e1b29",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude now works with more security and compliance tools",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-05-21T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -148,6 +148,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to empower users to create, regardless of their technical skill set or access to complex software. With Gemini Omni, your natural language is the only tool you need to direct, refine, and produce captivating videos.",
     "date": "2026-05-20T18:21:21.902552+00:00"
+  },
+  {
+    "id": "1ecc1d71681e1b29",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude now works with more security and compliance tools",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-05-21T00:00:00+00:00"
   },
   {
     "id": "84845adf541f7ca2",
