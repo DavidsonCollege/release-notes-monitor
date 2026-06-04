@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "f3f76e661486128c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New iOS device management settings now generally available in Google Endpoint Management",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/new-ios-device-management-settings-now-generally-available-in-Google-Endpoint-Management.html",
+    "summary": "We’re introducing an expanded set of native Apple Mobile Device Management (MDM) settings to Google Endpoint Management, providing administrators with more granular control over how iOS devices are configured and secured. These new settings—spanning categories such as Apps and Services, Device...",
+    "date": "2026-06-04T18:34:57+00:00"
+  },
+  {
     "id": "2eae675c2ef77304",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/quickly-scan-multiple-pages-in-google-Drive-on-Android.html",
     "summary": "Tired of scanning one page at a time? With the new Document Scanner in Google Drive on Android, you can now scan multiple pages at the same time. Flip through the pages of a book or lay your receipts out on a table and our Document Scanner will identify, separate, and capture each page within the...",
     "date": "2026-06-03T18:25:26+00:00"
-  },
-  {
-    "id": "34eb1ffb93fd334d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Enhanced data protection for managed third-party apps",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/enhanced-data-protection-for-managed-third-party-apps.html",
-    "summary": "Previously, data transfers from corporate Google Workspace accounts to third-party apps were restricted. We’re now recalibrating these restrictions to allow for a \"trusted ecosystem\" between managed apps.With this release, users are now able to maintain efficient workflows and securely move data...",
-    "date": "2026-06-03T16:51:34+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -680,6 +680,36 @@
     "date": "2026-05-14T17:05:26+00:00"
   },
   {
+    "id": "52d2d38e975ba8bf",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add call ID filtering to call history APIs",
+    "link": "https://developers.zoom.us/changelog/phone/june-04-2026",
+    "summary": "Tags: api-release | Added a new `call_ids` request field to the Call Logs APIs to retrieve call history for specific call IDs.",
+    "date": "2026-06-04T00:00:00+00:00"
+  },
+  {
+    "id": "bd8b301c77c91110",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New response and request fields in SCIM2 Users APIs",
+    "link": "https://developers.zoom.us/changelog/scim2/june-04-2026",
+    "summary": "Tags: api-release | Added Four new request and response fields to the SCIM2 User APIs: cxInsightsSubscription, eduStandardStudentSubscription, eduStandardStudent, and zoomEnhancedMediaSubscription. Returned in responses for GET, PUT, and PATCH /v2/scim2/Users/{userId}. Can be set as request fields...",
+    "date": "2026-06-04T00:00:00+00:00"
+  },
+  {
+    "id": "54204a808cb3e75d",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.4.5-1",
+    "link": "https://developers.zoom.us/changelog/ui-toolkit/web/2.4.5-1",
+    "summary": "Tags: bug-fix, sdk-version | Improves the mobile Troubleshooting experience and fixes issues with subsession participant assignment, remote control, and self-video rendering.",
+    "date": "2026-06-03T00:00:00+00:00"
+  },
+  {
     "id": "4bfd83472a7df5ca",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -698,6 +728,16 @@
     "link": "https://developers.zoom.us/changelog/canvas/june-01-2026",
     "summary": "Tags: api-release | New endpoint for File Management API.",
     "date": "2026-06-01T00:00:00+00:00"
+  },
+  {
+    "id": "34eb1ffb93fd334d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Enhanced data protection for managed third-party apps",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/enhanced-data-protection-for-managed-third-party-apps.html",
+    "summary": "Previously, data transfers from corporate Google Workspace accounts to third-party apps were restricted. We’re now recalibrating these restrictions to allow for a \"trusted ecosystem\" between managed apps.With this release, users are now able to maintain efficient workflows and securely move data...",
+    "date": "2026-06-03T16:51:34+00:00"
   },
   {
     "id": "63b3825dde1f3d0d",
@@ -958,45 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/gemini-lti-update-include-your-lms-sources-when-using-NotebookLM-in-Powerschool-Schoology.html",
     "summary": "When creating a notebook in Powerschool Schoology, Gemini LTI users can now add content directly from their course as sources. This integration allows educators and students to seamlessly bridge their course materials with AI-powered research and analysis, and generate Studio artifacts like Audio...",
     "date": "2026-05-26T18:17:20+00:00"
-  },
-  {
-    "id": "6d40a16fc356d19c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Keep your sources up to date with automatic Drive syncing in NotebookLM",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/keep-your-sources-up-to-date-with-automatic-Drive-syncing-in-NotebookLM.html",
-    "summary": "We’re making it easier to keep your sources and insights current in NotebookLM by enabling automatic syncing with Google Drive. Previously, if you uploaded a file in Google Docs, Sheets, or Slides, you’d have to manually update it in NotebookLM to see the changes. With this update, as the content...",
-    "date": "2026-05-26T17:27:11+00:00"
-  },
-  {
-    "id": "8e642c0b32a90b7c",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "A new type request parameter has been added to the Create design API. Although this type is shown as required, for backward compatibility, if it isn't",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/create-design/",
-    "summary": "A new type request parameter has been added to the Create design API. Although this type is shown as required, for backward compatibility, if it isn't provided in a request, the request type will be assumed to be type_and_asset.",
-    "date": "2026-03-29T23:47:59.875578+00:00"
-  },
-  {
-    "id": "74f4ee939630e7f9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improvements to Out-of-Domain file-level warnings",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/improvements-to-out-of-domain-file-level-warnings.html",
-    "summary": "Today, we’re announcing improvements to our Out-of-Domain file-level warnings. First launched in April 2025, these badges alert users to documents and users outside of their Workspace organization, helping to prevent accidental data exfiltration and potential phishing attacks that spoof internal...",
-    "date": "2026-05-26T16:58:09+00:00"
-  },
-  {
-    "id": "3018a8cc22eca18d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Simplify decision-making with Polly, now available for Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/simplify-decision-making-with-polly-now-available-for-Google-Chat.html",
-    "summary": "Making decisions in a fast-paced environment often leads to long, messy threads and lost consensus. Polly helps teams solve this by enabling the creation of interactive polls within existing Chat conversations. By keeping the feedback loop inside the \"flow of work,\" Polly helps eliminate the...",
-    "date": "2026-05-26T16:47:08+00:00"
   }
 ]
