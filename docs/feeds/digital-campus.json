@@ -560,6 +560,26 @@
     "date": "2026-05-27T18:05:08.394329+00:00"
   },
   {
+    "id": "a8a5152fe720f582",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Java Slack SDK v1.49.0",
+    "link": "https://docs.slack.dev/changelog/2026/06/03/java-slack-sdk",
+    "summary": "* We've added authorship arguments (iconemoji, iconurl, and username) to the assistant.threads.setStatus and chat.startStream API methods.",
+    "date": "2026-06-03T00:00:00+00:00"
+  },
+  {
+    "id": "362925aba1e41f92",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.2.0",
+    "link": "https://docs.slack.dev/changelog/2026/06/03/slack-cli",
+    "summary": "Version 4.2.0 of the Slack CLI has arrived!",
+    "date": "2026-06-03T00:00:00+00:00"
+  },
+  {
     "id": "f7d0e93c29e86cfb",
     "product_id": "slack",
     "product_name": "Slack",
@@ -588,26 +608,6 @@
     "link": "https://docs.slack.dev/changelog/2026/05/13/new-mcp-tools",
     "summary": "We've added the following tools to the Slack MCP server:",
     "date": "2026-05-13T00:00:00+00:00"
-  },
-  {
-    "id": "309be6155f413ebc",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "New Block Kit blocks and Streaming API method updates",
-    "link": "https://docs.slack.dev/changelog/2026/04/16/block-kit-new-blocks",
-    "summary": "The following new blocks are now available when using Block Kit:",
-    "date": "2026-04-16T00:00:00+00:00"
-  },
-  {
-    "id": "868a9c2cb4445ac5",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.0.0 and v4.0.1",
-    "link": "https://docs.slack.dev/changelog/2026/04/10/slack-cli",
-    "summary": "Version 4.0.0 of the developer tools for the Slack platform has arrived with lots of goodies for you!",
-    "date": "2026-04-10T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -728,6 +728,26 @@
     "link": "https://developers.zoom.us/changelog/video-sdk/web/2.4.5",
     "summary": "Tags: bug-fix, sdk-version | Adds RTMP ingestion for external streaming sources and a customAudioConstraints audio option; improves shared screen rendering, AMD environment support, and virtual background on low-performance devices; fixes a Traditional Chinese language code and a missing userKey...",
     "date": "2026-06-01T00:00:00+00:00"
+  },
+  {
+    "id": "309be6155f413ebc",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "New Block Kit blocks and Streaming API method updates",
+    "link": "https://docs.slack.dev/changelog/2026/04/16/block-kit-new-blocks",
+    "summary": "The following new blocks are now available when using Block Kit:",
+    "date": "2026-04-16T00:00:00+00:00"
+  },
+  {
+    "id": "868a9c2cb4445ac5",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.0.0 and v4.0.1",
+    "link": "https://docs.slack.dev/changelog/2026/04/10/slack-cli",
+    "summary": "Version 4.0.0 of the developer tools for the Slack platform has arrived with lots of goodies for you!",
+    "date": "2026-04-10T00:00:00+00:00"
   },
   {
     "id": "42c7f3138a3fac4f",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/simplify-decision-making-with-polly-now-available-for-Google-Chat.html",
     "summary": "Making decisions in a fast-paced environment often leads to long, messy threads and lost consensus. Polly helps teams solve this by enabling the creation of interactive polls within existing Chat conversations. By keeping the feedback loop inside the \"flow of work,\" Polly helps eliminate the...",
     "date": "2026-05-26T16:47:08+00:00"
-  },
-  {
-    "id": "5f04dcafca5355df",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Polish your Scribes in seconds with AI-powered editing",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "May 1, 2026"
-  },
-  {
-    "id": "127c72bc6680ec2b",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Polish your Scribes in seconds with AI-powered editing",
-    "link": "https://scribe.launchnotes.io/announcements/polish-your-scribes-in-seconds-with-ai-powered-editing",
-    "summary": "Loading...",
-    "date": "May 1, 2026"
   }
 ]
