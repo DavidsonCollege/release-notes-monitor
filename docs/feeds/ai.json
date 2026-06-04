@@ -1,5 +1,55 @@
 [
   {
+    "id": "410fb8926df985fe",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Active sessions",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "Review first-party OpenAI sessions from Settings > Security > Active sessions, with available details such as device, app, approximate location, sign-in time, trusted-device status, and whether it is the current sessionLog out of individual sessions or all sessions from Active sessions Active...",
+    "date": "2026-06-03T01:20:01.198920+00:00"
+  },
+  {
+    "id": "ecfd635d65b9b4f7",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "ChatGPT Images 2.0",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-04-22T04:33:43.555130+00:00"
+  },
+  {
+    "id": "01ef066c52637ba9",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "GPT-5.3 Instant Mini",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-04-09T20:25:01.335342+00:00"
+  },
+  {
+    "id": "081df5fb4f084d21",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Settings > My Plan",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-04-09T17:31:03.793706+00:00"
+  },
+  {
+    "id": "73a8f1f96c852907",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "ChatGPT Plus",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-03-25T17:55:13.622068+00:00"
+  },
+  {
     "id": "1f65ac5511ac5eea",
     "product_id": "claude",
     "product_name": "Claude",
@@ -98,56 +148,6 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to empower users to create, regardless of their technical skill set or access to complex software. With Gemini Omni, your natural language is the only tool you need to direct, refine, and produce captivating videos.",
     "date": "2026-05-20T18:21:21.902552+00:00"
-  },
-  {
-    "id": "410fb8926df985fe",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Active sessions",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "Review first-party OpenAI sessions from Settings > Security > Active sessions, with available details such as device, app, approximate location, sign-in time, trusted-device status, and whether it is the current sessionLog out of individual sessions or all sessions from Active sessions Active...",
-    "date": "2026-06-03T01:20:01.198920+00:00"
-  },
-  {
-    "id": "ecfd635d65b9b4f7",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "ChatGPT Images 2.0",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "",
-    "date": "2026-04-22T04:33:43.555130+00:00"
-  },
-  {
-    "id": "01ef066c52637ba9",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "GPT-5.3 Instant Mini",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "",
-    "date": "2026-04-09T20:25:01.335342+00:00"
-  },
-  {
-    "id": "081df5fb4f084d21",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Settings > My Plan",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "",
-    "date": "2026-04-09T17:31:03.793706+00:00"
-  },
-  {
-    "id": "73a8f1f96c852907",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "ChatGPT Plus",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "",
-    "date": "2026-03-25T17:55:13.622068+00:00"
   },
   {
     "id": "84845adf541f7ca2",
