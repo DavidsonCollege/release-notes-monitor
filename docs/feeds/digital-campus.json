@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "2eae675c2ef77304",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gmail as a source in Ask Gemini in Drive now generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/gmail-as-source-in-ask-gemini-in-drive-now-generally-available.html",
+    "summary": "Gmail sources in Ask Gemini in Drive is now generally available and has started rolling out to eligible Google Workspace and Google AI plans.Ask Gemini in Drive offers a dedicated, immersive workspace designed for deep focus. Users can engage in high-context, multi-turn conversations to efficiently...",
+    "date": "2026-06-03T22:36:55+00:00"
+  },
+  {
     "id": "04eb53e2a913ea34",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/enhanced-data-protection-for-managed-third-party-apps.html",
     "summary": "Previously, data transfers from corporate Google Workspace accounts to third-party apps were restricted. We’re now recalibrating these restrictions to allow for a \"trusted ecosystem\" between managed apps.With this release, users are now able to maintain efficient workflows and securely move data...",
     "date": "2026-06-03T16:51:34+00:00"
-  },
-  {
-    "id": "42c7f3138a3fac4f",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing the ability to loop over a list of items in Workspace Studio",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/introducing-ability-to-loop-over-list-of-items-in-Workspace-Studio.html",
-    "summary": "We are introducing the ability to loop over a list of items in Google Workspace Studio flows, bringing more power and flexibility to your everyday workflows. As part of this, the Ask Gemini step has a new configuration section called Response format where you can decide if the output of the step...",
-    "date": "2026-06-02T18:15:52+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -730,6 +730,16 @@
     "date": "2026-06-01T00:00:00+00:00"
   },
   {
+    "id": "42c7f3138a3fac4f",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing the ability to loop over a list of items in Workspace Studio",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/introducing-ability-to-loop-over-list-of-items-in-Workspace-Studio.html",
+    "summary": "We are introducing the ability to loop over a list of items in Google Workspace Studio flows, bringing more power and flexibility to your everyday workflows. As part of this, the Ask Gemini step has a new configuration section called Response format where you can decide if the output of the step...",
+    "date": "2026-06-02T18:15:52+00:00"
+  },
+  {
     "id": "5733a525be988b56",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://scribe.launchnotes.io/announcements/polish-your-scribes-in-seconds-with-ai-powered-editing",
     "summary": "Loading...",
     "date": "May 1, 2026"
-  },
-  {
-    "id": "bf2f6d39b6fc7b1d",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "All Plans Editing",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-05-01T19:33:58.705386+00:00"
   }
 ]
