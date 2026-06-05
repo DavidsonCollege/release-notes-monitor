@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "d6d671cd3048f955",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "June 5, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/49995557266708-June-5-2026",
+    "summary": "",
+    "date": "2026-06-05T20:14:24Z"
+  },
+  {
     "id": "d7c2530270203923",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/47657628557716-March-27-2026",
     "summary": "",
     "date": "2026-05-15T18:54:39Z"
-  },
-  {
-    "id": "4c8795724923f502",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "May 8, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/49167196683028-May-8-2026",
-    "summary": "",
-    "date": "2026-05-13T16:35:49Z"
   },
   {
     "id": "b225942de8a8c777",
@@ -730,6 +730,16 @@
     "date": "2026-06-01T00:00:00+00:00"
   },
   {
+    "id": "4c8795724923f502",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "May 8, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/49167196683028-May-8-2026",
+    "summary": "",
+    "date": "2026-05-13T16:35:49Z"
+  },
+  {
     "id": "34eb1ffb93fd334d",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/more-granular-admin-controls-for-Workspace-Studio-steps-and-starters.html",
     "summary": "We’re introducing more granular admin controls for Workspace Studio steps and starters. With these new controls, admins can define which steps and starters people in their organization can use to create flows, including by Workspace service or individually. They provide admins more granular control...",
     "date": "2026-05-27T14:28:28+00:00"
-  },
-  {
-    "id": "dd41949f814cfa93",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini LTI Update: Include your LMS sources when using NotebookLM in Powerschool Schoology",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/gemini-lti-update-include-your-lms-sources-when-using-NotebookLM-in-Powerschool-Schoology.html",
-    "summary": "When creating a notebook in Powerschool Schoology, Gemini LTI users can now add content directly from their course as sources. This integration allows educators and students to seamlessly bridge their course materials with AI-powered research and analysis, and generate Studio artifacts like Audio...",
-    "date": "2026-05-26T18:17:20+00:00"
   }
 ]
