@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "0134e9f2af678ed6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Updates Weekly Recap - June 5, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/weekly-recap-06-05-2026.html",
+    "summary": "Organize My Files in Drive now generally availableIn October 2025, we launched a beta for Organize My Files in Drive. This feature is now generally available and has started rolling out to eligible Google Workspace and Google AI plans. | Learn more about how Organize My Files in Drive is now...",
+    "date": "2026-06-05T20:51:12+00:00"
+  },
+  {
     "id": "f3f76e661486128c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/new-data-loss-prevention-capabilities-for-file-attachments-and-proximity-conditions-are-generally-available.html",
     "summary": "Data loss prevention (DLP) rules for non-Workspace file attachments and associated proximity conditions are now generally available. These new capabilities enable organizations to target files with specific parameters, such as blocking the sharing of sensitive file formats or identifying files that...",
     "date": "2026-06-03T19:14:32+00:00"
-  },
-  {
-    "id": "8ee57e1dda38890c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Quickly scan multiple pages in Google Drive on Android",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/quickly-scan-multiple-pages-in-google-Drive-on-Android.html",
-    "summary": "Tired of scanning one page at a time? With the new Document Scanner in Google Drive on Android, you can now scan multiple pages at the same time. Flip through the pages of a book or lay your receipts out on a table and our Document Scanner will identify, separate, and capture each page within the...",
-    "date": "2026-06-03T18:25:26+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -730,6 +730,16 @@
     "date": "2026-06-01T00:00:00+00:00"
   },
   {
+    "id": "8ee57e1dda38890c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Quickly scan multiple pages in Google Drive on Android",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/quickly-scan-multiple-pages-in-google-Drive-on-Android.html",
+    "summary": "Tired of scanning one page at a time? With the new Document Scanner in Google Drive on Android, you can now scan multiple pages at the same time. Flip through the pages of a book or lay your receipts out on a table and our Document Scanner will identify, separate, and capture each page within the...",
+    "date": "2026-06-03T18:25:26+00:00"
+  },
+  {
     "id": "4c8795724923f502",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/contact-center/ios/5.5.0",
     "summary": "Tags: sdk-version | Added support for real-time audio translation in video; changed default C++ language version; dropped x86_64 support in simulator builds.",
     "date": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "487efaa21588d9b6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "More granular admin controls for Workspace Studio steps and starters",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/more-granular-admin-controls-for-Workspace-Studio-steps-and-starters.html",
-    "summary": "We’re introducing more granular admin controls for Workspace Studio steps and starters. With these new controls, admins can define which steps and starters people in their organization can use to create flows, including by Workspace service or individually. They provide admins more granular control...",
-    "date": "2026-05-27T14:28:28+00:00"
   }
 ]
