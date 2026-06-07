@@ -310,56 +310,6 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
-    "id": "cb885feadc682a4b",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Limit Availability and Access-Based PDF Exports",
-    "link": "https://announcekit.app/kuali/announcements/new-limit-availability-and-access-based-pdf-exports-2tMKdi",
-    "summary": "You can now control when fields are visible to users without removing the underlying data, along with new options for controlling how restri...",
-    "date": "2026-05-21T16:10:00+00:00"
-  },
-  {
-    "id": "97fe8889531eaaa6",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Streamlined UI Updates Are Now Live",
-    "link": "https://announcekit.app/kuali/announcements/streamlined-ui-updates-are-now-live-2l00ko",
-    "summary": "Our new user interface updates are now live - see the original announcement for a detailed overview of what’s changed. These improvements a...",
-    "date": "2026-05-18T07:15:00+00:00"
-  },
-  {
-    "id": "b40546da95282232",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Secondary Workflows",
-    "link": "https://announcekit.app/kuali/announcements/new-secondary-workflows-11fwRO",
-    "summary": "You can now create and run Secondary Workflows to support processes that happen outside your main submission workflow. This gives you more f...",
-    "date": "2026-05-14T21:10:00+00:00"
-  },
-  {
-    "id": "80045883651ea730",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Default View Settings Have Moved to Views",
-    "link": "https://announcekit.app/kuali/announcements/default-view-settings-have-moved-to-views-4zuBvG",
-    "summary": "Default View Settings are now managed directly in Views, making it easier to control what users see by default. Previously, admins configure...",
-    "date": "2026-05-12T11:35:00+00:00"
-  },
-  {
-    "id": "130d1f919ae0af3c",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Interactive Design Lab Improvements Release",
-    "link": "https://announcekit.app/kuali/announcements/interactive-design-lab-improvements-release-3pYMVy",
-    "summary": "We’re excited to share a new set of improvements inspired by our first-ever Interactive Design Lab at Kuali Days 2026. This session brought ...",
-    "date": "2026-05-08T00:00:00+00:00"
-  },
-  {
     "id": "eb9c8ea1e5599a3a",
     "product_id": "macos",
     "product_name": "macOS",
@@ -518,46 +468,6 @@
     "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
     "summary": "Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.",
     "date": "March 28, 2024"
-  },
-  {
-    "id": "e6ffaed137767ac5",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Capture context in your language, now in 5 additional languages",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "May 27, 2026"
-  },
-  {
-    "id": "fd602ac3c74bcc12",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Capture context in your language, now in 5 additional languages",
-    "link": "https://scribe.launchnotes.io/announcements/capture-context-in-your-language-now-in-5-additional-languages",
-    "summary": "Loading...",
-    "date": "May 27, 2026"
-  },
-  {
-    "id": "d76e8eaf94491d86",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pro Enterprise Capturing",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-05-27T18:05:08.394311+00:00"
-  },
-  {
-    "id": "eb4b6edd4f8a1203",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Capture context in your language, now in 5 additional languages",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-05-27T18:05:08.394329+00:00"
   },
   {
     "id": "a8a5152fe720f582",
@@ -728,6 +638,96 @@
     "link": "https://developers.zoom.us/changelog/canvas/june-01-2026",
     "summary": "Tags: api-release | New endpoint for File Management API.",
     "date": "2026-06-01T00:00:00+00:00"
+  },
+  {
+    "id": "cb885feadc682a4b",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Limit Availability and Access-Based PDF Exports",
+    "link": "https://announcekit.app/kuali/announcements/new-limit-availability-and-access-based-pdf-exports-2tMKdi",
+    "summary": "You can now control when fields are visible to users without removing the underlying data, along with new options for controlling how restri...",
+    "date": "2026-05-21T16:10:00+00:00"
+  },
+  {
+    "id": "97fe8889531eaaa6",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Streamlined UI Updates Are Now Live",
+    "link": "https://announcekit.app/kuali/announcements/streamlined-ui-updates-are-now-live-2l00ko",
+    "summary": "Our new user interface updates are now live - see the original announcement for a detailed overview of what’s changed. These improvements a...",
+    "date": "2026-05-18T07:15:00+00:00"
+  },
+  {
+    "id": "b40546da95282232",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Secondary Workflows",
+    "link": "https://announcekit.app/kuali/announcements/new-secondary-workflows-11fwRO",
+    "summary": "You can now create and run Secondary Workflows to support processes that happen outside your main submission workflow. This gives you more f...",
+    "date": "2026-05-14T21:10:00+00:00"
+  },
+  {
+    "id": "80045883651ea730",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Default View Settings Have Moved to Views",
+    "link": "https://announcekit.app/kuali/announcements/default-view-settings-have-moved-to-views-4zuBvG",
+    "summary": "Default View Settings are now managed directly in Views, making it easier to control what users see by default. Previously, admins configure...",
+    "date": "2026-05-12T11:35:00+00:00"
+  },
+  {
+    "id": "130d1f919ae0af3c",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Interactive Design Lab Improvements Release",
+    "link": "https://announcekit.app/kuali/announcements/interactive-design-lab-improvements-release-3pYMVy",
+    "summary": "We’re excited to share a new set of improvements inspired by our first-ever Interactive Design Lab at Kuali Days 2026. This session brought ...",
+    "date": "2026-05-08T00:00:00+00:00"
+  },
+  {
+    "id": "e6ffaed137767ac5",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Capture context in your language, now in 5 additional languages",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "May 27, 2026"
+  },
+  {
+    "id": "fd602ac3c74bcc12",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Capture context in your language, now in 5 additional languages",
+    "link": "https://scribe.launchnotes.io/announcements/capture-context-in-your-language-now-in-5-additional-languages",
+    "summary": "Loading...",
+    "date": "May 27, 2026"
+  },
+  {
+    "id": "d76e8eaf94491d86",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Pro Enterprise Capturing",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-05-27T18:05:08.394311+00:00"
+  },
+  {
+    "id": "eb4b6edd4f8a1203",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Capture context in your language, now in 5 additional languages",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-05-27T18:05:08.394329+00:00"
   },
   {
     "id": "8ee57e1dda38890c",
