@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "4802a41512c8d3f8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing the Workspace Policy API mutate endpoints for DLP",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/introducing-workspace-policy-api-mutate-endpoints-for-DLP.html",
+    "summary": "The Workspace Policy API provides a centralized, comprehensive view of your security settings, eliminating the need to navigate to numerous pages in the Admin console.With our latest update, we are introducing mutate endpoints (Create, Update, Delete) alongside existing read-only capabilities (Get,...",
+    "date": "2026-06-08T19:35:20+00:00"
+  },
+  {
     "id": "68c03469e52054eb",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/new-ios-device-management-settings-now-generally-available-in-Google-Endpoint-Management.html",
     "summary": "We’re introducing an expanded set of native Apple Mobile Device Management (MDM) settings to Google Endpoint Management, providing administrators with more granular control over how iOS devices are configured and secured. These new settings—spanning categories such as Apps and Services, Device...",
     "date": "2026-06-04T18:34:57+00:00"
-  },
-  {
-    "id": "2eae675c2ef77304",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gmail as a source in Ask Gemini in Drive now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/gmail-as-source-in-ask-gemini-in-drive-now-generally-available.html",
-    "summary": "Gmail sources in Ask Gemini in Drive is now generally available and has started rolling out to eligible Google Workspace and Google AI plans.Ask Gemini in Drive offers a dedicated, immersive workspace designed for deep focus. Users can engage in high-context, multi-turn conversations to efficiently...",
-    "date": "2026-06-03T22:36:55+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -730,6 +730,16 @@
     "date": "2026-06-04T00:00:00+00:00"
   },
   {
+    "id": "2eae675c2ef77304",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gmail as a source in Ask Gemini in Drive now generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/gmail-as-source-in-ask-gemini-in-drive-now-generally-available.html",
+    "summary": "Gmail sources in Ask Gemini in Drive is now generally available and has started rolling out to eligible Google Workspace and Google AI plans.Ask Gemini in Drive offers a dedicated, immersive workspace designed for deep focus. Users can engage in high-context, multi-turn conversations to efficiently...",
+    "date": "2026-06-03T22:36:55+00:00"
+  },
+  {
     "id": "468709793bf24a70",
     "product_id": "macos",
     "product_name": "macOS",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/contact-center/android/5.5.0",
     "summary": "Tags: sdk-version | Added support for real-time audio translation to video; changed default C++ language version.",
     "date": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "6ec39651a8b2dfd4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Share chats, canvases, and generated media from the Gemini app securely via Google Drive",
-    "link": "http://workspaceupdates.googleblog.com/2026/04/share-chats-canvases-and-generated-media-from-the-Gemini-app-securely-via-Google-Drive.html",
-    "summary": "We are introducing the ability for Workspace users on the web to share snapshots of their chats, canvases, and generated media in the Gemini app. Because this feature is powered by the same underlying technology as Google Drive, it uses the familiar, consistent sharing interface you already rely on...",
-    "date": "2026-05-28T17:07:48+00:00"
   }
 ]
