@@ -370,16 +370,6 @@
     "date": "2026-06-08T17:00:00+00:00"
   },
   {
-    "id": "eb9c8ea1e5599a3a",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.5.1 (25F80)",
-    "link": "https://developer.apple.com/news/releases/?id=06012026b",
-    "summary": "View downloadsView release notes",
-    "date": "2026-06-01T17:00:00+00:00"
-  },
-  {
     "id": "8f2885091136ab69",
     "product_id": "microsoft-office",
     "product_name": "Microsoft Office",
@@ -728,6 +718,16 @@
     "link": "https://developers.zoom.us/changelog/scim2/june-04-2026",
     "summary": "Tags: api-release | Added Four new request and response fields to the SCIM2 User APIs: cxInsightsSubscription, eduStandardStudentSubscription, eduStandardStudent, and zoomEnhancedMediaSubscription. Returned in responses for GET, PUT, and PATCH /v2/scim2/Users/{userId}. Can be set as request fields...",
     "date": "2026-06-04T00:00:00+00:00"
+  },
+  {
+    "id": "eb9c8ea1e5599a3a",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.5.1 (25F80)",
+    "link": "https://developer.apple.com/news/releases/?id=06012026b",
+    "summary": "View downloadsView release notes",
+    "date": "2026-06-01T17:00:00+00:00"
   },
   {
     "id": "2eae675c2ef77304",
