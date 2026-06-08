@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "68c03469e52054eb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Convert rubric files and images into Google Classroom rubrics with help from Gemini",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/convert-rubric-files-and-images-into-Google-Classroom-rubrics-with-help-from-Gemini.html",
+    "summary": "Building on our October launch, Gemini in Google Classroom can now help educators more easily convert rubric files and images into Google Classroom rubrics, right within the assignment creation workflow. Educators can now upload more file types, such as .jpeg and .png files. For example, by...",
+    "date": "2026-06-08T16:41:58+00:00"
+  },
+  {
+    "id": "2ae1d086fd72f85a",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Request lightweight document alignment with approvals in Google Drive",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/request-lightweight-document-alignment-with approvals in Google Drive.html",
+    "summary": "Google Drive is introducing alignment approvals, a lightweight mechanism that allows teams to request and record document sign-offs without file changes resetting the approval flow. When a document is in a partially approved state, collaborators can continue making edits without resetting any...",
+    "date": "2026-06-08T15:48:10+00:00"
+  },
+  {
     "id": "0134e9f2af678ed6",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/gmail-as-source-in-ask-gemini-in-drive-now-generally-available.html",
     "summary": "Gmail sources in Ask Gemini in Drive is now generally available and has started rolling out to eligible Google Workspace and Google AI plans.Ask Gemini in Drive offers a dedicated, immersive workspace designed for deep focus. Users can engage in high-context, multi-turn conversations to efficiently...",
     "date": "2026-06-03T22:36:55+00:00"
-  },
-  {
-    "id": "04eb53e2a913ea34",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Data loss prevention policies for Google Calendar now available in GA",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/data-loss-prevention-policies-for-Google-Calendar-now-available-in-GA.html",
-    "summary": "Data loss prevention (DLP) for Google Calendar is now generally available to protect sensitive information shared within event details. Previously available in beta, this feature allows you to create and apply data protection rules that scan calendar event titles, descriptions, and locations for...",
-    "date": "2026-06-03T19:32:27+00:00"
-  },
-  {
-    "id": "bc5a9c83eccb9e7c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New data loss prevention capabilities for file attachments and proximity conditions are generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/new-data-loss-prevention-capabilities-for-file-attachments-and-proximity-conditions-are-generally-available.html",
-    "summary": "Data loss prevention (DLP) rules for non-Workspace file attachments and associated proximity conditions are now generally available. These new capabilities enable organizations to target files with specific parameters, such as blocking the sharing of sensitive file formats or identifying files that...",
-    "date": "2026-06-03T19:14:32+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -730,6 +730,26 @@
     "date": "2026-06-01T00:00:00+00:00"
   },
   {
+    "id": "04eb53e2a913ea34",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Data loss prevention policies for Google Calendar now available in GA",
+    "link": "http://workspaceupdates.googleblog.com/2026/05/data-loss-prevention-policies-for-Google-Calendar-now-available-in-GA.html",
+    "summary": "Data loss prevention (DLP) for Google Calendar is now generally available to protect sensitive information shared within event details. Previously available in beta, this feature allows you to create and apply data protection rules that scan calendar event titles, descriptions, and locations for...",
+    "date": "2026-06-03T19:32:27+00:00"
+  },
+  {
+    "id": "bc5a9c83eccb9e7c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New data loss prevention capabilities for file attachments and proximity conditions are generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/new-data-loss-prevention-capabilities-for-file-attachments-and-proximity-conditions-are-generally-available.html",
+    "summary": "Data loss prevention (DLP) rules for non-Workspace file attachments and associated proximity conditions are now generally available. These new capabilities enable organizations to target files with specific parameters, such as blocking the sharing of sensitive file formats or identifying files that...",
+    "date": "2026-06-03T19:14:32+00:00"
+  },
+  {
     "id": "8ee57e1dda38890c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/easily-identify-data-irregularities-with-anomaly-detection-in-Connected-Sheets.html",
     "summary": "You can now easily identify critical irregularities and outliers in your time-series data when using Connected Sheets to analyze BigQuery data sets from Google Sheets. Anomaly detection in Connected Sheets allows users to distinguish between expected trends and true outliers without requiring...",
     "date": "2026-05-27T20:38:35+00:00"
-  },
-  {
-    "id": "32ca660c5e6a023c",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 28020.1863 (Canary Channel)",
-    "link": "https://blogs.windows.com/windows-insider/2026/04/17/announcing-windows-11-insider-preview-build-28020-1863-canary-channel/",
-    "summary": "Hello Windows Insiders, today we are releasing Windows 11 Insider Preview Build 28020.1863 to the Canary Channel. (KB 5083725) What’s new in Canary Build 28020.1863 Changes and Improvements g The post Announcing Windows 11 Insider Preview Build 28020.1863 (Canary Channel) appeared first on Windows...",
-    "date": "2026-04-17T17:07:15+00:00"
-  },
-  {
-    "id": "021df3901d67a739",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 5.5.0",
-    "link": "https://developers.zoom.us/changelog/contact-center/ios/5.5.0",
-    "summary": "Tags: sdk-version | Added support for real-time audio translation in video; changed default C++ language version; dropped x86_64 support in simulator builds.",
-    "date": "2026-05-25T00:00:00+00:00"
   }
 ]
