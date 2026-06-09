@@ -1,13 +1,13 @@
 [
   {
-    "id": "68bf4e06214d3b4d",
+    "id": "85fa3f89a4f80853",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
+    "title": "1Password CLI Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "June 3 2026"
+    "date": "June 9 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -720,6 +720,16 @@
     "date": "2026-06-04T00:00:00+00:00"
   },
   {
+    "id": "68bf4e06214d3b4d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "June 3 2026"
+  },
+  {
     "id": "518f53653205674c",
     "product_id": "canva",
     "product_name": "Canva",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/video-sdk/react-native/2.5.10",
     "summary": "Tags: bug-fix, sdk-version | Added AI-friendly docs and Broadcast Streaming support. Fixed `enableMicOriginalInput`.",
     "date": "2026-05-28T00:00:00+00:00"
-  },
-  {
-    "id": "bb9b1c389efaf659",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Phone API endpoint deprecations",
-    "link": "https://developers.zoom.us/changelog/phone/phone-api-endpoint-deprecations",
-    "summary": "Tags: breaking-change, deprecation | Zoom deprecated several endpoints for phone numbers, plans, cloud peering, SMS campaigns, and related settings. Use the new Number Management APIs for enhanced, streamlined management. Migrate by June 30, 2026. We will not support deprecated endpoints after this...",
-    "date": "2026-05-26T00:00:00+00:00"
   }
 ]
