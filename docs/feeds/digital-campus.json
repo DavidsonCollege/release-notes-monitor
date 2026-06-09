@@ -70,6 +70,36 @@
     "date": "2026-05-15T18:54:39Z"
   },
   {
+    "id": "be3eda2d73c4cdae",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Publish brand template API is now available as a preview. It publishes a design as a brand template, creating a new brand template or updating an",
+    "link": "https://www.canva.dev/docs/connect/api-reference/brand-templates/publish-brand-template/",
+    "summary": "The Publish brand template API is now available as a preview. It publishes a design as a brand template, creating a new brand template or updating an existing one if the design is a draft of an existing template.",
+    "date": "2026-06-09T06:55:59.398642+00:00"
+  },
+  {
+    "id": "a83307c61ceca7fd",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Get design export formats API now returns page-level format options. Each format includes the page_numbers that support it. If a format is support",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-export-formats/",
+    "summary": "The Get design export formats API now returns page-level format options. Each format includes the page_numbers that support it. If a format is supported by every page in the design, its page_numbers are omitted.",
+    "date": "2026-06-09T06:55:59.398667+00:00"
+  },
+  {
+    "id": "f054aeafe9d84a40",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The List folder items API now supports brand_template as an item type. Brand templates in folders are returned in the response and can be filtered usi",
+    "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
+    "summary": "The List folder items API now supports brand_template as an item type. Brand templates in folders are returned in the response and can be filtered using the item_types parameter.",
+    "date": "2026-06-09T06:55:59.398676+00:00"
+  },
+  {
     "id": "b225942de8a8c777",
     "product_id": "canva",
     "product_name": "Canva",
@@ -88,36 +118,6 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/create-design/",
     "summary": "The Create design API now supports two new creation modes: copying an existing design using type: design, and creating a design from a brand template using type: brand_template. Both creation modes are currently a preview feature.",
     "date": "2026-05-18T07:38:46.639859+00:00"
-  },
-  {
-    "id": "518f53653205674c",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Create design export job API now supports CSV export using the csv export file type. Only Canva Sheets designs can be exported as CSV.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/exports/create-design-export-job/",
-    "summary": "",
-    "date": "2026-05-13T02:24:47.810072+00:00"
-  },
-  {
-    "id": "1f87efd1b5cea818",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "New preview APIs are available: Create design merge job and Get design merge job. These APIs let you merge design pages by inserting, moving, or delet",
-    "link": "https://www.canva.dev/docs/connect/api-reference/merges/create-design-merge-job/",
-    "summary": "New preview APIs are available: Create design merge job and Get design merge job. These APIs let you merge design pages by inserting, moving, or deleting pages to create a new design or modify an existing one.",
-    "date": "2026-05-18T07:38:46.639894+00:00"
-  },
-  {
-    "id": "4d32ad735cbf6a1b",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Create design API now supports email in the name field for preset types.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/create-design/#body-parameters",
-    "summary": "",
-    "date": "2026-04-07T12:58:41.844147+00:00"
   },
   {
     "id": "5cc3318b9fb82a1d",
@@ -720,6 +720,36 @@
     "date": "2026-06-04T00:00:00+00:00"
   },
   {
+    "id": "518f53653205674c",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Create design export job API now supports CSV export using the csv export file type. Only Canva Sheets designs can be exported as CSV.",
+    "link": "https://www.canva.dev/docs/connect/api-reference/exports/create-design-export-job/",
+    "summary": "",
+    "date": "2026-05-13T02:24:47.810072+00:00"
+  },
+  {
+    "id": "1f87efd1b5cea818",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "New preview APIs are available: Create design merge job and Get design merge job. These APIs let you merge design pages by inserting, moving, or delet",
+    "link": "https://www.canva.dev/docs/connect/api-reference/merges/create-design-merge-job/",
+    "summary": "New preview APIs are available: Create design merge job and Get design merge job. These APIs let you merge design pages by inserting, moving, or deleting pages to create a new design or modify an existing one.",
+    "date": "2026-05-18T07:38:46.639894+00:00"
+  },
+  {
+    "id": "4d32ad735cbf6a1b",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Create design API now supports email in the name field for preset types.",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/create-design/#body-parameters",
+    "summary": "",
+    "date": "2026-04-07T12:58:41.844147+00:00"
+  },
+  {
     "id": "eb9c8ea1e5599a3a",
     "product_id": "macos",
     "product_name": "macOS",
@@ -968,35 +998,5 @@
     "link": "https://developers.zoom.us/changelog/phone/phone-api-endpoint-deprecations",
     "summary": "Tags: breaking-change, deprecation | Zoom deprecated several endpoints for phone numbers, plans, cloud peering, SMS campaigns, and related settings. Use the new Number Management APIs for enhanced, streamlined management. Migrate by June 30, 2026. We will not support deprecated endpoints after this...",
     "date": "2026-05-26T00:00:00+00:00"
-  },
-  {
-    "id": "ff2283e912d066cf",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added new Dashboard APIs.",
-    "link": "https://developers.zoom.us/changelog/accounts/may-25-2026",
-    "summary": "Tags: api-release | Added new Dashboard API endpoints for AIC return on investment (ROI) data.",
-    "date": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "63b32256a18cc614",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Clip duplication API and thumbnail support",
-    "link": "https://developers.zoom.us/changelog/clips/may-25-2026",
-    "summary": "Tags: api-release | Added a new API to duplicate clips and enhanced clip updates with support for specifying a thumbnail file ID.",
-    "date": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "1b88a8bad4407681",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 5.5.0",
-    "link": "https://developers.zoom.us/changelog/contact-center/android/5.5.0",
-    "summary": "Tags: sdk-version | Added support for real-time audio translation to video; changed default C++ language version.",
-    "date": "2026-05-25T00:00:00+00:00"
   }
 ]
