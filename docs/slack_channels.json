@@ -719,7 +719,7 @@
       "name": "team-cab",
       "is_private": false,
       "topic": "",
-      "num_members": 23
+      "num_members": 24
     },
     {
       "id": "C0284T6CGDA",
@@ -967,6 +967,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-06-09T15:16:37.025887+00:00",
+  "last_updated": "2026-06-09T16:23:03.318152+00:00",
   "fetch_status": "success"
 }
