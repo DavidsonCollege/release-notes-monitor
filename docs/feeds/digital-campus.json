@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "5857fd021be20d3d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Meet now supports sending 1080p HD video from ChromeOS meeting room hardware",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/google-meet-now-supports-sending-1080p-HD-video-from-ChromeOS-meeting-room-hardware.html",
+    "summary": "We previously launched support for sending full HD video (1080p) in Meet on the web, and we’re now extending that capability to Google Meet room hardware based on ChromeOS.Google Meet will use full HD when the additional bandwidth is needed for sharp video from the room, such as:On large screens:...",
+    "date": "2026-06-10T18:34:44+00:00"
+  },
+  {
     "id": "4802a41512c8d3f8",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/weekly-recap-06-05-2026.html",
     "summary": "Organize My Files in Drive now generally availableIn October 2025, we launched a beta for Organize My Files in Drive. This feature is now generally available and has started rolling out to eligible Google Workspace and Google AI plans. | Learn more about how Organize My Files in Drive is now...",
     "date": "2026-06-05T20:51:12+00:00"
-  },
-  {
-    "id": "f3f76e661486128c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New iOS device management settings now generally available in Google Endpoint Management",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/new-ios-device-management-settings-now-generally-available-in-Google-Endpoint-Management.html",
-    "summary": "We’re introducing an expanded set of native Apple Mobile Device Management (MDM) settings to Google Endpoint Management, providing administrators with more granular control over how iOS devices are configured and secured. These new settings—spanning categories such as Apps and Services, Device...",
-    "date": "2026-06-04T18:34:57+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -720,6 +720,16 @@
     "date": "2026-06-04T00:00:00+00:00"
   },
   {
+    "id": "f3f76e661486128c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New iOS device management settings now generally available in Google Endpoint Management",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/new-ios-device-management-settings-now-generally-available-in-Google-Endpoint-Management.html",
+    "summary": "We’re introducing an expanded set of native Apple Mobile Device Management (MDM) settings to Google Endpoint Management, providing administrators with more granular control over how iOS devices are configured and secured. These new settings—spanning categories such as Apps and Services, Device...",
+    "date": "2026-06-04T18:34:57+00:00"
+  },
+  {
     "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/google-chat-external-interoperability-with-Microsoft-Teams-via-NextPlane-OpenHub-is-now-available.html",
     "summary": "Organizations often need to collaborate with customers, partners, and suppliers who use Microsoft Teams. NextPlane OpenHub was built to bridge this Google Chat and Microsoft Teams divide, and it is now launching external interoperability to allow communication across organizational boundaries....",
     "date": "2026-05-28T17:12:34+00:00"
-  },
-  {
-    "id": "a16e2e44e6d660af",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 2.5.10",
-    "link": "https://developers.zoom.us/changelog/video-sdk/react-native/2.5.10",
-    "summary": "Tags: bug-fix, sdk-version | Added AI-friendly docs and Broadcast Streaming support. Fixed `enableMicOriginalInput`.",
-    "date": "2026-05-28T00:00:00+00:00"
   }
 ]
