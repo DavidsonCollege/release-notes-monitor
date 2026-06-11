@@ -491,18 +491,18 @@
       "num_members": 14
     },
     {
+      "id": "C0B6N3LPH5M",
+      "name": "proj-oracle-redwood",
+      "is_private": false,
+      "topic": "",
+      "num_members": 4
+    },
+    {
       "id": "C0B3ZF16DJ5",
       "name": "proj-oracle-redwood-absence",
       "is_private": false,
       "topic": "",
       "num_members": 3
-    },
-    {
-      "id": "C0B6N3LPH5M",
-      "name": "proj-oracle-redwood-july14",
-      "is_private": false,
-      "topic": "",
-      "num_members": 4
     },
     {
       "id": "C0899G6F4L8",
@@ -967,6 +967,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-06-11T19:53:39.944293+00:00",
+  "last_updated": "2026-06-11T20:55:46.502850+00:00",
   "fetch_status": "success"
 }
