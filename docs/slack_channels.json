@@ -12,7 +12,7 @@
       "name": "ai",
       "is_private": false,
       "topic": "",
-      "num_members": 34
+      "num_members": 35
     },
     {
       "id": "C0AJ45N511V",
@@ -967,6 +967,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-06-11T18:34:00.643485+00:00",
+  "last_updated": "2026-06-11T19:53:39.944293+00:00",
   "fetch_status": "success"
 }
