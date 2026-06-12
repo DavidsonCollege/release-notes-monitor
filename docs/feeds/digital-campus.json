@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "4ee4c588b13b48e1",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "June 12, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/50229244846228-June-12-2026",
+    "summary": "",
+    "date": "2026-06-12T16:41:17Z"
+  },
+  {
     "id": "d6d671cd3048f955",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/49288100351380-May-15-2026",
     "summary": "",
     "date": "2026-05-18T20:01:23Z"
-  },
-  {
-    "id": "42a3f8f87b22f5a9",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "March 27, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/47657628557716-March-27-2026",
-    "summary": "",
-    "date": "2026-05-15T18:54:39Z"
   },
   {
     "id": "32f7c3ed1697c67d",
@@ -510,44 +510,44 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "e6ffaed137767ac5",
+    "id": "b2c548172457641a",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Capture context in your language, now in 5 additional languages",
+    "title": "Share your Scribes across multiple teams",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "May 27, 2026"
+    "date": "June 12, 2026"
   },
   {
-    "id": "fd602ac3c74bcc12",
+    "id": "41380d27492e1b6a",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Capture context in your language, now in 5 additional languages",
-    "link": "https://scribe.launchnotes.io/announcements/capture-context-in-your-language-now-in-5-additional-languages",
+    "title": "Share your Scribes across multiple teams",
+    "link": "https://scribe.launchnotes.io/announcements/share-your-scribes-across-multiple-teams",
     "summary": "Loading...",
-    "date": "May 27, 2026"
+    "date": "June 12, 2026"
   },
   {
-    "id": "d76e8eaf94491d86",
+    "id": "75beafef86e8310f",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pro Enterprise Capturing",
+    "title": "Enterprise",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-05-27T18:05:08.394311+00:00"
+    "date": "2026-06-12T17:09:06.290434+00:00"
   },
   {
-    "id": "eb4b6edd4f8a1203",
+    "id": "fce25c7c704abcf2",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Capture context in your language, now in 5 additional languages",
+    "title": "Share your Scribes across multiple teams",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-05-27T18:05:08.394329+00:00"
+    "date": "2026-06-12T17:09:06.290454+00:00"
   },
   {
     "id": "a8a5152fe720f582",
@@ -650,6 +650,16 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "d87704e70751f6af",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 12 June 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/06/12/announcing-new-builds-for-12-june-2026/",
+    "summary": "Hello Windows Insiders, We have a number of releases today with new builds across Beta, Experimental and Release Preview. Release notes for inbox Windows 11 apps Windows 11 inbox apps are now getting their own release notes sectio The post Announcing new builds for 12 June 2026 appeared first on...",
+    "date": "2026-06-12T17:05:12+00:00"
+  },
+  {
     "id": "f0ccedc8b994efcf",
     "product_id": "windows",
     "product_name": "Windows",
@@ -718,6 +728,56 @@
     "link": "https://developers.zoom.us/changelog/contact-center/june-08-2026",
     "summary": "Tags: api-release | Three new response fields in the historical flow performance API.",
     "date": "2026-06-08T00:00:00+00:00"
+  },
+  {
+    "id": "42a3f8f87b22f5a9",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "March 27, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/47657628557716-March-27-2026",
+    "summary": "",
+    "date": "2026-05-15T18:54:39Z"
+  },
+  {
+    "id": "e6ffaed137767ac5",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Capture context in your language, now in 5 additional languages",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "May 27, 2026"
+  },
+  {
+    "id": "fd602ac3c74bcc12",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Capture context in your language, now in 5 additional languages",
+    "link": "https://scribe.launchnotes.io/announcements/capture-context-in-your-language-now-in-5-additional-languages",
+    "summary": "Loading...",
+    "date": "May 27, 2026"
+  },
+  {
+    "id": "d76e8eaf94491d86",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Pro Enterprise Capturing",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-05-27T18:05:08.394311+00:00"
+  },
+  {
+    "id": "eb4b6edd4f8a1203",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Capture context in your language, now in 5 additional languages",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-05-27T18:05:08.394329+00:00"
   },
   {
     "id": "549b539dc0dc537b",
@@ -938,65 +998,5 @@
     "link": "https://developers.zoom.us/changelog/phone/june-01-2026",
     "summary": "Tags: api-release | Added a new `call_ids` request field to Call Logs APIs to enable filtering and retrieval of call history records by specific call IDs.",
     "date": "2026-06-01T00:00:00+00:00"
-  },
-  {
-    "id": "8a4688bc8946b582",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 2.4.5",
-    "link": "https://developers.zoom.us/changelog/video-sdk/web/2.4.5",
-    "summary": "Tags: bug-fix, sdk-version | Adds RTMP ingestion for external streaming sources and a customAudioConstraints audio option; improves shared screen rendering, AMD environment support, and virtual background on low-performance devices; fixes a Traditional Chinese language code and a missing userKey...",
-    "date": "2026-06-01T00:00:00+00:00"
-  },
-  {
-    "id": "309be6155f413ebc",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "New Block Kit blocks and Streaming API method updates",
-    "link": "https://docs.slack.dev/changelog/2026/04/16/block-kit-new-blocks",
-    "summary": "The following new blocks are now available when using Block Kit:",
-    "date": "2026-04-16T00:00:00+00:00"
-  },
-  {
-    "id": "868a9c2cb4445ac5",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.0.0 and v4.0.1",
-    "link": "https://docs.slack.dev/changelog/2026/04/10/slack-cli",
-    "summary": "Version 4.0.0 of the developer tools for the Slack platform has arrived with lots of goodies for you!",
-    "date": "2026-04-10T00:00:00+00:00"
-  },
-  {
-    "id": "42c7f3138a3fac4f",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing the ability to loop over a list of items in Workspace Studio",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/introducing-ability-to-loop-over-list-of-items-in-Workspace-Studio.html",
-    "summary": "We are introducing the ability to loop over a list of items in Google Workspace Studio flows, bringing more power and flexibility to your everyday workflows. As part of this, the Ask Gemini step has a new configuration section called Response format where you can decide if the output of the step...",
-    "date": "2026-06-02T18:15:52+00:00"
-  },
-  {
-    "id": "5733a525be988b56",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Organize My Files in Drive now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/organize-my-files-in-drive-now-generally-available.html",
-    "summary": "In October 2025, we launched a beta for Organize My Files in Drive. This feature is now generally available and has started rolling out to eligible Google Workspace and Google AI plans.It can be overwhelming to see loose files in your Drive and moving them into the right folder can be manual,...",
-    "date": "2026-06-01T14:47:43+00:00"
-  },
-  {
-    "id": "24df0e13a898b796",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Updates Weekly Recap - May 29, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/weekly-recap-05-29-2026.html",
-    "summary": "Introducing a fresh visual identity for Google Workspace app iconsWe’re updating icons across Google Workspace to introduce a modern visual design that gives every app a more distinct identity. Over the next several weeks, users will see new icons for Gmail, Calendar, Chat, Meet, Drive, Docs,...",
-    "date": "2026-05-29T20:32:58+00:00"
   }
 ]
