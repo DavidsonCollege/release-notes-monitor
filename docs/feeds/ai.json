@@ -50,6 +50,16 @@
     "date": "2026-04-09T17:31:03.793706+00:00"
   },
   {
+    "id": "8e075b44ea59fdf2",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "our statement",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-12T00:00:00+00:00"
+  },
+  {
     "id": "c8cec7b90976e61a",
     "product_id": "claude",
     "product_name": "Claude",
@@ -88,16 +98,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-06-02T00:00:00+00:00"
-  },
-  {
-    "id": "1f65ac5511ac5eea",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Opus 4.8 launch",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-05-28T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -148,6 +148,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to empower users to create, regardless of their technical skill set or access to complex software. With Gemini Omni, your natural language is the only tool you need to direct, refine, and produce captivating videos.",
     "date": "2026-05-20T18:21:21.902552+00:00"
+  },
+  {
+    "id": "1f65ac5511ac5eea",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Opus 4.8 launch",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-05-28T00:00:00+00:00"
   },
   {
     "id": "73a8f1f96c852907",
