@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "51d4b7feb7af2ddd",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Versions and Document Edit History Are Now Available to All Customers",
+    "link": "https://announcekit.app/kuali/announcements/versions-and-document-edit-history-are-now-available-to-all-customers-1Pf89q",
+    "summary": "We're excited to announce that Document Versions and Document Edit History are now available to all Kuali customers. Previously, these featu...",
+    "date": "2026-06-15T19:35:00+00:00"
+  },
+  {
     "id": "4694728c86d66f22",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-secondary-workflows-11fwRO",
     "summary": "You can now create and run Secondary Workflows to support processes that happen outside your main submission workflow. This gives you more f...",
     "date": "2026-05-14T21:10:00+00:00"
-  },
-  {
-    "id": "80045883651ea730",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Default View Settings Have Moved to Views",
-    "link": "https://announcekit.app/kuali/announcements/default-view-settings-have-moved-to-views-4zuBvG",
-    "summary": "Default View Settings are now managed directly in Views, making it easier to control what users see by default. Previously, admins configure...",
-    "date": "2026-05-12T11:35:00+00:00"
   },
   {
     "id": "0b0965ff276c5f24",
@@ -730,6 +730,16 @@
     "date": "2026-06-08T00:00:00+00:00"
   },
   {
+    "id": "80045883651ea730",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Default View Settings Have Moved to Views",
+    "link": "https://announcekit.app/kuali/announcements/default-view-settings-have-moved-to-views-4zuBvG",
+    "summary": "Default View Settings are now managed directly in Views, making it easier to control what users see by default. Previously, admins configure...",
+    "date": "2026-05-12T11:35:00+00:00"
+  },
+  {
     "id": "20ceeef5bb8ce48a",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/05/data-loss-prevention-policies-for-Google-Calendar-now-available-in-GA.html",
     "summary": "Data loss prevention (DLP) for Google Calendar is now generally available to protect sensitive information shared within event details. Previously available in beta, this feature allows you to create and apply data protection rules that scan calendar event titles, descriptions, and locations for...",
     "date": "2026-06-03T19:32:27+00:00"
-  },
-  {
-    "id": "bc5a9c83eccb9e7c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New data loss prevention capabilities for file attachments and proximity conditions are generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/new-data-loss-prevention-capabilities-for-file-attachments-and-proximity-conditions-are-generally-available.html",
-    "summary": "Data loss prevention (DLP) rules for non-Workspace file attachments and associated proximity conditions are now generally available. These new capabilities enable organizations to target files with specific parameters, such as blocking the sharing of sensitive file formats or identifying files that...",
-    "date": "2026-06-03T19:14:32+00:00"
   }
 ]
