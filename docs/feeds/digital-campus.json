@@ -680,6 +680,16 @@
     "date": "2026-05-14T17:05:26+00:00"
   },
   {
+    "id": "fe6aa8dee7ecce3d",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New Doc Content APIs",
+    "link": "https://developers.zoom.us/changelog/canvas/june-15-2026",
+    "summary": "Tags: api-release, new-feature | Added new Doc Content APIs.",
+    "date": "2026-06-15T00:00:00+00:00"
+  },
+  {
     "id": "d9a43aaa804f9f2e",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/new-data-loss-prevention-capabilities-for-file-attachments-and-proximity-conditions-are-generally-available.html",
     "summary": "Data loss prevention (DLP) rules for non-Workspace file attachments and associated proximity conditions are now generally available. These new capabilities enable organizations to target files with specific parameters, such as blocking the sharing of sensitive file formats or identifying files that...",
     "date": "2026-06-03T19:14:32+00:00"
-  },
-  {
-    "id": "8ee57e1dda38890c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Quickly scan multiple pages in Google Drive on Android",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/quickly-scan-multiple-pages-in-google-Drive-on-Android.html",
-    "summary": "Tired of scanning one page at a time? With the new Document Scanner in Google Drive on Android, you can now scan multiple pages at the same time. Flip through the pages of a book or lay your receipts out on a table and our Document Scanner will identify, separate, and capture each page within the...",
-    "date": "2026-06-03T18:25:26+00:00"
   }
 ]
