@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "81a54bf6b66bf465",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "AI note-taking is now available in Google Voice",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/AI-note-taking-in-google-voice.html",
+    "summary": "“Take notes for me” is available in Google Voice for your phone calls. This powerful new feature records and transcribes calls, summarizes key points, and organizes action items, which are sent via Gmail and stored in the Voice app. This built-in tool eliminates manual note-taking, ensures critical...",
+    "date": "2026-06-16T17:38:30+00:00"
+  },
+  {
     "id": "d98517e8642f9193",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/google-vault-now-supports-retention-rules-and-litigation-holds-for-Gemini-app.html",
     "summary": "Google Vault now supports retention rules and litigation holds for the Gemini app on web and mobile. Previously, administrators were able to use Vault to search Gemini app conversations and export those search results. With this update, administrators can now also create, update, and delete the...",
     "date": "2026-06-11T18:10:23+00:00"
-  },
-  {
-    "id": "5857fd021be20d3d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Meet now supports sending 1080p HD video from ChromeOS meeting room hardware",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/google-meet-now-supports-sending-1080p-HD-video-from-ChromeOS-meeting-room-hardware.html",
-    "summary": "We previously launched support for sending full HD video (1080p) in Meet on the web, and we’re now extending that capability to Google Meet room hardware based on ChromeOS.Google Meet will use full HD when the additional bandwidth is needed for sharp video from the room, such as:On large screens:...",
-    "date": "2026-06-10T18:34:44+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -730,6 +730,16 @@
     "date": "2026-06-08T00:00:00+00:00"
   },
   {
+    "id": "5857fd021be20d3d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Meet now supports sending 1080p HD video from ChromeOS meeting room hardware",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/google-meet-now-supports-sending-1080p-HD-video-from-ChromeOS-meeting-room-hardware.html",
+    "summary": "We previously launched support for sending full HD video (1080p) in Meet on the web, and we’re now extending that capability to Google Meet room hardware based on ChromeOS.Google Meet will use full HD when the additional bandwidth is needed for sharp video from the room, such as:On large screens:...",
+    "date": "2026-06-10T18:34:44+00:00"
+  },
+  {
     "id": "0f5efb7b55003816",
     "product_id": "slack",
     "product_name": "Slack",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=06012026b",
     "summary": "View downloadsView release notes",
     "date": "2026-06-01T17:00:00+00:00"
-  },
-  {
-    "id": "2eae675c2ef77304",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gmail as a source in Ask Gemini in Drive now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/gmail-as-source-in-ask-gemini-in-drive-now-generally-available.html",
-    "summary": "Gmail sources in Ask Gemini in Drive is now generally available and has started rolling out to eligible Google Workspace and Google AI plans.Ask Gemini in Drive offers a dedicated, immersive workspace designed for deep focus. Users can engage in high-context, multi-turn conversations to efficiently...",
-    "date": "2026-06-03T22:36:55+00:00"
   }
 ]
