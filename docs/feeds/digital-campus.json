@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "d98517e8642f9193",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New discoverable space setting in Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/discoverable-space-setting-chat.html",
+    "summary": "Google Chat is expanding how users can find and join spaces by adding a third access option called \"Discoverable.\"Previously, spaces were either private (invite-only) or open (anyone in the organization can find and join). Discoverable spaces provide a new option between the two: they appear when...",
+    "date": "2026-06-16T14:09:16+00:00"
+  },
+  {
     "id": "127152e8bf1fffae",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/google-meet-now-supports-sending-1080p-HD-video-from-ChromeOS-meeting-room-hardware.html",
     "summary": "We previously launched support for sending full HD video (1080p) in Meet on the web, and we’re now extending that capability to Google Meet room hardware based on ChromeOS.Google Meet will use full HD when the additional bandwidth is needed for sharp video from the room, such as:On large screens:...",
     "date": "2026-06-10T18:34:44+00:00"
-  },
-  {
-    "id": "4802a41512c8d3f8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing the Workspace Policy API mutate endpoints for DLP",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/introducing-workspace-policy-api-mutate-endpoints-for-DLP.html",
-    "summary": "The Workspace Policy API provides a centralized, comprehensive view of your security settings, eliminating the need to navigate to numerous pages in the Admin console.With our latest update, we are introducing mutate endpoints (Create, Update, Delete) alongside existing read-only capabilities (Get,...",
-    "date": "2026-06-08T19:35:20+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -730,6 +730,16 @@
     "date": "2026-06-08T00:00:00+00:00"
   },
   {
+    "id": "4802a41512c8d3f8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing the Workspace Policy API mutate endpoints for DLP",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/introducing-workspace-policy-api-mutate-endpoints-for-DLP.html",
+    "summary": "The Workspace Policy API provides a centralized, comprehensive view of your security settings, eliminating the need to navigate to numerous pages in the Admin console.With our latest update, we are introducing mutate endpoints (Create, Update, Delete) alongside existing read-only capabilities (Get,...",
+    "date": "2026-06-08T19:35:20+00:00"
+  },
+  {
     "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=05262026c",
     "summary": "View downloadsView release notes",
     "date": "2026-05-26T17:00:00+00:00"
-  },
-  {
-    "id": "54204a808cb3e75d",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 2.4.5-1",
-    "link": "https://developers.zoom.us/changelog/ui-toolkit/web/2.4.5-1",
-    "summary": "Tags: bug-fix, sdk-version | Improves the mobile Troubleshooting experience and fixes issues with subsession participant assignment, remote control, and self-video rendering.",
-    "date": "2026-06-03T00:00:00+00:00"
   }
 ]

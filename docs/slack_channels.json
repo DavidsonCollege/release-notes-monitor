@@ -827,6 +827,13 @@
       "num_members": 1
     },
     {
+      "id": "C0BBTS7GN9W",
+      "name": "temp-call_center_relocation",
+      "is_private": false,
+      "topic": "",
+      "num_members": 7
+    },
+    {
       "id": "C0B1Z72DRPS",
       "name": "temp-duo-desktop",
       "is_private": false,
@@ -967,6 +974,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-06-16T14:19:55.646875+00:00",
+  "last_updated": "2026-06-16T16:06:35.752144+00:00",
   "fetch_status": "success"
 }
