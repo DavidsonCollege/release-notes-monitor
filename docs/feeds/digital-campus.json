@@ -1,13 +1,13 @@
 [
   {
-    "id": "68bf4e06214d3b4d",
+    "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
+    "title": "1Password for Android",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "June 11 2026"
+    "date": "June 16 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -730,6 +730,16 @@
     "date": "2026-06-08T00:00:00+00:00"
   },
   {
+    "id": "68bf4e06214d3b4d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "June 11 2026"
+  },
+  {
     "id": "f054aeafe9d84a40",
     "product_id": "canva",
     "product_name": "Canva",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/ui-toolkit/web/2.4.5-1",
     "summary": "Tags: bug-fix, sdk-version | Improves the mobile Troubleshooting experience and fixes issues with subsession participant assignment, remote control, and self-video rendering.",
     "date": "2026-06-03T00:00:00+00:00"
-  },
-  {
-    "id": "4bfd83472a7df5ca",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added socker_break response fields to Dashboards API endpoints",
-    "link": "https://developers.zoom.us/changelog/accounts/june-01-2026",
-    "summary": "Tags: api-release | Additional response fields to capture information when a socket (network connection) breaks.",
-    "date": "2026-06-01T00:00:00+00:00"
   }
 ]
