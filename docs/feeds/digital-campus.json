@@ -70,6 +70,26 @@
     "date": "2026-05-18T20:01:23Z"
   },
   {
+    "id": "f1f76ee7bdabf2f7",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "Design responses now include a design_types field, and DesignPage responses now include a design_type field. These indicate the type of content a desi",
+    "link": "https://www.canva.dev/docs/connect/changelog/",
+    "summary": "Design responses now include a design_types field, and DesignPage responses now include a design_type field. These indicate the type of content a design or page contains, such as doc or presentation. The value unknown is returned when the type cannot be determined. This list may be extended in the...",
+    "date": "2026-06-16T01:20:07.415268+00:00"
+  },
+  {
+    "id": "a0d7b6c9622b86f7",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The preview Get design pages API now returns an id for each page, which can be used to correlate pages with per-page data from other APIs.",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/#success-response",
+    "summary": "",
+    "date": "2026-06-16T01:20:07.415293+00:00"
+  },
+  {
     "id": "32f7c3ed1697c67d",
     "product_id": "canva",
     "product_name": "Canva",
@@ -98,26 +118,6 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-export-formats/",
     "summary": "The Get design export formats API now returns page-level format options. Each format includes the page_numbers that support it. If a format is supported by every page in the design, its page_numbers are omitted.",
     "date": "2026-06-09T06:55:59.398667+00:00"
-  },
-  {
-    "id": "f054aeafe9d84a40",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The List folder items API now supports brand_template as an item type. Brand templates in folders are returned in the response and can be filtered usi",
-    "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
-    "summary": "The List folder items API now supports brand_template as an item type. Brand templates in folders are returned in the response and can be filtered using the item_types parameter.",
-    "date": "2026-06-09T06:55:59.398676+00:00"
-  },
-  {
-    "id": "b225942de8a8c777",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The preview Get design pages API now returns a page_number property on each page, which is a replacement for the now-deprecated index property. The tw",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/",
-    "summary": "The preview Get design pages API now returns a page_number property on each page, which is a replacement for the now-deprecated index property. The two properties always return the same value. The index property will be removed in a future release after existing integrations have migrated; new...",
-    "date": "2026-05-28T01:00:34.981677+00:00"
   },
   {
     "id": "5cc3318b9fb82a1d",
@@ -730,6 +730,26 @@
     "date": "2026-06-08T00:00:00+00:00"
   },
   {
+    "id": "f054aeafe9d84a40",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The List folder items API now supports brand_template as an item type. Brand templates in folders are returned in the response and can be filtered usi",
+    "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
+    "summary": "The List folder items API now supports brand_template as an item type. Brand templates in folders are returned in the response and can be filtered using the item_types parameter.",
+    "date": "2026-06-09T06:55:59.398676+00:00"
+  },
+  {
+    "id": "b225942de8a8c777",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The preview Get design pages API now returns a page_number property on each page, which is a replacement for the now-deprecated index property. The tw",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/",
+    "summary": "The preview Get design pages API now returns a page_number property on each page, which is a replacement for the now-deprecated index property. The two properties always return the same value. The index property will be removed in a future release after existing integrations have migrated; new...",
+    "date": "2026-05-28T01:00:34.981677+00:00"
+  },
+  {
     "id": "80045883651ea730",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -978,25 +998,5 @@
     "link": "https://developers.zoom.us/changelog/accounts/june-01-2026",
     "summary": "Tags: api-release | Additional response fields to capture information when a socket (network connection) breaks.",
     "date": "2026-06-01T00:00:00+00:00"
-  },
-  {
-    "id": "4e2e38401f22a535",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New endpoint for File Management API",
-    "link": "https://developers.zoom.us/changelog/canvas/june-01-2026",
-    "summary": "Tags: api-release | New endpoint for File Management API.",
-    "date": "2026-06-01T00:00:00+00:00"
-  },
-  {
-    "id": "04eb53e2a913ea34",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Data loss prevention policies for Google Calendar now available in GA",
-    "link": "http://workspaceupdates.googleblog.com/2026/05/data-loss-prevention-policies-for-Google-Calendar-now-available-in-GA.html",
-    "summary": "Data loss prevention (DLP) for Google Calendar is now generally available to protect sensitive information shared within event details. Previously available in beta, this feature allows you to create and apply data protection rules that scan calendar event titles, descriptions, and locations for...",
-    "date": "2026-06-03T19:32:27+00:00"
   }
 ]
