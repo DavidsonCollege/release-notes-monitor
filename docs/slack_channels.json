@@ -131,7 +131,7 @@
       "name": "client-davidson-college",
       "is_private": false,
       "topic": "",
-      "num_members": 26
+      "num_members": 25
     },
     {
       "id": "C02BTE9AC5D",
@@ -974,6 +974,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-06-17T20:18:28.935072+00:00",
+  "last_updated": "2026-06-17T21:17:38.015113+00:00",
   "fetch_status": "success"
 }
