@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "a9cd1794a7cfa4f2",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Enhanced AI avatar features and capabilities in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/enhanced-ai-avatars-vids.html",
+    "summary": "With the integration of Gemini 3.1 Flash Text-To-Speech (TTS) and the latest capabilities in Veo 3.1, AI avatars in Google Vids have become more realistic and expressive than ever. We’re excited to announce expanded language support, a new collection of avatar defaults, and the ability to direct...",
+    "date": "2026-06-17T14:04:27+00:00"
+  },
+  {
+    "id": "32b2592afffd7a95",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create longer Veo videos and generate multiple at once in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/create-longer-veo-videos-and-generate-multiple-at-once-in-Google-Vids.html",
+    "summary": "Starting today, we’re introducing powerful new ways to create and iterate on video content in Google Vids using Veo. These updates provide all Vids users with the ability to create longer videos with consistent characters and generate multiple videos in parallel, enabling you to bring your vision...",
+    "date": "2026-06-17T14:02:33+00:00"
+  },
+  {
     "id": "6c9312d446d14907",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/AI-note-taking-in-google-voice.html",
     "summary": "“Take notes for me” is available in Google Voice for your phone calls. This powerful new feature records and transcribes calls, summarizes key points, and organizes action items, which are sent via Gmail and stored in the Voice app. This built-in tool eliminates manual note-taking, ensures critical...",
     "date": "2026-06-16T17:38:30+00:00"
-  },
-  {
-    "id": "d98517e8642f9193",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New discoverable space setting in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/discoverable-space-setting-chat.html",
-    "summary": "Google Chat is expanding how users can find and join spaces by adding a third access option called \"Discoverable.\"Previously, spaces were either private (invite-only) or open (anyone in the organization can find and join). Discoverable spaces provide a new option between the two: they appear when...",
-    "date": "2026-06-16T14:09:16+00:00"
-  },
-  {
-    "id": "127152e8bf1fffae",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Carrier Link for Google Voice",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/carrier-link-for-google-voice.html",
-    "summary": "Carrier Link allows Workspace customers to easily add phone numbers and calling plans from a certified local carrier, leveraging a pre-configured multi-tenant implementation of SIP Link.This simplifies the process of setting up a cloud phone system, allowing customers to make and receive calls with...",
-    "date": "2026-06-15T15:24:16+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -730,6 +730,26 @@
     "date": "2026-06-08T00:00:00+00:00"
   },
   {
+    "id": "d98517e8642f9193",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New discoverable space setting in Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/discoverable-space-setting-chat.html",
+    "summary": "Google Chat is expanding how users can find and join spaces by adding a third access option called \"Discoverable.\"Previously, spaces were either private (invite-only) or open (anyone in the organization can find and join). Discoverable spaces provide a new option between the two: they appear when...",
+    "date": "2026-06-16T14:09:16+00:00"
+  },
+  {
+    "id": "127152e8bf1fffae",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Carrier Link for Google Voice",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/carrier-link-for-google-voice.html",
+    "summary": "Carrier Link allows Workspace customers to easily add phone numbers and calling plans from a certified local carrier, leveraging a pre-configured multi-tenant implementation of SIP Link.This simplifies the process of setting up a cloud phone system, allowing customers to make and receive calls with...",
+    "date": "2026-06-15T15:24:16+00:00"
+  },
+  {
     "id": "5fea47d492b5cd77",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "June 9 2026"
-  },
-  {
-    "id": "f3f76e661486128c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New iOS device management settings now generally available in Google Endpoint Management",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/new-ios-device-management-settings-now-generally-available-in-Google-Endpoint-Management.html",
-    "summary": "We’re introducing an expanded set of native Apple Mobile Device Management (MDM) settings to Google Endpoint Management, providing administrators with more granular control over how iOS devices are configured and secured. These new settings—spanning categories such as Apps and Services, Device...",
-    "date": "2026-06-04T18:34:57+00:00"
-  },
-  {
-    "id": "518f53653205674c",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Create design export job API now supports CSV export using the csv export file type. Only Canva Sheets designs can be exported as CSV.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/exports/create-design-export-job/",
-    "summary": "",
-    "date": "2026-05-13T02:24:47.810072+00:00"
   }
 ]
