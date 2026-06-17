@@ -550,6 +550,16 @@
     "date": "2026-06-12T17:09:06.290454+00:00"
   },
   {
+    "id": "7b7c5bcc3271ec41",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "System notifications now delivered by \"Slack\" instead of Slackbot",
+    "link": "https://docs.slack.dev/changelog/2026/06/17/system-notifications",
+    "summary": "Slack system notifications (such as channel membership changes, User Group updates, Slack Connect alerts, and retention policy notices) are now delivered from the \"Slack\" system user (USLACK) instead of Slackbot.",
+    "date": "2026-06-17T00:00:00+00:00"
+  },
+  {
     "id": "cfe8c674c005781b",
     "product_id": "slack",
     "product_name": "Slack",
@@ -557,7 +567,7 @@
     "title": "New Block Kit data visualization block",
     "link": "https://docs.slack.dev/changelog/2026/06/16/block-kit-data-visualization-block",
     "summary": "The data visualization block is now available for use with Block Kit.",
-    "date": "2026-06-17T00:00:00+00:00"
+    "date": "2026-06-16T00:00:00+00:00"
   },
   {
     "id": "a8a5152fe720f582",
@@ -588,16 +598,6 @@
     "link": "https://docs.slack.dev/changelog/2026/05/20/block-kit-more-new-blocks",
     "summary": "The data table block is now available for use with Block Kit.",
     "date": "2026-05-20T00:00:00+00:00"
-  },
-  {
-    "id": "56319c407a021c52",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.1.0",
-    "link": "https://docs.slack.dev/changelog/2026/05/19/slack-cli",
-    "summary": "Version 4.1.0 of the Slack CLI has landed!",
-    "date": "2026-05-19T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -728,6 +728,16 @@
     "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.5.0",
     "summary": "Tags: bug-fix, sdk-version | Data mask supports canvas, text node, and background image. Optimized error messages. Fixed table layouts.",
     "date": "2026-06-08T00:00:00+00:00"
+  },
+  {
+    "id": "56319c407a021c52",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.1.0",
+    "link": "https://docs.slack.dev/changelog/2026/05/19/slack-cli",
+    "summary": "Version 4.1.0 of the Slack CLI has landed!",
+    "date": "2026-05-19T00:00:00+00:00"
   },
   {
     "id": "d98517e8642f9193",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/scim2/june-04-2026",
     "summary": "Tags: api-release | Added Four new request and response fields to the SCIM2 User APIs: cxInsightsSubscription, eduStandardStudentSubscription, eduStandardStudent, and zoomEnhancedMediaSubscription. Returned in responses for GET, PUT, and PATCH /v2/scim2/Users/{userId}. Can be set as request fields...",
     "date": "2026-06-04T00:00:00+00:00"
-  },
-  {
-    "id": "85fa3f89a4f80853",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "June 9 2026"
   }
 ]
