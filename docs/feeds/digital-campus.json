@@ -550,6 +550,16 @@
     "date": "2026-06-12T17:09:06.290454+00:00"
   },
   {
+    "id": "4b76cf950e545596",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Announcing the Slackbot MCP Client",
+    "link": "https://docs.slack.dev/changelog/2026/06/18/slackbot-mcp-client",
+    "summary": "We're excited to introduce you to the Slackbot MCP Client, which gives you the ability to superpower Slackbot with your desired tools.",
+    "date": "2026-06-18T00:00:00+00:00"
+  },
+  {
     "id": "7b7c5bcc3271ec41",
     "product_id": "slack",
     "product_name": "Slack",
@@ -588,16 +598,6 @@
     "link": "https://docs.slack.dev/changelog/2026/06/03/slack-cli",
     "summary": "Version 4.2.0 of the Slack CLI has arrived!",
     "date": "2026-06-03T00:00:00+00:00"
-  },
-  {
-    "id": "f7d0e93c29e86cfb",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "New Block Kit data table block",
-    "link": "https://docs.slack.dev/changelog/2026/05/20/block-kit-more-new-blocks",
-    "summary": "The data table block is now available for use with Block Kit.",
-    "date": "2026-05-20T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -728,6 +728,16 @@
     "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.5.0",
     "summary": "Tags: bug-fix, sdk-version | Data mask supports canvas, text node, and background image. Optimized error messages. Fixed table layouts.",
     "date": "2026-06-08T00:00:00+00:00"
+  },
+  {
+    "id": "f7d0e93c29e86cfb",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "New Block Kit data table block",
+    "link": "https://docs.slack.dev/changelog/2026/05/20/block-kit-more-new-blocks",
+    "summary": "The data table block is now available for use with Block Kit.",
+    "date": "2026-05-20T00:00:00+00:00"
   },
   {
     "id": "32f0db625bc9646f",
@@ -988,15 +998,5 @@
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
     "date": "2026-05-27T18:05:08.394329+00:00"
-  },
-  {
-    "id": "549b539dc0dc537b",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Create design API now supports two new creation modes: copying an existing design using type: design, and creating a design from a brand template",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/create-design/",
-    "summary": "The Create design API now supports two new creation modes: copying an existing design using type: design, and creating a design from a brand template using type: brand_template. Both creation modes are currently a preview feature.",
-    "date": "2026-05-18T07:38:46.639859+00:00"
   }
 ]
