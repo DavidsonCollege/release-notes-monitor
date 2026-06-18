@@ -550,6 +550,16 @@
     "date": "2026-06-12T17:09:06.290454+00:00"
   },
   {
+    "id": "5da76d4ffabed468",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.3.0",
+    "link": "https://docs.slack.dev/changelog/2026/06/18/slack-cli",
+    "summary": "Version 4.3.0 of the Slack CLI is here!",
+    "date": "2026-06-18T00:00:00+00:00"
+  },
+  {
     "id": "4b76cf950e545596",
     "product_id": "slack",
     "product_name": "Slack",
@@ -587,16 +597,6 @@
     "title": "Release: Java Slack SDK v1.49.0",
     "link": "https://docs.slack.dev/changelog/2026/06/03/java-slack-sdk",
     "summary": "* We've added authorship arguments (iconemoji, iconurl, and username) to the assistant.threads.setStatus and chat.startStream API methods.",
-    "date": "2026-06-03T00:00:00+00:00"
-  },
-  {
-    "id": "362925aba1e41f92",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.2.0",
-    "link": "https://docs.slack.dev/changelog/2026/06/03/slack-cli",
-    "summary": "Version 4.2.0 of the Slack CLI has arrived!",
     "date": "2026-06-03T00:00:00+00:00"
   },
   {
@@ -728,6 +728,16 @@
     "link": "https://developers.zoom.us/changelog/webinars-plus-events/june-11-2026",
     "summary": "Tags: api-release | Added new endpoint for Events API.",
     "date": "2026-06-11T00:00:00+00:00"
+  },
+  {
+    "id": "362925aba1e41f92",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.2.0",
+    "link": "https://docs.slack.dev/changelog/2026/06/03/slack-cli",
+    "summary": "Version 4.2.0 of the Slack CLI has arrived!",
+    "date": "2026-06-03T00:00:00+00:00"
   },
   {
     "id": "ce658077387ff3ab",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=06082026d",
     "summary": "View downloadsView release notes",
     "date": "2026-06-08T17:00:00+00:00"
-  },
-  {
-    "id": "2ae1d086fd72f85a",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Request lightweight document alignment with approvals in Google Drive",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/request-lightweight-document-alignment-with approvals in Google Drive.html",
-    "summary": "Google Drive is introducing alignment approvals, a lightweight mechanism that allows teams to request and record document sign-offs without file changes resetting the approval flow. When a document is in a partially approved state, collaborators can continue making edits without resetting any...",
-    "date": "2026-06-08T15:48:10+00:00"
   }
 ]
