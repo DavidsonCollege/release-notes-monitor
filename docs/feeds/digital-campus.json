@@ -680,6 +680,26 @@
     "date": "2026-05-14T17:05:26+00:00"
   },
   {
+    "id": "ac4dcdf82713529a",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New response and request fields added to the following APIs : Order, Billing, Quotes, Subscription",
+    "link": "https://developers.zoom.us/changelog/commerce/june-18-2026",
+    "summary": "Tags: api-release | New response and request fields added to the following APIs : Order, Billing, Quotes, and Subscription.",
+    "date": "2026-06-18T00:00:00+00:00"
+  },
+  {
+    "id": "7fe0a1d9c3fde57e",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 7.0.5",
+    "link": "https://developers.zoom.us/changelog/meeting-sdk/react-native/7.0.5",
+    "summary": "Tags: sdk-version | Add new video and control functions, and meeting evnts notification; change the return type for joinMeeting and startMeeting.",
+    "date": "2026-06-18T00:00:00+00:00"
+  },
+  {
     "id": "fe6aa8dee7ecce3d",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/request-lightweight-document-alignment-with approvals in Google Drive.html",
     "summary": "Google Drive is introducing alignment approvals, a lightweight mechanism that allows teams to request and record document sign-offs without file changes resetting the approval flow. When a document is in a partially approved state, collaborators can continue making edits without resetting any...",
     "date": "2026-06-08T15:48:10+00:00"
-  },
-  {
-    "id": "42a3f8f87b22f5a9",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "March 27, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/47657628557716-March-27-2026",
-    "summary": "",
-    "date": "2026-05-15T18:54:39Z"
-  },
-  {
-    "id": "e6ffaed137767ac5",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Capture context in your language, now in 5 additional languages",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "May 27, 2026"
   }
 ]
