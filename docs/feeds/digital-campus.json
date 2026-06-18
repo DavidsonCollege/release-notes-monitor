@@ -1,13 +1,13 @@
 [
   {
-    "id": "9b4a49c55cd1a750",
+    "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
+    "title": "1Password for Android Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "June 16 2026"
+    "date": "June 18 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "a81db599e9c4d3e9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Expanded language support for building and editing spreadsheets with Gemini",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/expanded-language-support-for-gemini-in-sheets.html",
+    "summary": "Earlier this year, we introduced new Gemini in Sheets capabilities that allow you to build and edit entire spreadsheets using simple natural language. We’re now expanding support for these features to 28 additional languages, enabling users who speak Spanish, Portuguese, Japanese, Korean, Italian,...",
+    "date": "2026-06-18T14:59:00+00:00"
+  },
+  {
+    "id": "a5fa3437d965e92d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Meet now available on Android Auto",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/google-meet-now-available-on-android.html",
+    "summary": "We’re bringing the power of Google Meet to your vehicle's display with our new integration for Android Auto. This update makes it easy to safely stay connected and handle important meetings hands-free from behind the wheel.Users can now access Google Meet directly from their car's dashboard. This...",
+    "date": "2026-06-18T14:43:23+00:00"
+  },
+  {
     "id": "9ce7581c091cb0dd",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/custom-event-colors-in-google-calendar.html",
     "summary": "Google Calendar is expanding its event coloring options, moving beyond the current limitation of 11 predefined colors for events. Going forward, users are offered an expanded color palette so they can personalize events and visually organize their calendar with ease, giving each user access to up...",
     "date": "2026-06-17T16:55:55+00:00"
-  },
-  {
-    "id": "a9cd1794a7cfa4f2",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Enhanced AI avatar features and capabilities in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/enhanced-ai-avatars-vids.html",
-    "summary": "With the integration of Gemini 3.1 Flash Text-To-Speech (TTS) and the latest capabilities in Veo 3.1, AI avatars in Google Vids have become more realistic and expressive than ever. We’re excited to announce expanded language support, a new collection of avatar defaults, and the ability to direct...",
-    "date": "2026-06-17T14:04:27+00:00"
-  },
-  {
-    "id": "32b2592afffd7a95",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create longer Veo videos and generate multiple at once in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/create-longer-veo-videos-and-generate-multiple-at-once-in-Google-Vids.html",
-    "summary": "Starting today, we’re introducing powerful new ways to create and iterate on video content in Google Vids using Veo. These updates provide all Vids users with the ability to create longer videos with consistent characters and generate multiple videos in parallel, enabling you to bring your vision...",
-    "date": "2026-06-17T14:02:33+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -730,6 +730,36 @@
     "date": "2026-06-08T00:00:00+00:00"
   },
   {
+    "id": "9b4a49c55cd1a750",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "June 16 2026"
+  },
+  {
+    "id": "a9cd1794a7cfa4f2",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Enhanced AI avatar features and capabilities in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/enhanced-ai-avatars-vids.html",
+    "summary": "With the integration of Gemini 3.1 Flash Text-To-Speech (TTS) and the latest capabilities in Veo 3.1, AI avatars in Google Vids have become more realistic and expressive than ever. We’re excited to announce expanded language support, a new collection of avatar defaults, and the ability to direct...",
+    "date": "2026-06-17T14:04:27+00:00"
+  },
+  {
+    "id": "32b2592afffd7a95",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create longer Veo videos and generate multiple at once in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/create-longer-veo-videos-and-generate-multiple-at-once-in-Google-Vids.html",
+    "summary": "Starting today, we’re introducing powerful new ways to create and iterate on video content in Google Vids using Veo. These updates provide all Vids users with the ability to create longer videos with consistent characters and generate multiple videos in parallel, enabling you to bring your vision...",
+    "date": "2026-06-17T14:02:33+00:00"
+  },
+  {
     "id": "6c9312d446d14907",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -870,16 +900,6 @@
     "date": "2026-06-08T19:35:20+00:00"
   },
   {
-    "id": "68bf4e06214d3b4d",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "June 11 2026"
-  },
-  {
     "id": "f054aeafe9d84a40",
     "product_id": "canva",
     "product_name": "Canva",
@@ -978,25 +998,5 @@
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
     "date": "May 27, 2026"
-  },
-  {
-    "id": "fd602ac3c74bcc12",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Capture context in your language, now in 5 additional languages",
-    "link": "https://scribe.launchnotes.io/announcements/capture-context-in-your-language-now-in-5-additional-languages",
-    "summary": "Loading...",
-    "date": "May 27, 2026"
-  },
-  {
-    "id": "d76e8eaf94491d86",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pro Enterprise Capturing",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-05-27T18:05:08.394311+00:00"
   }
 ]
