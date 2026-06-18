@@ -70,6 +70,16 @@
     "date": "2026-05-18T20:01:23Z"
   },
   {
+    "id": "c4a23313f8f2e2ad",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Create design autofill job API now accepts a type field to support future functionality for different autofill sources. The first supported value",
+    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
+    "summary": "The Create design autofill job API now accepts a type field to support future functionality for different autofill sources. The first supported value is create_from_brand_template, which is the existing functionality for creating new designs from a brand template. For backwards compatibility,...",
+    "date": "2026-06-18T01:34:21.226187+00:00"
+  },
+  {
     "id": "f1f76ee7bdabf2f7",
     "product_id": "canva",
     "product_name": "Canva",
@@ -108,16 +118,6 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/brand-templates/publish-brand-template/",
     "summary": "The Publish brand template API is now available as a preview. It publishes a design as a brand template, creating a new brand template or updating an existing one if the design is a draft of an existing template.",
     "date": "2026-06-09T06:55:59.398642+00:00"
-  },
-  {
-    "id": "a83307c61ceca7fd",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Get design export formats API now returns page-level format options. Each format includes the page_numbers that support it. If a format is support",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-export-formats/",
-    "summary": "The Get design export formats API now returns page-level format options. Each format includes the page_numbers that support it. If a format is supported by every page in the design, its page_numbers are omitted.",
-    "date": "2026-06-09T06:55:59.398667+00:00"
   },
   {
     "id": "5cc3318b9fb82a1d",
@@ -730,6 +730,16 @@
     "date": "2026-06-08T00:00:00+00:00"
   },
   {
+    "id": "a83307c61ceca7fd",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Get design export formats API now returns page-level format options. Each format includes the page_numbers that support it. If a format is support",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-export-formats/",
+    "summary": "The Get design export formats API now returns page-level format options. Each format includes the page_numbers that support it. If a format is supported by every page in the design, its page_numbers are omitted.",
+    "date": "2026-06-09T06:55:59.398667+00:00"
+  },
+  {
     "id": "81a54bf6b66bf465",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/weekly-recap-06-05-2026.html",
     "summary": "Organize My Files in Drive now generally availableIn October 2025, we launched a beta for Organize My Files in Drive. This feature is now generally available and has started rolling out to eligible Google Workspace and Google AI plans. | Learn more about how Organize My Files in Drive is now...",
     "date": "2026-06-05T20:51:12+00:00"
-  },
-  {
-    "id": "52d2d38e975ba8bf",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Add call ID filtering to call history APIs",
-    "link": "https://developers.zoom.us/changelog/phone/june-04-2026",
-    "summary": "Tags: api-release | Added a new `call_ids` request field to the Call Logs APIs to retrieve call history for specific call IDs.",
-    "date": "2026-06-04T00:00:00+00:00"
   }
 ]
