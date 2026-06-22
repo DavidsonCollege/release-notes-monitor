@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "59b99865182477d0",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Create Linked Documents Without Leaving Your Current Document",
+    "link": "https://announcekit.app/kuali/announcements/new-create-linked-documents-without-leaving-your-current-document-2niZLa",
+    "summary": "We’re excited to introduce Inline Document Creation, a new way to create and link related documents while you continue working. This helps u...",
+    "date": "2026-06-22T21:45:00+00:00"
+  },
+  {
     "id": "9625f24bdbdae4b7",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-batch-actions-from-document-lists-4n3Pqg",
     "summary": "You can now take action on multiple documents at once directly from a Document List. Managing documents one at a time can be time-consuming,...",
     "date": "2026-06-15T16:05:00+00:00"
-  },
-  {
-    "id": "cb885feadc682a4b",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Limit Availability and Access-Based PDF Exports",
-    "link": "https://announcekit.app/kuali/announcements/new-limit-availability-and-access-based-pdf-exports-2tMKdi",
-    "summary": "You can now control when fields are visible to users without removing the underlying data, along with new options for controlling how restri...",
-    "date": "2026-05-21T16:10:00+00:00"
   },
   {
     "id": "7afae9eca42d39cf",
@@ -750,6 +750,16 @@
     "date": "2026-06-22T00:00:00+00:00"
   },
   {
+    "id": "cb885feadc682a4b",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Limit Availability and Access-Based PDF Exports",
+    "link": "https://announcekit.app/kuali/announcements/new-limit-availability-and-access-based-pdf-exports-2tMKdi",
+    "summary": "You can now control when fields are visible to users without removing the underlying data, along with new options for controlling how restri...",
+    "date": "2026-05-21T16:10:00+00:00"
+  },
+  {
     "id": "ac4dcdf82713529a",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/weekly-recap-06-12-2026.html",
     "summary": "Request lightweight document alignment with approvals in Google DriveGoogle Drive is introducing alignment approvals, a lightweight mechanism that allows teams to request and record document sign-offs without file changes resetting the approval flow. When a document is in a partially approved...",
     "date": "2026-06-12T19:30:58+00:00"
-  },
-  {
-    "id": "a5cc9f9f15be240a",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Vault now supports retention rules and litigation holds for Gemini app",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/google-vault-now-supports-retention-rules-and-litigation-holds-for-Gemini-app.html",
-    "summary": "Google Vault now supports retention rules and litigation holds for the Gemini app on web and mobile. Previously, administrators were able to use Vault to search Gemini app conversations and export those search results. With this update, administrators can now also create, update, and delete the...",
-    "date": "2026-06-11T18:10:23+00:00"
   }
 ]
