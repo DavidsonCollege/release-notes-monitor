@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "4594bc8e55c8980e",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "June 19, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/50544807118612-June-19-2026",
+    "summary": "",
+    "date": "2026-06-22T14:51:26Z"
+  },
+  {
     "id": "4ee4c588b13b48e1",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/49519305679508-May-22-2026",
     "summary": "",
     "date": "2026-05-22T17:30:09Z"
-  },
-  {
-    "id": "53a176192b558355",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "May 15, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/49288100351380-May-15-2026",
-    "summary": "",
-    "date": "2026-05-18T20:01:23Z"
   },
   {
     "id": "c4a23313f8f2e2ad",
@@ -740,6 +740,16 @@
     "date": "2026-06-11T00:00:00+00:00"
   },
   {
+    "id": "53a176192b558355",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "May 15, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/49288100351380-May-15-2026",
+    "summary": "",
+    "date": "2026-05-18T20:01:23Z"
+  },
+  {
     "id": "b48a84a9643e4b66",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/contact-center/june-08-2026",
     "summary": "Tags: api-release | Three new response fields in the historical flow performance API.",
     "date": "2026-06-08T00:00:00+00:00"
-  },
-  {
-    "id": "68c03469e52054eb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Convert rubric files and images into Google Classroom rubrics with help from Gemini",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/convert-rubric-files-and-images-into-Google-Classroom-rubrics-with-help-from-Gemini.html",
-    "summary": "Building on our October launch, Gemini in Google Classroom can now help educators more easily convert rubric files and images into Google Classroom rubrics, right within the assignment creation workflow. Educators can now upload more file types, such as .jpeg and .png files. For example, by...",
-    "date": "2026-06-08T16:41:58+00:00"
   }
 ]
