@@ -370,16 +370,6 @@
     "date": "2026-06-22T17:00:00+00:00"
   },
   {
-    "id": "0b0965ff276c5f24",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.6 beta 2 (25G5043d)",
-    "link": "https://developer.apple.com/news/releases/?id=06152026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-06-15T17:00:00+00:00"
-  },
-  {
     "id": "8f2885091136ab69",
     "product_id": "microsoft-office",
     "product_name": "Microsoft Office",
@@ -748,6 +738,16 @@
     "link": "https://developers.zoom.us/changelog/rooms/june-22-2026",
     "summary": "Tags: api-release | Added new endpoints to Workspaces API.",
     "date": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "0b0965ff276c5f24",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.6 beta 2 (25G5043d)",
+    "link": "https://developer.apple.com/news/releases/?id=06152026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-06-15T17:00:00+00:00"
   },
   {
     "id": "cb885feadc682a4b",
