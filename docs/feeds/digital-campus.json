@@ -700,6 +700,56 @@
     "date": "2026-05-14T17:05:26+00:00"
   },
   {
+    "id": "de2ef4afc4404c21",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Manage chat channel ownership and access encryption details",
+    "link": "https://developers.zoom.us/changelog/chat/june-22-2026",
+    "summary": "Tags: api-release | Added an API to transfer ownership of chat channels and enhanced the Chat Session Report API with an `encryption_info` response field for retrieving encryption-related details.",
+    "date": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "34b3f3e838ba3c7b",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 5.6.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/android/5.6.0",
+    "summary": "Tags: sdk-version | Improved the real-time audio translation logic.",
+    "date": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "e11c7de2c0687b16",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 6.2.0",
+    "link": "https://developers.zoom.us/changelog/meeting-sdk/web/6.2.0",
+    "summary": "Tags: bug-fix, sdk-version | Client view retires the AI Companion brand, adds Phase 1 ultrasound signaling support for same-device My Notes restriction and fixes a bug where the onUserJoin function had stopped working. Component view optimized the \"Join Meeting\" process.",
+    "date": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "d8a94c112a947ed7",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Expanded Zoom Phone APIs for call handling, settings, recordings, and voicemail",
+    "link": "https://developers.zoom.us/changelog/phone/june-22-2026",
+    "summary": "Tags: api-release | Added comprehensive Zoom Phone APIs for managing call handling, settings, custom groups, recordings, voicemails, and user configurations across common areas, call queues, shared line groups, auto receptionists, and users. Also enhanced reporting, monitoring group, emergency...",
+    "date": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "4d36162fee0591de",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New endpoints for Workspaces APIs",
+    "link": "https://developers.zoom.us/changelog/rooms/june-22-2026",
+    "summary": "Tags: api-release | Added new endpoints to Workspaces API.",
+    "date": "2026-06-22T00:00:00+00:00"
+  },
+  {
     "id": "ac4dcdf82713529a",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -948,55 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/google-vault-now-supports-retention-rules-and-litigation-holds-for-Gemini-app.html",
     "summary": "Google Vault now supports retention rules and litigation holds for the Gemini app on web and mobile. Previously, administrators were able to use Vault to search Gemini app conversations and export those search results. With this update, administrators can now also create, update, and delete the...",
     "date": "2026-06-11T18:10:23+00:00"
-  },
-  {
-    "id": "b40546da95282232",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Secondary Workflows",
-    "link": "https://announcekit.app/kuali/announcements/new-secondary-workflows-11fwRO",
-    "summary": "You can now create and run Secondary Workflows to support processes that happen outside your main submission workflow. This gives you more f...",
-    "date": "2026-05-14T21:10:00+00:00"
-  },
-  {
-    "id": "5857fd021be20d3d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Meet now supports sending 1080p HD video from ChromeOS meeting room hardware",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/google-meet-now-supports-sending-1080p-HD-video-from-ChromeOS-meeting-room-hardware.html",
-    "summary": "We previously launched support for sending full HD video (1080p) in Meet on the web, and we’re now extending that capability to Google Meet room hardware based on ChromeOS.Google Meet will use full HD when the additional bandwidth is needed for sharp video from the room, such as:On large screens:...",
-    "date": "2026-06-10T18:34:44+00:00"
-  },
-  {
-    "id": "0f5efb7b55003816",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "New Slack MCP Server tools released",
-    "link": "https://docs.slack.dev/changelog/2026/05/13/new-mcp-tools",
-    "summary": "We've added the following tools to the Slack MCP server:",
-    "date": "2026-05-13T00:00:00+00:00"
-  },
-  {
-    "id": "4802a41512c8d3f8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing the Workspace Policy API mutate endpoints for DLP",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/introducing-workspace-policy-api-mutate-endpoints-for-DLP.html",
-    "summary": "The Workspace Policy API provides a centralized, comprehensive view of your security settings, eliminating the need to navigate to numerous pages in the Admin console.With our latest update, we are introducing mutate endpoints (Create, Update, Delete) alongside existing read-only capabilities (Get,...",
-    "date": "2026-06-08T19:35:20+00:00"
-  },
-  {
-    "id": "f054aeafe9d84a40",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The List folder items API now supports brand_template as an item type. Brand templates in folders are returned in the response and can be filtered usi",
-    "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
-    "summary": "The List folder items API now supports brand_template as an item type. Brand templates in folders are returned in the response and can be filtered using the item_types parameter.",
-    "date": "2026-06-09T06:55:59.398676+00:00"
   }
 ]
