@@ -120,6 +120,16 @@
     "date": "2026-06-09T06:55:59.398642+00:00"
   },
   {
+    "id": "7c65b617cc4dc32b",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "The best AI is your AI. Brain² is here.",
+    "link": "https://feedback.clickup.com/changelog/the-best-ai-isyourai-brain-is-here",
+    "summary": "The best AI is Brain². Guaranteed.Brain² is your company AI that self-improves, routes to the best models, and actually completes your work - creating websites, building slides, and managing projects. It's multiplayer AI where human intelligence becomes your collective Brain.Your context. Already...",
+    "date": "2026-06-23T17:47:36+00:00"
+  },
+  {
     "id": "5cc3318b9fb82a1d",
     "product_id": "clickup",
     "product_name": "ClickUp",
@@ -158,16 +168,6 @@
     "link": "https://feedback.clickup.com/changelog/super-agents-release-notes-takeover",
     "summary": "Super Agents: The world's first human-like AI AgentsSuper Agents™ are personalized AI teammates that understand your work, use powerful tools, and collaborate like humans. Just describe the problem you want solved, the workflow you want to automate, or where you’re wasting time, and Super Agents...",
     "date": "2026-01-29T18:19:37+00:00"
-  },
-  {
-    "id": "9e6059223bff720f",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "⚡ Join us for a Super Agents AMA on Reddit!",
-    "link": "https://feedback.clickup.com/changelog/join-us-for-a-super-agents-ama-on-reddit",
-    "summary": "Hey, everyone!We’re excited to announce a special Reddit AMA (Ask Me Anything) with the ClickUp AI Team, all about our latest feature: Super Agents!🗓️ When: Thursday, January 22nd, 10am–12pm PST📍 Where: the r/ClickUp subreddit on RedditThis is your opportunity to connect directly with Michael Van...",
-    "date": "2026-01-15T21:57:59+00:00"
   },
   {
     "id": "01fe930feaaa6a09",
@@ -740,6 +740,16 @@
     "date": "2026-06-22T00:00:00+00:00"
   },
   {
+    "id": "9e6059223bff720f",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "⚡ Join us for a Super Agents AMA on Reddit!",
+    "link": "https://feedback.clickup.com/changelog/join-us-for-a-super-agents-ama-on-reddit",
+    "summary": "Hey, everyone!We’re excited to announce a special Reddit AMA (Ask Me Anything) with the ClickUp AI Team, all about our latest feature: Super Agents!🗓️ When: Thursday, January 22nd, 10am–12pm PST📍 Where: the r/ClickUp subreddit on RedditThis is your opportunity to connect directly with Michael Van...",
+    "date": "2026-01-15T21:57:59+00:00"
+  },
+  {
     "id": "a81db599e9c4d3e9",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/AI-note-taking-in-google-voice.html",
     "summary": "“Take notes for me” is available in Google Voice for your phone calls. This powerful new feature records and transcribes calls, summarizes key points, and organizes action items, which are sent via Gmail and stored in the Voice app. This built-in tool eliminates manual note-taking, ensures critical...",
     "date": "2026-06-16T17:38:30+00:00"
-  },
-  {
-    "id": "56319c407a021c52",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.1.0",
-    "link": "https://docs.slack.dev/changelog/2026/05/19/slack-cli",
-    "summary": "Version 4.1.0 of the Slack CLI has landed!",
-    "date": "2026-05-19T00:00:00+00:00"
   }
 ]
