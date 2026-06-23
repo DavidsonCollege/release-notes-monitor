@@ -7,7 +7,7 @@
     "title": "1Password for Android Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "June 18 2026"
+    "date": "June 23 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "fb794aefe834ef20",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Apps Script is now a Google Workspace core service with enterprise-grade data protection",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/google-apps-script-workspace-core-service.html",
+    "summary": "Google Apps Script is officially a Google Workspace core service. Covered under the Google Cloud Terms of Service and Google Workspace for Education Terms of Service, Apps Script now offers the same enterprise-grade data protection, robust administrative controls, and standard technical support...",
+    "date": "2026-06-23T16:31:06+00:00"
+  },
+  {
+    "id": "020a276b2b2c0d31",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Join Google Meet calls from Safari on iOS devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/join-google-meet-calls-from-safari-on-iOS-devices.html",
+    "summary": "Prior to this update, iOS users without the Gmail or Meet apps were unable to participate in Google Meet sessions on their mobile devices. Now, iOS mobile device users can join meetings directly through Safari, without needing to install an app. The process is now seamless; individuals without a...",
+    "date": "2026-06-23T15:53:32+00:00"
+  },
+  {
     "id": "216a0625e502b961",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/weekly-recap-06-19-2026.html",
     "summary": "New discoverable space setting in Google ChatPreviously, spaces were either private (invite-only) or open (anyone in the organization can find and join). Discoverable spaces provide a new option between the two: they appear when users browse for spaces within their organization, but the...",
     "date": "2026-06-19T10:06:13+00:00"
-  },
-  {
-    "id": "a81db599e9c4d3e9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Expanded language support for building and editing spreadsheets with Gemini",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/expanded-language-support-for-gemini-in-sheets.html",
-    "summary": "Earlier this year, we introduced new Gemini in Sheets capabilities that allow you to build and edit entire spreadsheets using simple natural language. We’re now expanding support for these features to 28 additional languages, enabling users who speak Spanish, Portuguese, Japanese, Korean, Italian,...",
-    "date": "2026-06-18T14:59:00+00:00"
-  },
-  {
-    "id": "a5fa3437d965e92d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Meet now available on Android Auto",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/google-meet-now-available-on-android.html",
-    "summary": "We’re bringing the power of Google Meet to your vehicle's display with our new integration for Android Auto. This update makes it easy to safely stay connected and handle important meetings hands-free from behind the wheel.Users can now access Google Meet directly from their car's dashboard. This...",
-    "date": "2026-06-18T14:43:23+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -740,6 +740,26 @@
     "date": "2026-06-22T00:00:00+00:00"
   },
   {
+    "id": "a81db599e9c4d3e9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Expanded language support for building and editing spreadsheets with Gemini",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/expanded-language-support-for-gemini-in-sheets.html",
+    "summary": "Earlier this year, we introduced new Gemini in Sheets capabilities that allow you to build and edit entire spreadsheets using simple natural language. We’re now expanding support for these features to 28 additional languages, enabling users who speak Spanish, Portuguese, Japanese, Korean, Italian,...",
+    "date": "2026-06-18T14:59:00+00:00"
+  },
+  {
+    "id": "a5fa3437d965e92d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Meet now available on Android Auto",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/google-meet-now-available-on-android.html",
+    "summary": "We’re bringing the power of Google Meet to your vehicle's display with our new integration for Android Auto. This update makes it easy to safely stay connected and handle important meetings hands-free from behind the wheel.Users can now access Google Meet directly from their car's dashboard. This...",
+    "date": "2026-06-18T14:43:23+00:00"
+  },
+  {
     "id": "9ce7581c091cb0dd",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "https://docs.slack.dev/changelog/2026/05/19/slack-cli",
     "summary": "Version 4.1.0 of the Slack CLI has landed!",
     "date": "2026-05-19T00:00:00+00:00"
-  },
-  {
-    "id": "d98517e8642f9193",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New discoverable space setting in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/discoverable-space-setting-chat.html",
-    "summary": "Google Chat is expanding how users can find and join spaces by adding a third access option called \"Discoverable.\"Previously, spaces were either private (invite-only) or open (anyone in the organization can find and join). Discoverable spaces provide a new option between the two: they appear when...",
-    "date": "2026-06-16T14:09:16+00:00"
-  },
-  {
-    "id": "127152e8bf1fffae",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Carrier Link for Google Voice",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/carrier-link-for-google-voice.html",
-    "summary": "Carrier Link allows Workspace customers to easily add phone numbers and calling plans from a certified local carrier, leveraging a pre-configured multi-tenant implementation of SIP Link.This simplifies the process of setting up a cloud phone system, allowing customers to make and receive calls with...",
-    "date": "2026-06-15T15:24:16+00:00"
   }
 ]
