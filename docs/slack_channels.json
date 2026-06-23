@@ -775,7 +775,7 @@
       "name": "team-infrastructure",
       "is_private": false,
       "topic": "",
-      "num_members": 36
+      "num_members": 37
     },
     {
       "id": "C03SHVDPLJX",
@@ -974,6 +974,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-06-23T19:41:37.172448+00:00",
+  "last_updated": "2026-06-23T20:50:20.464600+00:00",
   "fetch_status": "success"
 }

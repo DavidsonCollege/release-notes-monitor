@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "e717a7363ea93654",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Connect to Google Meet hardware with room codes now in Early Preview",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/room-codes-google-meet-hardware-early-preview.html",
+    "summary": "Google Meet users can now connect to nearby conference room hardware by entering a 5-character room code on their personal device. Meet recently launched Connect Room using proximity-based detection to identify nearby hardware. This update provides a reliable manual fallback when ultrasound is...",
+    "date": "2026-06-23T18:57:59+00:00"
+  },
+  {
     "id": "fb794aefe834ef20",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/troubleshoot-formula-errors-in-sheets.html",
     "summary": "We’re excited to introduce a new Gemini in Sheets capability that enables you to diagnose and fix formula errors in one click. When you encounter a formula error, Gemini can analyze the surrounding data structure to help provide an easy-to-understand explanation of the core issue alongside a...",
     "date": "2026-06-22T16:51:44+00:00"
-  },
-  {
-    "id": "e3b2a9a201e15ab0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - June 19, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/weekly-recap-06-19-2026.html",
-    "summary": "New discoverable space setting in Google ChatPreviously, spaces were either private (invite-only) or open (anyone in the organization can find and join). Discoverable spaces provide a new option between the two: they appear when users browse for spaces within their organization, but the...",
-    "date": "2026-06-19T10:06:13+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -740,6 +740,16 @@
     "date": "2026-06-22T00:00:00+00:00"
   },
   {
+    "id": "e3b2a9a201e15ab0",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - June 19, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/weekly-recap-06-19-2026.html",
+    "summary": "New discoverable space setting in Google ChatPreviously, spaces were either private (invite-only) or open (anyone in the organization can find and join). Discoverable spaces provide a new option between the two: they appear when users browse for spaces within their organization, but the...",
+    "date": "2026-06-19T10:06:13+00:00"
+  },
+  {
     "id": "9e6059223bff720f",
     "product_id": "clickup",
     "product_name": "ClickUp",
@@ -988,15 +998,5 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-export-formats/",
     "summary": "The Get design export formats API now returns page-level format options. Each format includes the page_numbers that support it. If a format is supported by every page in the design, its page_numbers are omitted.",
     "date": "2026-06-09T06:55:59.398667+00:00"
-  },
-  {
-    "id": "81a54bf6b66bf465",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "AI note-taking is now available in Google Voice",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/AI-note-taking-in-google-voice.html",
-    "summary": "“Take notes for me” is available in Google Voice for your phone calls. This powerful new feature records and transcribes calls, summarizes key points, and organizes action items, which are sent via Gmail and stored in the Voice app. This built-in tool eliminates manual note-taking, ensures critical...",
-    "date": "2026-06-16T17:38:30+00:00"
   }
 ]
