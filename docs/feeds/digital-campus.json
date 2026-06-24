@@ -420,6 +420,16 @@
     "date": "2026-03-06T17:54:07.627705+00:00"
   },
   {
+    "id": "3e2508eda188e198",
+    "product_id": "ninjaone",
+    "product_name": "NinjaOne",
+    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
+    "title": "Bridge the Linux Gap with NinjaOne 14.0: Seamlessly Discover, Deploy, and Support Every Endpoint",
+    "link": "https://www.ninjaone.com/blog/bridge-the-linux-gap-with-ninjaone-14/",
+    "summary": "NinjaOne’s 14.0 release expands on the platform’s unified experience, offering IT professionals unparalleled visibility and control across operating systems. These enhancements eliminate operational gaps with remote support, automated deployment, and data protection all in one interface. Explore...",
+    "date": "2026-06-24T14:00:59+00:00"
+  },
+  {
     "id": "e6eed6c1344b6f68",
     "product_id": "ninjaone",
     "product_name": "NinjaOne",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/expanded-availability-gemini-in-chrome.html",
     "summary": "Many of Chrome's latest AI features are rolling out to users in Latin America, Africa, the Middle East, and more. Gemini in Chrome empowers business and education users with AI tools that integrate seamlessly into their daily browsing workflows while maintaining strict data governance. It’s also...",
     "date": "2026-06-16T19:16:38+00:00"
-  },
-  {
-    "id": "a83307c61ceca7fd",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Get design export formats API now returns page-level format options. Each format includes the page_numbers that support it. If a format is support",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-export-formats/",
-    "summary": "The Get design export formats API now returns page-level format options. Each format includes the page_numbers that support it. If a format is supported by every page in the design, its page_numbers are omitted.",
-    "date": "2026-06-09T06:55:59.398667+00:00"
   }
 ]
