@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "3a64d5a8c4705ba9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Stricter classifications for Google Groups to enhance data security and privacy",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/stricter-classifications-for-google-groups-to-enhance-data-security-and-privacy.html",
+    "summary": "Earlier this year, we announced changes to Google Groups to enhance data security and privacy. The changes, which are rolling out now, include:Stricter “internal” and “external” classifications for GroupsClearer visual indicators for whether a group contains external membersChanges to how emails...",
+    "date": "2026-06-24T21:22:05+00:00"
+  },
+  {
     "id": "ae9b00947a7e316d",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/join-google-meet-calls-from-safari-on-iOS-devices.html",
     "summary": "Prior to this update, iOS users without the Gmail or Meet apps were unable to participate in Google Meet sessions on their mobile devices. Now, iOS mobile device users can join meetings directly through Safari, without needing to install an app. The process is now seamless; individuals without a...",
     "date": "2026-06-23T15:53:32+00:00"
-  },
-  {
-    "id": "216a0625e502b961",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Enhanced security monitoring with expanded Admin password reset alerts",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/enhanced-security-monitoring-with-expanded-Admin-password-reset-alerts.html",
-    "summary": "In Alert Center, we are expanding the existing “Super Admin password reset” alert into a broader Admin password reset alert. Previously, this rule only triggered alerts when a super admin’s password was changed. With this update, the alert will now cover password resets for all administrator roles...",
-    "date": "2026-06-23T14:29:50+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -740,6 +740,16 @@
     "date": "2026-06-22T00:00:00+00:00"
   },
   {
+    "id": "216a0625e502b961",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Enhanced security monitoring with expanded Admin password reset alerts",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/enhanced-security-monitoring-with-expanded-Admin-password-reset-alerts.html",
+    "summary": "In Alert Center, we are expanding the existing “Super Admin password reset” alert into a broader Admin password reset alert. Previously, this rule only triggered alerts when a super admin’s password was changed. With this update, the alert will now cover password resets for all administrator roles...",
+    "date": "2026-06-23T14:29:50+00:00"
+  },
+  {
     "id": "2e31d617be67829e",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/create-longer-veo-videos-and-generate-multiple-at-once-in-Google-Vids.html",
     "summary": "Starting today, we’re introducing powerful new ways to create and iterate on video content in Google Vids using Veo. These updates provide all Vids users with the ability to create longer videos with consistent characters and generate multiple videos in parallel, enabling you to bring your vision...",
     "date": "2026-06-17T14:02:33+00:00"
-  },
-  {
-    "id": "6c9312d446d14907",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Control whether your users can have temporary chats and delete conversations in the Gemini app",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/temporary-chats-and-conversation-deletion-control-for-gemini.html",
-    "summary": "We’re introducing two new administrator controls for the Gemini app (gemini.google.com) that allow end users to manage their own chat activity. Admins can now configure whether users can use temporary chats and delete their conversation history.Temporary chats allows users to have conversations...",
-    "date": "2026-06-16T21:02:46+00:00"
   }
 ]
