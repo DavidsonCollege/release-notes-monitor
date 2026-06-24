@@ -430,16 +430,6 @@
     "date": "2026-06-24T14:00:59+00:00"
   },
   {
-    "id": "e6eed6c1344b6f68",
-    "product_id": "ninjaone",
-    "product_name": "NinjaOne",
-    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
-    "title": "Gain Better IT Asset Control and Visibility into Software Licensing With NinjaOne 13.0",
-    "link": "https://www.ninjaone.com/blog/gain-visibility-with-ninjaone-13/",
-    "summary": "NinjaOne’s 13.0 release advances IT asset management (ITAM) capabilities with software license improvements that offer greater cost visibility, usage history for custom licenses, and refined control over permissions and assignments. The platform now includes robust Lost Mode support for managed...",
-    "date": "2026-03-31T14:00:45+00:00"
-  },
-  {
     "id": "192f3d32a50553a3",
     "product_id": "papercut",
     "product_name": "PaperCut",
@@ -748,6 +738,16 @@
     "link": "https://developers.zoom.us/changelog/rooms/june-22-2026",
     "summary": "Tags: api-release | Added new endpoints to Workspaces API.",
     "date": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "e6eed6c1344b6f68",
+    "product_id": "ninjaone",
+    "product_name": "NinjaOne",
+    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
+    "title": "Gain Better IT Asset Control and Visibility into Software Licensing With NinjaOne 13.0",
+    "link": "https://www.ninjaone.com/blog/gain-visibility-with-ninjaone-13/",
+    "summary": "NinjaOne’s 13.0 release advances IT asset management (ITAM) capabilities with software license improvements that offer greater cost visibility, usage history for custom licenses, and refined control over permissions and assignments. The platform now includes robust Lost Mode support for managed...",
+    "date": "2026-03-31T14:00:45+00:00"
   },
   {
     "id": "e3b2a9a201e15ab0",
