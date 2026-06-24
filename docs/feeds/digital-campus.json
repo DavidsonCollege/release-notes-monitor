@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "ae9b00947a7e316d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Updates to Gemini in Google Classroom",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/updates-to-gemini-in-google-classroom.html",
+    "summary": "We are introducing several updates to the Gemini tab in Google Classroom designed to make its tools even more helpful for teachers. These changes make it easier for educators to collaborate with AI and create visual aids from any device, while expanding options for refining lesson plans.Mobile...",
+    "date": "2026-06-24T20:48:48+00:00"
+  },
+  {
     "id": "e717a7363ea93654",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/enhanced-security-monitoring-with-expanded-Admin-password-reset-alerts.html",
     "summary": "In Alert Center, we are expanding the existing “Super Admin password reset” alert into a broader Admin password reset alert. Previously, this rule only triggered alerts when a super admin’s password was changed. With this update, the alert will now cover password resets for all administrator roles...",
     "date": "2026-06-23T14:29:50+00:00"
-  },
-  {
-    "id": "2e31d617be67829e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Troubleshoot formula errors quickly with Gemini in Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/troubleshoot-formula-errors-in-sheets.html",
-    "summary": "We’re excited to introduce a new Gemini in Sheets capability that enables you to diagnose and fix formula errors in one click. When you encounter a formula error, Gemini can analyze the surrounding data structure to help provide an easy-to-understand explanation of the core issue alongside a...",
-    "date": "2026-06-22T16:51:44+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "4105f44d04a657cd",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Scheduled Secondary Workflows",
+    "link": "https://announcekit.app/kuali/announcements/new-scheduled-secondary-workflows-1uOySQ",
+    "summary": "You can now automate workflow actions based on dates, helping you send reminders, trigger integrations, and manage time-sensitive processes ...",
+    "date": "2026-06-24T20:45:00+00:00"
+  },
+  {
     "id": "59b99865182477d0",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/versions-and-document-edit-history-are-now-available-to-all-customers-1Pf89q",
     "summary": "We're excited to announce that Document Versions and Document Edit History are now available to all Kuali customers. Previously, these featu...",
     "date": "2026-06-15T19:35:00+00:00"
-  },
-  {
-    "id": "4694728c86d66f22",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Batch Actions from Document Lists",
-    "link": "https://announcekit.app/kuali/announcements/new-batch-actions-from-document-lists-4n3Pqg",
-    "summary": "You can now take action on multiple documents at once directly from a Document List. Managing documents one at a time can be time-consuming,...",
-    "date": "2026-06-15T16:05:00+00:00"
   },
   {
     "id": "7afae9eca42d39cf",
@@ -740,6 +740,26 @@
     "date": "2026-06-22T00:00:00+00:00"
   },
   {
+    "id": "2e31d617be67829e",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Troubleshoot formula errors quickly with Gemini in Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/troubleshoot-formula-errors-in-sheets.html",
+    "summary": "We’re excited to introduce a new Gemini in Sheets capability that enables you to diagnose and fix formula errors in one click. When you encounter a formula error, Gemini can analyze the surrounding data structure to help provide an easy-to-understand explanation of the core issue alongside a...",
+    "date": "2026-06-22T16:51:44+00:00"
+  },
+  {
+    "id": "4694728c86d66f22",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Batch Actions from Document Lists",
+    "link": "https://announcekit.app/kuali/announcements/new-batch-actions-from-document-lists-4n3Pqg",
+    "summary": "You can now take action on multiple documents at once directly from a Document List. Managing documents one at a time can be time-consuming,...",
+    "date": "2026-06-15T16:05:00+00:00"
+  },
+  {
     "id": "e6eed6c1344b6f68",
     "product_id": "ninjaone",
     "product_name": "NinjaOne",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/temporary-chats-and-conversation-deletion-control-for-gemini.html",
     "summary": "We’re introducing two new administrator controls for the Gemini app (gemini.google.com) that allow end users to manage their own chat activity. Admins can now configure whether users can use temporary chats and delete their conversation history.Temporary chats allows users to have conversations...",
     "date": "2026-06-16T21:02:46+00:00"
-  },
-  {
-    "id": "f7d0e93c29e86cfb",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "New Block Kit data table block",
-    "link": "https://docs.slack.dev/changelog/2026/05/20/block-kit-more-new-blocks",
-    "summary": "The data table block is now available for use with Block Kit.",
-    "date": "2026-05-20T00:00:00+00:00"
-  },
-  {
-    "id": "32f0db625bc9646f",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini in Chrome expands to more languages and regions, including Latin America, Africa, and the Middle East",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/expanded-availability-gemini-in-chrome.html",
-    "summary": "Many of Chrome's latest AI features are rolling out to users in Latin America, Africa, the Middle East, and more. Gemini in Chrome empowers business and education users with AI tools that integrate seamlessly into their daily browsing workflows while maintaining strict data governance. It’s also...",
-    "date": "2026-06-16T19:16:38+00:00"
   }
 ]
