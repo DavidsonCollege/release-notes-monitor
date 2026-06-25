@@ -1,5 +1,45 @@
 [
   {
+    "id": "74cc71c35fc3a747",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Enable Trusted Devices for Remote Control",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-25T00:00:00+00:00"
+  },
+  {
+    "id": "85d69c9f2d632d1f",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Trusted Devices",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-25T00:00:00+00:00"
+  },
+  {
+    "id": "7fdc5c89ae1569b3",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Delegate work to Claude in Slack with Claude Tag",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-23T00:00:00+00:00"
+  },
+  {
+    "id": "433f7d82ea2508e9",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Introducing Claude Tag",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-23T00:00:00+00:00"
+  },
+  {
     "id": "8e075b44ea59fdf2",
     "product_id": "claude",
     "product_name": "Claude",
@@ -8,46 +48,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-06-12T00:00:00+00:00"
-  },
-  {
-    "id": "c8cec7b90976e61a",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Fable 5 launch",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-06-09T00:00:00+00:00"
-  },
-  {
-    "id": "d0da307b44563bf0",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Fable 5 and Claude Mythos 5",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-06-09T00:00:00+00:00"
-  },
-  {
-    "id": "9df71274a5638c1b",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Enterprise plans can manage admin permissions with custom roles",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-06-02T00:00:00+00:00"
-  },
-  {
-    "id": "40a32fe2d1371d1c",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Manage custom roles on Enterprise plans",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-06-02T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -98,6 +98,46 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to empower users to create, regardless of their technical skill set or access to complex software. With Gemini Omni, your natural language is the only tool you need to direct, refine, and produce captivating videos.",
     "date": "2026-05-20T18:21:21.902552+00:00"
+  },
+  {
+    "id": "c8cec7b90976e61a",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Fable 5 launch",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-09T00:00:00+00:00"
+  },
+  {
+    "id": "d0da307b44563bf0",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Fable 5 and Claude Mythos 5",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-09T00:00:00+00:00"
+  },
+  {
+    "id": "9df71274a5638c1b",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Enterprise plans can manage admin permissions with custom roles",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-02T00:00:00+00:00"
+  },
+  {
+    "id": "40a32fe2d1371d1c",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Manage custom roles on Enterprise plans",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-02T00:00:00+00:00"
   },
   {
     "id": "f9e1d8adaa601929",
