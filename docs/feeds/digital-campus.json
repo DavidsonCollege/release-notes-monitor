@@ -70,6 +70,16 @@
     "date": "2026-05-22T17:30:09Z"
   },
   {
+    "id": "cb99ad42a7c1a469",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Create design autofill job API now accepts video data values, letting you autofill an image data field with a video asset. Autofilling a video is",
+    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
+    "summary": "The Create design autofill job API now accepts video data values, letting you autofill an image data field with a video asset. Autofilling a video is currently a preview feature.",
+    "date": "2026-06-25T01:06:17.954115+00:00"
+  },
+  {
     "id": "c4a23313f8f2e2ad",
     "product_id": "canva",
     "product_name": "Canva",
@@ -108,16 +118,6 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
     "summary": "The Create design autofill job API now accepts data values for sheet data fields, which lets you autofill tabular data for sheet elements. Sheet data fields are currently a preview feature.",
     "date": "2026-06-12T01:15:35.628384+00:00"
-  },
-  {
-    "id": "be3eda2d73c4cdae",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Publish brand template API is now available as a preview. It publishes a design as a brand template, creating a new brand template or updating an",
-    "link": "https://www.canva.dev/docs/connect/api-reference/brand-templates/publish-brand-template/",
-    "summary": "The Publish brand template API is now available as a preview. It publishes a design as a brand template, creating a new brand template or updating an existing one if the design is a draft of an existing template.",
-    "date": "2026-06-09T06:55:59.398642+00:00"
   },
   {
     "id": "7c65b617cc4dc32b",
@@ -740,6 +740,16 @@
     "date": "2026-06-22T00:00:00+00:00"
   },
   {
+    "id": "be3eda2d73c4cdae",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Publish brand template API is now available as a preview. It publishes a design as a brand template, creating a new brand template or updating an",
+    "link": "https://www.canva.dev/docs/connect/api-reference/brand-templates/publish-brand-template/",
+    "summary": "The Publish brand template API is now available as a preview. It publishes a design as a brand template, creating a new brand template or updating an existing one if the design is a draft of an existing template.",
+    "date": "2026-06-09T06:55:59.398642+00:00"
+  },
+  {
     "id": "216a0625e502b961",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/enhanced-ai-avatars-vids.html",
     "summary": "With the integration of Gemini 3.1 Flash Text-To-Speech (TTS) and the latest capabilities in Veo 3.1, AI avatars in Google Vids have become more realistic and expressive than ever. We’re excited to announce expanded language support, a new collection of avatar defaults, and the ability to direct...",
     "date": "2026-06-17T14:04:27+00:00"
-  },
-  {
-    "id": "32b2592afffd7a95",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create longer Veo videos and generate multiple at once in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/create-longer-veo-videos-and-generate-multiple-at-once-in-Google-Vids.html",
-    "summary": "Starting today, we’re introducing powerful new ways to create and iterate on video content in Google Vids using Veo. These updates provide all Vids users with the ability to create longer videos with consistent characters and generate multiple videos in parallel, enabling you to bring your vision...",
-    "date": "2026-06-17T14:02:33+00:00"
   }
 ]
