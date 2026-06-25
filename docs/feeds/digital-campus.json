@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "a398167c12a224ea",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Read Along in Google Classroom is now available to all education users to support foundational literacy",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/read-along-in-google-classroom-is-now-available-to-all-education-users-to-support-foundational-literacy.html",
+    "summary": "Read Along in Google Classroom, an AI-powered literacy tool that provides in-the-moment support to students as they read aloud, is now available to all Google Workspace for Education users at no cost. We believe this will open access to literacy tools for millions of students, and help educators...",
+    "date": "2026-06-25T16:58:19+00:00"
+  },
+  {
     "id": "3a64d5a8c4705ba9",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/google-apps-script-workspace-core-service.html",
     "summary": "Google Apps Script is officially a Google Workspace core service. Covered under the Google Cloud Terms of Service and Google Workspace for Education Terms of Service, Apps Script now offers the same enterprise-grade data protection, robust administrative controls, and standard technical support...",
     "date": "2026-06-23T16:31:06+00:00"
-  },
-  {
-    "id": "020a276b2b2c0d31",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Join Google Meet calls from Safari on iOS devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/join-google-meet-calls-from-safari-on-iOS-devices.html",
-    "summary": "Prior to this update, iOS users without the Gmail or Meet apps were unable to participate in Google Meet sessions on their mobile devices. Now, iOS mobile device users can join meetings directly through Safari, without needing to install an app. The process is now seamless; individuals without a...",
-    "date": "2026-06-23T15:53:32+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -740,6 +740,16 @@
     "date": "2026-06-22T00:00:00+00:00"
   },
   {
+    "id": "020a276b2b2c0d31",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Join Google Meet calls from Safari on iOS devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/join-google-meet-calls-from-safari-on-iOS-devices.html",
+    "summary": "Prior to this update, iOS users without the Gmail or Meet apps were unable to participate in Google Meet sessions on their mobile devices. Now, iOS mobile device users can join meetings directly through Safari, without needing to install an app. The process is now seamless; individuals without a...",
+    "date": "2026-06-23T15:53:32+00:00"
+  },
+  {
     "id": "51d4b7feb7af2ddd",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.5.0",
     "summary": "Tags: bug-fix, sdk-version | Data mask supports canvas, text node, and background image. Optimized error messages. Fixed table layouts.",
     "date": "2026-06-08T00:00:00+00:00"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "June 16 2026"
   }
 ]
