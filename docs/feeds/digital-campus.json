@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "de946158c73d1d2a",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Resubmit Withdrawn Documents",
+    "link": "https://announcekit.app/kuali/announcements/new-resubmit-withdrawn-documents-3UGLyU",
+    "summary": "You can now edit and resubmit withdrawn documents without starting over. Previously, withdrawing a document was a permanent action. If you n...",
+    "date": "2026-06-25T14:05:00+00:00"
+  },
+  {
     "id": "4105f44d04a657cd",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-reorder-table-and-repeater-rows-with-drag-and-drop-2edPB6",
     "summary": "We're excited to introduce a new way to manage data in Table and Repeater gadgets. Users can now reorder rows using drag-and-drop functional...",
     "date": "2026-06-16T20:35:00+00:00"
-  },
-  {
-    "id": "51d4b7feb7af2ddd",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "Versions and Document Edit History Are Now Available to All Customers",
-    "link": "https://announcekit.app/kuali/announcements/versions-and-document-edit-history-are-now-available-to-all-customers-1Pf89q",
-    "summary": "We're excited to announce that Document Versions and Document Edit History are now available to all Kuali customers. Previously, these featu...",
-    "date": "2026-06-15T19:35:00+00:00"
   },
   {
     "id": "7afae9eca42d39cf",
@@ -740,6 +740,16 @@
     "date": "2026-06-22T00:00:00+00:00"
   },
   {
+    "id": "51d4b7feb7af2ddd",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Versions and Document Edit History Are Now Available to All Customers",
+    "link": "https://announcekit.app/kuali/announcements/versions-and-document-edit-history-are-now-available-to-all-customers-1Pf89q",
+    "summary": "We're excited to announce that Document Versions and Document Edit History are now available to all Kuali customers. Previously, these featu...",
+    "date": "2026-06-15T19:35:00+00:00"
+  },
+  {
     "id": "be3eda2d73c4cdae",
     "product_id": "canva",
     "product_name": "Canva",
@@ -988,15 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "June 16 2026"
-  },
-  {
-    "id": "a9cd1794a7cfa4f2",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Enhanced AI avatar features and capabilities in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/enhanced-ai-avatars-vids.html",
-    "summary": "With the integration of Gemini 3.1 Flash Text-To-Speech (TTS) and the latest capabilities in Veo 3.1, AI avatars in Google Vids have become more realistic and expressive than ever. We’re excited to announce expanded language support, a new collection of avatar defaults, and the ability to direct...",
-    "date": "2026-06-17T14:04:27+00:00"
   }
 ]
