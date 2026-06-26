@@ -650,6 +650,16 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "b5a7bdb310d375d2",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 26 June 2026, retail launch of new WIP improvements",
+    "link": "https://blogs.windows.com/windows-insider/2026/06/26/announcing-new-builds-for-26-june-2026-retail-launch-of-new-wip-improvements/",
+    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental, and are excited to begin rolling out the new Windows Insider experience to retail Windows 11 builds this week! New Windows Insider Program changes The post Announcing new builds for 26 June 2026, retail...",
+    "date": "2026-06-26T17:00:19+00:00"
+  },
+  {
     "id": "1b2833bee3fe4aeb",
     "product_id": "windows",
     "product_name": "Windows",
@@ -987,16 +997,6 @@
     "title": "Added five new response fields to GET and PATCH userID User APIs",
     "link": "https://developers.zoom.us/changelog/scim2/june-11-2026",
     "summary": "Tags: api-release | Added five new response fields (workforceManagementRole, zoomAIProductivitySuiteSubscription, zoomAIProductivitySuite, qualityManagementRole, zoomRevenueAcceleratorRole) to the GET and PATCH /v2/scim2/Users/{userId} endpoints.",
-    "date": "2026-06-11T00:00:00+00:00"
-  },
-  {
-    "id": "963551a4c70ec51d",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New venue response field added to Events API",
-    "link": "https://developers.zoom.us/changelog/webinars-plus-events/june-11-2026",
-    "summary": "Tags: api-release | Added new endpoint for Events API.",
     "date": "2026-06-11T00:00:00+00:00"
   }
 ]
