@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "f703ee59fcfce5a1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Streamline your data backups with incremental exports for Google Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/streamline-your-data-backups-with-incremental-exports-for-Google-Workspace.html",
+    "summary": "Google Workspace administrators can now utilize incremental exports when backing up organizational data. Instead of re-exporting their entire organization's data, admins can export frequent snapshots of their data into their organization’s own Google Cloud Storage (GCS) bucket.Key benefits include...",
+    "date": "2026-06-26T15:00:46+00:00"
+  },
+  {
     "id": "a398167c12a224ea",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/room-codes-google-meet-hardware-early-preview.html",
     "summary": "Google Meet users can now connect to nearby conference room hardware by entering a 5-character room code on their personal device. Meet recently launched Connect Room using proximity-based detection to identify nearby hardware. This update provides a reliable manual fallback when ultrasound is...",
     "date": "2026-06-23T18:57:59+00:00"
-  },
-  {
-    "id": "fb794aefe834ef20",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Apps Script is now a Google Workspace core service with enterprise-grade data protection",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/google-apps-script-workspace-core-service.html",
-    "summary": "Google Apps Script is officially a Google Workspace core service. Covered under the Google Cloud Terms of Service and Google Workspace for Education Terms of Service, Apps Script now offers the same enterprise-grade data protection, robust administrative controls, and standard technical support...",
-    "date": "2026-06-23T16:31:06+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -740,6 +740,16 @@
     "date": "2026-06-24T00:00:00+00:00"
   },
   {
+    "id": "fb794aefe834ef20",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Apps Script is now a Google Workspace core service with enterprise-grade data protection",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/google-apps-script-workspace-core-service.html",
+    "summary": "Google Apps Script is officially a Google Workspace core service. Covered under the Google Cloud Terms of Service and Google Workspace for Education Terms of Service, Apps Script now offers the same enterprise-grade data protection, robust administrative controls, and standard technical support...",
+    "date": "2026-06-23T16:31:06+00:00"
+  },
+  {
     "id": "32f7c3ed1697c67d",
     "product_id": "canva",
     "product_name": "Canva",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/webinars-plus-events/june-11-2026",
     "summary": "Tags: api-release | Added new endpoint for Events API.",
     "date": "2026-06-11T00:00:00+00:00"
-  },
-  {
-    "id": "9845ef96b59d2979",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Make Gemini more helpful and relevant to your teaching goals with the Google Classroom app in Gemini",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/classroom-app-in-gemini.html",
-    "summary": "Educators have shared that AI is especially helpful when it understands the context of their teaching environment, from tailoring resources toward student needs or building on their existing materials. To support this, Gemini will be able to collaborate with your Google Classroom, using context...",
-    "date": "2026-06-18T00:49:17+00:00"
   }
 ]
