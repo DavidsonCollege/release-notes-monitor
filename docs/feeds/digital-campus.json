@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "36e33e3cbc81b1f2",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "June 26, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/50737170831636-June-26-2026",
+    "summary": "",
+    "date": "2026-06-26T20:22:49Z"
+  },
+  {
     "id": "4594bc8e55c8980e",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/49754007355540-May-29-2026",
     "summary": "",
     "date": "2026-05-29T19:21:11Z"
-  },
-  {
-    "id": "d935c486587aef2b",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "May 22, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/49519305679508-May-22-2026",
-    "summary": "",
-    "date": "2026-05-22T17:30:09Z"
   },
   {
     "id": "db1b79e0952750cf",
@@ -700,6 +700,36 @@
     "date": "2026-05-14T17:05:26+00:00"
   },
   {
+    "id": "146e7178e54cdfab",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New File Content webhook",
+    "link": "https://developers.zoom.us/changelog/canvas/june-25-2026",
+    "summary": "Tags: api-release | Added new webhook for File Content.",
+    "date": "2026-06-25T00:00:00+00:00"
+  },
+  {
+    "id": "1c301944617e4c37",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Update Clip share settings",
+    "link": "https://developers.zoom.us/changelog/clips/june-25-2026",
+    "summary": "Tags: api-release | Added a new API to update a clip's sharing settings.",
+    "date": "2026-06-25T00:00:00+00:00"
+  },
+  {
+    "id": "f03a14398bac068f",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New Workspaces webhook",
+    "link": "https://developers.zoom.us/changelog/rooms/june-25-2026",
+    "summary": "Tags: api-release | Added new webhook for Workspaces.",
+    "date": "2026-06-25T00:00:00+00:00"
+  },
+  {
     "id": "46ffc420da3fd744",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -718,6 +748,16 @@
     "link": "https://developers.zoom.us/changelog/meeting-sdk/electron/7.1.0",
     "summary": "Tags: sdk-version | Add callbacks and interfaces in zoom_meeting_participants_ctrl.js; add support for breakout room summaries; provide ROI for face in raw video data; support on-demand avatar download; fixed a breakout-room joining issue.",
     "date": "2026-06-24T00:00:00+00:00"
+  },
+  {
+    "id": "d935c486587aef2b",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "May 22, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/49519305679508-May-22-2026",
+    "summary": "",
+    "date": "2026-05-22T17:30:09Z"
   },
   {
     "id": "7373b5f23b46fcec",
@@ -958,45 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=06152026c",
     "summary": "View downloadsView release notes",
     "date": "2026-06-15T17:00:00+00:00"
-  },
-  {
-    "id": "cb885feadc682a4b",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Limit Availability and Access-Based PDF Exports",
-    "link": "https://announcekit.app/kuali/announcements/new-limit-availability-and-access-based-pdf-exports-2tMKdi",
-    "summary": "You can now control when fields are visible to users without removing the underlying data, along with new options for controlling how restri...",
-    "date": "2026-05-21T16:10:00+00:00"
-  },
-  {
-    "id": "ac4dcdf82713529a",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New response and request fields added to the following APIs : Order, Billing, Quotes, Subscription",
-    "link": "https://developers.zoom.us/changelog/commerce/june-18-2026",
-    "summary": "Tags: api-release | New response and request fields added to the following APIs : Order, Billing, Quotes, and Subscription.",
-    "date": "2026-06-18T00:00:00+00:00"
-  },
-  {
-    "id": "7fe0a1d9c3fde57e",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 7.0.5",
-    "link": "https://developers.zoom.us/changelog/meeting-sdk/react-native/7.0.5",
-    "summary": "Tags: sdk-version | Add new video and control functions, and meeting evnts notification; change the return type for joinMeeting and startMeeting.",
-    "date": "2026-06-18T00:00:00+00:00"
-  },
-  {
-    "id": "fe6aa8dee7ecce3d",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Doc Content APIs",
-    "link": "https://developers.zoom.us/changelog/canvas/june-15-2026",
-    "summary": "Tags: api-release, new-feature | Added new Doc Content APIs.",
-    "date": "2026-06-15T00:00:00+00:00"
   }
 ]
