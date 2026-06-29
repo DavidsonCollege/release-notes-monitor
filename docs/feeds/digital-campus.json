@@ -360,14 +360,24 @@
     "date": "2026-06-22T17:45:00+00:00"
   },
   {
-    "id": "7afae9eca42d39cf",
+    "id": "5c587af009ab46b4",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 beta 2 (26A5368g)",
-    "link": "https://developer.apple.com/news/releases/?id=06222026c",
+    "title": "macOS 26.6 beta 3 (25G5052e)",
+    "link": "https://developer.apple.com/news/releases/?id=06292026f",
     "summary": "View downloadsView release notes",
-    "date": "2026-06-22T17:00:00+00:00"
+    "date": "2026-06-29T17:00:00+00:00"
+  },
+  {
+    "id": "01dd937fdd41cdb4",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.5.2 (25F84)",
+    "link": "https://developer.apple.com/news/releases/?id=06292026c",
+    "summary": "View downloads",
+    "date": "2026-06-29T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -750,6 +760,16 @@
     "date": "2026-06-24T00:00:00+00:00"
   },
   {
+    "id": "7afae9eca42d39cf",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 27.0 beta 2 (26A5368g)",
+    "link": "https://developer.apple.com/news/releases/?id=06222026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-06-22T17:00:00+00:00"
+  },
+  {
     "id": "998e5358983cf1e9",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -978,25 +998,5 @@
     "link": "https://feedback.clickup.com/changelog/join-us-for-a-super-agents-ama-on-reddit",
     "summary": "Hey, everyone!We’re excited to announce a special Reddit AMA (Ask Me Anything) with the ClickUp AI Team, all about our latest feature: Super Agents!🗓️ When: Thursday, January 22nd, 10am–12pm PST📍 Where: the r/ClickUp subreddit on RedditThis is your opportunity to connect directly with Michael Van...",
     "date": "2026-01-15T21:57:59+00:00"
-  },
-  {
-    "id": "a81db599e9c4d3e9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Expanded language support for building and editing spreadsheets with Gemini",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/expanded-language-support-for-gemini-in-sheets.html",
-    "summary": "Earlier this year, we introduced new Gemini in Sheets capabilities that allow you to build and edit entire spreadsheets using simple natural language. We’re now expanding support for these features to 28 additional languages, enabling users who speak Spanish, Portuguese, Japanese, Korean, Italian,...",
-    "date": "2026-06-18T14:59:00+00:00"
-  },
-  {
-    "id": "a5fa3437d965e92d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Meet now available on Android Auto",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/google-meet-now-available-on-android.html",
-    "summary": "We’re bringing the power of Google Meet to your vehicle's display with our new integration for Android Auto. This update makes it easy to safely stay connected and handle important meetings hands-free from behind the wheel.Users can now access Google Meet directly from their car's dashboard. This...",
-    "date": "2026-06-18T14:43:23+00:00"
   }
 ]
