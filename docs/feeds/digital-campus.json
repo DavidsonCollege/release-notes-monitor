@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "594c02b56072c8ec",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Educators and students can now share Gemini Canvas creations directly to Google Classroom",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/educators-and-students-can-now-share-Gemini-Canvas-creations-directly-to-Google-Classroom.html",
+    "summary": "Educators and students of all ages can now seamlessly attach Gemini Canvas artifacts, like websites, quizzes, interactive games, infographics, and more, to Google Classroom assignments and posts. Right from Gemini Canvas, users can click on the “Share to to Classroom” button. This update allows...",
+    "date": "2026-06-29T18:17:11+00:00"
+  },
+  {
     "id": "25376d9de93fa5e9",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/read-along-in-google-classroom-is-now-available-to-all-education-users-to-support-foundational-literacy.html",
     "summary": "Read Along in Google Classroom, an AI-powered literacy tool that provides in-the-moment support to students as they read aloud, is now available to all Google Workspace for Education users at no cost. We believe this will open access to literacy tools for millions of students, and help educators...",
     "date": "2026-06-25T16:58:19+00:00"
-  },
-  {
-    "id": "3a64d5a8c4705ba9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Stricter classifications for Google Groups to enhance data security and privacy",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/stricter-classifications-for-google-groups-to-enhance-data-security-and-privacy.html",
-    "summary": "Earlier this year, we announced changes to Google Groups to enhance data security and privacy. The changes, which are rolling out now, include:Stricter “internal” and “external” classifications for GroupsClearer visual indicators for whether a group contains external membersChanges to how emails...",
-    "date": "2026-06-24T21:22:05+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -710,6 +710,66 @@
     "date": "2026-05-14T17:05:26+00:00"
   },
   {
+    "id": "9bb0c3586958fa7f",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New response and request fields for Accounts API",
+    "link": "https://developers.zoom.us/changelog/accounts/june-29-2026",
+    "summary": "Tags: api-release | Added new fields to Accounts API.",
+    "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "7431fdd96e858cfc",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add chat channel tab migration API",
+    "link": "https://developers.zoom.us/changelog/chat/june-29-2026",
+    "summary": "Tags: api-release | Added an API to migrate tabs for a chat channel.",
+    "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "1ce13786143cab1f",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 3.6.0",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.6.0",
+    "summary": "Tags: sdk-version | Annotation supports snap to element.Optimized error messages.Optimized annotation eraser hit detection.",
+    "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "1a800aa2b3991ffb",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Update call queue custom groups",
+    "link": "https://developers.zoom.us/changelog/phone/june-29-2026",
+    "summary": "Tags: api-release | Added APIs to update custom groups in Zoom Phone call queues.",
+    "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "327d8cc56463406d",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add scheduled event attendee API",
+    "link": "https://developers.zoom.us/changelog/scheduler/june-29-2026",
+    "summary": "Tags: api-release | Added an API to create a scheduled event attendee.",
+    "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "3a64d5a8c4705ba9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Stricter classifications for Google Groups to enhance data security and privacy",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/stricter-classifications-for-google-groups-to-enhance-data-security-and-privacy.html",
+    "summary": "Earlier this year, we announced changes to Google Groups to enhance data security and privacy. The changes, which are rolling out now, include:Stricter “internal” and “external” classifications for GroupsClearer visual indicators for whether a group contains external membersChanges to how emails...",
+    "date": "2026-06-24T21:22:05+00:00"
+  },
+  {
     "id": "146e7178e54cdfab",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -938,65 +998,5 @@
     "link": "https://announcekit.app/kuali/announcements/versions-and-document-edit-history-are-now-available-to-all-customers-1Pf89q",
     "summary": "We're excited to announce that Document Versions and Document Edit History are now available to all Kuali customers. Previously, these featu...",
     "date": "2026-06-15T19:35:00+00:00"
-  },
-  {
-    "id": "be3eda2d73c4cdae",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Publish brand template API is now available as a preview. It publishes a design as a brand template, creating a new brand template or updating an",
-    "link": "https://www.canva.dev/docs/connect/api-reference/brand-templates/publish-brand-template/",
-    "summary": "The Publish brand template API is now available as a preview. It publishes a design as a brand template, creating a new brand template or updating an existing one if the design is a draft of an existing template.",
-    "date": "2026-06-09T06:55:59.398642+00:00"
-  },
-  {
-    "id": "216a0625e502b961",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Enhanced security monitoring with expanded Admin password reset alerts",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/enhanced-security-monitoring-with-expanded-Admin-password-reset-alerts.html",
-    "summary": "In Alert Center, we are expanding the existing “Super Admin password reset” alert into a broader Admin password reset alert. Previously, this rule only triggered alerts when a super admin’s password was changed. With this update, the alert will now cover password resets for all administrator roles...",
-    "date": "2026-06-23T14:29:50+00:00"
-  },
-  {
-    "id": "2e31d617be67829e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Troubleshoot formula errors quickly with Gemini in Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/troubleshoot-formula-errors-in-sheets.html",
-    "summary": "We’re excited to introduce a new Gemini in Sheets capability that enables you to diagnose and fix formula errors in one click. When you encounter a formula error, Gemini can analyze the surrounding data structure to help provide an easy-to-understand explanation of the core issue alongside a...",
-    "date": "2026-06-22T16:51:44+00:00"
-  },
-  {
-    "id": "4694728c86d66f22",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Batch Actions from Document Lists",
-    "link": "https://announcekit.app/kuali/announcements/new-batch-actions-from-document-lists-4n3Pqg",
-    "summary": "You can now take action on multiple documents at once directly from a Document List. Managing documents one at a time can be time-consuming,...",
-    "date": "2026-06-15T16:05:00+00:00"
-  },
-  {
-    "id": "e6eed6c1344b6f68",
-    "product_id": "ninjaone",
-    "product_name": "NinjaOne",
-    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
-    "title": "Gain Better IT Asset Control and Visibility into Software Licensing With NinjaOne 13.0",
-    "link": "https://www.ninjaone.com/blog/gain-visibility-with-ninjaone-13/",
-    "summary": "NinjaOne’s 13.0 release advances IT asset management (ITAM) capabilities with software license improvements that offer greater cost visibility, usage history for custom licenses, and refined control over permissions and assignments. The platform now includes robust Lost Mode support for managed...",
-    "date": "2026-03-31T14:00:45+00:00"
-  },
-  {
-    "id": "e3b2a9a201e15ab0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - June 19, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/weekly-recap-06-19-2026.html",
-    "summary": "New discoverable space setting in Google ChatPreviously, spaces were either private (invite-only) or open (anyone in the organization can find and join). Discoverable spaces provide a new option between the two: they appear when users browse for spaces within their organization, but the...",
-    "date": "2026-06-19T10:06:13+00:00"
   }
 ]

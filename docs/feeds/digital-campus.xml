@@ -5,49 +5,56 @@
     <description>Technology products managed by the Digital Campus team</description>
     <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 18:51:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 19:39:59 +0000</lastBuildDate>
     <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>ScreenCloud - 4.9.0</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New: Amazon Signage Stick (ASS) dedicated player. Previously ran Amazon Fire OS player on ASS device.&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">e1dab31261398830</guid>
-      <pubDate>Mon, 29 Jun 2026 18:51:07 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:39:59 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.7.16</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">25cbe092cc1d040f</guid>
-      <pubDate>Mon, 29 Jun 2026 18:51:07 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:39:59 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password for Android Beta</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">68bf4e06214d3b4d</guid>
-      <pubDate>Mon, 29 Jun 2026 18:51:07 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:39:59 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Share your Scribes across multiple teams</title>
       <link>https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading... Loading...&lt;/p&gt;&lt;a href=&quot;https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">b2c548172457641a</guid>
-      <pubDate>Mon, 29 Jun 2026 18:51:07 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:39:59 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Share your Scribes across multiple teams</title>
       <link>https://scribe.launchnotes.io/announcements/share-your-scribes-across-multiple-teams</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading...&lt;/p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/share-your-scribes-across-multiple-teams&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">41380d27492e1b6a</guid>
-      <pubDate>Mon, 29 Jun 2026 18:51:07 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:39:59 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.11.2</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New: Support for Amazon’s Remote Device Management (RDM) for Signage Sticks, including:Screen/TV mute and unmute via HDMI-CECScreen/TV power on and off via HDMI-CECDevice rebootScreenshot and full-screen captureDeep cache clearing (player app and Android system cache)Player app restartCPU and GPU...&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">06a1b6a05e1c3232</guid>
-      <pubDate>Mon, 29 Jun 2026 18:51:07 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace - Educators and students can now share Gemini Canvas creations directly to Google Classroom</title>
+      <link>http://workspaceupdates.googleblog.com/2026/06/educators-and-students-can-now-share-Gemini-Canvas-creations-directly-to-Google-Classroom.html</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Educators and students of all ages can now seamlessly attach Gemini Canvas artifacts, like websites, quizzes, interactive games, infographics, and more, to Google Classroom assignments and posts. Right from Gemini Canvas, users can click on the “Share to to Classroom” button. This update allows...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/06/educators-and-students-can-now-share-Gemini-Canvas-creations-directly-to-Google-Classroom.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">594c02b56072c8ec</guid>
+      <pubDate>Mon, 29 Jun 2026 18:17:11 +0000</pubDate>
     </item>
     <item>
       <title>Google Workspace - Updated admin setting for improved video quality in Google Meet</title>
@@ -82,6 +89,41 @@
       <link>https://docs.slack.dev/changelog/2026/06/29/block-kit-container-block</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Slack&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;The container block is now available for Block Kit use.&lt;/p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2026/06/29/block-kit-container-block&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">3546bcf7ee63a3a6</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoom - New response and request fields for Accounts API</title>
+      <link>https://developers.zoom.us/changelog/accounts/june-29-2026</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: api-release | Added new fields to Accounts API.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/accounts/june-29-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">9bb0c3586958fa7f</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoom - Add chat channel tab migration API</title>
+      <link>https://developers.zoom.us/changelog/chat/june-29-2026</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: api-release | Added an API to migrate tabs for a chat channel.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/chat/june-29-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">7431fdd96e858cfc</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoom - Version 3.6.0</title>
+      <link>https://developers.zoom.us/changelog/cobrowse-sdk/web/3.6.0</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: sdk-version | Annotation supports snap to element.Optimized error messages.Optimized annotation eraser hit detection.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/cobrowse-sdk/web/3.6.0&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">1ce13786143cab1f</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoom - Update call queue custom groups</title>
+      <link>https://developers.zoom.us/changelog/phone/june-29-2026</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: api-release | Added APIs to update custom groups in Zoom Phone call queues.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/phone/june-29-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">1a800aa2b3991ffb</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoom - Add scheduled event attendee API</title>
+      <link>https://developers.zoom.us/changelog/scheduler/june-29-2026</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: api-release | Added an API to create a scheduled event attendee.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/scheduler/june-29-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">327d8cc56463406d</guid>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -253,13 +295,6 @@
       <pubDate>Tue, 23 Jun 2026 15:53:32 +0000</pubDate>
     </item>
     <item>
-      <title>Google Workspace - Enhanced security monitoring with expanded Admin password reset alerts</title>
-      <link>http://workspaceupdates.googleblog.com/2026/06/enhanced-security-monitoring-with-expanded-Admin-password-reset-alerts.html</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;In Alert Center, we are expanding the existing “Super Admin password reset” alert into a broader Admin password reset alert. Previously, this rule only triggered alerts when a super admin’s password was changed. With this update, the alert will now cover password resets for all administrator roles...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/06/enhanced-security-monitoring-with-expanded-Admin-password-reset-alerts.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">216a0625e502b961</guid>
-      <pubDate>Tue, 23 Jun 2026 14:29:50 +0000</pubDate>
-    </item>
-    <item>
       <title>Kuali Build - New: Create Linked Documents Without Leaving Your Current Document</title>
       <link>https://announcekit.app/kuali/announcements/new-create-linked-documents-without-leaving-your-current-document-2niZLa</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=kuali.com&amp;sz=64&quot; alt=&quot;Kuali Build&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Kuali Build&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;We’re excited to introduce Inline Document Creation, a new way to create and link related documents while you continue working. This helps u...&lt;/p&gt;&lt;a href=&quot;https://announcekit.app/kuali/announcements/new-create-linked-documents-without-leaving-your-current-document-2niZLa&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
@@ -279,13 +314,6 @@
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;macOS&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;View downloadsView release notes&lt;/p&gt;&lt;a href=&quot;https://developer.apple.com/news/releases/?id=06222026c&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">7afae9eca42d39cf</guid>
       <pubDate>Mon, 22 Jun 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Workspace - Troubleshoot formula errors quickly with Gemini in Google Sheets</title>
-      <link>http://workspaceupdates.googleblog.com/2026/06/troubleshoot-formula-errors-in-sheets.html</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;We’re excited to introduce a new Gemini in Sheets capability that enables you to diagnose and fix formula errors in one click. When you encounter a formula error, Gemini can analyze the surrounding data structure to help provide an easy-to-understand explanation of the core issue alongside a...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/06/troubleshoot-formula-errors-in-sheets.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">2e31d617be67829e</guid>
-      <pubDate>Mon, 22 Jun 2026 16:51:44 +0000</pubDate>
     </item>
     <item>
       <title>Ad Astra - June 19, 2026</title>
@@ -335,13 +363,6 @@
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Windows&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Hello Windows Insiders, We have new releases today with builds across Beta and Experimental, including Windows 11, version 26H2 for Experimental. Windows 11, version 26H2 Windows 11, version 26H2 represents our yearly second half The post Announcing new builds for 19 June 2026, version 26H2 for...&lt;/p&gt;&lt;a href=&quot;https://blogs.windows.com/windows-insider/2026/06/19/announcing-new-builds-for-19-june-2026-26h2-for-experimental/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">1b2833bee3fe4aeb</guid>
       <pubDate>Fri, 19 Jun 2026 17:07:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Workspace - Google Workspace Weekly Recap - June 19, 2026</title>
-      <link>http://workspaceupdates.googleblog.com/2026/06/weekly-recap-06-19-2026.html</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New discoverable space setting in Google ChatPreviously, spaces were either private (invite-only) or open (anyone in the organization can find and join). Discoverable spaces provide a new option between the two: they appear when users browse for spaces within their organization, but the...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/06/weekly-recap-06-19-2026.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">e3b2a9a201e15ab0</guid>
-      <pubDate>Fri, 19 Jun 2026 10:06:13 +0000</pubDate>
     </item>
     <item>
       <title>Canva - The Create design autofill job API now accepts a type field to support future functionality for different autofill sources. The first supported value</title>
@@ -407,13 +428,6 @@
       <pubDate>Mon, 15 Jun 2026 19:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>Kuali Build - New: Batch Actions from Document Lists</title>
-      <link>https://announcekit.app/kuali/announcements/new-batch-actions-from-document-lists-4n3Pqg</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=kuali.com&amp;sz=64&quot; alt=&quot;Kuali Build&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Kuali Build&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;You can now take action on multiple documents at once directly from a Document List. Managing documents one at a time can be time-consuming,...&lt;/p&gt;&lt;a href=&quot;https://announcekit.app/kuali/announcements/new-batch-actions-from-document-lists-4n3Pqg&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">4694728c86d66f22</guid>
-      <pubDate>Mon, 15 Jun 2026 16:05:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Scribe - Share your Scribes across multiple teams</title>
       <link>https://scribe.launchnotes.io/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;a href=&quot;https://scribe.launchnotes.io/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
@@ -447,13 +461,6 @@
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=canva.com&amp;sz=64&quot; alt=&quot;Canva&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Canva&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;The Create design autofill job API now accepts data values for sheet data fields, which lets you autofill tabular data for sheet elements. Sheet data fields are currently a preview feature.&lt;/p&gt;&lt;a href=&quot;https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">32f7c3ed1697c67d</guid>
       <pubDate>Fri, 12 Jun 2026 01:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canva - The Publish brand template API is now available as a preview. It publishes a design as a brand template, creating a new brand template or updating an</title>
-      <link>https://www.canva.dev/docs/connect/api-reference/brand-templates/publish-brand-template/</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=canva.com&amp;sz=64&quot; alt=&quot;Canva&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Canva&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;The Publish brand template API is now available as a preview. It publishes a design as a brand template, creating a new brand template or updating an existing one if the design is a draft of an existing template.&lt;/p&gt;&lt;a href=&quot;https://www.canva.dev/docs/connect/api-reference/brand-templates/publish-brand-template/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">be3eda2d73c4cdae</guid>
-      <pubDate>Tue, 09 Jun 2026 06:55:59 +0000</pubDate>
     </item>
     <item>
       <title>Ad Astra - June 5, 2026</title>
@@ -517,13 +524,6 @@
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=clickup.com&amp;sz=64&quot; alt=&quot;ClickUp&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ClickUp&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Google Drive Automations, Granular Capacity in Workload View, and Smoother Teammate Onboarding!This week's release automates work between ClickUp and Google Drive, provides more detail into team capacity in Workload view, and lets you onboard invitees to teams faster.✨ Automate Workflows between...&lt;/p&gt;&lt;a href=&quot;https://feedback.clickup.com/changelog/release-notes-403&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">ee39cb69a4114687</guid>
       <pubDate>Wed, 08 Apr 2026 13:54:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>NinjaOne - Gain Better IT Asset Control and Visibility into Software Licensing With NinjaOne 13.0</title>
-      <link>https://www.ninjaone.com/blog/gain-visibility-with-ninjaone-13/</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=ninjaone.com&amp;sz=64&quot; alt=&quot;NinjaOne&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;NinjaOne&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;NinjaOne’s 13.0 release advances IT asset management (ITAM) capabilities with software license improvements that offer greater cost visibility, usage history for custom licenses, and refined control over permissions and assignments. The platform now includes robust Lost Mode support for managed...&lt;/p&gt;&lt;a href=&quot;https://www.ninjaone.com/blog/gain-visibility-with-ninjaone-13/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">e6eed6c1344b6f68</guid>
-      <pubDate>Tue, 31 Mar 2026 14:00:45 +0000</pubDate>
     </item>
     <item>
       <title>PaperCut - 25.0.10</title>
