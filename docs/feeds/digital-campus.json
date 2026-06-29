@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "077e3dc2b00ed18d",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Version Types and Limit Editability",
+    "link": "https://announcekit.app/kuali/announcements/new-version-types-and-limit-editability-3Tyn2E",
+    "summary": "You can now configure Version Types and Limit Editability to control how users interact with forms based on the type of version they're work...",
+    "date": "2026-06-29T16:00:00+00:00"
+  },
+  {
     "id": "de946158c73d1d2a",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-automatically-populate-editable-form-fields-with-data-mapping-2orohq",
     "summary": "We're excited to introduce Data Mappings, a new feature that allows users to automatically populate editable fields in a document using data...",
     "date": "2026-06-22T17:45:00+00:00"
-  },
-  {
-    "id": "998e5358983cf1e9",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Reorder Table and Repeater Rows with Drag and Drop",
-    "link": "https://announcekit.app/kuali/announcements/new-reorder-table-and-repeater-rows-with-drag-and-drop-2edPB6",
-    "summary": "We're excited to introduce a new way to manage data in Table and Repeater gadgets. Users can now reorder rows using drag-and-drop functional...",
-    "date": "2026-06-16T20:35:00+00:00"
   },
   {
     "id": "7afae9eca42d39cf",
@@ -550,6 +550,16 @@
     "date": "2026-06-12T17:09:06.290454+00:00"
   },
   {
+    "id": "3546bcf7ee63a3a6",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "New Block Kit container block",
+    "link": "https://docs.slack.dev/changelog/2026/06/29/block-kit-container-block",
+    "summary": "The container block is now available for Block Kit use.",
+    "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
     "id": "5da76d4ffabed468",
     "product_id": "slack",
     "product_name": "Slack",
@@ -586,18 +596,8 @@
     "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
     "title": "New Block Kit data visualization block",
     "link": "https://docs.slack.dev/changelog/2026/06/16/block-kit-data-visualization-block",
-    "summary": "The data visualization block is now available for use with Block Kit.",
+    "summary": "The data visualization block is now available for Block Kit use.",
     "date": "2026-06-16T00:00:00+00:00"
-  },
-  {
-    "id": "a8a5152fe720f582",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Java Slack SDK v1.49.0",
-    "link": "https://docs.slack.dev/changelog/2026/06/03/java-slack-sdk",
-    "summary": "* We've added authorship arguments (iconemoji, iconurl, and username) to the assistant.threads.setStatus and chat.startStream API methods.",
-    "date": "2026-06-03T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -748,6 +748,26 @@
     "link": "https://developers.zoom.us/changelog/meeting-sdk/electron/7.1.0",
     "summary": "Tags: sdk-version | Add callbacks and interfaces in zoom_meeting_participants_ctrl.js; add support for breakout room summaries; provide ROI for face in raw video data; support on-demand avatar download; fixed a breakout-room joining issue.",
     "date": "2026-06-24T00:00:00+00:00"
+  },
+  {
+    "id": "998e5358983cf1e9",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Reorder Table and Repeater Rows with Drag and Drop",
+    "link": "https://announcekit.app/kuali/announcements/new-reorder-table-and-repeater-rows-with-drag-and-drop-2edPB6",
+    "summary": "We're excited to introduce a new way to manage data in Table and Repeater gadgets. Users can now reorder rows using drag-and-drop functional...",
+    "date": "2026-06-16T20:35:00+00:00"
+  },
+  {
+    "id": "a8a5152fe720f582",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Java Slack SDK v1.49.0",
+    "link": "https://docs.slack.dev/changelog/2026/06/03/java-slack-sdk",
+    "summary": "* We've added authorship arguments (iconemoji, iconurl, and username) to the assistant.threads.setStatus and chat.startStream API methods.",
+    "date": "2026-06-03T00:00:00+00:00"
   },
   {
     "id": "d935c486587aef2b",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/google-meet-now-available-on-android.html",
     "summary": "We’re bringing the power of Google Meet to your vehicle's display with our new integration for Android Auto. This update makes it easy to safely stay connected and handle important meetings hands-free from behind the wheel.Users can now access Google Meet directly from their car's dashboard. This...",
     "date": "2026-06-18T14:43:23+00:00"
-  },
-  {
-    "id": "9ce7581c091cb0dd",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improved management of secondary calendars via the Calendar API",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/secondary-calendar-management-API.html",
-    "summary": "We’re introducing two enhancements to the Calendar API that make it easier for admins to programmatically manage secondary calendars within their organization: a transfer API and a filter for secondary calendars owned by your organization.Transfer APIAs previously announced, the new endpoint in the...",
-    "date": "2026-06-18T14:17:37+00:00"
-  },
-  {
-    "id": "0b0965ff276c5f24",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.6 beta 2 (25G5043d)",
-    "link": "https://developer.apple.com/news/releases/?id=06152026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-06-15T17:00:00+00:00"
   }
 ]
