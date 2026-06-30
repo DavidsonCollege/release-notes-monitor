@@ -440,6 +440,16 @@
     "date": "2026-06-24T14:00:59+00:00"
   },
   {
+    "id": "11333264bfc0aec6",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "26.0.2",
+    "link": "https://www.papercut.com/products/mf/release-history/26-0/",
+    "summary": "Important upgrade information Version 25 and above includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components. Important upgrade information: Upgrading from version 24.x? Please review Important points...",
+    "date": "2026-06-30T00:00:00+00:00"
+  },
+  {
     "id": "192f3d32a50553a3",
     "product_id": "papercut",
     "product_name": "PaperCut",
@@ -478,16 +488,6 @@
     "link": "https://www.papercut.com/products/mf/release-history/25-0/",
     "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
     "date": "2026-02-10T00:00:00+00:00"
-  },
-  {
-    "id": "14378e3d42e688d0",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.6",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2025-11-25T00:00:00+00:00"
   },
   {
     "id": "06a1b6a05e1c3232",
@@ -760,6 +760,16 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "14378e3d42e688d0",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.6",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2025-11-25T00:00:00+00:00"
+  },
+  {
     "id": "a0d7b6c9622b86f7",
     "product_id": "canva",
     "product_name": "Canva",
@@ -987,16 +997,6 @@
     "title": "Version 6.2.0",
     "link": "https://developers.zoom.us/changelog/meeting-sdk/web/6.2.0",
     "summary": "Tags: bug-fix, sdk-version | Client view retires the AI Companion brand, adds Phase 1 ultrasound signaling support for same-device My Notes restriction and fixes a bug where the onUserJoin function had stopped working. Component view optimized the \"Join Meeting\" process.",
-    "date": "2026-06-22T00:00:00+00:00"
-  },
-  {
-    "id": "d8a94c112a947ed7",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Expanded Zoom Phone APIs for call handling, settings, recordings, and voicemail",
-    "link": "https://developers.zoom.us/changelog/phone/june-22-2026",
-    "summary": "Tags: api-release | Added comprehensive Zoom Phone APIs for managing call handling, settings, custom groups, recordings, voicemails, and user configurations across common areas, call queues, shared line groups, auto receptionists, and users. Also enhanced reporting, monitoring group, emergency...",
     "date": "2026-06-22T00:00:00+00:00"
   }
 ]
