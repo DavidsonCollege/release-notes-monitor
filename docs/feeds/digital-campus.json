@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "32462c6742c9d392",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create fully native and editable presentations with Gemini in Google Slides",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/create-fully-native-and-editable-presentations-with-Gemini-in-Google-Slides.html",
+    "summary": "You can now create a full, multi-slide presentation using Gemini in Google Slides. With a single prompt, you can ground the presentation in existing content from Google Drive, match the style of another presentation, and build fully editable slides, allowing you to make any necessary adjustments....",
+    "date": "2026-06-30T15:02:27+00:00"
+  },
+  {
     "id": "69b94b73ddefe1cf",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/updated-admin-setting-for-improved-video-quality-in-Google-Meet.html",
     "summary": "In April 2026, we updated Meet to improve video quality on high-resolution displays. We’re now updating the way the Admin console setting that limits video bandwidth works to reduce data usage and improve call quality.Previously, the ‘Limit video bandwidth’ setting only limited video bandwidth on...",
     "date": "2026-06-29T17:05:55+00:00"
-  },
-  {
-    "id": "7a717e78604f5d39",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - June 26, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/weekly-recap-06-26-2026.html",
-    "summary": "Troubleshoot formula errors quickly with Gemini in Google SheetsWe’re excited to introduce a new Gemini in Sheets capability that enables you to diagnose and fix formula errors in one click. When you encounter a formula error, Gemini can analyze the surrounding data structure to help provide an...",
-    "date": "2026-06-26T18:52:29+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "7a717e78604f5d39",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - June 26, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/weekly-recap-06-26-2026.html",
+    "summary": "Troubleshoot formula errors quickly with Gemini in Google SheetsWe’re excited to introduce a new Gemini in Sheets capability that enables you to diagnose and fix formula errors in one click. When you encounter a formula error, Gemini can analyze the surrounding data structure to help provide an...",
+    "date": "2026-06-26T18:52:29+00:00"
+  },
+  {
     "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
@@ -987,16 +997,6 @@
     "title": "Manage chat channel ownership and access encryption details",
     "link": "https://developers.zoom.us/changelog/chat/june-22-2026",
     "summary": "Tags: api-release | Added an API to transfer ownership of chat channels and enhanced the Chat Session Report API with an `encryption_info` response field for retrieving encryption-related details.",
-    "date": "2026-06-22T00:00:00+00:00"
-  },
-  {
-    "id": "34b3f3e838ba3c7b",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 5.6.0",
-    "link": "https://developers.zoom.us/changelog/contact-center/android/5.6.0",
-    "summary": "Tags: sdk-version | Improved the real-time audio translation logic.",
     "date": "2026-06-22T00:00:00+00:00"
   }
 ]
