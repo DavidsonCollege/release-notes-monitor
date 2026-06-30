@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "2fcfa4873da92ea9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Work with delegated Gmail accounts from mobile devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/work-with-delegated-gmail-accounts-from-mobile-devices.html",
+    "summary": "Previously, users could only work with delegated Gmail accounts through the web interface. We are updating the Gmail app for iOS and Android to allow delegates to read, manage, and compose emails on behalf of a delegator directly from their mobile devices.This update removes a significant barrier...",
+    "date": "2026-06-30T18:26:46+00:00"
+  },
+  {
+    "id": "6bba6279edce48a6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Ask Gemini in Drive now available on mobile",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/ask-gemini-in-drive-now-available-on-mobile.html",
+    "summary": "In April, we announced the general availability of Ask Gemini in Drive on the web. We’re now bringing this feature to the Drive Android and iOS apps.Ask Gemini in Drive offers you a dedicated, immersive workspace designed for deep focus. You can now engage in high-context, multi-turn conversations...",
+    "date": "2026-06-30T17:40:51+00:00"
+  },
+  {
     "id": "32462c6742c9d392",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/assign-mobile-device-management-admin-privileges-based-on-organizational-unit.html",
     "summary": "We’re giving admins more granular control over how mobile device management privileges are delegated. Specifically, admins can be assigned privileges for specific organizational units (OUs), adding another layer of security by scoping access only to necessary OUs.Previously available in beta, we’re...",
     "date": "2026-06-29T19:40:12+00:00"
-  },
-  {
-    "id": "594c02b56072c8ec",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Educators and students can now share Gemini Canvas creations directly to Google Classroom",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/educators-and-students-can-now-share-Gemini-Canvas-creations-directly-to-Google-Classroom.html",
-    "summary": "Educators and students of all ages can now seamlessly attach Gemini Canvas artifacts, like websites, quizzes, interactive games, infographics, and more, to Google Classroom assignments and posts. Right from Gemini Canvas, users can click on the “Share to to Classroom” button. This update allows...",
-    "date": "2026-06-29T18:17:11+00:00"
-  },
-  {
-    "id": "25376d9de93fa5e9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Updated admin setting for improved video quality in Google Meet",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/updated-admin-setting-for-improved-video-quality-in-Google-Meet.html",
-    "summary": "In April 2026, we updated Meet to improve video quality on high-resolution displays. We’re now updating the way the Admin console setting that limits video bandwidth works to reduce data usage and improve call quality.Previously, the ‘Limit video bandwidth’ setting only limited video bandwidth on...",
-    "date": "2026-06-29T17:05:55+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -560,6 +560,16 @@
     "date": "2026-06-12T17:09:06.290454+00:00"
   },
   {
+    "id": "4573b3ff329778bf",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Introducing the Agent messaging experience",
+    "link": "https://docs.slack.dev/changelog/2026/06/30/agent-messages-tab",
+    "summary": "Agents now support a new messaging experience, set by your app manifest:",
+    "date": "2026-06-30T00:00:00+00:00"
+  },
+  {
     "id": "7b3b5782f3ef5c8f",
     "product_id": "slack",
     "product_name": "Slack",
@@ -598,16 +608,6 @@
     "link": "https://docs.slack.dev/changelog/2026/06/18/slackbot-mcp-client",
     "summary": "We're excited to introduce you to the Slackbot MCP Client, which gives you the ability to superpower Slackbot with your desired tools.",
     "date": "2026-06-18T00:00:00+00:00"
-  },
-  {
-    "id": "7b7c5bcc3271ec41",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "System notifications now delivered by \"Slack\" instead of Slackbot",
-    "link": "https://docs.slack.dev/changelog/2026/06/17/system-notifications",
-    "summary": "Slack system notifications (such as channel membership changes, User Group updates, Slack Connect alerts, and retention policy notices) are now delivered from the \"Slack\" system user (USLACK) instead of Slackbot.",
-    "date": "2026-06-17T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -758,6 +758,36 @@
     "link": "https://developers.zoom.us/changelog/scheduler/june-29-2026",
     "summary": "Tags: api-release | Added an API to create a scheduled event attendee.",
     "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "594c02b56072c8ec",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Educators and students can now share Gemini Canvas creations directly to Google Classroom",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/educators-and-students-can-now-share-Gemini-Canvas-creations-directly-to-Google-Classroom.html",
+    "summary": "Educators and students of all ages can now seamlessly attach Gemini Canvas artifacts, like websites, quizzes, interactive games, infographics, and more, to Google Classroom assignments and posts. Right from Gemini Canvas, users can click on the “Share to to Classroom” button. This update allows...",
+    "date": "2026-06-29T18:17:11+00:00"
+  },
+  {
+    "id": "25376d9de93fa5e9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Updated admin setting for improved video quality in Google Meet",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/updated-admin-setting-for-improved-video-quality-in-Google-Meet.html",
+    "summary": "In April 2026, we updated Meet to improve video quality on high-resolution displays. We’re now updating the way the Admin console setting that limits video bandwidth works to reduce data usage and improve call quality.Previously, the ‘Limit video bandwidth’ setting only limited video bandwidth on...",
+    "date": "2026-06-29T17:05:55+00:00"
+  },
+  {
+    "id": "7b7c5bcc3271ec41",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "System notifications now delivered by \"Slack\" instead of Slackbot",
+    "link": "https://docs.slack.dev/changelog/2026/06/17/system-notifications",
+    "summary": "Slack system notifications (such as channel membership changes, User Group updates, Slack Connect alerts, and retention policy notices) are now delivered from the \"Slack\" system user (USLACK) instead of Slackbot.",
+    "date": "2026-06-17T00:00:00+00:00"
   },
   {
     "id": "cfe8c674c005781b",
@@ -968,35 +998,5 @@
     "link": "https://developers.zoom.us/changelog/meeting-sdk/macos/7.1.0",
     "summary": "Tags: sdk-version | Add support for I420Limited and I420Full; remove zMacResRetina.bundle library; add AI Companion support in breakout rooms; provide ROI for face in raw video data; support on-demand avatar download; fixed a freezing issue when joining 800+-participant meetings.",
     "date": "2026-06-24T00:00:00+00:00"
-  },
-  {
-    "id": "e717a7363ea93654",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Connect to Google Meet hardware with room codes now in Early Preview",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/room-codes-google-meet-hardware-early-preview.html",
-    "summary": "Google Meet users can now connect to nearby conference room hardware by entering a 5-character room code on their personal device. Meet recently launched Connect Room using proximity-based detection to identify nearby hardware. This update provides a reliable manual fallback when ultrasound is...",
-    "date": "2026-06-23T18:57:59+00:00"
-  },
-  {
-    "id": "fb794aefe834ef20",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Apps Script is now a Google Workspace core service with enterprise-grade data protection",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/google-apps-script-workspace-core-service.html",
-    "summary": "Google Apps Script is officially a Google Workspace core service. Covered under the Google Cloud Terms of Service and Google Workspace for Education Terms of Service, Apps Script now offers the same enterprise-grade data protection, robust administrative controls, and standard technical support...",
-    "date": "2026-06-23T16:31:06+00:00"
-  },
-  {
-    "id": "32f7c3ed1697c67d",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Create design autofill job API now accepts data values for sheet data fields, which lets you autofill tabular data for sheet elements. Sheet data",
-    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
-    "summary": "The Create design autofill job API now accepts data values for sheet data fields, which lets you autofill tabular data for sheet elements. Sheet data fields are currently a preview feature.",
-    "date": "2026-06-12T01:15:35.628384+00:00"
   }
 ]
