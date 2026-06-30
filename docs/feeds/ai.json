@@ -50,6 +50,26 @@
     "date": "2026-06-10T18:05:07.150228+00:00"
   },
   {
+    "id": "760198d8cafbbfe8",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Sonnet 5 launch",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-30T00:00:00+00:00"
+  },
+  {
+    "id": "8035d6e4a3010df1",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Introducing Claude Sonnet 5",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-30T00:00:00+00:00"
+  },
+  {
     "id": "74cc71c35fc3a747",
     "product_id": "claude",
     "product_name": "Claude",
@@ -78,26 +98,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-06-23T00:00:00+00:00"
-  },
-  {
-    "id": "433f7d82ea2508e9",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Introducing Claude Tag",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-06-23T00:00:00+00:00"
-  },
-  {
-    "id": "8e075b44ea59fdf2",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "our statement",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-06-12T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -148,6 +148,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: With Gemini Spark, we are transforming Gemini from an AI assistant that answers your questions into one that actually works proactively on your behalf.",
     "date": "2026-05-20T18:21:21.902529+00:00"
+  },
+  {
+    "id": "433f7d82ea2508e9",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Introducing Claude Tag",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-23T00:00:00+00:00"
+  },
+  {
+    "id": "8e075b44ea59fdf2",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "our statement",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-12T00:00:00+00:00"
   },
   {
     "id": "69c2316473ed118d",
