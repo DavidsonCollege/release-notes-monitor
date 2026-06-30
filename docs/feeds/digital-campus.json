@@ -1,13 +1,13 @@
 [
   {
-    "id": "68bf4e06214d3b4d",
+    "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
+    "title": "1Password for Android",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "June 23 2026"
+    "date": "June 30 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -760,6 +760,16 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "68bf4e06214d3b4d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "June 23 2026"
+  },
+  {
     "id": "14378e3d42e688d0",
     "product_id": "papercut",
     "product_name": "PaperCut",
@@ -987,16 +997,6 @@
     "title": "Version 5.6.0",
     "link": "https://developers.zoom.us/changelog/contact-center/android/5.6.0",
     "summary": "Tags: sdk-version | Improved the real-time audio translation logic.",
-    "date": "2026-06-22T00:00:00+00:00"
-  },
-  {
-    "id": "e11c7de2c0687b16",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 6.2.0",
-    "link": "https://developers.zoom.us/changelog/meeting-sdk/web/6.2.0",
-    "summary": "Tags: bug-fix, sdk-version | Client view retires the AI Companion brand, adds Phase 1 ultrasound signaling support for same-device My Notes restriction and fixes a bug where the onUserJoin function had stopped working. Component view optimized the \"Join Meeting\" process.",
     "date": "2026-06-22T00:00:00+00:00"
   }
 ]
