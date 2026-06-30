@@ -110,6 +110,26 @@
     "date": "2026-03-06T17:54:27.083316+00:00"
   },
   {
+    "id": "83db8113f06065bd",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: Gemini Spark, your personal AI agent, is coming to the Gemini app for macOS. It helps you navigate your digital life by working on tasks on yo",
+    "link": "https://support.google.com/gemini/answer/17094507?hl=en&co=GENIE.Platform%3DAndroid&sjid=2353166824601345951-NA",
+    "summary": "What: Gemini Spark, your personal AI agent, is coming to the Gemini app for macOS. It helps you navigate your digital life by working on tasks on your behalf. Operating autonomously and under your direction, it organizes folders, uses your local files to build documents, and handles complex...",
+    "date": "2026-06-30T20:46:33.757459+00:00"
+  },
+  {
+    "id": "914671e4c5852939",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: We built this to help you automate your daily busywork, from managing local files to streamlining multi-step projects. With Gemini Spark, we ar",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: We built this to help you automate your daily busywork, from managing local files to streamlining multi-step projects. With Gemini Spark, we are transforming Gemini from an AI assistant that answers your questions into one that actually works proactively on your behalf.",
+    "date": "2026-06-30T20:46:33.757483+00:00"
+  },
+  {
     "id": "43ed6a39dc4f33b6",
     "product_id": "gemini",
     "product_name": "Gemini",

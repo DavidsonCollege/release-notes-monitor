@@ -120,6 +120,16 @@
     "date": "2026-06-16T01:20:07.415268+00:00"
   },
   {
+    "id": "5fe6706279b6dc3c",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "👋 Ask ClickUp&apos;s Head of AI anything about Brain² (Reddit AMA)",
+    "link": "https://feedback.clickup.com/changelog/ask-clickups-head-of-ai-anything-about-brain-reddit-ama",
+    "summary": "Hey, everyone!Jay Hack, ClickUp's Head of AI, is hosting an AMA (Ask Me Anything) on Reddit all about Brain², the ground-up rebuild of ClickUp Brain.🗓️ When: Tuesday, July 7th, 9am–11am PT📍 Where: r/ClickUp on RedditBrain² isn't another chatbot. It's a context-aware AI coworker that understands...",
+    "date": "2026-06-30T19:47:15+00:00"
+  },
+  {
     "id": "7c65b617cc4dc32b",
     "product_id": "clickup",
     "product_name": "ClickUp",
@@ -158,16 +168,6 @@
     "link": "https://feedback.clickup.com/changelog/release-notes-402",
     "summary": "Update Task Types in Views, Pin AI Notetaker, and more! This week’s release unlocks the ability to manage Task Types in Views, add date ranges to Gantt view exports, and so much more. Update Task Type Column in Your Views: Quickly see and update task types directly from your List and Table views....",
     "date": "2026-02-24T18:20:19+00:00"
-  },
-  {
-    "id": "f014c68f141a3a26",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "Super Agents: Release Notes Takeover",
-    "link": "https://feedback.clickup.com/changelog/super-agents-release-notes-takeover",
-    "summary": "Super Agents: The world's first human-like AI AgentsSuper Agents™ are personalized AI teammates that understand your work, use powerful tools, and collaborate like humans. Just describe the problem you want solved, the workflow you want to automate, or where you’re wasting time, and Super Agents...",
-    "date": "2026-01-29T18:19:37+00:00"
   },
   {
     "id": "01fe930feaaa6a09",
@@ -760,6 +760,16 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "f014c68f141a3a26",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Super Agents: Release Notes Takeover",
+    "link": "https://feedback.clickup.com/changelog/super-agents-release-notes-takeover",
+    "summary": "Super Agents: The world's first human-like AI AgentsSuper Agents™ are personalized AI teammates that understand your work, use powerful tools, and collaborate like humans. Just describe the problem you want solved, the workflow you want to automate, or where you’re wasting time, and Super Agents...",
+    "date": "2026-01-29T18:19:37+00:00"
+  },
+  {
     "id": "594c02b56072c8ec",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -987,16 +997,6 @@
     "title": "Version 7.1.0",
     "link": "https://developers.zoom.us/changelog/meeting-sdk/linux/7.1.0",
     "summary": "Tags: sdk-version | Add support for I420Limited and I420Full; add support for breakout room summaries; provide ROI for face in raw video data; support on-demand avatar download.",
-    "date": "2026-06-24T00:00:00+00:00"
-  },
-  {
-    "id": "0494a782e30dde2f",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 7.1.0",
-    "link": "https://developers.zoom.us/changelog/meeting-sdk/macos/7.1.0",
-    "summary": "Tags: sdk-version | Add support for I420Limited and I420Full; remove zMacResRetina.bundle library; add AI Companion support in breakout rooms; provide ROI for face in raw video data; support on-demand avatar download; fixed a freezing issue when joining 800+-participant meetings.",
     "date": "2026-06-24T00:00:00+00:00"
   }
 ]

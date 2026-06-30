@@ -831,14 +831,14 @@
       "name": "temp-call_center_relocation",
       "is_private": false,
       "topic": "",
-      "num_members": 9
+      "num_members": 8
     },
     {
       "id": "C0B1Z72DRPS",
       "name": "temp-duo-desktop",
       "is_private": false,
       "topic": "",
-      "num_members": 15
+      "num_members": 14
     },
     {
       "id": "C0A2V1GMGKZ",
@@ -974,6 +974,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-06-30T19:39:44.352721+00:00",
+  "last_updated": "2026-06-30T20:44:43.817644+00:00",
   "fetch_status": "success"
 }
