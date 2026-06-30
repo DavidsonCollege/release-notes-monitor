@@ -70,6 +70,16 @@
     "date": "2026-05-29T19:21:11Z"
   },
   {
+    "id": "b859d2dbe285873b",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "New preview APIs are available: Get design analytics, Get design analytics viewers, Get design analytics views over time, Get design analytics page vi",
+    "link": "https://www.canva.dev/docs/connect/api-reference/analytics/get-design-analytics/",
+    "summary": "New preview APIs are available: Get design analytics, Get design analytics viewers, Get design analytics views over time, Get design analytics page views, and Get design analytics links. These APIs let you retrieve engagement metrics for a design shared via Canva.",
+    "date": "2026-06-30T01:06:14.398332+00:00"
+  },
+  {
     "id": "db1b79e0952750cf",
     "product_id": "canva",
     "product_name": "Canva",
@@ -108,16 +118,6 @@
     "link": "https://www.canva.dev/docs/connect/changelog/",
     "summary": "Design responses now include a design_types field, and DesignPage responses now include a design_type field. These indicate the type of content a design or page contains, such as doc or presentation. The value unknown is returned when the type cannot be determined. This list may be extended in the...",
     "date": "2026-06-16T01:20:07.415268+00:00"
-  },
-  {
-    "id": "a0d7b6c9622b86f7",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The preview Get design pages API now returns an id for each page, which can be used to correlate pages with per-page data from other APIs.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/#success-response",
-    "summary": "",
-    "date": "2026-06-16T01:20:07.415293+00:00"
   },
   {
     "id": "7c65b617cc4dc32b",
@@ -760,6 +760,16 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "a0d7b6c9622b86f7",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The preview Get design pages API now returns an id for each page, which can be used to correlate pages with per-page data from other APIs.",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/#success-response",
+    "summary": "",
+    "date": "2026-06-16T01:20:07.415293+00:00"
+  },
+  {
     "id": "f703ee59fcfce5a1",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -987,16 +997,6 @@
     "title": "Expanded Zoom Phone APIs for call handling, settings, recordings, and voicemail",
     "link": "https://developers.zoom.us/changelog/phone/june-22-2026",
     "summary": "Tags: api-release | Added comprehensive Zoom Phone APIs for managing call handling, settings, custom groups, recordings, voicemails, and user configurations across common areas, call queues, shared line groups, auto receptionists, and users. Also enhanced reporting, monitoring group, emergency...",
-    "date": "2026-06-22T00:00:00+00:00"
-  },
-  {
-    "id": "4d36162fee0591de",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New endpoints for Workspaces APIs",
-    "link": "https://developers.zoom.us/changelog/rooms/june-22-2026",
-    "summary": "Tags: api-release | Added new endpoints to Workspaces API.",
     "date": "2026-06-22T00:00:00+00:00"
   }
 ]
