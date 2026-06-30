@@ -560,6 +560,16 @@
     "date": "2026-06-12T17:09:06.290454+00:00"
   },
   {
+    "id": "7b3b5782f3ef5c8f",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.4.0",
+    "link": "https://docs.slack.dev/changelog/2026/06/30/slack-cli",
+    "summary": "Version 4.4.0 of the Slack CLI is here!",
+    "date": "2026-06-30T00:00:00+00:00"
+  },
+  {
     "id": "3546bcf7ee63a3a6",
     "product_id": "slack",
     "product_name": "Slack",
@@ -598,16 +608,6 @@
     "link": "https://docs.slack.dev/changelog/2026/06/17/system-notifications",
     "summary": "Slack system notifications (such as channel membership changes, User Group updates, Slack Connect alerts, and retention policy notices) are now delivered from the \"Slack\" system user (USLACK) instead of Slackbot.",
     "date": "2026-06-17T00:00:00+00:00"
-  },
-  {
-    "id": "cfe8c674c005781b",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "New Block Kit data visualization block",
-    "link": "https://docs.slack.dev/changelog/2026/06/16/block-kit-data-visualization-block",
-    "summary": "The data visualization block is now available for Block Kit use.",
-    "date": "2026-06-16T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -758,6 +758,16 @@
     "link": "https://developers.zoom.us/changelog/scheduler/june-29-2026",
     "summary": "Tags: api-release | Added an API to create a scheduled event attendee.",
     "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "cfe8c674c005781b",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "New Block Kit data visualization block",
+    "link": "https://docs.slack.dev/changelog/2026/06/16/block-kit-data-visualization-block",
+    "summary": "The data visualization block is now available for Block Kit use.",
+    "date": "2026-06-16T00:00:00+00:00"
   },
   {
     "id": "7a717e78604f5d39",
@@ -988,15 +998,5 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
     "summary": "The Create design autofill job API now accepts data values for sheet data fields, which lets you autofill tabular data for sheet elements. Sheet data fields are currently a preview feature.",
     "date": "2026-06-12T01:15:35.628384+00:00"
-  },
-  {
-    "id": "de2ef4afc4404c21",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Manage chat channel ownership and access encryption details",
-    "link": "https://developers.zoom.us/changelog/chat/june-22-2026",
-    "summary": "Tags: api-release | Added an API to transfer ownership of chat channels and enhanced the Chat Session Report API with an `encryption_info` response field for retrieving encryption-related details.",
-    "date": "2026-06-22T00:00:00+00:00"
   }
 ]
