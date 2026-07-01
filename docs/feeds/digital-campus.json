@@ -520,24 +520,24 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "b2c548172457641a",
+    "id": "1b99482d9569d4b5",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Share your Scribes across multiple teams",
+    "title": "Organize your teams into Departments",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "June 12, 2026"
+    "date": "July 1, 2026"
   },
   {
-    "id": "41380d27492e1b6a",
+    "id": "8ffb9ee70a3ed84e",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Share your Scribes across multiple teams",
-    "link": "https://scribe.launchnotes.io/announcements/share-your-scribes-across-multiple-teams",
+    "title": "Organize your teams into Departments",
+    "link": "https://scribe.launchnotes.io/announcements/organize-your-teams-into-departments",
     "summary": "Loading...",
-    "date": "June 12, 2026"
+    "date": "July 1, 2026"
   },
   {
     "id": "75beafef86e8310f",
@@ -550,14 +550,14 @@
     "date": "2026-06-12T17:09:06.290434+00:00"
   },
   {
-    "id": "fce25c7c704abcf2",
+    "id": "b161acb7919c5a78",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Share your Scribes across multiple teams",
+    "title": "Organize your teams into Departments",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-06-12T17:09:06.290454+00:00"
+    "date": "2026-07-01T21:06:02.008477+00:00"
   },
   {
     "id": "4573b3ff329778bf",
@@ -758,6 +758,36 @@
     "link": "https://developers.zoom.us/changelog/scheduler/june-29-2026",
     "summary": "Tags: api-release | Added an API to create a scheduled event attendee.",
     "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "b2c548172457641a",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Share your Scribes across multiple teams",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "June 12, 2026"
+  },
+  {
+    "id": "41380d27492e1b6a",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Share your Scribes across multiple teams",
+    "link": "https://scribe.launchnotes.io/announcements/share-your-scribes-across-multiple-teams",
+    "summary": "Loading...",
+    "date": "June 12, 2026"
+  },
+  {
+    "id": "fce25c7c704abcf2",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Share your Scribes across multiple teams",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-06-12T17:09:06.290454+00:00"
   },
   {
     "id": "69b94b73ddefe1cf",
@@ -968,35 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=06222026c",
     "summary": "View downloadsView release notes",
     "date": "2026-06-22T17:00:00+00:00"
-  },
-  {
-    "id": "998e5358983cf1e9",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Reorder Table and Repeater Rows with Drag and Drop",
-    "link": "https://announcekit.app/kuali/announcements/new-reorder-table-and-repeater-rows-with-drag-and-drop-2edPB6",
-    "summary": "We're excited to introduce a new way to manage data in Table and Repeater gadgets. Users can now reorder rows using drag-and-drop functional...",
-    "date": "2026-06-16T20:35:00+00:00"
-  },
-  {
-    "id": "a8a5152fe720f582",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Java Slack SDK v1.49.0",
-    "link": "https://docs.slack.dev/changelog/2026/06/03/java-slack-sdk",
-    "summary": "* We've added authorship arguments (iconemoji, iconurl, and username) to the assistant.threads.setStatus and chat.startStream API methods.",
-    "date": "2026-06-03T00:00:00+00:00"
-  },
-  {
-    "id": "d935c486587aef2b",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "May 22, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/49519305679508-May-22-2026",
-    "summary": "",
-    "date": "2026-05-22T17:30:09Z"
   }
 ]
