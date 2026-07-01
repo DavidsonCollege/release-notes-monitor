@@ -15,13 +15,6 @@
       "num_members": 38
     },
     {
-      "id": "C0AJ45N511V",
-      "name": "ai-product-updates",
-      "is_private": true,
-      "topic": "",
-      "num_members": 8
-    },
-    {
       "id": "C017KEZG1CP",
       "name": "announcements",
       "is_private": false,
@@ -792,6 +785,13 @@
       "num_members": 15
     },
     {
+      "id": "C0BEGST8GLV",
+      "name": "team-platform-engineering",
+      "is_private": false,
+      "topic": "",
+      "num_members": 3
+    },
+    {
       "id": "C2BPHND42",
       "name": "team-support-center",
       "is_private": false,
@@ -974,6 +974,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-07-01T21:04:17.975702+00:00",
+  "last_updated": "2026-07-01T22:03:01.855263+00:00",
   "fetch_status": "success"
 }
