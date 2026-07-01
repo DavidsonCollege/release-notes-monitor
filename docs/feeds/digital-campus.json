@@ -660,56 +660,6 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
-    "id": "9bb0c3586958fa7f",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New response and request fields for Accounts API",
-    "link": "https://developers.zoom.us/changelog/accounts/june-29-2026",
-    "summary": "Tags: api-release | Added new fields to Accounts API.",
-    "date": "2026-06-29T00:00:00+00:00"
-  },
-  {
-    "id": "7431fdd96e858cfc",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Add chat channel tab migration API",
-    "link": "https://developers.zoom.us/changelog/chat/june-29-2026",
-    "summary": "Tags: api-release | Added an API to migrate tabs for a chat channel.",
-    "date": "2026-06-29T00:00:00+00:00"
-  },
-  {
-    "id": "1ce13786143cab1f",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.6.0",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.6.0",
-    "summary": "Tags: sdk-version | Annotation supports snap to element.Optimized error messages.Optimized annotation eraser hit detection.",
-    "date": "2026-06-29T00:00:00+00:00"
-  },
-  {
-    "id": "1a800aa2b3991ffb",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Update call queue custom groups",
-    "link": "https://developers.zoom.us/changelog/phone/june-29-2026",
-    "summary": "Tags: api-release | Added APIs to update custom groups in Zoom Phone call queues.",
-    "date": "2026-06-29T00:00:00+00:00"
-  },
-  {
-    "id": "327d8cc56463406d",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Add scheduled event attendee API",
-    "link": "https://developers.zoom.us/changelog/scheduler/june-29-2026",
-    "summary": "Tags: api-release | Added an API to create a scheduled event attendee.",
-    "date": "2026-06-29T00:00:00+00:00"
-  },
-  {
     "id": "b5a7bdb310d375d2",
     "product_id": "windows",
     "product_name": "Windows",
@@ -758,6 +708,56 @@
     "link": "https://blogs.windows.com/windows-insider/2026/05/14/announcing-new-release-preview-builds-for-14-may-2026/",
     "summary": "[19 May 2026: Updated build numbers for new releases containing bug fixes - see release notes for details] Hello Windows Insiders, Today we're releasing new builds for Release Preview across our supported versions of Windows 11. Please see the bu The post Announcing new Release Preview builds for...",
     "date": "2026-05-14T17:05:26+00:00"
+  },
+  {
+    "id": "9bb0c3586958fa7f",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New response and request fields for Accounts API",
+    "link": "https://developers.zoom.us/changelog/accounts/june-29-2026",
+    "summary": "Tags: api-release | Added new fields to Accounts API.",
+    "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "7431fdd96e858cfc",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add chat channel tab migration API",
+    "link": "https://developers.zoom.us/changelog/chat/june-29-2026",
+    "summary": "Tags: api-release | Added an API to migrate tabs for a chat channel.",
+    "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "1ce13786143cab1f",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 3.6.0",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.6.0",
+    "summary": "Tags: sdk-version | Annotation supports snap to element.Optimized error messages.Optimized annotation eraser hit detection.",
+    "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "1a800aa2b3991ffb",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Update call queue custom groups",
+    "link": "https://developers.zoom.us/changelog/phone/june-29-2026",
+    "summary": "Tags: api-release | Added APIs to update custom groups in Zoom Phone call queues.",
+    "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "327d8cc56463406d",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add scheduled event attendee API",
+    "link": "https://developers.zoom.us/changelog/scheduler/june-29-2026",
+    "summary": "Tags: api-release | Added an API to create a scheduled event attendee.",
+    "date": "2026-06-29T00:00:00+00:00"
   },
   {
     "id": "2013eed73213dbda",
