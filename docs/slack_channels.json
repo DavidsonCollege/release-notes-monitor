@@ -782,7 +782,7 @@
       "name": "team-moodle",
       "is_private": false,
       "topic": "",
-      "num_members": 9
+      "num_members": 8
     },
     {
       "id": "C09UL58UWUA",
@@ -974,6 +974,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-07-01T12:04:21.065149+00:00",
+  "last_updated": "2026-07-01T13:25:51.199318+00:00",
   "fetch_status": "success"
 }
