@@ -50,6 +50,16 @@
     "date": "2026-06-10T18:05:07.150228+00:00"
   },
   {
+    "id": "4c7618a597f259ca",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Access to Claude Fable 5 and Claude Mythos 5 restored",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-01T00:00:00+00:00"
+  },
+  {
     "id": "725b48e6b5a00b85",
     "product_id": "claude",
     "product_name": "Claude",
@@ -88,16 +98,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-06-30T00:00:00+00:00"
-  },
-  {
-    "id": "74cc71c35fc3a747",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Enable Trusted Devices for Remote Control",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-06-25T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -148,6 +148,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: With Gemini Spark, we are transforming Gemini from an AI assistant that answers your questions into one that actually works proactively on your behalf.",
     "date": "2026-05-20T18:21:21.902529+00:00"
+  },
+  {
+    "id": "74cc71c35fc3a747",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Enable Trusted Devices for Remote Control",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-25T00:00:00+00:00"
   },
   {
     "id": "85d69c9f2d632d1f",
