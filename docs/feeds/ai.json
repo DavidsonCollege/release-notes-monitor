@@ -50,6 +50,26 @@
     "date": "2026-06-10T18:05:07.150228+00:00"
   },
   {
+    "id": "725b48e6b5a00b85",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Model entitlements for Enterprise plans (beta)",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-01T00:00:00+00:00"
+  },
+  {
+    "id": "2e220dc712342908",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Manage model access for your organization",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-01T00:00:00+00:00"
+  },
+  {
     "id": "760198d8cafbbfe8",
     "product_id": "claude",
     "product_name": "Claude",
@@ -78,26 +98,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-06-25T00:00:00+00:00"
-  },
-  {
-    "id": "85d69c9f2d632d1f",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Trusted Devices",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-06-25T00:00:00+00:00"
-  },
-  {
-    "id": "7fdc5c89ae1569b3",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Delegate work to Claude in Slack with Claude Tag",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-06-23T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -148,6 +148,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: With Gemini Spark, we are transforming Gemini from an AI assistant that answers your questions into one that actually works proactively on your behalf.",
     "date": "2026-05-20T18:21:21.902529+00:00"
+  },
+  {
+    "id": "85d69c9f2d632d1f",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Trusted Devices",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-25T00:00:00+00:00"
+  },
+  {
+    "id": "7fdc5c89ae1569b3",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Delegate work to Claude in Slack with Claude Tag",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-06-23T00:00:00+00:00"
   },
   {
     "id": "433f7d82ea2508e9",
