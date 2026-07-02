@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "e4d262db0e28e51d",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Propose Revisions to Completed Documents",
+    "link": "https://announcekit.app/kuali/announcements/new-propose-revisions-to-completed-documents-4lWg36",
+    "summary": "You now have another way to update existing documents. In addition to editing a document directly or creating a new version, you can now pro...",
+    "date": "2026-07-02T21:30:00+00:00"
+  },
+  {
     "id": "077e3dc2b00ed18d",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-create-linked-documents-without-leaving-your-current-document-2niZLa",
     "summary": "We’re excited to introduce Inline Document Creation, a new way to create and link related documents while you continue working. This helps u...",
     "date": "2026-06-22T21:45:00+00:00"
-  },
-  {
-    "id": "9625f24bdbdae4b7",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Automatically Populate Editable Form Fields with Data Mapping",
-    "link": "https://announcekit.app/kuali/announcements/new-automatically-populate-editable-form-fields-with-data-mapping-2orohq",
-    "summary": "We're excited to introduce Data Mappings, a new feature that allows users to automatically populate editable fields in a document using data...",
-    "date": "2026-06-22T17:45:00+00:00"
   },
   {
     "id": "5c587af009ab46b4",
@@ -710,6 +710,16 @@
     "date": "2026-05-14T17:05:26+00:00"
   },
   {
+    "id": "a0e81cb706a45a2b",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Warm transfer with Zoom Phone",
+    "link": "https://developers.zoom.us/changelog/phone/july-02-2026",
+    "summary": "Tags: api-release, breaking-change | As of May 18th 2026, internal changes were made that require a new retrieval process for accessing warm transfer call data. The following sections outline the changes. Moving forward, make sure your systems use the appropriate implementation methods to ensure...",
+    "date": "2026-07-02T00:00:00+00:00"
+  },
+  {
     "id": "9bb0c3586958fa7f",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -738,6 +748,26 @@
     "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.6.0",
     "summary": "Tags: sdk-version | Annotation supports snap to element.Optimized error messages.Optimized annotation eraser hit detection.",
     "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "2d21f69a6011d30a",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 5.6.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/ios/5.6.0",
+    "summary": "Tags: sdk-version | Updates to real-time audio translator and AI live interpreter.",
+    "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "9625f24bdbdae4b7",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Automatically Populate Editable Form Fields with Data Mapping",
+    "link": "https://announcekit.app/kuali/announcements/new-automatically-populate-editable-form-fields-with-data-mapping-2orohq",
+    "summary": "We're excited to introduce Data Mappings, a new feature that allows users to automatically populate editable fields in a document using data...",
+    "date": "2026-06-22T17:45:00+00:00"
   },
   {
     "id": "1a800aa2b3991ffb",
@@ -968,35 +998,5 @@
     "link": "https://developers.zoom.us/changelog/clips/june-25-2026",
     "summary": "Tags: api-release | Added a new API to update a clip's sharing settings.",
     "date": "2026-06-25T00:00:00+00:00"
-  },
-  {
-    "id": "f03a14398bac068f",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Workspaces webhook",
-    "link": "https://developers.zoom.us/changelog/rooms/june-25-2026",
-    "summary": "Tags: api-release | Added new webhook for Workspaces.",
-    "date": "2026-06-25T00:00:00+00:00"
-  },
-  {
-    "id": "46ffc420da3fd744",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 7.1.0",
-    "link": "https://developers.zoom.us/changelog/meeting-sdk/android/7.1.0",
-    "summary": "Tags: sdk-version | Add support for I420Limited and I420Full; add support for breakout room summaries; provide ROI for face in raw video data; support on-demand avatar download.",
-    "date": "2026-06-24T00:00:00+00:00"
-  },
-  {
-    "id": "1f36898b463f4b1a",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 7.1.0",
-    "link": "https://developers.zoom.us/changelog/meeting-sdk/electron/7.1.0",
-    "summary": "Tags: sdk-version | Add callbacks and interfaces in zoom_meeting_participants_ctrl.js; add support for breakout room summaries; provide ROI for face in raw video data; support on-demand avatar download; fixed a breakout-room joining issue.",
-    "date": "2026-06-24T00:00:00+00:00"
   }
 ]

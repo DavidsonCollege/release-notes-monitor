@@ -12,7 +12,7 @@
       "name": "ai",
       "is_private": false,
       "topic": "",
-      "num_members": 38
+      "num_members": 37
     },
     {
       "id": "C017KEZG1CP",
@@ -257,7 +257,7 @@
       "name": "ideas",
       "is_private": false,
       "topic": "Ideas for IT@Davidson",
-      "num_members": 50
+      "num_members": 51
     },
     {
       "id": "C07QZEBRGFL",
@@ -278,7 +278,7 @@
       "name": "loc-jackson",
       "is_private": false,
       "topic": "",
-      "num_members": 23
+      "num_members": 22
     },
     {
       "id": "C07S8TVD13P",
@@ -313,7 +313,7 @@
       "name": "on-call",
       "is_private": false,
       "topic": "",
-      "num_members": 14
+      "num_members": 13
     },
     {
       "id": "C0ALV8BRW4R",
@@ -376,7 +376,7 @@
       "name": "privacy",
       "is_private": false,
       "topic": "",
-      "num_members": 13
+      "num_members": 12
     },
     {
       "id": "C012E651KHQ",
@@ -460,7 +460,7 @@
       "name": "proj-network-access-control",
       "is_private": false,
       "topic": "",
-      "num_members": 15
+      "num_members": 14
     },
     {
       "id": "C07KBHB8K5M",
@@ -516,7 +516,7 @@
       "name": "proj-research-computing-ncshare",
       "is_private": false,
       "topic": "",
-      "num_members": 4
+      "num_members": 3
     },
     {
       "id": "C01L8J2L22H",
@@ -558,7 +558,7 @@
       "name": "quarantine-release-request",
       "is_private": false,
       "topic": "",
-      "num_members": 4
+      "num_members": 3
     },
     {
       "id": "C2DMWS4TE",
@@ -593,7 +593,7 @@
       "name": "relationship-mgmt",
       "is_private": false,
       "topic": "",
-      "num_members": 8
+      "num_members": 7
     },
     {
       "id": "C027KHW6DP0",
@@ -607,14 +607,14 @@
       "name": "security",
       "is_private": false,
       "topic": "",
-      "num_members": 32
+      "num_members": 31
     },
     {
       "id": "C0769Q158AC",
       "name": "security-alerts",
       "is_private": false,
       "topic": "",
-      "num_members": 6
+      "num_members": 5
     },
     {
       "id": "C05018WTXNC",
@@ -691,7 +691,7 @@
       "name": "team-academic-tech",
       "is_private": false,
       "topic": "",
-      "num_members": 18
+      "num_members": 17
     },
     {
       "id": "C09S2BHTFRA",
@@ -712,14 +712,14 @@
       "name": "team-cab",
       "is_private": false,
       "topic": "",
-      "num_members": 24
+      "num_members": 23
     },
     {
       "id": "C0284T6CGDA",
       "name": "team-cio-office",
       "is_private": false,
       "topic": "",
-      "num_members": 11
+      "num_members": 10
     },
     {
       "id": "C023CHSMEJC",
@@ -733,7 +733,7 @@
       "name": "team-digital-campus",
       "is_private": false,
       "topic": "",
-      "num_members": 32
+      "num_members": 31
     },
     {
       "id": "C7JP91KEX",
@@ -754,21 +754,21 @@
       "name": "team-finance-and-admin",
       "is_private": false,
       "topic": "",
-      "num_members": 7
+      "num_members": 6
     },
     {
       "id": "C64R0G4UT",
       "name": "team-id",
       "is_private": false,
       "topic": "",
-      "num_members": 6
+      "num_members": 5
     },
     {
       "id": "C2C29H481",
       "name": "team-infrastructure",
       "is_private": false,
       "topic": "",
-      "num_members": 37
+      "num_members": 36
     },
     {
       "id": "C03SHVDPLJX",
@@ -796,7 +796,7 @@
       "name": "team-support-center",
       "is_private": false,
       "topic": "",
-      "num_members": 65
+      "num_members": 64
     },
     {
       "id": "C685C8F6K",
@@ -838,7 +838,7 @@
       "name": "temp-duo-desktop",
       "is_private": false,
       "topic": "",
-      "num_members": 14
+      "num_members": 13
     },
     {
       "id": "C0A2V1GMGKZ",
@@ -887,7 +887,7 @@
       "name": "vendor-ops",
       "is_private": false,
       "topic": "",
-      "num_members": 7
+      "num_members": 6
     },
     {
       "id": "C77ED5XN1",
@@ -974,6 +974,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-07-02T20:33:10.233862+00:00",
+  "last_updated": "2026-07-02T21:29:14.487006+00:00",
   "fetch_status": "success"
 }
