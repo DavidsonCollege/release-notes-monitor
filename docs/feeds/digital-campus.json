@@ -120,6 +120,16 @@
     "date": "2026-06-16T01:20:07.415268+00:00"
   },
   {
+    "id": "03b6bc06dc04399d",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Brain²: Release Notes Takeover",
+    "link": "https://feedback.clickup.com/changelog/brain-release-notes-takeover",
+    "summary": "Hey, Community!This week's ClickUpdates is a full Brain² takeover. Brain² self-improves, routes to the best models, and actually completes your work. It creates websites, builds slides, and manages projects while co-working with your entire team. Use every model you're used to, on every device, for...",
+    "date": "2026-07-02T13:47:29+00:00"
+  },
+  {
     "id": "5fe6706279b6dc3c",
     "product_id": "clickup",
     "product_name": "ClickUp",
@@ -158,16 +168,6 @@
     "link": "https://feedback.clickup.com/changelog/release-notes-403",
     "summary": "Google Drive Automations, Granular Capacity in Workload View, and Smoother Teammate Onboarding!This week's release automates work between ClickUp and Google Drive, provides more detail into team capacity in Workload view, and lets you onboard invitees to teams faster.✨ Automate Workflows between...",
     "date": "2026-04-08T13:54:50+00:00"
-  },
-  {
-    "id": "2aa25658903bd41b",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "Release Notes 4.02",
-    "link": "https://feedback.clickup.com/changelog/release-notes-402",
-    "summary": "Update Task Types in Views, Pin AI Notetaker, and more! This week’s release unlocks the ability to manage Task Types in Views, add date ranges to Gantt view exports, and so much more. Update Task Type Column in Your Views: Quickly see and update task types directly from your List and Table views....",
-    "date": "2026-02-24T18:20:19+00:00"
   },
   {
     "id": "01fe930feaaa6a09",
@@ -560,6 +560,16 @@
     "date": "2026-07-01T21:06:02.008477+00:00"
   },
   {
+    "id": "09f997080d6a3717",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Agent context has landed",
+    "link": "https://docs.slack.dev/changelog/2026/07/02/app-context",
+    "summary": "Agent apps can now receive context about what a user is currently viewing when they send a message. When a user has a channel, DM, thread, canvas, or list open and messages your app, Slack will pass that context automatically.",
+    "date": "2026-07-02T00:00:00+00:00"
+  },
+  {
     "id": "4573b3ff329778bf",
     "product_id": "slack",
     "product_name": "Slack",
@@ -597,16 +607,6 @@
     "title": "Release: Slack CLI v4.3.0",
     "link": "https://docs.slack.dev/changelog/2026/06/18/slack-cli",
     "summary": "Version 4.3.0 of the Slack CLI is here!",
-    "date": "2026-06-18T00:00:00+00:00"
-  },
-  {
-    "id": "4b76cf950e545596",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Announcing the Slackbot MCP Client",
-    "link": "https://docs.slack.dev/changelog/2026/06/18/slackbot-mcp-client",
-    "summary": "We're excited to introduce you to the Slackbot MCP Client, which gives you the ability to superpower Slackbot with your desired tools.",
     "date": "2026-06-18T00:00:00+00:00"
   },
   {
@@ -758,6 +758,26 @@
     "link": "https://developers.zoom.us/changelog/scheduler/june-29-2026",
     "summary": "Tags: api-release | Added an API to create a scheduled event attendee.",
     "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "2aa25658903bd41b",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Release Notes 4.02",
+    "link": "https://feedback.clickup.com/changelog/release-notes-402",
+    "summary": "Update Task Types in Views, Pin AI Notetaker, and more! This week’s release unlocks the ability to manage Task Types in Views, add date ranges to Gantt view exports, and so much more. Update Task Type Column in Your Views: Quickly see and update task types directly from your List and Table views....",
+    "date": "2026-02-24T18:20:19+00:00"
+  },
+  {
+    "id": "4b76cf950e545596",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Announcing the Slackbot MCP Client",
+    "link": "https://docs.slack.dev/changelog/2026/06/18/slackbot-mcp-client",
+    "summary": "We're excited to introduce you to the Slackbot MCP Client, which gives you the ability to superpower Slackbot with your desired tools.",
+    "date": "2026-06-18T00:00:00+00:00"
   },
   {
     "id": "b2c548172457641a",
@@ -978,25 +998,5 @@
     "link": "https://developers.zoom.us/changelog/meeting-sdk/electron/7.1.0",
     "summary": "Tags: sdk-version | Add callbacks and interfaces in zoom_meeting_participants_ctrl.js; add support for breakout room summaries; provide ROI for face in raw video data; support on-demand avatar download; fixed a breakout-room joining issue.",
     "date": "2026-06-24T00:00:00+00:00"
-  },
-  {
-    "id": "ae9b00947a7e316d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Updates to Gemini in Google Classroom",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/updates-to-gemini-in-google-classroom.html",
-    "summary": "We are introducing several updates to the Gemini tab in Google Classroom designed to make its tools even more helpful for teachers. These changes make it easier for educators to collaborate with AI and create visual aids from any device, while expanding options for refining lesson plans.Mobile...",
-    "date": "2026-06-24T20:48:48+00:00"
-  },
-  {
-    "id": "7afae9eca42d39cf",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 beta 2 (26A5368g)",
-    "link": "https://developer.apple.com/news/releases/?id=06222026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-06-22T17:00:00+00:00"
   }
 ]
