@@ -660,6 +660,16 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "8563fef570c790a7",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for July 6 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/07/06/announcing-new-builds-for-july-6-2026/",
+    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental. New builds this week Today we are releasing new Windows 11 Insider Preview Builds. As a reminder, all Insiders can find the rel The post Announcing new builds for July 6 2026 appeared first on Windows...",
+    "date": "2026-07-06T21:06:46+00:00"
+  },
+  {
     "id": "b5a7bdb310d375d2",
     "product_id": "windows",
     "product_name": "Windows",
@@ -698,16 +708,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/05/29/announcing-new-builds-for-29-may-2026/",
     "summary": "Hello Windows Insiders, This week we continue to expand the rollout of the new Windows Insider Program changes to devices in channels already announced. New builds this week Today we are releasing new Windows 11 Insider Preview B The post Announcing new builds for 29 May 2026 appeared first on...",
     "date": "2026-05-29T17:05:27+00:00"
-  },
-  {
-    "id": "de0111061eccd47e",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new Release Preview builds for 14 May 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/05/14/announcing-new-release-preview-builds-for-14-may-2026/",
-    "summary": "[19 May 2026: Updated build numbers for new releases containing bug fixes - see release notes for details] Hello Windows Insiders, Today we're releasing new builds for Release Preview across our supported versions of Windows 11. Please see the bu The post Announcing new Release Preview builds for...",
-    "date": "2026-05-14T17:05:26+00:00"
   },
   {
     "id": "65d92c52f695d83f",
@@ -758,6 +758,16 @@
     "link": "https://developers.zoom.us/changelog/chat/june-29-2026",
     "summary": "Tags: api-release | Added a new API to create tabs in a chat channel during migration.",
     "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "de0111061eccd47e",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new Release Preview builds for 14 May 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/05/14/announcing-new-release-preview-builds-for-14-may-2026/",
+    "summary": "[19 May 2026: Updated build numbers for new releases containing bug fixes - see release notes for details] Hello Windows Insiders, Today we're releasing new builds for Release Preview across our supported versions of Windows 11. Please see the bu The post Announcing new Release Preview builds for...",
+    "date": "2026-05-14T17:05:26+00:00"
   },
   {
     "id": "7431fdd96e858cfc",
@@ -988,15 +998,5 @@
     "link": "https://docs.slack.dev/changelog/2026/06/17/system-notifications",
     "summary": "Slack system notifications (such as channel membership changes, User Group updates, Slack Connect alerts, and retention policy notices) are now delivered from the \"Slack\" system user (USLACK) instead of Slackbot.",
     "date": "2026-06-17T00:00:00+00:00"
-  },
-  {
-    "id": "cfe8c674c005781b",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "New Block Kit data visualization block",
-    "link": "https://docs.slack.dev/changelog/2026/06/16/block-kit-data-visualization-block",
-    "summary": "The data visualization block is now available for Block Kit use.",
-    "date": "2026-06-16T00:00:00+00:00"
   }
 ]
