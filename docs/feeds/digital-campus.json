@@ -7,7 +7,7 @@
     "title": "1Password for Android Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "July 1 2026"
+    "date": "July 6 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -310,6 +310,16 @@
     "date": "2025-11-21T16:13:40+00:00"
   },
   {
+    "id": "17756a50ee75b5f6",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "June Release Update",
+    "link": "https://announcekit.app/kuali/announcements/june-release-update-2njgOc",
+    "summary": "improvements We've now released Versions and Document History for all Build users. This makes Revisions function detailed below, as well as...",
+    "date": "2026-07-06T17:00:00+00:00"
+  },
+  {
     "id": "e4d262db0e28e51d",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -350,34 +360,24 @@
     "date": "2026-06-24T20:45:00+00:00"
   },
   {
-    "id": "59b99865182477d0",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Create Linked Documents Without Leaving Your Current Document",
-    "link": "https://announcekit.app/kuali/announcements/new-create-linked-documents-without-leaving-your-current-document-2niZLa",
-    "summary": "We’re excited to introduce Inline Document Creation, a new way to create and link related documents while you continue working. This helps u...",
-    "date": "2026-06-22T21:45:00+00:00"
-  },
-  {
-    "id": "5c587af009ab46b4",
+    "id": "53100ee7d59cd579",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.6 beta 3 (25G5052e)",
-    "link": "https://developer.apple.com/news/releases/?id=06292026f",
+    "title": "macOS 27.0 beta 3 (26A5378j)",
+    "link": "https://developer.apple.com/news/releases/?id=07062026i",
     "summary": "View downloadsView release notes",
-    "date": "2026-06-29T17:00:00+00:00"
+    "date": "2026-07-06T17:00:00+00:00"
   },
   {
-    "id": "01dd937fdd41cdb4",
+    "id": "4bc209d3c4a21f0b",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.5.2 (25F84)",
-    "link": "https://developer.apple.com/news/releases/?id=06292026c",
-    "summary": "View downloads",
-    "date": "2026-06-29T17:00:00+00:00"
+    "title": "macOS 26.6 beta 4 (25G5057c)",
+    "link": "https://developer.apple.com/news/releases/?id=07062026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-07-06T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -760,6 +760,36 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "59b99865182477d0",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Create Linked Documents Without Leaving Your Current Document",
+    "link": "https://announcekit.app/kuali/announcements/new-create-linked-documents-without-leaving-your-current-document-2niZLa",
+    "summary": "We’re excited to introduce Inline Document Creation, a new way to create and link related documents while you continue working. This helps u...",
+    "date": "2026-06-22T21:45:00+00:00"
+  },
+  {
+    "id": "5c587af009ab46b4",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.6 beta 3 (25G5052e)",
+    "link": "https://developer.apple.com/news/releases/?id=06292026f",
+    "summary": "View downloadsView release notes",
+    "date": "2026-06-29T17:00:00+00:00"
+  },
+  {
+    "id": "01dd937fdd41cdb4",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.5.2 (25F84)",
+    "link": "https://developer.apple.com/news/releases/?id=06292026c",
+    "summary": "View downloads",
+    "date": "2026-06-29T17:00:00+00:00"
+  },
+  {
     "id": "6bba6279edce48a6",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -968,35 +998,5 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-pages/#success-response",
     "summary": "",
     "date": "2026-06-16T01:20:07.415293+00:00"
-  },
-  {
-    "id": "f703ee59fcfce5a1",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Streamline your data backups with incremental exports for Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/streamline-your-data-backups-with-incremental-exports-for-Google-Workspace.html",
-    "summary": "Google Workspace administrators can now utilize incremental exports when backing up organizational data. Instead of re-exporting their entire organization's data, admins can export frequent snapshots of their data into their organization’s own Google Cloud Storage (GCS) bucket.Key benefits include...",
-    "date": "2026-06-26T15:00:46+00:00"
-  },
-  {
-    "id": "a398167c12a224ea",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Read Along in Google Classroom is now available to all education users to support foundational literacy",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/read-along-in-google-classroom-is-now-available-to-all-education-users-to-support-foundational-literacy.html",
-    "summary": "Read Along in Google Classroom, an AI-powered literacy tool that provides in-the-moment support to students as they read aloud, is now available to all Google Workspace for Education users at no cost. We believe this will open access to literacy tools for millions of students, and help educators...",
-    "date": "2026-06-25T16:58:19+00:00"
-  },
-  {
-    "id": "3a64d5a8c4705ba9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Stricter classifications for Google Groups to enhance data security and privacy",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/stricter-classifications-for-google-groups-to-enhance-data-security-and-privacy.html",
-    "summary": "Earlier this year, we announced changes to Google Groups to enhance data security and privacy. The changes, which are rolling out now, include:Stricter “internal” and “external” classifications for GroupsClearer visual indicators for whether a group contains external membersChanges to how emails...",
-    "date": "2026-06-24T21:22:05+00:00"
   }
 ]
