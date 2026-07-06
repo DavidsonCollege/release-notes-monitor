@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "6a8230c866b4330d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Join video conferences on Google Meet hardware via SIP through Pexip",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/join-video-conferences-on-google-meet-hardware-via-SIP-through-Pexip.html",
+    "summary": "You can now join video conferences on Google Meet hardware via SIP through a Pexip interop gateway. This brings universal connectivity for users to join meetings hosted on any SIP-compatible platform directly from their Meet rooms. The functionality is available for room hardware based on both...",
+    "date": "2026-07-06T14:52:27+00:00"
+  },
+  {
     "id": "dad24d3f919ab383",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/work-with-delegated-gmail-accounts-from-mobile-devices.html",
     "summary": "Previously, users could only work with delegated Gmail accounts through the web interface. We are updating the Gmail app for iOS and Android to allow delegates to read, manage, and compose emails on behalf of a delegator directly from their mobile devices.This update removes a significant barrier...",
     "date": "2026-06-30T18:26:46+00:00"
-  },
-  {
-    "id": "6bba6279edce48a6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Ask Gemini in Drive now available on mobile",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/ask-gemini-in-drive-now-available-on-mobile.html",
-    "summary": "In April, we announced the general availability of Ask Gemini in Drive on the web. We’re now bringing this feature to the Drive Android and iOS apps.Ask Gemini in Drive offers you a dedicated, immersive workspace designed for deep focus. You can now engage in high-context, multi-turn conversations...",
-    "date": "2026-06-30T17:40:51+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "6bba6279edce48a6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Ask Gemini in Drive now available on mobile",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/ask-gemini-in-drive-now-available-on-mobile.html",
+    "summary": "In April, we announced the general availability of Ask Gemini in Drive on the web. We’re now bringing this feature to the Drive Android and iOS apps.Ask Gemini in Drive offers you a dedicated, immersive workspace designed for deep focus. You can now engage in high-context, multi-turn conversations...",
+    "date": "2026-06-30T17:40:51+00:00"
+  },
+  {
     "id": "32462c6742c9d392",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/stricter-classifications-for-google-groups-to-enhance-data-security-and-privacy.html",
     "summary": "Earlier this year, we announced changes to Google Groups to enhance data security and privacy. The changes, which are rolling out now, include:Stricter “internal” and “external” classifications for GroupsClearer visual indicators for whether a group contains external membersChanges to how emails...",
     "date": "2026-06-24T21:22:05+00:00"
-  },
-  {
-    "id": "146e7178e54cdfab",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New File Content webhook",
-    "link": "https://developers.zoom.us/changelog/canvas/june-25-2026",
-    "summary": "Tags: api-release | Added new webhook for File Content.",
-    "date": "2026-06-25T00:00:00+00:00"
   }
 ]
