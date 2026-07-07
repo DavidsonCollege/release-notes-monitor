@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "37140ed16db6e666",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "July 3, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/51063277240596-July-3-2026",
+    "summary": "",
+    "date": "2026-07-07T01:02:20Z"
+  },
+  {
     "id": "36e33e3cbc81b1f2",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/49995557266708-June-5-2026",
     "summary": "",
     "date": "2026-06-05T20:14:24Z"
-  },
-  {
-    "id": "d7c2530270203923",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "May 29, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/49754007355540-May-29-2026",
-    "summary": "",
-    "date": "2026-05-29T19:21:11Z"
   },
   {
     "id": "b859d2dbe285873b",
@@ -760,6 +760,16 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "d7c2530270203923",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "May 29, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/49754007355540-May-29-2026",
+    "summary": "",
+    "date": "2026-05-29T19:21:11Z"
+  },
+  {
     "id": "de0111061eccd47e",
     "product_id": "windows",
     "product_name": "Windows",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/updated-admin-setting-for-improved-video-quality-in-Google-Meet.html",
     "summary": "In April 2026, we updated Meet to improve video quality on high-resolution displays. We’re now updating the way the Admin console setting that limits video bandwidth works to reduce data usage and improve call quality.Previously, the ‘Limit video bandwidth’ setting only limited video bandwidth on...",
     "date": "2026-06-29T17:05:55+00:00"
-  },
-  {
-    "id": "7b7c5bcc3271ec41",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "System notifications now delivered by \"Slack\" instead of Slackbot",
-    "link": "https://docs.slack.dev/changelog/2026/06/17/system-notifications",
-    "summary": "Slack system notifications (such as channel membership changes, User Group updates, Slack Connect alerts, and retention policy notices) are now delivered from the \"Slack\" system user (USLACK) instead of Slackbot.",
-    "date": "2026-06-17T00:00:00+00:00"
   }
 ]
