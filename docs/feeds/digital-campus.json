@@ -520,44 +520,44 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "1b99482d9569d4b5",
+    "id": "3013b42c5ec845bd",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Organize your teams into Departments",
+    "title": "Turn any video into a Scribe",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "July 1, 2026"
+    "date": "July 7, 2026"
   },
   {
-    "id": "8ffb9ee70a3ed84e",
+    "id": "da7273f09bd8ba1a",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Organize your teams into Departments",
-    "link": "https://scribe.launchnotes.io/announcements/organize-your-teams-into-departments",
+    "title": "Turn any video into a Scribe",
+    "link": "https://scribe.launchnotes.io/announcements/turn-any-video-into-a-scribe",
     "summary": "Loading...",
-    "date": "July 1, 2026"
+    "date": "July 7, 2026"
   },
   {
-    "id": "75beafef86e8310f",
+    "id": "4238def2277c1aa7",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Enterprise",
+    "title": "Pro Pro Team Enterprise Capturing",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-06-12T17:09:06.290434+00:00"
+    "date": "2026-07-07T16:54:07.702559+00:00"
   },
   {
-    "id": "b161acb7919c5a78",
+    "id": "4dc7a0504c931b7f",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Organize your teams into Departments",
+    "title": "Turn any video into a Scribe",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-07-01T21:06:02.008477+00:00"
+    "date": "2026-07-07T16:54:07.702574+00:00"
   },
   {
     "id": "09f997080d6a3717",
@@ -760,6 +760,46 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "1b99482d9569d4b5",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Organize your teams into Departments",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "July 1, 2026"
+  },
+  {
+    "id": "8ffb9ee70a3ed84e",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Organize your teams into Departments",
+    "link": "https://scribe.launchnotes.io/announcements/organize-your-teams-into-departments",
+    "summary": "Loading...",
+    "date": "July 1, 2026"
+  },
+  {
+    "id": "75beafef86e8310f",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Enterprise",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-06-12T17:09:06.290434+00:00"
+  },
+  {
+    "id": "b161acb7919c5a78",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Organize your teams into Departments",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-07-01T21:06:02.008477+00:00"
+  },
+  {
     "id": "2fcfa4873da92ea9",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -958,45 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/gemini-app-data-regions-support.html",
     "summary": "Beginning today, the Gemini app adheres to your organization’s data regionalization requirements. As with Google Workspace, admins have the flexibility to configure controls for EU storage and processing, US storage and processing, or both, including granular settings down to the organizational...",
     "date": "2026-06-29T19:58:12+00:00"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "June 30 2026"
-  },
-  {
-    "id": "2013eed73213dbda",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Assign mobile device management admin privileges based on organizational unit",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/assign-mobile-device-management-admin-privileges-based-on-organizational-unit.html",
-    "summary": "We’re giving admins more granular control over how mobile device management privileges are delegated. Specifically, admins can be assigned privileges for specific organizational units (OUs), adding another layer of security by scoping access only to necessary OUs.Previously available in beta, we’re...",
-    "date": "2026-06-29T19:40:12+00:00"
-  },
-  {
-    "id": "f014c68f141a3a26",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "Super Agents: Release Notes Takeover",
-    "link": "https://feedback.clickup.com/changelog/super-agents-release-notes-takeover",
-    "summary": "Super Agents: The world's first human-like AI AgentsSuper Agents™ are personalized AI teammates that understand your work, use powerful tools, and collaborate like humans. Just describe the problem you want solved, the workflow you want to automate, or where you’re wasting time, and Super Agents...",
-    "date": "2026-01-29T18:19:37+00:00"
-  },
-  {
-    "id": "594c02b56072c8ec",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Educators and students can now share Gemini Canvas creations directly to Google Classroom",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/educators-and-students-can-now-share-Gemini-Canvas-creations-directly-to-Google-Classroom.html",
-    "summary": "Educators and students of all ages can now seamlessly attach Gemini Canvas artifacts, like websites, quizzes, interactive games, infographics, and more, to Google Classroom assignments and posts. Right from Gemini Canvas, users can click on the “Share to to Classroom” button. This update allows...",
-    "date": "2026-06-29T18:17:11+00:00"
   }
 ]
