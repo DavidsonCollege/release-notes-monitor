@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "f0f465dfd225d7e8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Occupancy counting now available for Google Meet on Neat room hardware",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/occupancy-counting-now-available-for-Google-Meet-on-Neat-room-hardware.html",
+    "summary": "Occupancy counting is now available for Android-based Neat room hardware to help measure how meeting rooms are used. This feature brings the same occupancy counting capabilities found on ChromeOS devices to Android-based hardware.Understanding room occupancy helps organizations optimize real estate...",
+    "date": "2026-07-07T14:39:10+00:00"
+  },
+  {
     "id": "6a8230c866b4330d",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/ai-overviews-in-drive-now-available-on-mobile.html",
     "summary": "In April, we announced the general availability for Drive AI Overviews in Drive on the web. We’re now bringing this feature to the Drive Android and iOS apps.Instead of searching through endless files and opening dozens of tabs to find the information you need, you can now get instant answers right...",
     "date": "2026-06-30T19:55:27+00:00"
-  },
-  {
-    "id": "2fcfa4873da92ea9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Work with delegated Gmail accounts from mobile devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/work-with-delegated-gmail-accounts-from-mobile-devices.html",
-    "summary": "Previously, users could only work with delegated Gmail accounts through the web interface. We are updating the Gmail app for iOS and Android to allow delegates to read, manage, and compose emails on behalf of a delegator directly from their mobile devices.This update removes a significant barrier...",
-    "date": "2026-06-30T18:26:46+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "2fcfa4873da92ea9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Work with delegated Gmail accounts from mobile devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/work-with-delegated-gmail-accounts-from-mobile-devices.html",
+    "summary": "Previously, users could only work with delegated Gmail accounts through the web interface. We are updating the Gmail app for iOS and Android to allow delegates to read, manage, and compose emails on behalf of a delegator directly from their mobile devices.This update removes a significant barrier...",
+    "date": "2026-06-30T18:26:46+00:00"
+  },
+  {
     "id": "d7c2530270203923",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/educators-and-students-can-now-share-Gemini-Canvas-creations-directly-to-Google-Classroom.html",
     "summary": "Educators and students of all ages can now seamlessly attach Gemini Canvas artifacts, like websites, quizzes, interactive games, infographics, and more, to Google Classroom assignments and posts. Right from Gemini Canvas, users can click on the “Share to to Classroom” button. This update allows...",
     "date": "2026-06-29T18:17:11+00:00"
-  },
-  {
-    "id": "25376d9de93fa5e9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Updated admin setting for improved video quality in Google Meet",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/updated-admin-setting-for-improved-video-quality-in-Google-Meet.html",
-    "summary": "In April 2026, we updated Meet to improve video quality on high-resolution displays. We’re now updating the way the Admin console setting that limits video bandwidth works to reduce data usage and improve call quality.Previously, the ‘Limit video bandwidth’ setting only limited video bandwidth on...",
-    "date": "2026-06-29T17:05:55+00:00"
   }
 ]
