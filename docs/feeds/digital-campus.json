@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "1b2132e3e6e192f6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New calendar sharing permission level and changes to recurring event visibility",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/new-calendar-sharing-permission-level-and-changes-to-recurring-event-visibility.html",
+    "summary": "We're introducing a new calendar sharing permission level: “Make changes (see private events as free/busy)”. This allows you to grant someone edit access to your calendar while keeping the details of your private events entirely hidden. This is especially useful for leaders who assign delegates to...",
+    "date": "2026-07-07T18:08:42+00:00"
+  },
+  {
+    "id": "028fa5fa0b04bbf8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Fill with Gemini in Sheets now available in 11 additional languages",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/fill-with-gemini-in-sheets-now-available-in-11-additional-languages.html",
+    "summary": "Earlier this year, we announced Fill with Gemini in Google Sheets, a new AI-powered feature designed to make data preparation and manual entry even easier. Leveraging the capabilities of the AI function in Google Sheets, Fill with Gemini eliminates the need for complex formulas, helping you easily...",
+    "date": "2026-07-07T16:25:56+00:00"
+  },
+  {
     "id": "f0f465dfd225d7e8",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-03-2026.html",
     "summary": "Updated admin setting for improved video quality in Google MeetIn April 2026, we updated Meet to improve video quality on high-resolution displays. We’re now updating the way the Admin console setting that limits video bandwidth works to reduce data usage and improve call quality. | Learn...",
     "date": "2026-07-03T19:31:10+00:00"
-  },
-  {
-    "id": "e9da4f784bb37c2d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Import 3D bar charts into Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/import-3d-bar-charts-into-google-sheets.html",
-    "summary": "Google Sheets now fully supports the import of 3D bar charts. Previously, when users imported files containing 3D bar charts into Sheets, they would be displayed as 2D bar charts. With this update, importing these types of files, including from Microsoft Excel, will yield a more seamless...",
-    "date": "2026-07-01T17:37:58+00:00"
-  },
-  {
-    "id": "95078b9a50305456",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "AI Overviews in Drive now available on mobile",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/ai-overviews-in-drive-now-available-on-mobile.html",
-    "summary": "In April, we announced the general availability for Drive AI Overviews in Drive on the web. We’re now bringing this feature to the Drive Android and iOS apps.Instead of searching through endless files and opening dozens of tabs to find the information you need, you can now get instant answers right...",
-    "date": "2026-06-30T19:55:27+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,26 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "e9da4f784bb37c2d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Import 3D bar charts into Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/import-3d-bar-charts-into-google-sheets.html",
+    "summary": "Google Sheets now fully supports the import of 3D bar charts. Previously, when users imported files containing 3D bar charts into Sheets, they would be displayed as 2D bar charts. With this update, importing these types of files, including from Microsoft Excel, will yield a more seamless...",
+    "date": "2026-07-01T17:37:58+00:00"
+  },
+  {
+    "id": "95078b9a50305456",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "AI Overviews in Drive now available on mobile",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/ai-overviews-in-drive-now-available-on-mobile.html",
+    "summary": "In April, we announced the general availability for Drive AI Overviews in Drive on the web. We’re now bringing this feature to the Drive Android and iOS apps.Instead of searching through endless files and opening dozens of tabs to find the information you need, you can now get instant answers right...",
+    "date": "2026-06-30T19:55:27+00:00"
+  },
+  {
     "id": "a3365363df5a1439",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -978,25 +998,5 @@
     "link": "https://scribe.launchnotes.io/announcements/share-your-scribes-across-multiple-teams",
     "summary": "Loading...",
     "date": "June 12, 2026"
-  },
-  {
-    "id": "fce25c7c704abcf2",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Share your Scribes across multiple teams",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-06-12T17:09:06.290454+00:00"
-  },
-  {
-    "id": "69b94b73ddefe1cf",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Data regions support for the Gemini app now available",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/gemini-app-data-regions-support.html",
-    "summary": "Beginning today, the Gemini app adheres to your organization’s data regionalization requirements. As with Google Workspace, admins have the flexibility to configure controls for EU storage and processing, US storage and processing, or both, including granular settings down to the organizational...",
-    "date": "2026-06-29T19:58:12+00:00"
   }
 ]
