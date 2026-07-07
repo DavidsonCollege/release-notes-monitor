@@ -720,16 +720,6 @@
     "date": "2026-07-06T00:00:00+00:00"
   },
   {
-    "id": "a3365363df5a1439",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "RTMS June release",
-    "link": "https://developers.zoom.us/changelog/rtms/july-04-2026",
-    "summary": "Tags: api-release | Add REST API support for starting RTMS for meeting participants, add chat message media data support with 5 new event types for meetings and webinars, updates to protocol definitions including new and updated enums, improve PSTN user identification for simultaneous participants.",
-    "date": "2026-07-04T00:00:00+00:00"
-  },
-  {
     "id": "a0e81cb706a45a2b",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -758,6 +748,26 @@
     "link": "https://developers.zoom.us/changelog/chat/june-29-2026",
     "summary": "Tags: api-release | Added a new API to create tabs in a chat channel during migration.",
     "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "1ce13786143cab1f",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 3.6.0",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.6.0",
+    "summary": "Tags: sdk-version | Annotation supports snap to element.Optimized error messages.Optimized annotation eraser hit detection.",
+    "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "a3365363df5a1439",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "RTMS June release",
+    "link": "https://developers.zoom.us/changelog/rtms/july-04-2026",
+    "summary": "Tags: api-release | Add REST API support for starting RTMS for meeting participants, add chat message media data support with 5 new event types for meetings and webinars, updates to protocol definitions including new and updated enums, improve PSTN user identification for simultaneous participants.",
+    "date": "2026-07-04T00:00:00+00:00"
   },
   {
     "id": "1b99482d9569d4b5",
@@ -837,16 +847,6 @@
     "title": "Add chat channel tab migration API",
     "link": "https://developers.zoom.us/changelog/chat/june-29-2026",
     "summary": "Tags: api-release | Added an API to migrate tabs for a chat channel.",
-    "date": "2026-06-29T00:00:00+00:00"
-  },
-  {
-    "id": "1ce13786143cab1f",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.6.0",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.6.0",
-    "summary": "Tags: sdk-version | Annotation supports snap to element.Optimized error messages.Optimized annotation eraser hit detection.",
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
