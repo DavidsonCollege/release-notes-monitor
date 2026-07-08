@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "63a4036a6e367e7a",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Convert your Google Slides to videos in 7 additional languages",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/convert-your-google-slides-to-videos-in-7-additional-languages.html",
+    "summary": "Google Vids already lets you convert your Slides content into Vids with AI-generated scripts, voiceovers, background music, and animations for presentations and accounts in English.We’re now expanding support to French, German, Italian, Japanese, Korean, Portuguese, and Spanish. Getting...",
+    "date": "2026-07-08T17:17:49+00:00"
+  },
+  {
     "id": "1b2132e3e6e192f6",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/join-video-conferences-on-google-meet-hardware-via-SIP-through-Pexip.html",
     "summary": "You can now join video conferences on Google Meet hardware via SIP through a Pexip interop gateway. This brings universal connectivity for users to join meetings hosted on any SIP-compatible platform directly from their Meet rooms. The functionality is available for room hardware based on both...",
     "date": "2026-07-06T14:52:27+00:00"
-  },
-  {
-    "id": "dad24d3f919ab383",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - July 3, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-03-2026.html",
-    "summary": "Updated admin setting for improved video quality in Google MeetIn April 2026, we updated Meet to improve video quality on high-resolution displays. We’re now updating the way the Admin console setting that limits video bandwidth works to reduce data usage and improve call quality. | Learn...",
-    "date": "2026-07-03T19:31:10+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,16 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "dad24d3f919ab383",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - July 3, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-03-2026.html",
+    "summary": "Updated admin setting for improved video quality in Google MeetIn April 2026, we updated Meet to improve video quality on high-resolution displays. We’re now updating the way the Admin console setting that limits video bandwidth works to reduce data usage and improve call quality. | Learn...",
+    "date": "2026-07-03T19:31:10+00:00"
+  },
+  {
     "id": "5da76d4ffabed468",
     "product_id": "slack",
     "product_name": "Slack",
@@ -988,15 +998,5 @@
     "link": "https://docs.slack.dev/changelog/2026/06/18/slackbot-mcp-client",
     "summary": "We're excited to introduce you to the Slackbot MCP Client, which gives you the ability to superpower Slackbot with your desired tools.",
     "date": "2026-06-18T00:00:00+00:00"
-  },
-  {
-    "id": "b2c548172457641a",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Share your Scribes across multiple teams",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "June 12, 2026"
   }
 ]
