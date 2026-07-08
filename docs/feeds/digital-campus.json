@@ -570,6 +570,16 @@
     "date": "2026-06-30T00:00:00+00:00"
   },
   {
+    "id": "1a042d2e1067a8a2",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Python Slack SDK v3.43.0",
+    "link": "https://docs.slack.dev/changelog/2026/06/30/py-slack-sdk",
+    "summary": "* We've added a public, read-only ts property to ChatStream and AsyncChatStream, enabling users to call the chat.update API method as a fallback when the server closes a stream due to undocumented timeouts.",
+    "date": "2026-06-30T00:00:00+00:00"
+  },
+  {
     "id": "7b3b5782f3ef5c8f",
     "product_id": "slack",
     "product_name": "Slack",
@@ -588,16 +598,6 @@
     "link": "https://docs.slack.dev/changelog/2026/06/29/block-kit-container-block",
     "summary": "The container block is now available for Block Kit use.",
     "date": "2026-06-29T00:00:00+00:00"
-  },
-  {
-    "id": "5da76d4ffabed468",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.3.0",
-    "link": "https://docs.slack.dev/changelog/2026/06/18/slack-cli",
-    "summary": "Version 4.3.0 of the Slack CLI is here!",
-    "date": "2026-06-18T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -748,6 +748,16 @@
     "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.6.0",
     "summary": "Tags: sdk-version | Annotation supports snap to element.Optimized error messages.Optimized annotation eraser hit detection.",
     "date": "2026-06-29T00:00:00+00:00"
+  },
+  {
+    "id": "5da76d4ffabed468",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.3.0",
+    "link": "https://docs.slack.dev/changelog/2026/06/18/slack-cli",
+    "summary": "Version 4.3.0 of the Slack CLI is here!",
+    "date": "2026-06-18T00:00:00+00:00"
   },
   {
     "id": "4bc209d3c4a21f0b",
@@ -987,16 +997,6 @@
     "title": "Share your Scribes across multiple teams",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "June 12, 2026"
-  },
-  {
-    "id": "41380d27492e1b6a",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Share your Scribes across multiple teams",
-    "link": "https://scribe.launchnotes.io/announcements/share-your-scribes-across-multiple-teams",
-    "summary": "Loading...",
     "date": "June 12, 2026"
   }
 ]
