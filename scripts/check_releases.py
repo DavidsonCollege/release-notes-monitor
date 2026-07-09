@@ -28,6 +28,7 @@ from gchat_notify import send_gchat_notifications
 # --- Configuration ---
 BASE_DIR = Path(__file__).resolve().parent.parent
 CONFIG_FILE = BASE_DIR / "config" / "teams.json"
+CONFIG_API_URL = os.environ.get("CONFIG_API_URL")  # Set to the Azure API URL after migration
 SEEN_FILE = BASE_DIR / "data" / "seen.json"
 FEEDS_DIR = BASE_DIR / "docs" / "feeds"
 MAX_FEED_ITEMS = 100  # Max items to keep in each team's RSS feed
