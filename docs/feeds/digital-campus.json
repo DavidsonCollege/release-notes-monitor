@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "5afa0bdb207b1b17",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "July 10, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/51219943503508-July-10-2026",
+    "summary": "",
+    "date": "2026-07-10T23:19:09Z"
+  },
+  {
     "id": "37140ed16db6e666",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/50229244846228-June-12-2026",
     "summary": "",
     "date": "2026-06-12T16:41:17Z"
-  },
-  {
-    "id": "d6d671cd3048f955",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "June 5, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/49995557266708-June-5-2026",
-    "summary": "",
-    "date": "2026-06-05T20:14:24Z"
   },
   {
     "id": "b859d2dbe285873b",
@@ -700,6 +700,16 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "d6d671cd3048f955",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "June 5, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/49995557266708-June-5-2026",
+    "summary": "",
+    "date": "2026-06-05T20:14:24Z"
+  },
+  {
     "id": "f0f465dfd225d7e8",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/ask-gemini-in-drive-now-available-on-mobile.html",
     "summary": "In April, we announced the general availability of Ask Gemini in Drive on the web. We’re now bringing this feature to the Drive Android and iOS apps.Ask Gemini in Drive offers you a dedicated, immersive workspace designed for deep focus. You can now engage in high-context, multi-turn conversations...",
     "date": "2026-06-30T17:40:51+00:00"
-  },
-  {
-    "id": "32462c6742c9d392",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create fully native and editable presentations with Gemini in Google Slides",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/create-fully-native-and-editable-presentations-with-Gemini-in-Google-Slides.html",
-    "summary": "You can now create a full, multi-slide presentation using Gemini in Google Slides. With a single prompt, you can ground the presentation in existing content from Google Drive, match the style of another presentation, and build fully editable slides, allowing you to make any necessary adjustments....",
-    "date": "2026-06-30T15:02:27+00:00"
   }
 ]
