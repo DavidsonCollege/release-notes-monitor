@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "018836291e1aa995",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - July 10, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-10-2026.html",
+    "summary": "Join video conferences on Google Meet hardware via SIP through PexipYou can now join video conferences on Google Meet hardware via SIP through a Pexip interop gateway. This brings universal connectivity for users to join meetings hosted on any SIP-compatible platform directly from their Meet rooms....",
+    "date": "2026-07-10T20:19:20+00:00"
+  },
+  {
     "id": "da545a64321c08ab",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/fill-with-gemini-in-sheets-now-available-in-11-additional-languages.html",
     "summary": "Earlier this year, we announced Fill with Gemini in Google Sheets, a new AI-powered feature designed to make data preparation and manual entry even easier. Leveraging the capabilities of the AI function in Google Sheets, Fill with Gemini eliminates the need for complex formulas, helping you easily...",
     "date": "2026-07-07T16:25:56+00:00"
-  },
-  {
-    "id": "f0f465dfd225d7e8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Occupancy counting now available for Google Meet on Neat room hardware",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/occupancy-counting-now-available-for-Google-Meet-on-Neat-room-hardware.html",
-    "summary": "Occupancy counting is now available for Android-based Neat room hardware to help measure how meeting rooms are used. This feature brings the same occupancy counting capabilities found on ChromeOS devices to Android-based hardware.Understanding room occupancy helps organizations optimize real estate...",
-    "date": "2026-07-07T14:39:10+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -700,6 +700,16 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "f0f465dfd225d7e8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Occupancy counting now available for Google Meet on Neat room hardware",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/occupancy-counting-now-available-for-Google-Meet-on-Neat-room-hardware.html",
+    "summary": "Occupancy counting is now available for Android-based Neat room hardware to help measure how meeting rooms are used. This feature brings the same occupancy counting capabilities found on ChromeOS devices to Android-based hardware.Understanding room occupancy helps organizations optimize real estate...",
+    "date": "2026-07-07T14:39:10+00:00"
+  },
+  {
     "id": "8563fef570c790a7",
     "product_id": "windows",
     "product_name": "Windows",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/create-fully-native-and-editable-presentations-with-Gemini-in-Google-Slides.html",
     "summary": "You can now create a full, multi-slide presentation using Gemini in Google Slides. With a single prompt, you can ground the presentation in existing content from Google Drive, match the style of another presentation, and build fully editable slides, allowing you to make any necessary adjustments....",
     "date": "2026-06-30T15:02:27+00:00"
-  },
-  {
-    "id": "9625f24bdbdae4b7",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Automatically Populate Editable Form Fields with Data Mapping",
-    "link": "https://announcekit.app/kuali/announcements/new-automatically-populate-editable-form-fields-with-data-mapping-2orohq",
-    "summary": "We're excited to introduce Data Mappings, a new feature that allows users to automatically populate editable fields in a document using data...",
-    "date": "2026-06-22T17:45:00+00:00"
   }
 ]
