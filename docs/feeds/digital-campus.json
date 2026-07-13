@@ -700,6 +700,16 @@
     "date": "2026-05-29T17:05:27+00:00"
   },
   {
+    "id": "044b1c126f72f69e",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add new request field to Contacts API",
+    "link": "https://developers.zoom.us/changelog/chat/july-13-2026",
+    "summary": "Tags: api-release | Added `next_page_token' and `pronoun` request fields to the `GET /v2/contacts` API.",
+    "date": "2026-07-13T00:00:00+00:00"
+  },
+  {
     "id": "2c75db3676a6a563",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -728,6 +738,16 @@
     "link": "https://developers.zoom.us/changelog/accounts/july-06-2026",
     "summary": "Tags: api-release | Added Dashboard API endpoints for AI metrics.",
     "date": "2026-07-06T00:00:00+00:00"
+  },
+  {
+    "id": "a3365363df5a1439",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "RTMS June release",
+    "link": "https://developers.zoom.us/changelog/rtms/july-04-2026",
+    "summary": "Tags: api-release | Add REST API support for starting RTMS for meeting participants, add chat message media data support with 5 new event types for meetings and webinars, updates to protocol definitions including new and updated enums, improve PSTN user identification for simultaneous participants.",
+    "date": "2026-07-04T00:00:00+00:00"
   },
   {
     "id": "a0e81cb706a45a2b",
@@ -890,16 +910,6 @@
     "date": "2026-06-30T19:55:27+00:00"
   },
   {
-    "id": "a3365363df5a1439",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "RTMS June release",
-    "link": "https://developers.zoom.us/changelog/rtms/july-04-2026",
-    "summary": "Tags: api-release | Add REST API support for starting RTMS for meeting participants, add chat message media data support with 5 new event types for meetings and webinars, updates to protocol definitions including new and updated enums, improve PSTN user identification for simultaneous participants.",
-    "date": "2026-07-04T00:00:00+00:00"
-  },
-  {
     "id": "1b99482d9569d4b5",
     "product_id": "scribe",
     "product_name": "Scribe",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/contact-center/ios/5.6.0",
     "summary": "Tags: sdk-version | Updates to real-time audio translator and AI live interpreter.",
     "date": "2026-06-29T00:00:00+00:00"
-  },
-  {
-    "id": "59b99865182477d0",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Create Linked Documents Without Leaving Your Current Document",
-    "link": "https://announcekit.app/kuali/announcements/new-create-linked-documents-without-leaving-your-current-document-2niZLa",
-    "summary": "We’re excited to introduce Inline Document Creation, a new way to create and link related documents while you continue working. This helps u...",
-    "date": "2026-06-22T21:45:00+00:00"
   }
 ]

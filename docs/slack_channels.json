@@ -614,7 +614,7 @@
       "name": "security-alerts",
       "is_private": false,
       "topic": "",
-      "num_members": 5
+      "num_members": 4
     },
     {
       "id": "C05018WTXNC",
@@ -974,6 +974,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-07-13T18:37:57.142168+00:00",
+  "last_updated": "2026-07-13T19:33:06.268398+00:00",
   "fetch_status": "success"
 }
