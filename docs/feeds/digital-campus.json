@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "f28aea5b6311d4a5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Credential Provider for Windows (GCPW) now supports FIDO2-compliant physical security keys as a second factor for authentication",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/google-credential-provider-for-windows-now-supports-FIDO2-compliant-physical-security-keys-as-a-second-factor-for-authentication.html",
+    "summary": "Google Credential Provider for Windows (GCPW) has been updated to support FIDO2-compliant physical security keys as a second factor for authentication. This update helps organizations improve their security posture by enabling administrators to enforce 2-Step Verification (2SV) using hardware...",
+    "date": "2026-07-13T17:45:43+00:00"
+  },
+  {
     "id": "018836291e1aa995",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/new-calendar-sharing-permission-level-and-changes-to-recurring-event-visibility.html",
     "summary": "We're introducing a new calendar sharing permission level: “Make changes (see private events as free/busy)”. This allows you to grant someone edit access to your calendar while keeping the details of your private events entirely hidden. This is especially useful for leaders who assign delegates to...",
     "date": "2026-07-07T18:08:42+00:00"
-  },
-  {
-    "id": "028fa5fa0b04bbf8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Fill with Gemini in Sheets now available in 11 additional languages",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/fill-with-gemini-in-sheets-now-available-in-11-additional-languages.html",
-    "summary": "Earlier this year, we announced Fill with Gemini in Google Sheets, a new AI-powered feature designed to make data preparation and manual entry even easier. Leveraging the capabilities of the AI function in Google Sheets, Fill with Gemini eliminates the need for complex formulas, helping you easily...",
-    "date": "2026-07-07T16:25:56+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -750,6 +750,16 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "028fa5fa0b04bbf8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Fill with Gemini in Sheets now available in 11 additional languages",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/fill-with-gemini-in-sheets-now-available-in-11-additional-languages.html",
+    "summary": "Earlier this year, we announced Fill with Gemini in Google Sheets, a new AI-powered feature designed to make data preparation and manual entry even easier. Leveraging the capabilities of the AI function in Google Sheets, Fill with Gemini eliminates the need for complex formulas, helping you easily...",
+    "date": "2026-07-07T16:25:56+00:00"
+  },
+  {
     "id": "85fa3f89a4f80853",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "https://announcekit.app/kuali/announcements/new-create-linked-documents-without-leaving-your-current-document-2niZLa",
     "summary": "We’re excited to introduce Inline Document Creation, a new way to create and link related documents while you continue working. This helps u...",
     "date": "2026-06-22T21:45:00+00:00"
-  },
-  {
-    "id": "5c587af009ab46b4",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.6 beta 3 (25G5052e)",
-    "link": "https://developer.apple.com/news/releases/?id=06292026f",
-    "summary": "View downloadsView release notes",
-    "date": "2026-06-29T17:00:00+00:00"
   }
 ]
