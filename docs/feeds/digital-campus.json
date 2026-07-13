@@ -560,6 +560,16 @@
     "date": "2026-07-07T16:54:07.702574+00:00"
   },
   {
+    "id": "93bcbcd2b9061956",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Desktop notifications now pull text from blocks first",
+    "link": "https://docs.slack.dev/changelog/2026/07/13/notification-changes",
+    "summary": "Slack desktop client notifications now pull text from blocks first, falling back to the top-level text field only if no text can be extracted from blocks. Mobile notifications continue to exclusively use message.text.",
+    "date": "2026-07-13T00:00:00+00:00"
+  },
+  {
     "id": "09f997080d6a3717",
     "product_id": "slack",
     "product_name": "Slack",
@@ -598,16 +608,6 @@
     "link": "https://docs.slack.dev/changelog/2026/06/30/slack-cli",
     "summary": "Version 4.4.0 of the Slack CLI is here!",
     "date": "2026-06-30T00:00:00+00:00"
-  },
-  {
-    "id": "3546bcf7ee63a3a6",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "New Block Kit container block",
-    "link": "https://docs.slack.dev/changelog/2026/06/29/block-kit-container-block",
-    "summary": "The container block is now available for Block Kit use.",
-    "date": "2026-06-29T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -758,6 +758,16 @@
     "link": "https://developers.zoom.us/changelog/rtms/july-04-2026",
     "summary": "Tags: api-release | Add REST API support for starting RTMS for meeting participants, add chat message media data support with 5 new event types for meetings and webinars, updates to protocol definitions including new and updated enums, improve PSTN user identification for simultaneous participants.",
     "date": "2026-07-04T00:00:00+00:00"
+  },
+  {
+    "id": "3546bcf7ee63a3a6",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "New Block Kit container block",
+    "link": "https://docs.slack.dev/changelog/2026/06/29/block-kit-container-block",
+    "summary": "The container block is now available for Block Kit use.",
+    "date": "2026-06-29T00:00:00+00:00"
   },
   {
     "id": "53100ee7d59cd579",
@@ -988,15 +998,5 @@
     "link": "https://help.adastra.live/hc/en-us/articles/49754007355540-May-29-2026",
     "summary": "",
     "date": "2026-05-29T19:21:11Z"
-  },
-  {
-    "id": "de0111061eccd47e",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new Release Preview builds for 14 May 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/05/14/announcing-new-release-preview-builds-for-14-may-2026/",
-    "summary": "[19 May 2026: Updated build numbers for new releases containing bug fixes - see release notes for details] Hello Windows Insiders, Today we're releasing new builds for Release Preview across our supported versions of Windows 11. Please see the bu The post Announcing new Release Preview builds for...",
-    "date": "2026-05-14T17:05:26+00:00"
   }
 ]
