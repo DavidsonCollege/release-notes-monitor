@@ -70,6 +70,16 @@
     "date": "2026-06-12T16:41:17Z"
   },
   {
+    "id": "d8be261279577d9c",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The design_types field on Design responses and the design_type field on DesignPage are now out of preview and included in every response.",
+    "link": "https://www.canva.dev/docs/connect/changelog/",
+    "summary": "",
+    "date": "2026-07-13T04:43:53.876569+00:00"
+  },
+  {
     "id": "b859d2dbe285873b",
     "product_id": "canva",
     "product_name": "Canva",
@@ -108,16 +118,6 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
     "summary": "The Create design autofill job API now accepts a type field to support future functionality for different autofill sources. The first supported value is create_from_brand_template, which is the existing functionality for creating new designs from a brand template. For backwards compatibility,...",
     "date": "2026-06-18T01:34:21.226187+00:00"
-  },
-  {
-    "id": "f1f76ee7bdabf2f7",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "Design responses now include a design_types field, and DesignPage responses now include a design_type field. These indicate the type of content a desi",
-    "link": "https://www.canva.dev/docs/connect/changelog/",
-    "summary": "Design responses now include a design_types field, and DesignPage responses now include a design_type field. These indicate the type of content a design or page contains, such as doc or presentation. The value unknown is returned when the type cannot be determined. This list may be extended in the...",
-    "date": "2026-06-16T01:20:07.415268+00:00"
   },
   {
     "id": "03b6bc06dc04399d",
@@ -700,6 +700,16 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "f1f76ee7bdabf2f7",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "Design responses now include a design_types field, and DesignPage responses now include a design_type field. These indicate the type of content a desi",
+    "link": "https://www.canva.dev/docs/connect/changelog/",
+    "summary": "Design responses now include a design_types field, and DesignPage responses now include a design_type field. These indicate the type of content a design or page contains, such as doc or presentation. The value unknown is returned when the type cannot be determined. This list may be extended in the...",
+    "date": "2026-06-16T01:20:07.415268+00:00"
+  },
+  {
     "id": "d6d671cd3048f955",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=06292026c",
     "summary": "View downloads",
     "date": "2026-06-29T17:00:00+00:00"
-  },
-  {
-    "id": "6bba6279edce48a6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Ask Gemini in Drive now available on mobile",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/ask-gemini-in-drive-now-available-on-mobile.html",
-    "summary": "In April, we announced the general availability of Ask Gemini in Drive on the web. We’re now bringing this feature to the Drive Android and iOS apps.Ask Gemini in Drive offers you a dedicated, immersive workspace designed for deep focus. You can now engage in high-context, multi-turn conversations...",
-    "date": "2026-06-30T17:40:51+00:00"
   }
 ]
