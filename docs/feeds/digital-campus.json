@@ -1,13 +1,13 @@
 [
   {
-    "id": "85fa3f89a4f80853",
+    "id": "92aca7ce8a209770",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI Beta",
+    "title": "1Password CLI",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "July 9 2026"
+    "date": "July 13 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -750,6 +750,16 @@
     "date": "2026-06-29T00:00:00+00:00"
   },
   {
+    "id": "85fa3f89a4f80853",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password CLI Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "July 9 2026"
+  },
+  {
     "id": "f1f76ee7bdabf2f7",
     "product_id": "canva",
     "product_name": "Canva",
@@ -987,16 +997,6 @@
     "title": "macOS 26.6 beta 3 (25G5052e)",
     "link": "https://developer.apple.com/news/releases/?id=06292026f",
     "summary": "View downloadsView release notes",
-    "date": "2026-06-29T17:00:00+00:00"
-  },
-  {
-    "id": "01dd937fdd41cdb4",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.5.2 (25F84)",
-    "link": "https://developer.apple.com/news/releases/?id=06292026c",
-    "summary": "View downloads",
     "date": "2026-06-29T17:00:00+00:00"
   }
 ]
