@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "3caea6013e696ae5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improvement to in-room problem reporting for Google Meet hardware",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/improvement-to-in-room-problem-reporting-for-Google-Meet-hardware.html",
+    "summary": "Maintaining an enterprise-grade video conferencing environment requires visibility into the health of its devices. We're introducing new ways to see Google Meet hardware user-reported feedback directly in the Admin console.We’ve also updated user-side feedback options to replace generic reporting...",
+    "date": "2026-07-14T15:32:39+00:00"
+  },
+  {
     "id": "f28aea5b6311d4a5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/convert-your-google-slides-to-videos-in-7-additional-languages.html",
     "summary": "Google Vids already lets you convert your Slides content into Vids with AI-generated scripts, voiceovers, background music, and animations for presentations and accounts in English.We’re now expanding support to French, German, Italian, Japanese, Korean, Portuguese, and Spanish. Getting...",
     "date": "2026-07-08T17:17:49+00:00"
-  },
-  {
-    "id": "1b2132e3e6e192f6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New calendar sharing permission level and changes to recurring event visibility",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/new-calendar-sharing-permission-level-and-changes-to-recurring-event-visibility.html",
-    "summary": "We're introducing a new calendar sharing permission level: “Make changes (see private events as free/busy)”. This allows you to grant someone edit access to your calendar while keeping the details of your private events entirely hidden. This is especially useful for leaders who assign delegates to...",
-    "date": "2026-07-07T18:08:42+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -710,6 +710,16 @@
     "date": "2026-07-04T00:00:00+00:00"
   },
   {
+    "id": "1b2132e3e6e192f6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New calendar sharing permission level and changes to recurring event visibility",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/new-calendar-sharing-permission-level-and-changes-to-recurring-event-visibility.html",
+    "summary": "We're introducing a new calendar sharing permission level: “Make changes (see private events as free/busy)”. This allows you to grant someone edit access to your calendar while keeping the details of your private events entirely hidden. This is especially useful for leaders who assign delegates to...",
+    "date": "2026-07-07T18:08:42+00:00"
+  },
+  {
     "id": "92aca7ce8a209770",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
     "date": "2026-07-01T21:06:02.008477+00:00"
-  },
-  {
-    "id": "2fcfa4873da92ea9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Work with delegated Gmail accounts from mobile devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/work-with-delegated-gmail-accounts-from-mobile-devices.html",
-    "summary": "Previously, users could only work with delegated Gmail accounts through the web interface. We are updating the Gmail app for iOS and Android to allow delegates to read, manage, and compose emails on behalf of a delegator directly from their mobile devices.This update removes a significant barrier...",
-    "date": "2026-06-30T18:26:46+00:00"
   }
 ]
