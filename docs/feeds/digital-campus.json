@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "0df32ee411fecad6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New refinement capabilities allow custom editing with Help me write in Gmail",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/new-refinement-capabilities-allow-custom-editing-with-Help-me-write-in-Gmail.html",
+    "summary": "Users can now edit and revise their email drafts in Gmail via the prompt bar, using custom refine instructions in Help me write. Previously the refines were limited to preset options like Polish, Formalize, and Shorten. Now if your first draft isn’t quite perfect, you can provide a precise...",
+    "date": "2026-07-14T17:28:59+00:00"
+  },
+  {
     "id": "3caea6013e696ae5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/streamline-identity-lifecycle-management-in-Google-Workspace-with-new-inbound-SCIM-support.html",
     "summary": "We are excited to announce the general availability of Google Workspace inbound SCIM APIs to help IT administrators standardize identity lifecycle management. This new capability allows you to sync your Google Workspace directory in real time with any SCIM-compatible Identity Provider (IdP), HR...",
     "date": "2026-07-09T17:09:34+00:00"
-  },
-  {
-    "id": "63a4036a6e367e7a",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Convert your Google Slides to videos in 7 additional languages",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/convert-your-google-slides-to-videos-in-7-additional-languages.html",
-    "summary": "Google Vids already lets you convert your Slides content into Vids with AI-generated scripts, voiceovers, background music, and animations for presentations and accounts in English.We’re now expanding support to French, German, Italian, Japanese, Korean, Portuguese, and Spanish. Getting...",
-    "date": "2026-07-08T17:17:49+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -710,6 +710,16 @@
     "date": "2026-07-04T00:00:00+00:00"
   },
   {
+    "id": "63a4036a6e367e7a",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Convert your Google Slides to videos in 7 additional languages",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/convert-your-google-slides-to-videos-in-7-additional-languages.html",
+    "summary": "Google Vids already lets you convert your Slides content into Vids with AI-generated scripts, voiceovers, background music, and animations for presentations and accounts in English.We’re now expanding support to French, German, Italian, Japanese, Korean, Portuguese, and Spanish. Getting...",
+    "date": "2026-07-08T17:17:49+00:00"
+  },
+  {
     "id": "1b2132e3e6e192f6",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
     "date": "2026-06-12T17:09:06.290434+00:00"
-  },
-  {
-    "id": "b161acb7919c5a78",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Organize your teams into Departments",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-07-01T21:06:02.008477+00:00"
   }
 ]
