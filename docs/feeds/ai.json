@@ -1,5 +1,25 @@
 [
   {
+    "id": "2dccaec2bf94ce03",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "HIPAA configuration for your Claude organizations is now self-serve",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-14T00:00:00+00:00"
+  },
+  {
+    "id": "abe8e3d89fb478d3",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "HIPAA-ready Enterprise plans",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-14T00:00:00+00:00"
+  },
+  {
     "id": "4f54b82fe858314b",
     "product_id": "claude",
     "product_name": "Claude",
@@ -25,26 +45,6 @@
     "product_name": "Claude",
     "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
     "title": "Use Claude Cowork on web, desktop, and mobile",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-07-07T00:00:00+00:00"
-  },
-  {
-    "id": "8f36036a031b9e7d",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Write tools for the Microsoft 365 connector",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-07-07T00:00:00+00:00"
-  },
-  {
-    "id": "357204853a5e0371",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Set up the Microsoft 365 connector",
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-07-07T00:00:00+00:00"
@@ -98,6 +98,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: With Gemini Spark, we are transforming Gemini from an AI assistant that answers your questions into one that actually works proactively on your behalf.",
     "date": "2026-05-20T18:21:21.902529+00:00"
+  },
+  {
+    "id": "8f36036a031b9e7d",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Write tools for the Microsoft 365 connector",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-07T00:00:00+00:00"
+  },
+  {
+    "id": "357204853a5e0371",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Set up the Microsoft 365 connector",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-07T00:00:00+00:00"
   },
   {
     "id": "f9e1d8adaa601929",
