@@ -1,13 +1,13 @@
 [
   {
-    "id": "92aca7ce8a209770",
+    "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI",
+    "title": "1Password for Android",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "July 13 2026"
+    "date": "July 14 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -710,6 +710,16 @@
     "date": "2026-07-04T00:00:00+00:00"
   },
   {
+    "id": "92aca7ce8a209770",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password CLI",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "July 13 2026"
+  },
+  {
     "id": "8563fef570c790a7",
     "product_id": "windows",
     "product_name": "Windows",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/work-with-delegated-gmail-accounts-from-mobile-devices.html",
     "summary": "Previously, users could only work with delegated Gmail accounts through the web interface. We are updating the Gmail app for iOS and Android to allow delegates to read, manage, and compose emails on behalf of a delegator directly from their mobile devices.This update removes a significant barrier...",
     "date": "2026-06-30T18:26:46+00:00"
-  },
-  {
-    "id": "d7c2530270203923",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "May 29, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/49754007355540-May-29-2026",
-    "summary": "",
-    "date": "2026-05-29T19:21:11Z"
   }
 ]
