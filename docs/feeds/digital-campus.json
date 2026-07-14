@@ -560,6 +560,16 @@
     "date": "2026-07-07T16:54:07.702574+00:00"
   },
   {
+    "id": "ff5374f5385bc02a",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Multiple Node Slack SDK package updates",
+    "link": "https://docs.slack.dev/changelog/2026/07/14/node-slack-sdk-release",
+    "summary": "Our collection of Node Slack SDK packages have received new major versions.",
+    "date": "2026-07-14T00:00:00+00:00"
+  },
+  {
     "id": "93bcbcd2b9061956",
     "product_id": "slack",
     "product_name": "Slack",
@@ -597,16 +607,6 @@
     "title": "Release: Python Slack SDK v3.43.0",
     "link": "https://docs.slack.dev/changelog/2026/06/30/py-slack-sdk",
     "summary": "* We've added a public, read-only ts property to ChatStream and AsyncChatStream, enabling users to call the chat.update API method as a fallback when the server closes a stream due to undocumented timeouts.",
-    "date": "2026-06-30T00:00:00+00:00"
-  },
-  {
-    "id": "7b3b5782f3ef5c8f",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.4.0",
-    "link": "https://docs.slack.dev/changelog/2026/06/30/slack-cli",
-    "summary": "Version 4.4.0 of the Slack CLI is here!",
     "date": "2026-06-30T00:00:00+00:00"
   },
   {
@@ -708,6 +708,16 @@
     "link": "https://developers.zoom.us/changelog/rtms/july-04-2026",
     "summary": "Tags: api-release | Add REST API support for starting RTMS for meeting participants, add chat message media data support with 5 new event types for meetings and webinars, updates to protocol definitions including new and updated enums, improve PSTN user identification for simultaneous participants.",
     "date": "2026-07-04T00:00:00+00:00"
+  },
+  {
+    "id": "7b3b5782f3ef5c8f",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.4.0",
+    "link": "https://docs.slack.dev/changelog/2026/06/30/slack-cli",
+    "summary": "Version 4.4.0 of the Slack CLI is here!",
+    "date": "2026-06-30T00:00:00+00:00"
   },
   {
     "id": "63a4036a6e367e7a",
@@ -988,15 +998,5 @@
     "link": "https://scribe.launchnotes.io/announcements/organize-your-teams-into-departments",
     "summary": "Loading...",
     "date": "July 1, 2026"
-  },
-  {
-    "id": "75beafef86e8310f",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Enterprise",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-06-12T17:09:06.290434+00:00"
   }
 ]
