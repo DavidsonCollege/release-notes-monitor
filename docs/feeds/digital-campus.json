@@ -660,56 +660,6 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
-    "id": "044b1c126f72f69e",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Add new request field to Contacts API",
-    "link": "https://developers.zoom.us/changelog/chat/july-13-2026",
-    "summary": "Tags: api-release | Added `next_page_token' and `pronoun` request fields to the `GET /v2/contacts` API.",
-    "date": "2026-07-13T00:00:00+00:00"
-  },
-  {
-    "id": "2c75db3676a6a563",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Get available times for schedules",
-    "link": "https://developers.zoom.us/changelog/scheduler/july-13-2026",
-    "summary": "Tags: api-release | Added an Available Times API to retrieve available time slots for a schedule.",
-    "date": "2026-07-13T00:00:00+00:00"
-  },
-  {
-    "id": "ad0ce7d6d081d9e4",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New manifest tool for creating apps",
-    "link": "https://developers.zoom.us/changelog/app-marketplace/new-manifest-tool-for-creating-apps",
-    "summary": "Tags: new-feature | Manifests are JSON-formatted files that contain the configuration for Zoom Apps. With a manifest, you can use the Marketplace build flow or an API to create a general app with a predefined configuration or to adjust the configuration of an existing general app. Using the...",
-    "date": "2026-07-09T00:00:00+00:00"
-  },
-  {
-    "id": "65d92c52f695d83f",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New API endpoints for AI metrics",
-    "link": "https://developers.zoom.us/changelog/accounts/july-06-2026",
-    "summary": "Tags: api-release | Added Dashboard API endpoints for AI metrics.",
-    "date": "2026-07-06T00:00:00+00:00"
-  },
-  {
-    "id": "a3365363df5a1439",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "RTMS June release",
-    "link": "https://developers.zoom.us/changelog/rtms/july-04-2026",
-    "summary": "Tags: api-release | Add REST API support for starting RTMS for meeting participants, add chat message media data support with 5 new event types for meetings and webinars, updates to protocol definitions including new and updated enums, improve PSTN user identification for simultaneous participants.",
-    "date": "2026-07-04T00:00:00+00:00"
-  },
-  {
     "id": "8563fef570c790a7",
     "product_id": "windows",
     "product_name": "Windows",
@@ -758,6 +708,56 @@
     "link": "https://blogs.windows.com/windows-insider/2026/05/29/announcing-new-builds-for-29-may-2026/",
     "summary": "Hello Windows Insiders, This week we continue to expand the rollout of the new Windows Insider Program changes to devices in channels already announced. New builds this week Today we are releasing new Windows 11 Insider Preview B The post Announcing new builds for 29 May 2026 appeared first on...",
     "date": "2026-05-29T17:05:27+00:00"
+  },
+  {
+    "id": "044b1c126f72f69e",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add new request field to Contacts API",
+    "link": "https://developers.zoom.us/changelog/chat/july-13-2026",
+    "summary": "Tags: api-release | Added `next_page_token' and `pronoun` request fields to the `GET /v2/contacts` API.",
+    "date": "2026-07-13T00:00:00+00:00"
+  },
+  {
+    "id": "2c75db3676a6a563",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Get available times for schedules",
+    "link": "https://developers.zoom.us/changelog/scheduler/july-13-2026",
+    "summary": "Tags: api-release | Added an Available Times API to retrieve available time slots for a schedule.",
+    "date": "2026-07-13T00:00:00+00:00"
+  },
+  {
+    "id": "ad0ce7d6d081d9e4",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New manifest tool for creating apps",
+    "link": "https://developers.zoom.us/changelog/app-marketplace/new-manifest-tool-for-creating-apps",
+    "summary": "Tags: new-feature | Manifests are JSON-formatted files that contain the configuration for Zoom Apps. With a manifest, you can use the Marketplace build flow or an API to create a general app with a predefined configuration or to adjust the configuration of an existing general app. Using the...",
+    "date": "2026-07-09T00:00:00+00:00"
+  },
+  {
+    "id": "65d92c52f695d83f",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New API endpoints for AI metrics",
+    "link": "https://developers.zoom.us/changelog/accounts/july-06-2026",
+    "summary": "Tags: api-release | Added Dashboard API endpoints for AI metrics.",
+    "date": "2026-07-06T00:00:00+00:00"
+  },
+  {
+    "id": "a3365363df5a1439",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "RTMS June release",
+    "link": "https://developers.zoom.us/changelog/rtms/july-04-2026",
+    "summary": "Tags: api-release | Add REST API support for starting RTMS for meeting participants, add chat message media data support with 5 new event types for meetings and webinars, updates to protocol definitions including new and updated enums, improve PSTN user identification for simultaneous participants.",
+    "date": "2026-07-04T00:00:00+00:00"
   },
   {
     "id": "3546bcf7ee63a3a6",
