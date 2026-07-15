@@ -1,13 +1,13 @@
 [
   {
-    "id": "9b4a49c55cd1a750",
+    "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
+    "title": "1Password for Android Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "July 14 2026"
+    "date": "July 15 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -710,6 +710,16 @@
     "date": "2026-07-04T00:00:00+00:00"
   },
   {
+    "id": "9b4a49c55cd1a750",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "July 14 2026"
+  },
+  {
     "id": "7b3b5782f3ef5c8f",
     "product_id": "slack",
     "product_name": "Slack",
@@ -918,16 +928,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/join-video-conferences-on-google-meet-hardware-via-SIP-through-Pexip.html",
     "summary": "You can now join video conferences on Google Meet hardware via SIP through a Pexip interop gateway. This brings universal connectivity for users to join meetings hosted on any SIP-compatible platform directly from their Meet rooms. The functionality is available for room hardware based on both...",
     "date": "2026-07-06T14:52:27+00:00"
-  },
-  {
-    "id": "68bf4e06214d3b4d",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "July 6 2026"
   },
   {
     "id": "dad24d3f919ab383",
