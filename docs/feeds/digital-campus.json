@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "fe6da6f8da51ceca",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Now available: group conversations with external collaborators in Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/now-available-group-conversations-with-external-collaborators-in-Google-Chat.html",
+    "summary": "For many teams, it’s essential to be able to work in real-time with partners from outside your organization. We’re improving external collaboration in Google Chat by making it possible to create group conversations that include external users.Previously, teams using Google Chat could only create...",
+    "date": "2026-07-15T16:21:06+00:00"
+  },
+  {
     "id": "0df32ee411fecad6",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-10-2026.html",
     "summary": "Join video conferences on Google Meet hardware via SIP through PexipYou can now join video conferences on Google Meet hardware via SIP through a Pexip interop gateway. This brings universal connectivity for users to join meetings hosted on any SIP-compatible platform directly from their Meet rooms....",
     "date": "2026-07-10T20:19:20+00:00"
-  },
-  {
-    "id": "da545a64321c08ab",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Streamline identity lifecycle management in Google Workspace with new inbound SCIM support",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/streamline-identity-lifecycle-management-in-Google-Workspace-with-new-inbound-SCIM-support.html",
-    "summary": "We are excited to announce the general availability of Google Workspace inbound SCIM APIs to help IT administrators standardize identity lifecycle management. This new capability allows you to sync your Google Workspace directory in real time with any SCIM-compatible Identity Provider (IdP), HR...",
-    "date": "2026-07-09T17:09:34+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -760,6 +760,16 @@
     "date": "2026-07-04T00:00:00+00:00"
   },
   {
+    "id": "da545a64321c08ab",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Streamline identity lifecycle management in Google Workspace with new inbound SCIM support",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/streamline-identity-lifecycle-management-in-Google-Workspace-with-new-inbound-SCIM-support.html",
+    "summary": "We are excited to announce the general availability of Google Workspace inbound SCIM APIs to help IT administrators standardize identity lifecycle management. This new capability allows you to sync your Google Workspace directory in real time with any SCIM-compatible Identity Provider (IdP), HR...",
+    "date": "2026-07-09T17:09:34+00:00"
+  },
+  {
     "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
@@ -987,16 +997,6 @@
     "title": "Organize your teams into Departments",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "July 1, 2026"
-  },
-  {
-    "id": "8ffb9ee70a3ed84e",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Organize your teams into Departments",
-    "link": "https://scribe.launchnotes.io/announcements/organize-your-teams-into-departments",
-    "summary": "Loading...",
     "date": "July 1, 2026"
   }
 ]
