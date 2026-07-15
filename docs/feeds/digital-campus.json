@@ -440,56 +440,6 @@
     "date": "2026-06-24T14:00:59+00:00"
   },
   {
-    "id": "11333264bfc0aec6",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "26.0.2",
-    "link": "https://www.papercut.com/products/mf/release-history/26-0/",
-    "summary": "New Features SAML 2.0 Authentication This feature introduces SAML 2.0 for single-sign-on support (SSO), enabling PaperCut NG/MF to integrate with external Identity Providers (IdPs) such as Microsoft Entra ID, Okta, and Ping Federate. This allows System Administrators to provide a consistent login...",
-    "date": "2026-06-30T00:00:00+00:00"
-  },
-  {
-    "id": "192f3d32a50553a3",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.11",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2026-05-05T00:00:00+00:00"
-  },
-  {
-    "id": "4c648a6b3f65d207",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.10",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2026-03-31T00:00:00+00:00"
-  },
-  {
-    "id": "29b118fba425721c",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.9",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2026-03-26T00:00:00+00:00"
-  },
-  {
-    "id": "3a81a7e4205a54f5",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.8",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2026-02-10T00:00:00+00:00"
-  },
-  {
     "id": "06a1b6a05e1c3232",
     "product_id": "screencloud",
     "product_name": "ScreenCloud",
@@ -560,6 +510,16 @@
     "date": "2026-07-07T16:54:07.702574+00:00"
   },
   {
+    "id": "d38ec99caa346ceb",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Bolt for JS v5",
+    "link": "https://docs.slack.dev/changelog/2026/07/15/bolt-js-release",
+    "summary": "Version 5.0.0 of Bolt for JS is here! This release follows the Node Slack SDK's shift from axios to the native Fetch API, removes the deprecated Workflow Steps from Apps feature, and raises the minimum Node.js version to 20.",
+    "date": "2026-07-15T00:00:00+00:00"
+  },
+  {
     "id": "ff5374f5385bc02a",
     "product_id": "slack",
     "product_name": "Slack",
@@ -597,16 +557,6 @@
     "title": "Introducing the Agent messaging experience",
     "link": "https://docs.slack.dev/changelog/2026/06/30/agent-messages-tab",
     "summary": "Agents now support a new messaging experience, set by your app manifest:",
-    "date": "2026-06-30T00:00:00+00:00"
-  },
-  {
-    "id": "1a042d2e1067a8a2",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Python Slack SDK v3.43.0",
-    "link": "https://docs.slack.dev/changelog/2026/06/30/py-slack-sdk",
-    "summary": "* We've added a public, read-only ts property to ChatStream and AsyncChatStream, enabling users to call the chat.update API method as a fallback when the server closes a stream due to undocumented timeouts.",
     "date": "2026-06-30T00:00:00+00:00"
   },
   {
@@ -708,6 +658,66 @@
     "link": "https://developers.zoom.us/changelog/rtms/july-04-2026",
     "summary": "Tags: api-release | Add REST API support for starting RTMS for meeting participants, add chat message media data support with 5 new event types for meetings and webinars, updates to protocol definitions including new and updated enums, improve PSTN user identification for simultaneous participants.",
     "date": "2026-07-04T00:00:00+00:00"
+  },
+  {
+    "id": "11333264bfc0aec6",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "26.0.2",
+    "link": "https://www.papercut.com/products/mf/release-history/26-0/",
+    "summary": "New Features SAML 2.0 Authentication This feature introduces SAML 2.0 for single-sign-on support (SSO), enabling PaperCut NG/MF to integrate with external Identity Providers (IdPs) such as Microsoft Entra ID, Okta, and Ping Federate. This allows System Administrators to provide a consistent login...",
+    "date": "2026-06-30T00:00:00+00:00"
+  },
+  {
+    "id": "192f3d32a50553a3",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.11",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2026-05-05T00:00:00+00:00"
+  },
+  {
+    "id": "4c648a6b3f65d207",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.10",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2026-03-31T00:00:00+00:00"
+  },
+  {
+    "id": "29b118fba425721c",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.9",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2026-03-26T00:00:00+00:00"
+  },
+  {
+    "id": "3a81a7e4205a54f5",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.8",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2026-02-10T00:00:00+00:00"
+  },
+  {
+    "id": "1a042d2e1067a8a2",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Python Slack SDK v3.43.0",
+    "link": "https://docs.slack.dev/changelog/2026/06/30/py-slack-sdk",
+    "summary": "* We've added a public, read-only ts property to ChatStream and AsyncChatStream, enabling users to call the chat.update API method as a fallback when the server closes a stream due to undocumented timeouts.",
+    "date": "2026-06-30T00:00:00+00:00"
   },
   {
     "id": "8563fef570c790a7",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/ai-overviews-in-drive-now-available-on-mobile.html",
     "summary": "In April, we announced the general availability for Drive AI Overviews in Drive on the web. We’re now bringing this feature to the Drive Android and iOS apps.Instead of searching through endless files and opening dozens of tabs to find the information you need, you can now get instant answers right...",
     "date": "2026-06-30T19:55:27+00:00"
-  },
-  {
-    "id": "1b99482d9569d4b5",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Organize your teams into Departments",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "July 1, 2026"
   }
 ]
