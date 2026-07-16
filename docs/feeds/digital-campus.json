@@ -220,6 +220,36 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "faef982c380fe303",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Expanded language support for Gemini in Google Docs",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/expanded-language-support-for-gemini-in-Google-Docs.html",
+    "summary": "Earlier this year, we introduced new Gemini in Google Docs capabilities that help you move from a blank page to a finished document faster than ever.We are now expanding support for these features to 11 more languages, including Mandarin, Dutch, Malay, Hebrew, Polish, Turkish, Czech, Indonesian,...",
+    "date": "2026-07-16T16:46:22+00:00"
+  },
+  {
+    "id": "ccd14ba4bc1e909b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Easily control the emotions and pacing of AI avatars and AI voiceovers in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/easily-steer-ai-voiceover-and-avatar-speaking-with-emotions-pacing-and-sound-effects.html",
+    "summary": "Users can now easily steer voiceover and avatar speaking in Google Vids by typing content within brackets like “[excitedly]”.When typing open brackets (“[“) Vids will offer a menu of steering tags to customize pacing, emotional delivery, and sound effects. These cues empower you to guide the...",
+    "date": "2026-07-16T16:30:25+00:00"
+  },
+  {
+    "id": "3e1386e419a83e37",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "NotebookLM is now Gemini Notebook",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/notebooklm-now-gemini-notebook.html",
+    "summary": "We’re renaming NotebookLM to Gemini Notebook. While it remains a standalone product focused on being your premier research tool, the new name reflects how it will evolve to do more across the Google ecosystem.Users will see the new name and updated logo roll out across different interfaces over the...",
+    "date": "2026-07-16T16:08:59+00:00"
+  },
+  {
     "id": "fe6da6f8da51ceca",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -238,36 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/new-refinement-capabilities-allow-custom-editing-with-Help-me-write-in-Gmail.html",
     "summary": "Users can now edit and revise their email drafts in Gmail via the prompt bar, using custom refine instructions in Help me write. Previously the refines were limited to preset options like Polish, Formalize, and Shorten. Now if your first draft isn’t quite perfect, you can provide a precise...",
     "date": "2026-07-14T17:28:59+00:00"
-  },
-  {
-    "id": "3caea6013e696ae5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improvement to in-room problem reporting for Google Meet hardware",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/improvement-to-in-room-problem-reporting-for-Google-Meet-hardware.html",
-    "summary": "Maintaining an enterprise-grade video conferencing environment requires visibility into the health of its devices. We're introducing new ways to see Google Meet hardware user-reported feedback directly in the Admin console.We’ve also updated user-side feedback options to replace generic reporting...",
-    "date": "2026-07-14T15:32:39+00:00"
-  },
-  {
-    "id": "f28aea5b6311d4a5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Credential Provider for Windows (GCPW) now supports FIDO2-compliant physical security keys as a second factor for authentication",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/google-credential-provider-for-windows-now-supports-FIDO2-compliant-physical-security-keys-as-a-second-factor-for-authentication.html",
-    "summary": "Google Credential Provider for Windows (GCPW) has been updated to support FIDO2-compliant physical security keys as a second factor for authentication. This update helps organizations improve their security posture by enabling administrators to enforce 2-Step Verification (2SV) using hardware...",
-    "date": "2026-07-13T17:45:43+00:00"
-  },
-  {
-    "id": "018836291e1aa995",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - July 10, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-10-2026.html",
-    "summary": "Join video conferences on Google Meet hardware via SIP through PexipYou can now join video conferences on Google Meet hardware via SIP through a Pexip interop gateway. This brings universal connectivity for users to join meetings hosted on any SIP-compatible platform directly from their Meet rooms....",
-    "date": "2026-07-10T20:19:20+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -710,6 +710,36 @@
     "date": "2026-07-04T00:00:00+00:00"
   },
   {
+    "id": "3caea6013e696ae5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improvement to in-room problem reporting for Google Meet hardware",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/improvement-to-in-room-problem-reporting-for-Google-Meet-hardware.html",
+    "summary": "Maintaining an enterprise-grade video conferencing environment requires visibility into the health of its devices. We're introducing new ways to see Google Meet hardware user-reported feedback directly in the Admin console.We’ve also updated user-side feedback options to replace generic reporting...",
+    "date": "2026-07-14T15:32:39+00:00"
+  },
+  {
+    "id": "f28aea5b6311d4a5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Credential Provider for Windows (GCPW) now supports FIDO2-compliant physical security keys as a second factor for authentication",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/google-credential-provider-for-windows-now-supports-FIDO2-compliant-physical-security-keys-as-a-second-factor-for-authentication.html",
+    "summary": "Google Credential Provider for Windows (GCPW) has been updated to support FIDO2-compliant physical security keys as a second factor for authentication. This update helps organizations improve their security posture by enabling administrators to enforce 2-Step Verification (2SV) using hardware...",
+    "date": "2026-07-13T17:45:43+00:00"
+  },
+  {
+    "id": "018836291e1aa995",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - July 10, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-10-2026.html",
+    "summary": "Join video conferences on Google Meet hardware via SIP through PexipYou can now join video conferences on Google Meet hardware via SIP through a Pexip interop gateway. This brings universal connectivity for users to join meetings hosted on any SIP-compatible platform directly from their Meet rooms....",
+    "date": "2026-07-10T20:19:20+00:00"
+  },
+  {
     "id": "1a042d2e1067a8a2",
     "product_id": "slack",
     "product_name": "Slack",
@@ -968,35 +998,5 @@
     "link": "https://docs.slack.dev/changelog/2026/06/18/slack-cli",
     "summary": "Version 4.3.0 of the Slack CLI is here!",
     "date": "2026-06-18T00:00:00+00:00"
-  },
-  {
-    "id": "4bc209d3c4a21f0b",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.6 beta 4 (25G5057c)",
-    "link": "https://developer.apple.com/news/releases/?id=07062026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-07-06T17:00:00+00:00"
-  },
-  {
-    "id": "e9da4f784bb37c2d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Import 3D bar charts into Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/import-3d-bar-charts-into-google-sheets.html",
-    "summary": "Google Sheets now fully supports the import of 3D bar charts. Previously, when users imported files containing 3D bar charts into Sheets, they would be displayed as 2D bar charts. With this update, importing these types of files, including from Microsoft Excel, will yield a more seamless...",
-    "date": "2026-07-01T17:37:58+00:00"
-  },
-  {
-    "id": "95078b9a50305456",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "AI Overviews in Drive now available on mobile",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/ai-overviews-in-drive-now-available-on-mobile.html",
-    "summary": "In April, we announced the general availability for Drive AI Overviews in Drive on the web. We’re now bringing this feature to the Drive Android and iOS apps.Instead of searching through endless files and opening dozens of tabs to find the information you need, you can now get instant answers right...",
-    "date": "2026-06-30T19:55:27+00:00"
   }
 ]
