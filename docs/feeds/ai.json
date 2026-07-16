@@ -20,6 +20,26 @@
     "date": "2026-07-14T00:00:00+00:00"
   },
   {
+    "id": "02da7a902cbf3c6f",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Updated memory for Claude",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-10T00:00:00+00:00"
+  },
+  {
+    "id": "ec87e81f80d31dca",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Use Claude’s chat search and memory to build on previous context",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-10T00:00:00+00:00"
+  },
+  {
     "id": "4f54b82fe858314b",
     "product_id": "claude",
     "product_name": "Claude",
@@ -28,26 +48,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-07-09T00:00:00+00:00"
-  },
-  {
-    "id": "2c24501575aedd41",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Cowork on web and mobile",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-07-07T00:00:00+00:00"
-  },
-  {
-    "id": "c05e892799a57138",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Use Claude Cowork on web, desktop, and mobile",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-07-07T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -98,6 +98,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: With Gemini Spark, we are transforming Gemini from an AI assistant that answers your questions into one that actually works proactively on your behalf.",
     "date": "2026-05-20T18:21:21.902529+00:00"
+  },
+  {
+    "id": "2c24501575aedd41",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Cowork on web and mobile",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-07T00:00:00+00:00"
+  },
+  {
+    "id": "c05e892799a57138",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Use Claude Cowork on web, desktop, and mobile",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-07T00:00:00+00:00"
   },
   {
     "id": "f9e1d8adaa601929",
