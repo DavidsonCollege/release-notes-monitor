@@ -660,6 +660,46 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "32359cf5b0dc93bf",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New response fields for Quote APIs",
+    "link": "https://developers.zoom.us/changelog/commerce/july-16-2026",
+    "summary": "Tags: api-release | New response fields for Quote APIs.",
+    "date": "2026-07-16T00:00:00+00:00"
+  },
+  {
+    "id": "0a7a945168d5e9e6",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Return assigned user names for phone numbers",
+    "link": "https://developers.zoom.us/changelog/number-management/july-16-2026",
+    "summary": "Tags: api-release | Added the `assigned_to_name` response field to the Phone Numbers APIs to return the name of the user or entity assigned to each phone number.",
+    "date": "2026-07-16T00:00:00+00:00"
+  },
+  {
+    "id": "23e7a6cbed7118ec",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New external_storage_url field session.recording_completed webhook",
+    "link": "https://developers.zoom.us/changelog/video-sdk/july-16-2026",
+    "summary": "Tags: api-release | New external_storage_url field in the Cloud Recording session.recording_completed webhook event.",
+    "date": "2026-07-16T00:00:00+00:00"
+  },
+  {
+    "id": "1158b10d24125659",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.6.0",
+    "link": "https://developers.zoom.us/changelog/video-sdk/react-native/2.6.0",
+    "summary": "Tags: sdk-version | Support user failover status change. Add a pre-connection (two-step join) flow to speed up the actual session join. Joining or leaving a subsession now triggers the onSubSessionStatusChanged and onSessionLeave callbacks in useSdkEventListener.ts. Increase the command channel...",
+    "date": "2026-07-16T00:00:00+00:00"
+  },
+  {
     "id": "044b1c126f72f69e",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -958,45 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "July 9 2026"
-  },
-  {
-    "id": "f1f76ee7bdabf2f7",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "Design responses now include a design_types field, and DesignPage responses now include a design_type field. These indicate the type of content a desi",
-    "link": "https://www.canva.dev/docs/connect/changelog/",
-    "summary": "Design responses now include a design_types field, and DesignPage responses now include a design_type field. These indicate the type of content a design or page contains, such as doc or presentation. The value unknown is returned when the type cannot be determined. This list may be extended in the...",
-    "date": "2026-06-16T01:20:07.415268+00:00"
-  },
-  {
-    "id": "d6d671cd3048f955",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "June 5, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/49995557266708-June-5-2026",
-    "summary": "",
-    "date": "2026-06-05T20:14:24Z"
-  },
-  {
-    "id": "f0f465dfd225d7e8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Occupancy counting now available for Google Meet on Neat room hardware",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/occupancy-counting-now-available-for-Google-Meet-on-Neat-room-hardware.html",
-    "summary": "Occupancy counting is now available for Android-based Neat room hardware to help measure how meeting rooms are used. This feature brings the same occupancy counting capabilities found on ChromeOS devices to Android-based hardware.Understanding room occupancy helps organizations optimize real estate...",
-    "date": "2026-07-07T14:39:10+00:00"
-  },
-  {
-    "id": "efd77881d3354ccf",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Create Chat Channel Tabs",
-    "link": "https://developers.zoom.us/changelog/chat/june-29-2026",
-    "summary": "Tags: api-release | Added a new API to create tabs in a chat channel during migration.",
-    "date": "2026-06-29T00:00:00+00:00"
   }
 ]
