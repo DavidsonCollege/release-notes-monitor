@@ -831,7 +831,7 @@
       "name": "temp-call_center_relocation",
       "is_private": false,
       "topic": "",
-      "num_members": 8
+      "num_members": 7
     },
     {
       "id": "C0B1Z72DRPS",
@@ -974,6 +974,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-07-16T13:36:15.936131+00:00",
+  "last_updated": "2026-07-16T14:44:17.431126+00:00",
   "fetch_status": "success"
 }
