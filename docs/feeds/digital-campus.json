@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "b4b4b616e1d5f8c4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Generate higher quality AI video clips and edit any video with Gemini Omni in Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/generate-higher-quality-ai-video-clips-and-edit-any-video-with-Gemini-Omni-in-Vids.html",
+    "summary": "Users now have access to Gemini Omni directly within Google Vids. Omni provides higher quality video generation with significant improvements over previous models. Additionally, Omni’s world understanding unlocks simple video edits so you can ask Omni to tweak the video you have to get the video...",
+    "date": "2026-07-16T19:09:09+00:00"
+  },
+  {
     "id": "faef982c380fe303",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -260,14 +270,14 @@
     "date": "2026-07-15T16:21:06+00:00"
   },
   {
-    "id": "0df32ee411fecad6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New refinement capabilities allow custom editing with Help me write in Gmail",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/new-refinement-capabilities-allow-custom-editing-with-Help-me-write-in-Gmail.html",
-    "summary": "Users can now edit and revise their email drafts in Gmail via the prompt bar, using custom refine instructions in Help me write. Previously the refines were limited to preset options like Polish, Formalize, and Shorten. Now if your first draft isn’t quite perfect, you can provide a precise...",
-    "date": "2026-07-14T17:28:59+00:00"
+    "id": "83a6e193535a1b0a",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Weekly Recap & Playlist Interrupt Release - 05.15.2026",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-and-playlist-interrupt-release-05152026",
+    "summary": "**Playlist Priority Scheduling: Interrupt and Override \\| Take full control of what plays and when** When something urgent needs to go on screen immediately, you shouldn't have to fight your own playlist to get it there. Playlist Priority Scheduling lets you assign priority levels across your...",
+    "date": "2026-05-15T20:58:42+00:00"
   },
   {
     "id": "f797e86c07e10880",
@@ -298,16 +308,6 @@
     "link": "https://product.korbyt.com/changelog/korbyt-anywhere-release-recap-12052025",
     "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🐞 Squashed Bugs - Fixed an issue where YouTube element showed an error due to recent changes in YouTube's Terms of Service. - Resolved a styling inheritance issue in Korbyt Create AI Layouts where elements did not...",
     "date": "2025-12-05T15:05:58+00:00"
-  },
-  {
-    "id": "b0316679065746b8",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Product Recap - 11.21.2025",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-11212025",
-    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🆕 New & Enhanced - Added audio volume control for media in Korbyt Anywhere PWA, requested specifically to be used for Microsoft Teams Rooms use cases 🐞 Squashed Bugs - Fixed display issues in the NWS Weather Element...",
-    "date": "2025-11-21T16:13:40+00:00"
   },
   {
     "id": "17756a50ee75b5f6",
@@ -710,6 +710,26 @@
     "date": "2026-07-04T00:00:00+00:00"
   },
   {
+    "id": "0df32ee411fecad6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New refinement capabilities allow custom editing with Help me write in Gmail",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/new-refinement-capabilities-allow-custom-editing-with-Help-me-write-in-Gmail.html",
+    "summary": "Users can now edit and revise their email drafts in Gmail via the prompt bar, using custom refine instructions in Help me write. Previously the refines were limited to preset options like Polish, Formalize, and Shorten. Now if your first draft isn’t quite perfect, you can provide a precise...",
+    "date": "2026-07-14T17:28:59+00:00"
+  },
+  {
+    "id": "b0316679065746b8",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Product Recap - 11.21.2025",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-11212025",
+    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🆕 New & Enhanced - Added audio volume control for media in Korbyt Anywhere PWA, requested specifically to be used for Microsoft Teams Rooms use cases 🐞 Squashed Bugs - Fixed display issues in the NWS Weather Element...",
+    "date": "2025-11-21T16:13:40+00:00"
+  },
+  {
     "id": "3caea6013e696ae5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/join-video-conferences-on-google-meet-hardware-via-SIP-through-Pexip.html",
     "summary": "You can now join video conferences on Google Meet hardware via SIP through a Pexip interop gateway. This brings universal connectivity for users to join meetings hosted on any SIP-compatible platform directly from their Meet rooms. The functionality is available for room hardware based on both...",
     "date": "2026-07-06T14:52:27+00:00"
-  },
-  {
-    "id": "dad24d3f919ab383",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - July 3, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-03-2026.html",
-    "summary": "Updated admin setting for improved video quality in Google MeetIn April 2026, we updated Meet to improve video quality on high-resolution displays. We’re now updating the way the Admin console setting that limits video bandwidth works to reduce data usage and improve call quality. | Learn...",
-    "date": "2026-07-03T19:31:10+00:00"
-  },
-  {
-    "id": "5da76d4ffabed468",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.3.0",
-    "link": "https://docs.slack.dev/changelog/2026/06/18/slack-cli",
-    "summary": "Version 4.3.0 of the Slack CLI is here!",
-    "date": "2026-06-18T00:00:00+00:00"
   }
 ]
