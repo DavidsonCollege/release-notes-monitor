@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "59bd1cb655ab048e",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New Google Meet 'Take notes for me' settings for admins and end users",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html",
+    "summary": "To help users remember to capture notes for meetings when it’s most valuable, we’re updating the admin and end user settings that let them pre-configure AI note-taking for Google Meet.Admin settingsPreviously, admins could only enable or disable automatic note-taking for all meetings. Today, we’re...",
+    "date": "2026-07-16T20:07:25+00:00"
+  },
+  {
+    "id": "91a4c10cb7fb6ccc",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Cast yourself in AI video clips using your personal avatar with Gemini Omni in Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/cast-yourself-in-ai-video-clips-using-your-personal-avatar-with-Gemini-Omni-in-Vids.html",
+    "summary": "Users now have access to Gemini Omni directly within Google Vids. With Gemini Omni, you can create videos using your personal avatar to scale your presence without the studio time. Use a secure verification process to capture your likeness and then select it as a character in Omni generations...",
+    "date": "2026-07-16T20:06:53+00:00"
+  },
+  {
     "id": "b4b4b616e1d5f8c4",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/easily-steer-ai-voiceover-and-avatar-speaking-with-emotions-pacing-and-sound-effects.html",
     "summary": "Users can now easily steer voiceover and avatar speaking in Google Vids by typing content within brackets like “[excitedly]”.When typing open brackets (“[“) Vids will offer a menu of steering tags to customize pacing, emotional delivery, and sound effects. These cues empower you to guide the...",
     "date": "2026-07-16T16:30:25+00:00"
-  },
-  {
-    "id": "3e1386e419a83e37",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "NotebookLM is now Gemini Notebook",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/notebooklm-now-gemini-notebook.html",
-    "summary": "We’re renaming NotebookLM to Gemini Notebook. While it remains a standalone product focused on being your premier research tool, the new name reflects how it will evolve to do more across the Google ecosystem.Users will see the new name and updated logo roll out across different interfaces over the...",
-    "date": "2026-07-16T16:08:59+00:00"
-  },
-  {
-    "id": "fe6da6f8da51ceca",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Now available: group conversations with external collaborators in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/now-available-group-conversations-with-external-collaborators-in-Google-Chat.html",
-    "summary": "For many teams, it’s essential to be able to work in real-time with partners from outside your organization. We’re improving external collaboration in Google Chat by making it possible to create group conversations that include external users.Previously, teams using Google Chat could only create...",
-    "date": "2026-07-15T16:21:06+00:00"
   },
   {
     "id": "83a6e193535a1b0a",
@@ -710,6 +710,26 @@
     "date": "2026-07-04T00:00:00+00:00"
   },
   {
+    "id": "3e1386e419a83e37",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "NotebookLM is now Gemini Notebook",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/notebooklm-now-gemini-notebook.html",
+    "summary": "We’re renaming NotebookLM to Gemini Notebook. While it remains a standalone product focused on being your premier research tool, the new name reflects how it will evolve to do more across the Google ecosystem.Users will see the new name and updated logo roll out across different interfaces over the...",
+    "date": "2026-07-16T16:08:59+00:00"
+  },
+  {
+    "id": "fe6da6f8da51ceca",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Now available: group conversations with external collaborators in Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/now-available-group-conversations-with-external-collaborators-in-Google-Chat.html",
+    "summary": "For many teams, it’s essential to be able to work in real-time with partners from outside your organization. We’re improving external collaboration in Google Chat by making it possible to create group conversations that include external users.Previously, teams using Google Chat could only create...",
+    "date": "2026-07-15T16:21:06+00:00"
+  },
+  {
     "id": "0df32ee411fecad6",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "https://developers.zoom.us/changelog/chat/june-29-2026",
     "summary": "Tags: api-release | Added a new API to create tabs in a chat channel during migration.",
     "date": "2026-06-29T00:00:00+00:00"
-  },
-  {
-    "id": "1ce13786143cab1f",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.6.0",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.6.0",
-    "summary": "Tags: sdk-version | Annotation supports snap to element.Optimized error messages.Optimized annotation eraser hit detection.",
-    "date": "2026-06-29T00:00:00+00:00"
-  },
-  {
-    "id": "6a8230c866b4330d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Join video conferences on Google Meet hardware via SIP through Pexip",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/join-video-conferences-on-google-meet-hardware-via-SIP-through-Pexip.html",
-    "summary": "You can now join video conferences on Google Meet hardware via SIP through a Pexip interop gateway. This brings universal connectivity for users to join meetings hosted on any SIP-compatible platform directly from their Meet rooms. The functionality is available for room hardware based on both...",
-    "date": "2026-07-06T14:52:27+00:00"
   }
 ]
