@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "89f4d638d0825a1c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - July 17, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-17-2026.html",
+    "summary": "Google Credential Provider for Windows (GCPW) now supports FIDO2-compliant physical security keys as a second factor for authenticationGoogle Credential Provider for Windows (GCPW) has been updated to support FIDO2-compliant physical security keys as a second factor for authentication. This update...",
+    "date": "2026-07-17T19:38:37+00:00"
+  },
+  {
     "id": "59bd1cb655ab048e",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/expanded-language-support-for-gemini-in-Google-Docs.html",
     "summary": "Earlier this year, we introduced new Gemini in Google Docs capabilities that help you move from a blank page to a finished document faster than ever.We are now expanding support for these features to 11 more languages, including Mandarin, Dutch, Malay, Hebrew, Polish, Turkish, Czech, Indonesian,...",
     "date": "2026-07-16T16:46:22+00:00"
-  },
-  {
-    "id": "ccd14ba4bc1e909b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Easily control the emotions and pacing of AI avatars and AI voiceovers in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/easily-steer-ai-voiceover-and-avatar-speaking-with-emotions-pacing-and-sound-effects.html",
-    "summary": "Users can now easily steer voiceover and avatar speaking in Google Vids by typing content within brackets like “[excitedly]”.When typing open brackets (“[“) Vids will offer a menu of steering tags to customize pacing, emotional delivery, and sound effects. These cues empower you to guide the...",
-    "date": "2026-07-16T16:30:25+00:00"
   },
   {
     "id": "83a6e193535a1b0a",
@@ -760,6 +760,16 @@
     "date": "2026-07-13T00:00:00+00:00"
   },
   {
+    "id": "ccd14ba4bc1e909b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Easily control the emotions and pacing of AI avatars and AI voiceovers in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/06/easily-steer-ai-voiceover-and-avatar-speaking-with-emotions-pacing-and-sound-effects.html",
+    "summary": "Users can now easily steer voiceover and avatar speaking in Google Vids by typing content within brackets like “[excitedly]”.When typing open brackets (“[“) Vids will offer a menu of steering tags to customize pacing, emotional delivery, and sound effects. These cues empower you to guide the...",
+    "date": "2026-07-16T16:30:25+00:00"
+  },
+  {
     "id": "4ee4c588b13b48e1",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/accounts/june-29-2026",
     "summary": "Tags: api-release | Added new fields to Accounts API.",
     "date": "2026-06-29T00:00:00+00:00"
-  },
-  {
-    "id": "028fa5fa0b04bbf8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Fill with Gemini in Sheets now available in 11 additional languages",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/fill-with-gemini-in-sheets-now-available-in-11-additional-languages.html",
-    "summary": "Earlier this year, we announced Fill with Gemini in Google Sheets, a new AI-powered feature designed to make data preparation and manual entry even easier. Leveraging the capabilities of the AI function in Google Sheets, Fill with Gemini eliminates the need for complex formulas, helping you easily...",
-    "date": "2026-07-07T16:25:56+00:00"
   }
 ]
