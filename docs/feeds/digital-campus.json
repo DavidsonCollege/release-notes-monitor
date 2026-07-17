@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "7cd0d0dbea07e961",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "July 17, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/51477488444564-July-17-2026",
+    "summary": "",
+    "date": "2026-07-17T18:43:28Z"
+  },
+  {
     "id": "5afa0bdb207b1b17",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/50544807118612-June-19-2026",
     "summary": "",
     "date": "2026-06-22T14:51:26Z"
-  },
-  {
-    "id": "4ee4c588b13b48e1",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "June 12, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/50229244846228-June-12-2026",
-    "summary": "",
-    "date": "2026-06-12T16:41:17Z"
   },
   {
     "id": "d8be261279577d9c",
@@ -760,6 +760,16 @@
     "date": "2026-07-13T00:00:00+00:00"
   },
   {
+    "id": "4ee4c588b13b48e1",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "June 12, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/50229244846228-June-12-2026",
+    "summary": "",
+    "date": "2026-06-12T16:41:17Z"
+  },
+  {
     "id": "2c75db3676a6a563",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/fill-with-gemini-in-sheets-now-available-in-11-additional-languages.html",
     "summary": "Earlier this year, we announced Fill with Gemini in Google Sheets, a new AI-powered feature designed to make data preparation and manual entry even easier. Leveraging the capabilities of the AI function in Google Sheets, Fill with Gemini eliminates the need for complex formulas, helping you easily...",
     "date": "2026-07-07T16:25:56+00:00"
-  },
-  {
-    "id": "85fa3f89a4f80853",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "July 9 2026"
   }
 ]
