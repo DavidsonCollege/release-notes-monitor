@@ -560,6 +560,56 @@
     "date": "2026-07-07T16:54:07.702574+00:00"
   },
   {
+    "id": "d38ec99caa346ceb",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Bolt for JS v5",
+    "link": "https://docs.slack.dev/changelog/2026/07/15/bolt-js-release",
+    "summary": "Version 5.0.0 of Bolt for JS is here! This release follows the Node Slack SDK's shift from axios to the native Fetch API, removes the deprecated Workflow Steps from Apps feature, and raises the minimum Node.js version to 20.",
+    "date": "2026-07-15T00:00:00+00:00"
+  },
+  {
+    "id": "ff5374f5385bc02a",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Multiple Node Slack SDK package updates",
+    "link": "https://docs.slack.dev/changelog/2026/07/14/node-slack-sdk-release",
+    "summary": "Our collection of Node Slack SDK packages have received new major versions.",
+    "date": "2026-07-14T00:00:00+00:00"
+  },
+  {
+    "id": "93bcbcd2b9061956",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Desktop notifications now pull text from blocks first",
+    "link": "https://docs.slack.dev/changelog/2026/07/13/notification-changes",
+    "summary": "Slack desktop client notifications now pull text from blocks first, falling back to the top-level text field only if no text can be extracted from blocks. Mobile notifications continue to exclusively use message.text.",
+    "date": "2026-07-13T00:00:00+00:00"
+  },
+  {
+    "id": "09f997080d6a3717",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Agent context has landed",
+    "link": "https://docs.slack.dev/changelog/2026/07/02/app-context",
+    "summary": "Agent apps can now receive context about what a user is currently viewing when they send a message. When a user has a channel, DM, thread, canvas, or list open and messages your app, Slack will pass that context automatically.",
+    "date": "2026-07-02T00:00:00+00:00"
+  },
+  {
+    "id": "4573b3ff329778bf",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Introducing the Agent messaging experience",
+    "link": "https://docs.slack.dev/changelog/2026/06/30/agent-messages-tab",
+    "summary": "Agents now support a new messaging experience, set by your app manifest:",
+    "date": "2026-06-30T00:00:00+00:00"
+  },
+  {
     "id": "d04afd8189d29908",
     "product_id": "smartdeploy",
     "product_name": "SmartDeploy",
@@ -708,56 +758,6 @@
     "link": "https://developers.zoom.us/changelog/chat/july-13-2026",
     "summary": "Tags: api-release | Added `next_page_token' and `pronoun` request fields to the `GET /v2/contacts` API.",
     "date": "2026-07-13T00:00:00+00:00"
-  },
-  {
-    "id": "d38ec99caa346ceb",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Bolt for JS v5",
-    "link": "https://docs.slack.dev/changelog/2026/07/15/bolt-js-release",
-    "summary": "Version 5.0.0 of Bolt for JS is here! This release follows the Node Slack SDK's shift from axios to the native Fetch API, removes the deprecated Workflow Steps from Apps feature, and raises the minimum Node.js version to 20.",
-    "date": "2026-07-15T00:00:00+00:00"
-  },
-  {
-    "id": "ff5374f5385bc02a",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Multiple Node Slack SDK package updates",
-    "link": "https://docs.slack.dev/changelog/2026/07/14/node-slack-sdk-release",
-    "summary": "Our collection of Node Slack SDK packages have received new major versions.",
-    "date": "2026-07-14T00:00:00+00:00"
-  },
-  {
-    "id": "93bcbcd2b9061956",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Desktop notifications now pull text from blocks first",
-    "link": "https://docs.slack.dev/changelog/2026/07/13/notification-changes",
-    "summary": "Slack desktop client notifications now pull text from blocks first, falling back to the top-level text field only if no text can be extracted from blocks. Mobile notifications continue to exclusively use message.text.",
-    "date": "2026-07-13T00:00:00+00:00"
-  },
-  {
-    "id": "09f997080d6a3717",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Agent context has landed",
-    "link": "https://docs.slack.dev/changelog/2026/07/02/app-context",
-    "summary": "Agent apps can now receive context about what a user is currently viewing when they send a message. When a user has a channel, DM, thread, canvas, or list open and messages your app, Slack will pass that context automatically.",
-    "date": "2026-07-02T00:00:00+00:00"
-  },
-  {
-    "id": "4573b3ff329778bf",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Introducing the Agent messaging experience",
-    "link": "https://docs.slack.dev/changelog/2026/06/30/agent-messages-tab",
-    "summary": "Agents now support a new messaging experience, set by your app manifest:",
-    "date": "2026-06-30T00:00:00+00:00"
   },
   {
     "id": "ccd14ba4bc1e909b",
