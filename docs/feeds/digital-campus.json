@@ -520,44 +520,44 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "3013b42c5ec845bd",
+    "id": "56662ae9cde59545",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Turn any video into a Scribe",
+    "title": "Upload files directly into agent chat",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "July 7, 2026"
+    "date": "July 20, 2026"
   },
   {
-    "id": "da7273f09bd8ba1a",
+    "id": "4f8196415fcff456",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Turn any video into a Scribe",
-    "link": "https://scribe.launchnotes.io/announcements/turn-any-video-into-a-scribe",
+    "title": "Upload files directly into agent chat",
+    "link": "https://scribe.launchnotes.io/announcements/upload-files-directly-into-agent-chat",
     "summary": "Loading...",
-    "date": "July 7, 2026"
+    "date": "July 20, 2026"
   },
   {
-    "id": "4238def2277c1aa7",
+    "id": "452ba901a01755b1",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pro Pro Team Enterprise Capturing",
+    "title": "Optimize",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-07-07T16:54:07.702559+00:00"
+    "date": "2026-07-20T20:05:58.498695+00:00"
   },
   {
-    "id": "4dc7a0504c931b7f",
+    "id": "168ae9765d999795",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Turn any video into a Scribe",
+    "title": "Upload files directly into agent chat",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-07-07T16:54:07.702574+00:00"
+    "date": "2026-07-20T20:05:58.498711+00:00"
   },
   {
     "id": "d38ec99caa346ceb",
@@ -708,6 +708,96 @@
     "link": "https://blogs.windows.com/windows-insider/2026/05/29/announcing-new-builds-for-29-may-2026/",
     "summary": "Hello Windows Insiders, This week we continue to expand the rollout of the new Windows Insider Program changes to devices in channels already announced. New builds this week Today we are releasing new Windows 11 Insider Preview B The post Announcing new builds for 29 May 2026 appeared first on...",
     "date": "2026-05-29T17:05:27+00:00"
+  },
+  {
+    "id": "4a475ddba86caca8",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New VDI plugin info response fields",
+    "link": "https://developers.zoom.us/changelog/accounts/july-20-2026",
+    "summary": "Tags: api-release | We added `vdi_plugin_info_status` and `vdi_plugin_info_fb_code_reason` response fields.",
+    "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "b8d723cfd6262d28",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add new request field to Shared Spaces API",
+    "link": "https://developers.zoom.us/changelog/chat/july-20-2026",
+    "summary": "Tags: api-release | Added the `groups` request field to the POST /v2/chat/spaces/{spaceId}/members API.",
+    "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "170795da4c8c16d6",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 3.7.0",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.7.0",
+    "summary": "Tags: sdk-version | Improved annotation input and scrolling behavior, and fixed Web Worker message timing issues.",
+    "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "3959cd554d48c6b0",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 5.7.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/android/5.7.0",
+    "summary": "Tags: sdk-version | Added support for additional Android SDK localizations.",
+    "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "4deb34580181c663",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 5.7.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/ios/5.7.0",
+    "summary": "Tags: sdk-version | Added support for additional iOS SDK localizations; updated minimum supported iOS version to 15.0 or later.",
+    "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "3013b42c5ec845bd",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Turn any video into a Scribe",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "July 7, 2026"
+  },
+  {
+    "id": "da7273f09bd8ba1a",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Turn any video into a Scribe",
+    "link": "https://scribe.launchnotes.io/announcements/turn-any-video-into-a-scribe",
+    "summary": "Loading...",
+    "date": "July 7, 2026"
+  },
+  {
+    "id": "4238def2277c1aa7",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Pro Pro Team Enterprise Capturing",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-07-07T16:54:07.702559+00:00"
+  },
+  {
+    "id": "4dc7a0504c931b7f",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Turn any video into a Scribe",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-07-07T16:54:07.702574+00:00"
   },
   {
     "id": "32359cf5b0dc93bf",
@@ -908,95 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/google-credential-provider-for-windows-now-supports-FIDO2-compliant-physical-security-keys-as-a-second-factor-for-authentication.html",
     "summary": "Google Credential Provider for Windows (GCPW) has been updated to support FIDO2-compliant physical security keys as a second factor for authentication. This update helps organizations improve their security posture by enabling administrators to enforce 2-Step Verification (2SV) using hardware...",
     "date": "2026-07-13T17:45:43+00:00"
-  },
-  {
-    "id": "018836291e1aa995",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - July 10, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-10-2026.html",
-    "summary": "Join video conferences on Google Meet hardware via SIP through PexipYou can now join video conferences on Google Meet hardware via SIP through a Pexip interop gateway. This brings universal connectivity for users to join meetings hosted on any SIP-compatible platform directly from their Meet rooms....",
-    "date": "2026-07-10T20:19:20+00:00"
-  },
-  {
-    "id": "1a042d2e1067a8a2",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Python Slack SDK v3.43.0",
-    "link": "https://docs.slack.dev/changelog/2026/06/30/py-slack-sdk",
-    "summary": "* We've added a public, read-only ts property to ChatStream and AsyncChatStream, enabling users to call the chat.update API method as a fallback when the server closes a stream due to undocumented timeouts.",
-    "date": "2026-06-30T00:00:00+00:00"
-  },
-  {
-    "id": "da545a64321c08ab",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Streamline identity lifecycle management in Google Workspace with new inbound SCIM support",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/streamline-identity-lifecycle-management-in-Google-Workspace-with-new-inbound-SCIM-support.html",
-    "summary": "We are excited to announce the general availability of Google Workspace inbound SCIM APIs to help IT administrators standardize identity lifecycle management. This new capability allows you to sync your Google Workspace directory in real time with any SCIM-compatible Identity Provider (IdP), HR...",
-    "date": "2026-07-09T17:09:34+00:00"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "July 14 2026"
-  },
-  {
-    "id": "7b3b5782f3ef5c8f",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.4.0",
-    "link": "https://docs.slack.dev/changelog/2026/06/30/slack-cli",
-    "summary": "Version 4.4.0 of the Slack CLI is here!",
-    "date": "2026-06-30T00:00:00+00:00"
-  },
-  {
-    "id": "63a4036a6e367e7a",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Convert your Google Slides to videos in 7 additional languages",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/convert-your-google-slides-to-videos-in-7-additional-languages.html",
-    "summary": "Google Vids already lets you convert your Slides content into Vids with AI-generated scripts, voiceovers, background music, and animations for presentations and accounts in English.We’re now expanding support to French, German, Italian, Japanese, Korean, Portuguese, and Spanish. Getting...",
-    "date": "2026-07-08T17:17:49+00:00"
-  },
-  {
-    "id": "1b2132e3e6e192f6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New calendar sharing permission level and changes to recurring event visibility",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/new-calendar-sharing-permission-level-and-changes-to-recurring-event-visibility.html",
-    "summary": "We're introducing a new calendar sharing permission level: “Make changes (see private events as free/busy)”. This allows you to grant someone edit access to your calendar while keeping the details of your private events entirely hidden. This is especially useful for leaders who assign delegates to...",
-    "date": "2026-07-07T18:08:42+00:00"
-  },
-  {
-    "id": "92aca7ce8a209770",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "July 13 2026"
-  },
-  {
-    "id": "3546bcf7ee63a3a6",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "New Block Kit container block",
-    "link": "https://docs.slack.dev/changelog/2026/06/29/block-kit-container-block",
-    "summary": "The container block is now available for Block Kit use.",
-    "date": "2026-06-29T00:00:00+00:00"
   }
 ]
