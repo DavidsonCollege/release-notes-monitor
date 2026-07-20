@@ -360,24 +360,24 @@
     "date": "2026-06-24T20:45:00+00:00"
   },
   {
-    "id": "abb6ce7901613faf",
+    "id": "bb53f7ae5c6d0991",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 beta 3 v.2 (26A5378n)",
-    "link": "https://developer.apple.com/news/releases/?id=07132026h",
+    "title": "macOS 27.0 beta 4 (26A5388g)",
+    "link": "https://developer.apple.com/news/releases/?id=07202026i",
     "summary": "View downloadsView release notes",
-    "date": "2026-07-13T20:00:00+00:00"
+    "date": "2026-07-20T17:00:00+00:00"
   },
   {
-    "id": "5d9c381dda96d8e9",
+    "id": "ff3cdcde1dc13a78",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.6 beta 5 (25G5065a)",
-    "link": "https://developer.apple.com/news/releases/?id=07132026c",
+    "title": "macOS 26.6 RC (25G70)",
+    "link": "https://developer.apple.com/news/releases/?id=07202026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-07-13T17:00:00+00:00"
+    "date": "2026-07-20T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -760,6 +760,26 @@
     "date": "2026-07-13T00:00:00+00:00"
   },
   {
+    "id": "abb6ce7901613faf",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 27.0 beta 3 v.2 (26A5378n)",
+    "link": "https://developer.apple.com/news/releases/?id=07132026h",
+    "summary": "View downloadsView release notes",
+    "date": "2026-07-13T20:00:00+00:00"
+  },
+  {
+    "id": "5d9c381dda96d8e9",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.6 beta 5 (25G5065a)",
+    "link": "https://developer.apple.com/news/releases/?id=07132026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-07-13T17:00:00+00:00"
+  },
+  {
     "id": "ccd14ba4bc1e909b",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=07062026i",
     "summary": "View downloadsView release notes",
     "date": "2026-07-06T17:00:00+00:00"
-  },
-  {
-    "id": "a0e81cb706a45a2b",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Warm transfer with Zoom Phone",
-    "link": "https://developers.zoom.us/changelog/phone/july-02-2026",
-    "summary": "Tags: api-release, breaking-change | As of May 18th 2026, internal changes were made that require a new retrieval process for accessing warm transfer call data. The following sections outline the changes. Moving forward, make sure your systems use the appropriate implementation methods to ensure...",
-    "date": "2026-07-02T00:00:00+00:00"
-  },
-  {
-    "id": "9bb0c3586958fa7f",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New response and request fields for Accounts API",
-    "link": "https://developers.zoom.us/changelog/accounts/june-29-2026",
-    "summary": "Tags: api-release | Added new fields to Accounts API.",
-    "date": "2026-06-29T00:00:00+00:00"
   }
 ]
