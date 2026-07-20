@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "f8c23dede8706887",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Import and create combo charts in Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/import-and-create-combo-charts-in-Google-Sheets.html",
+    "summary": "Google Sheets now offers enhanced support for combo charts, providing a more seamless experience when creating multi-series visualizations. Users can create new “Combo” chart types, enabling complex dataset visualization with different scales and metrics without requiring manual re-plotting. These...",
+    "date": "2026-07-20T17:30:35+00:00"
+  },
+  {
     "id": "89f4d638d0825a1c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/generate-higher-quality-ai-video-clips-and-edit-any-video-with-Gemini-Omni-in-Vids.html",
     "summary": "Users now have access to Gemini Omni directly within Google Vids. Omni provides higher quality video generation with significant improvements over previous models. Additionally, Omni’s world understanding unlocks simple video edits so you can ask Omni to tweak the video you have to get the video...",
     "date": "2026-07-16T19:09:09+00:00"
-  },
-  {
-    "id": "faef982c380fe303",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Expanded language support for Gemini in Google Docs",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/expanded-language-support-for-gemini-in-Google-Docs.html",
-    "summary": "Earlier this year, we introduced new Gemini in Google Docs capabilities that help you move from a blank page to a finished document faster than ever.We are now expanding support for these features to 11 more languages, including Mandarin, Dutch, Malay, Hebrew, Polish, Turkish, Czech, Indonesian,...",
-    "date": "2026-07-16T16:46:22+00:00"
   },
   {
     "id": "83a6e193535a1b0a",
@@ -760,6 +760,16 @@
     "date": "2026-07-13T00:00:00+00:00"
   },
   {
+    "id": "faef982c380fe303",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Expanded language support for Gemini in Google Docs",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/expanded-language-support-for-gemini-in-Google-Docs.html",
+    "summary": "Earlier this year, we introduced new Gemini in Google Docs capabilities that help you move from a blank page to a finished document faster than ever.We are now expanding support for these features to 11 more languages, including Mandarin, Dutch, Malay, Hebrew, Polish, Turkish, Czech, Indonesian,...",
+    "date": "2026-07-16T16:46:22+00:00"
+  },
+  {
     "id": "abb6ce7901613faf",
     "product_id": "macos",
     "product_name": "macOS",
@@ -988,15 +998,5 @@
     "link": "https://docs.slack.dev/changelog/2026/06/29/block-kit-container-block",
     "summary": "The container block is now available for Block Kit use.",
     "date": "2026-06-29T00:00:00+00:00"
-  },
-  {
-    "id": "53100ee7d59cd579",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 beta 3 (26A5378j)",
-    "link": "https://developer.apple.com/news/releases/?id=07062026i",
-    "summary": "View downloadsView release notes",
-    "date": "2026-07-06T17:00:00+00:00"
   }
 ]
