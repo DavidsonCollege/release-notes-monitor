@@ -1,5 +1,55 @@
 [
   {
+    "id": "f9e1d8adaa601929",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "ChatGPT Free and Go",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-06-22T22:15:57.405414+00:00"
+  },
+  {
+    "id": "032d49c8d222abf2",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "What’s changing",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "A new Scheduled page, discoverable in the sidebar, gives users one place to view active tasks, see when they’ll run next, and pause, resume, edit, or delete them.All tasks are faster and more reliable.Users can schedule work for specific times or broader windows, such as morning, afternoon, or...",
+    "date": "2026-06-17T17:10:11.527358+00:00"
+  },
+  {
+    "id": "eff3d1fbae5608f4",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Availability and limits",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "Rolling out to Plus, Pro, Business, and Enterprise users.Active task limits vary by tier. Tasks cannot run more than once per hour, and unattended tasks may automatically pause after a period of inactivity.",
+    "date": "2026-06-17T17:10:11.527380+00:00"
+  },
+  {
+    "id": "914cb1a12e84aa0e",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Update on Pulse",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "Pulse is being sunset as proactive updates move into scheduled tasks. Pro users will continue to have access for 14 days from today. To keep receiving daily updates, you can ask ChatGPT to schedule a daily briefing based on your interests and past chats.",
+    "date": "2026-06-17T17:10:11.527387+00:00"
+  },
+  {
+    "id": "5d9e112be397df77",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Availability",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "These model picker updates are rolling out to Plus and Pro users on web, iOS, and Android globally today.",
+    "date": "2026-06-10T18:05:07.150228+00:00"
+  },
+  {
     "id": "2dccaec2bf94ce03",
     "product_id": "claude",
     "product_name": "Claude",
@@ -98,56 +148,6 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: With Gemini Spark, we are transforming Gemini from an AI assistant that answers your questions into one that actually works proactively on your behalf.",
     "date": "2026-05-20T18:21:21.902529+00:00"
-  },
-  {
-    "id": "f9e1d8adaa601929",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "ChatGPT Free and Go",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "",
-    "date": "2026-06-22T22:15:57.405414+00:00"
-  },
-  {
-    "id": "032d49c8d222abf2",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "What’s changing",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "A new Scheduled page, discoverable in the sidebar, gives users one place to view active tasks, see when they’ll run next, and pause, resume, edit, or delete them.All tasks are faster and more reliable.Users can schedule work for specific times or broader windows, such as morning, afternoon, or...",
-    "date": "2026-06-17T17:10:11.527358+00:00"
-  },
-  {
-    "id": "eff3d1fbae5608f4",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Availability and limits",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "Rolling out to Plus, Pro, Business, and Enterprise users.Active task limits vary by tier. Tasks cannot run more than once per hour, and unattended tasks may automatically pause after a period of inactivity.",
-    "date": "2026-06-17T17:10:11.527380+00:00"
-  },
-  {
-    "id": "914cb1a12e84aa0e",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Update on Pulse",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "Pulse is being sunset as proactive updates move into scheduled tasks. Pro users will continue to have access for 14 days from today. To keep receiving daily updates, you can ask ChatGPT to schedule a daily briefing based on your interests and past chats.",
-    "date": "2026-06-17T17:10:11.527387+00:00"
-  },
-  {
-    "id": "5d9e112be397df77",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Availability",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "These model picker updates are rolling out to Plus and Pro users on web, iOS, and Android globally today.",
-    "date": "2026-06-10T18:05:07.150228+00:00"
   },
   {
     "id": "2c24501575aedd41",
