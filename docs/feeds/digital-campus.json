@@ -660,6 +660,56 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "2c785ffedb21673a",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 20 July 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/07/20/announcing-new-builds-for-20-july-2026/",
+    "summary": "Hello Windows Insiders, Today we are releasing new Windows 11 Insider Preview Builds across Beta, Experimental and Release Preview. See your channel release notes here: Beta: Announcing new builds for 20 July 2026 appeared first on Windows Insider Blog.",
+    "date": "2026-07-20T21:05:12+00:00"
+  },
+  {
+    "id": "8563fef570c790a7",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for July 6 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/07/06/announcing-new-builds-for-july-6-2026/",
+    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental. New builds this week Today we are releasing new Windows 11 Insider Preview Builds. As a reminder, all Insiders can find the rel The post Announcing new builds for July 6 2026 appeared first on Windows...",
+    "date": "2026-07-06T21:06:46+00:00"
+  },
+  {
+    "id": "b5a7bdb310d375d2",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 26 June 2026, retail launch of new WIP improvements",
+    "link": "https://blogs.windows.com/windows-insider/2026/06/26/announcing-new-builds-for-26-june-2026-retail-launch-of-new-wip-improvements/",
+    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental, and are excited to begin rolling out the new Windows Insider experience to retail Windows 11 builds this week! New Windows Insider Program changes The post Announcing new builds for 26 June 2026, retail...",
+    "date": "2026-06-26T17:00:19+00:00"
+  },
+  {
+    "id": "1b2833bee3fe4aeb",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 19 June 2026, version 26H2 for Experimental",
+    "link": "https://blogs.windows.com/windows-insider/2026/06/19/announcing-new-builds-for-19-june-2026-26h2-for-experimental/",
+    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental, including Windows 11, version 26H2 for Experimental. Windows 11, version 26H2 Windows 11, version 26H2 represents our yearly second half The post Announcing new builds for 19 June 2026, version 26H2 for...",
+    "date": "2026-06-19T17:07:42+00:00"
+  },
+  {
+    "id": "d87704e70751f6af",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 12 June 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/06/12/announcing-new-builds-for-12-june-2026/",
+    "summary": "Hello Windows Insiders, We have a number of releases today with new builds across Beta, Experimental and Release Preview. Release notes for inbox Windows 11 apps Windows 11 inbox apps are now getting their own release notes sectio The post Announcing new builds for 12 June 2026 appeared first on...",
+    "date": "2026-06-12T17:05:12+00:00"
+  },
+  {
     "id": "4a475ddba86caca8",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -748,56 +798,6 @@
     "link": "https://product.korbyt.com/changelog/korbyt-anywhere-release-recap-12052025",
     "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🐞 Squashed Bugs - Fixed an issue where YouTube element showed an error due to recent changes in YouTube's Terms of Service. - Resolved a styling inheritance issue in Korbyt Create AI Layouts where elements did not...",
     "date": "2025-12-05T15:05:58+00:00"
-  },
-  {
-    "id": "2c785ffedb21673a",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 20 July 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/07/20/announcing-new-builds-for-20-july-2026/",
-    "summary": "Hello Windows Insiders, Today we are releasing new Windows 11 Insider Preview Builds across Beta, Experimental and Release Preview. See your channel release notes here: Beta: Announcing new builds for 20 July 2026 appeared first on Windows Insider Blog.",
-    "date": "2026-07-20T21:05:12+00:00"
-  },
-  {
-    "id": "8563fef570c790a7",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for July 6 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/07/06/announcing-new-builds-for-july-6-2026/",
-    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental. New builds this week Today we are releasing new Windows 11 Insider Preview Builds. As a reminder, all Insiders can find the rel The post Announcing new builds for July 6 2026 appeared first on Windows...",
-    "date": "2026-07-06T21:06:46+00:00"
-  },
-  {
-    "id": "b5a7bdb310d375d2",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 26 June 2026, retail launch of new WIP improvements",
-    "link": "https://blogs.windows.com/windows-insider/2026/06/26/announcing-new-builds-for-26-june-2026-retail-launch-of-new-wip-improvements/",
-    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental, and are excited to begin rolling out the new Windows Insider experience to retail Windows 11 builds this week! New Windows Insider Program changes The post Announcing new builds for 26 June 2026, retail...",
-    "date": "2026-06-26T17:00:19+00:00"
-  },
-  {
-    "id": "1b2833bee3fe4aeb",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 19 June 2026, version 26H2 for Experimental",
-    "link": "https://blogs.windows.com/windows-insider/2026/06/19/announcing-new-builds-for-19-june-2026-26h2-for-experimental/",
-    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental, including Windows 11, version 26H2 for Experimental. Windows 11, version 26H2 Windows 11, version 26H2 represents our yearly second half The post Announcing new builds for 19 June 2026, version 26H2 for...",
-    "date": "2026-06-19T17:07:42+00:00"
-  },
-  {
-    "id": "d87704e70751f6af",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 12 June 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/06/12/announcing-new-builds-for-12-june-2026/",
-    "summary": "Hello Windows Insiders, We have a number of releases today with new builds across Beta, Experimental and Release Preview. Release notes for inbox Windows 11 apps Windows 11 inbox apps are now getting their own release notes sectio The post Announcing new builds for 12 June 2026 appeared first on...",
-    "date": "2026-06-12T17:05:12+00:00"
   },
   {
     "id": "f0ccedc8b994efcf",
