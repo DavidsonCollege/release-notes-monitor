@@ -560,6 +560,16 @@
     "date": "2026-07-20T20:05:58.498711+00:00"
   },
   {
+    "id": "9d2d9f0d9300e11e",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.5.0",
+    "link": "https://docs.slack.dev/changelog/2026/07/21/slack-cli",
+    "summary": "Version 4.5.0 of the developer tools for the Slack platform has landed!",
+    "date": "2026-07-21T00:00:00+00:00"
+  },
+  {
     "id": "d38ec99caa346ceb",
     "product_id": "slack",
     "product_name": "Slack",
@@ -598,16 +608,6 @@
     "link": "https://docs.slack.dev/changelog/2026/07/02/app-context",
     "summary": "Agent apps can now receive context about what a user is currently viewing when they send a message. When a user has a channel, DM, thread, canvas, or list open and messages your app, Slack will pass that context automatically.",
     "date": "2026-07-02T00:00:00+00:00"
-  },
-  {
-    "id": "4573b3ff329778bf",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Introducing the Agent messaging experience",
-    "link": "https://docs.slack.dev/changelog/2026/06/30/agent-messages-tab",
-    "summary": "Agents now support a new messaging experience, set by your app manifest:",
-    "date": "2026-06-30T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -758,6 +758,16 @@
     "link": "https://developers.zoom.us/changelog/contact-center/ios/5.7.0",
     "summary": "Tags: sdk-version | Added support for additional iOS SDK localizations; updated minimum supported iOS version to 15.0 or later.",
     "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "4573b3ff329778bf",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Introducing the Agent messaging experience",
+    "link": "https://docs.slack.dev/changelog/2026/06/30/agent-messages-tab",
+    "summary": "Agents now support a new messaging experience, set by your app manifest:",
+    "date": "2026-06-30T00:00:00+00:00"
   },
   {
     "id": "83a6e193535a1b0a",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/rtms/july-04-2026",
     "summary": "Tags: api-release | Add REST API support for starting RTMS for meeting participants, add chat message media data support with 5 new event types for meetings and webinars, updates to protocol definitions including new and updated enums, improve PSTN user identification for simultaneous participants.",
     "date": "2026-07-04T00:00:00+00:00"
-  },
-  {
-    "id": "3e1386e419a83e37",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "NotebookLM is now Gemini Notebook",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/notebooklm-now-gemini-notebook.html",
-    "summary": "We’re renaming NotebookLM to Gemini Notebook. While it remains a standalone product focused on being your premier research tool, the new name reflects how it will evolve to do more across the Google ecosystem.Users will see the new name and updated logo roll out across different interfaces over the...",
-    "date": "2026-07-16T16:08:59+00:00"
   }
 ]
