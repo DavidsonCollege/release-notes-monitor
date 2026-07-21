@@ -270,44 +270,44 @@
     "date": "2026-07-16T19:09:09+00:00"
   },
   {
-    "id": "83a6e193535a1b0a",
+    "id": "c9bb76e62d80a2cd",
     "product_id": "korbyt",
     "product_name": "Korbyt",
     "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Weekly Recap & Playlist Interrupt Release - 05.15.2026",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-and-playlist-interrupt-release-05152026",
-    "summary": "**Playlist Priority Scheduling: Interrupt and Override \\| Take full control of what plays and when** When something urgent needs to go on screen immediately, you shouldn't have to fight your own playlist to get it there. Playlist Priority Scheduling lets you assign priority levels across your...",
-    "date": "2026-05-15T20:58:42+00:00"
+    "title": "Korbyt Room Panel Release Notes V4",
+    "link": "https://product.korbyt.com/changelog/korbyt-room-panel-release-notes-v4",
+    "summary": "## **What's New?** This update represents a significant step forward in the reliability, longevity, and user experience of the Korbyt Room Panel App, while preserving all the functionality you are familiar with from the previous version. **Rebuilt on a Modern, Supported Platform** The application...",
+    "date": "2026-07-20T16:36:00+00:00"
   },
   {
-    "id": "f797e86c07e10880",
+    "id": "5d6603691487673f",
     "product_id": "korbyt",
     "product_name": "Korbyt",
     "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Weekly Recap - 02.13.2026",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-02132026",
-    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🆕 New & Enhanced - Enhanced Proof of Play (POP) with **Hourly Reporting**, giving all customers more granular visibility into content performance throughout the day. - Improved Proof of Play to ensure reporting data...",
-    "date": "2026-02-13T15:38:48+00:00"
+    "title": "Korbyt Booking Release Notes V9.9",
+    "link": "https://product.korbyt.com/changelog/korbyt-booking-release-notes-v99",
+    "summary": "# **What's New?** ## **New Booking Diary** The New Booking Diary is a redesigned calendar view. It presents all bookable resources across multiple floors, buildings, and locations in a single scrollable screen, with a fixed time header that stays visible as you scroll, faster booking actions that...",
+    "date": "2026-07-14T16:14:27+00:00"
   },
   {
-    "id": "3f5b910c597cabb5",
+    "id": "c7394205bc3ad5a3",
     "product_id": "korbyt",
     "product_name": "Korbyt",
     "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Product Recap - 01.12.2026",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-01122026",
-    "summary": "We're constantly working to improve Korbyt. Here's what we were up to over the break and last week week: 🆕 New & Enhanced - **Secrets API: Credential Management** — IT Admins can now securely manage the lifecycle of API credentials using a centralized Secrets API. This includes creating, listing,...",
-    "date": "2026-01-12T16:36:21+00:00"
+    "title": "Korbyt Booking Release Notes V9.8.2",
+    "link": "https://product.korbyt.com/changelog/korbyt-booking-release-notes-v982",
+    "summary": "# **Release Fixes and Changes** | | | | | | | | | |",
+    "date": "2026-06-16T15:29:55+00:00"
   },
   {
-    "id": "ceaabe1754b3907a",
+    "id": "d46ab896ef822364",
     "product_id": "korbyt",
     "product_name": "Korbyt",
     "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Release Recap - 12.05.2025",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-release-recap-12052025",
-    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🐞 Squashed Bugs - Fixed an issue where YouTube element showed an error due to recent changes in YouTube's Terms of Service. - Resolved a styling inheritance issue in Korbyt Create AI Layouts where elements did not...",
-    "date": "2025-12-05T15:05:58+00:00"
+    "title": "Korbyt Mobile Release Notes V2.4.5",
+    "link": "https://product.korbyt.com/changelog/korbyt-mobile-release-notes-v245",
+    "summary": "# **What's New?** ## **New 'Allow Book for Someone Else' Setting for the Mobile App** A new **Allow Book for Someone Else** setting has been added under **Global Settings → Mobile**, letting administrators control whether the Book-for-Someone-Else option is visible to users in the Mobile App. The...",
+    "date": "2026-05-21T08:24:45+00:00"
   },
   {
     "id": "17756a50ee75b5f6",
@@ -660,56 +660,6 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
-    "id": "2c785ffedb21673a",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 20 July 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/07/20/announcing-new-builds-for-20-july-2026/",
-    "summary": "Hello Windows Insiders, Today we are releasing new Windows 11 Insider Preview Builds across Beta, Experimental and Release Preview. See your channel release notes here: Beta: Announcing new builds for 20 July 2026 appeared first on Windows Insider Blog.",
-    "date": "2026-07-20T21:05:12+00:00"
-  },
-  {
-    "id": "8563fef570c790a7",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for July 6 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/07/06/announcing-new-builds-for-july-6-2026/",
-    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental. New builds this week Today we are releasing new Windows 11 Insider Preview Builds. As a reminder, all Insiders can find the rel The post Announcing new builds for July 6 2026 appeared first on Windows...",
-    "date": "2026-07-06T21:06:46+00:00"
-  },
-  {
-    "id": "b5a7bdb310d375d2",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 26 June 2026, retail launch of new WIP improvements",
-    "link": "https://blogs.windows.com/windows-insider/2026/06/26/announcing-new-builds-for-26-june-2026-retail-launch-of-new-wip-improvements/",
-    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental, and are excited to begin rolling out the new Windows Insider experience to retail Windows 11 builds this week! New Windows Insider Program changes The post Announcing new builds for 26 June 2026, retail...",
-    "date": "2026-06-26T17:00:19+00:00"
-  },
-  {
-    "id": "1b2833bee3fe4aeb",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 19 June 2026, version 26H2 for Experimental",
-    "link": "https://blogs.windows.com/windows-insider/2026/06/19/announcing-new-builds-for-19-june-2026-26h2-for-experimental/",
-    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental, including Windows 11, version 26H2 for Experimental. Windows 11, version 26H2 Windows 11, version 26H2 represents our yearly second half The post Announcing new builds for 19 June 2026, version 26H2 for...",
-    "date": "2026-06-19T17:07:42+00:00"
-  },
-  {
-    "id": "d87704e70751f6af",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 12 June 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/06/12/announcing-new-builds-for-12-june-2026/",
-    "summary": "Hello Windows Insiders, We have a number of releases today with new builds across Beta, Experimental and Release Preview. Release notes for inbox Windows 11 apps Windows 11 inbox apps are now getting their own release notes sectio The post Announcing new builds for 12 June 2026 appeared first on...",
-    "date": "2026-06-12T17:05:12+00:00"
-  },
-  {
     "id": "4a475ddba86caca8",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -758,6 +708,96 @@
     "link": "https://developers.zoom.us/changelog/contact-center/ios/5.7.0",
     "summary": "Tags: sdk-version | Added support for additional iOS SDK localizations; updated minimum supported iOS version to 15.0 or later.",
     "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "83a6e193535a1b0a",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Weekly Recap & Playlist Interrupt Release - 05.15.2026",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-and-playlist-interrupt-release-05152026",
+    "summary": "**Playlist Priority Scheduling: Interrupt and Override \\| Take full control of what plays and when** When something urgent needs to go on screen immediately, you shouldn't have to fight your own playlist to get it there. Playlist Priority Scheduling lets you assign priority levels across your...",
+    "date": "2026-05-15T20:58:42+00:00"
+  },
+  {
+    "id": "f797e86c07e10880",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Weekly Recap - 02.13.2026",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-02132026",
+    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🆕 New & Enhanced - Enhanced Proof of Play (POP) with **Hourly Reporting**, giving all customers more granular visibility into content performance throughout the day. - Improved Proof of Play to ensure reporting data...",
+    "date": "2026-02-13T15:38:48+00:00"
+  },
+  {
+    "id": "3f5b910c597cabb5",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Product Recap - 01.12.2026",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-01122026",
+    "summary": "We're constantly working to improve Korbyt. Here's what we were up to over the break and last week week: 🆕 New & Enhanced - **Secrets API: Credential Management** — IT Admins can now securely manage the lifecycle of API credentials using a centralized Secrets API. This includes creating, listing,...",
+    "date": "2026-01-12T16:36:21+00:00"
+  },
+  {
+    "id": "ceaabe1754b3907a",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Release Recap - 12.05.2025",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-release-recap-12052025",
+    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🐞 Squashed Bugs - Fixed an issue where YouTube element showed an error due to recent changes in YouTube's Terms of Service. - Resolved a styling inheritance issue in Korbyt Create AI Layouts where elements did not...",
+    "date": "2025-12-05T15:05:58+00:00"
+  },
+  {
+    "id": "2c785ffedb21673a",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 20 July 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/07/20/announcing-new-builds-for-20-july-2026/",
+    "summary": "Hello Windows Insiders, Today we are releasing new Windows 11 Insider Preview Builds across Beta, Experimental and Release Preview. See your channel release notes here: Beta: Announcing new builds for 20 July 2026 appeared first on Windows Insider Blog.",
+    "date": "2026-07-20T21:05:12+00:00"
+  },
+  {
+    "id": "8563fef570c790a7",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for July 6 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/07/06/announcing-new-builds-for-july-6-2026/",
+    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental. New builds this week Today we are releasing new Windows 11 Insider Preview Builds. As a reminder, all Insiders can find the rel The post Announcing new builds for July 6 2026 appeared first on Windows...",
+    "date": "2026-07-06T21:06:46+00:00"
+  },
+  {
+    "id": "b5a7bdb310d375d2",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 26 June 2026, retail launch of new WIP improvements",
+    "link": "https://blogs.windows.com/windows-insider/2026/06/26/announcing-new-builds-for-26-june-2026-retail-launch-of-new-wip-improvements/",
+    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental, and are excited to begin rolling out the new Windows Insider experience to retail Windows 11 builds this week! New Windows Insider Program changes The post Announcing new builds for 26 June 2026, retail...",
+    "date": "2026-06-26T17:00:19+00:00"
+  },
+  {
+    "id": "1b2833bee3fe4aeb",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 19 June 2026, version 26H2 for Experimental",
+    "link": "https://blogs.windows.com/windows-insider/2026/06/19/announcing-new-builds-for-19-june-2026-26h2-for-experimental/",
+    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental, including Windows 11, version 26H2 for Experimental. Windows 11, version 26H2 Windows 11, version 26H2 represents our yearly second half The post Announcing new builds for 19 June 2026, version 26H2 for...",
+    "date": "2026-06-19T17:07:42+00:00"
+  },
+  {
+    "id": "d87704e70751f6af",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 12 June 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/06/12/announcing-new-builds-for-12-june-2026/",
+    "summary": "Hello Windows Insiders, We have a number of releases today with new builds across Beta, Experimental and Release Preview. Release notes for inbox Windows 11 apps Windows 11 inbox apps are now getting their own release notes sectio The post Announcing new builds for 12 June 2026 appeared first on...",
+    "date": "2026-06-12T17:05:12+00:00"
   },
   {
     "id": "f0ccedc8b994efcf",
@@ -958,45 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/notebooklm-now-gemini-notebook.html",
     "summary": "We’re renaming NotebookLM to Gemini Notebook. While it remains a standalone product focused on being your premier research tool, the new name reflects how it will evolve to do more across the Google ecosystem.Users will see the new name and updated logo roll out across different interfaces over the...",
     "date": "2026-07-16T16:08:59+00:00"
-  },
-  {
-    "id": "fe6da6f8da51ceca",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Now available: group conversations with external collaborators in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/now-available-group-conversations-with-external-collaborators-in-Google-Chat.html",
-    "summary": "For many teams, it’s essential to be able to work in real-time with partners from outside your organization. We’re improving external collaboration in Google Chat by making it possible to create group conversations that include external users.Previously, teams using Google Chat could only create...",
-    "date": "2026-07-15T16:21:06+00:00"
-  },
-  {
-    "id": "0df32ee411fecad6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New refinement capabilities allow custom editing with Help me write in Gmail",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/new-refinement-capabilities-allow-custom-editing-with-Help-me-write-in-Gmail.html",
-    "summary": "Users can now edit and revise their email drafts in Gmail via the prompt bar, using custom refine instructions in Help me write. Previously the refines were limited to preset options like Polish, Formalize, and Shorten. Now if your first draft isn’t quite perfect, you can provide a precise...",
-    "date": "2026-07-14T17:28:59+00:00"
-  },
-  {
-    "id": "b0316679065746b8",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Product Recap - 11.21.2025",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-11212025",
-    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🆕 New & Enhanced - Added audio volume control for media in Korbyt Anywhere PWA, requested specifically to be used for Microsoft Teams Rooms use cases 🐞 Squashed Bugs - Fixed display issues in the NWS Weather Element...",
-    "date": "2025-11-21T16:13:40+00:00"
-  },
-  {
-    "id": "3caea6013e696ae5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improvement to in-room problem reporting for Google Meet hardware",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/improvement-to-in-room-problem-reporting-for-Google-Meet-hardware.html",
-    "summary": "Maintaining an enterprise-grade video conferencing environment requires visibility into the health of its devices. We're introducing new ways to see Google Meet hardware user-reported feedback directly in the Admin console.We’ve also updated user-side feedback options to replace generic reporting...",
-    "date": "2026-07-14T15:32:39+00:00"
   }
 ]
