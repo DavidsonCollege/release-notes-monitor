@@ -370,16 +370,6 @@
     "date": "2026-07-20T17:00:00+00:00"
   },
   {
-    "id": "ff3cdcde1dc13a78",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.6 RC (25G70)",
-    "link": "https://developer.apple.com/news/releases/?id=07202026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-07-20T17:00:00+00:00"
-  },
-  {
     "id": "8f2885091136ab69",
     "product_id": "microsoft-office",
     "product_name": "Microsoft Office",
@@ -758,6 +748,16 @@
     "link": "https://developers.zoom.us/changelog/contact-center/ios/5.7.0",
     "summary": "Tags: sdk-version | Added support for additional iOS SDK localizations; updated minimum supported iOS version to 15.0 or later.",
     "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "ff3cdcde1dc13a78",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.6 RC (25G70)",
+    "link": "https://developer.apple.com/news/releases/?id=07202026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-07-20T17:00:00+00:00"
   },
   {
     "id": "91a4c10cb7fb6ccc",
