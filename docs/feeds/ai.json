@@ -110,6 +110,26 @@
     "date": "2026-03-06T17:54:27.083316+00:00"
   },
   {
+    "id": "e2be92ce3ee7f254",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks li",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "What: We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analyzing several documents or multi-step projects like building a working prototype with the Canvas tool. We're excited to bring this model to all...",
+    "date": "2026-07-21T15:38:39.082057+00:00"
+  },
+  {
+    "id": "58b9d9ddb34c22df",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater c",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
+    "date": "2026-07-21T15:38:39.082080+00:00"
+  },
+  {
     "id": "83db8113f06065bd",
     "product_id": "gemini",
     "product_name": "Gemini",
