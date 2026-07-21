@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "4a3edcf341946341",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Redesigned Google Classroom homepage with tailored views based on user’s role",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/redesigned-google-classroom-homepage-with-tailored-views-based-on-users-role.html",
+    "summary": "Soon, Google Classroom will introduce a redesigned homepage globally across all editions to help teachers, students, and administrators easily find relevant content, resources, and tools tailored to their specific roles. The updated interface transforms the homepage into a dynamic, centralized hub...",
+    "date": "2026-07-21T18:26:27+00:00"
+  },
+  {
+    "id": "e61356fb2df8b973",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "A centralized hub for meeting resources on the new Google Meet homepage",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/a-centralized-hub-for-meeting-resources-on-the-new-Google-Meet-homepage.html",
+    "summary": "Finding the right notes or attachments for a meeting shouldn't feel like a scavenger hunt. We’re introducing a revamped Google Meet homepage on the web to help you stay organized and prepared throughout your entire meeting workflow.The new homepage provides a centralized view of your meeting agenda...",
+    "date": "2026-07-21T18:20:41+00:00"
+  },
+  {
     "id": "f8c23dede8706887",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html",
     "summary": "To help users remember to capture notes for meetings when it’s most valuable, we’re updating the admin and end user settings that let them pre-configure AI note-taking for Google Meet.Admin settingsPreviously, admins could only enable or disable automatic note-taking for all meetings. Today, we’re...",
     "date": "2026-07-16T20:07:25+00:00"
-  },
-  {
-    "id": "91a4c10cb7fb6ccc",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Cast yourself in AI video clips using your personal avatar with Gemini Omni in Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/cast-yourself-in-ai-video-clips-using-your-personal-avatar-with-Gemini-Omni-in-Vids.html",
-    "summary": "Users now have access to Gemini Omni directly within Google Vids. With Gemini Omni, you can create videos using your personal avatar to scale your presence without the studio time. Use a secure verification process to capture your likeness and then select it as a character in Omni generations...",
-    "date": "2026-07-16T20:06:53+00:00"
-  },
-  {
-    "id": "b4b4b616e1d5f8c4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Generate higher quality AI video clips and edit any video with Gemini Omni in Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/generate-higher-quality-ai-video-clips-and-edit-any-video-with-Gemini-Omni-in-Vids.html",
-    "summary": "Users now have access to Gemini Omni directly within Google Vids. Omni provides higher quality video generation with significant improvements over previous models. Additionally, Omni’s world understanding unlocks simple video edits so you can ask Omni to tweak the video you have to get the video...",
-    "date": "2026-07-16T19:09:09+00:00"
   },
   {
     "id": "c9bb76e62d80a2cd",
@@ -760,6 +760,26 @@
     "date": "2026-07-20T00:00:00+00:00"
   },
   {
+    "id": "91a4c10cb7fb6ccc",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Cast yourself in AI video clips using your personal avatar with Gemini Omni in Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/cast-yourself-in-ai-video-clips-using-your-personal-avatar-with-Gemini-Omni-in-Vids.html",
+    "summary": "Users now have access to Gemini Omni directly within Google Vids. With Gemini Omni, you can create videos using your personal avatar to scale your presence without the studio time. Use a secure verification process to capture your likeness and then select it as a character in Omni generations...",
+    "date": "2026-07-16T20:06:53+00:00"
+  },
+  {
+    "id": "b4b4b616e1d5f8c4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Generate higher quality AI video clips and edit any video with Gemini Omni in Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/generate-higher-quality-ai-video-clips-and-edit-any-video-with-Gemini-Omni-in-Vids.html",
+    "summary": "Users now have access to Gemini Omni directly within Google Vids. Omni provides higher quality video generation with significant improvements over previous models. Additionally, Omni’s world understanding unlocks simple video edits so you can ask Omni to tweak the video you have to get the video...",
+    "date": "2026-07-16T19:09:09+00:00"
+  },
+  {
     "id": "4573b3ff329778bf",
     "product_id": "slack",
     "product_name": "Slack",
@@ -978,25 +998,5 @@
     "link": "https://developers.zoom.us/changelog/app-marketplace/new-manifest-tool-for-creating-apps",
     "summary": "Tags: new-feature | Manifests are JSON-formatted files that contain the configuration for Zoom Apps. With a manifest, you can use the Marketplace build flow or an API to create a general app with a predefined configuration or to adjust the configuration of an existing general app. Using the...",
     "date": "2026-07-09T00:00:00+00:00"
-  },
-  {
-    "id": "65d92c52f695d83f",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New API endpoints for AI metrics",
-    "link": "https://developers.zoom.us/changelog/accounts/july-06-2026",
-    "summary": "Tags: api-release | Added Dashboard API endpoints for AI metrics.",
-    "date": "2026-07-06T00:00:00+00:00"
-  },
-  {
-    "id": "a3365363df5a1439",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "RTMS June release",
-    "link": "https://developers.zoom.us/changelog/rtms/july-04-2026",
-    "summary": "Tags: api-release | Add REST API support for starting RTMS for meeting participants, add chat message media data support with 5 new event types for meetings and webinars, updates to protocol definitions including new and updated enums, improve PSTN user identification for simultaneous participants.",
-    "date": "2026-07-04T00:00:00+00:00"
   }
 ]
