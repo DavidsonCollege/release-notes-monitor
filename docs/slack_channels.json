@@ -5,7 +5,7 @@
       "name": "academicsoftware",
       "is_private": false,
       "topic": "",
-      "num_members": 5
+      "num_members": 4
     },
     {
       "id": "C051NTVN6E9",
@@ -215,7 +215,7 @@
       "name": "general",
       "is_private": false,
       "topic": "Company-wide announcements and work-based matters",
-      "num_members": 97
+      "num_members": 96
     },
     {
       "id": "C2ETFB938",
@@ -257,7 +257,7 @@
       "name": "ideas",
       "is_private": false,
       "topic": "Ideas for IT@Davidson",
-      "num_members": 52
+      "num_members": 51
     },
     {
       "id": "C07QZEBRGFL",
@@ -313,7 +313,7 @@
       "name": "on-call",
       "is_private": false,
       "topic": "",
-      "num_members": 14
+      "num_members": 13
     },
     {
       "id": "C0ALV8BRW4R",
@@ -327,7 +327,7 @@
       "name": "outages",
       "is_private": false,
       "topic": "",
-      "num_members": 93
+      "num_members": 92
     },
     {
       "id": "CFA3D26NL",
@@ -369,7 +369,7 @@
       "name": "priority-project-leads",
       "is_private": false,
       "topic": "",
-      "num_members": 13
+      "num_members": 12
     },
     {
       "id": "C0ADL5LDRT3",
@@ -579,7 +579,7 @@
       "name": "random",
       "is_private": false,
       "topic": "\r\n",
-      "num_members": 85
+      "num_members": 84
     },
     {
       "id": "C35AAKFNU",
@@ -593,7 +593,7 @@
       "name": "relationship-mgmt",
       "is_private": false,
       "topic": "",
-      "num_members": 7
+      "num_members": 6
     },
     {
       "id": "C027KHW6DP0",
@@ -691,7 +691,7 @@
       "name": "team-academic-tech",
       "is_private": false,
       "topic": "",
-      "num_members": 17
+      "num_members": 16
     },
     {
       "id": "C09S2BHTFRA",
@@ -712,7 +712,7 @@
       "name": "team-cab",
       "is_private": false,
       "topic": "",
-      "num_members": 23
+      "num_members": 22
     },
     {
       "id": "C0284T6CGDA",
@@ -775,7 +775,7 @@
       "name": "team-moodle",
       "is_private": false,
       "topic": "",
-      "num_members": 8
+      "num_members": 7
     },
     {
       "id": "C09UL58UWUA",
@@ -796,7 +796,7 @@
       "name": "team-support-center",
       "is_private": false,
       "topic": "",
-      "num_members": 65
+      "num_members": 64
     },
     {
       "id": "C685C8F6K",
@@ -974,6 +974,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-07-22T17:36:11.844056+00:00",
+  "last_updated": "2026-07-22T18:31:15.213675+00:00",
   "fetch_status": "success"
 }

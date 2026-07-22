@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "a473230ba6d88982",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Meet now organizes your meeting notes, transcripts, and recordings in your Google Drive",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/google-meet-now-organizes-your-meeting-notes-transcripts-and-recordings-in-your-Google-Drive.html",
+    "summary": "We’re making it easier for users to find meeting notes, transcripts and recordings in Google Drive with the following improvements:After a meeting, we’ll automatically upload these files to a new folder in the host’s My Drive called “Google Meet.”Within that “Google Meet” folder, these files will...",
+    "date": "2026-07-22T16:48:25+00:00"
+  },
+  {
+    "id": "373fda294b4d7bbe",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini Alpha is now Gemini Beta",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/gemini-alpha-is-now-gemini-beta.html",
+    "summary": "We’re updating the name of the Gemini Alpha program to \"Gemini Beta.\" This new name more accurately reflects both the scale and the quality of the features that enter this launch stage. Please note that this is solely a branding change. This update does not alter any customer configurations, data...",
+    "date": "2026-07-22T16:39:21+00:00"
+  },
+  {
     "id": "4a3edcf341946341",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/import-and-create-combo-charts-in-Google-Sheets.html",
     "summary": "Google Sheets now offers enhanced support for combo charts, providing a more seamless experience when creating multi-series visualizations. Users can create new “Combo” chart types, enabling complex dataset visualization with different scales and metrics without requiring manual re-plotting. These...",
     "date": "2026-07-20T17:30:35+00:00"
-  },
-  {
-    "id": "89f4d638d0825a1c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - July 17, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-17-2026.html",
-    "summary": "Google Credential Provider for Windows (GCPW) now supports FIDO2-compliant physical security keys as a second factor for authenticationGoogle Credential Provider for Windows (GCPW) has been updated to support FIDO2-compliant physical security keys as a second factor for authentication. This update...",
-    "date": "2026-07-17T19:38:37+00:00"
-  },
-  {
-    "id": "59bd1cb655ab048e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New Google Meet 'Take notes for me' settings for admins and end users",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html",
-    "summary": "To help users remember to capture notes for meetings when it’s most valuable, we’re updating the admin and end user settings that let them pre-configure AI note-taking for Google Meet.Admin settingsPreviously, admins could only enable or disable automatic note-taking for all meetings. Today, we’re...",
-    "date": "2026-07-16T20:07:25+00:00"
   },
   {
     "id": "c9bb76e62d80a2cd",
@@ -750,6 +750,26 @@
     "date": "2026-07-20T00:00:00+00:00"
   },
   {
+    "id": "89f4d638d0825a1c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - July 17, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-17-2026.html",
+    "summary": "Google Credential Provider for Windows (GCPW) now supports FIDO2-compliant physical security keys as a second factor for authenticationGoogle Credential Provider for Windows (GCPW) has been updated to support FIDO2-compliant physical security keys as a second factor for authentication. This update...",
+    "date": "2026-07-17T19:38:37+00:00"
+  },
+  {
+    "id": "59bd1cb655ab048e",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New Google Meet 'Take notes for me' settings for admins and end users",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html",
+    "summary": "To help users remember to capture notes for meetings when it’s most valuable, we’re updating the admin and end user settings that let them pre-configure AI note-taking for Google Meet.Admin settingsPreviously, admins could only enable or disable automatic note-taking for all meetings. Today, we’re...",
+    "date": "2026-07-16T20:07:25+00:00"
+  },
+  {
     "id": "d87704e70751f6af",
     "product_id": "windows",
     "product_name": "Windows",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/06/easily-steer-ai-voiceover-and-avatar-speaking-with-emotions-pacing-and-sound-effects.html",
     "summary": "Users can now easily steer voiceover and avatar speaking in Google Vids by typing content within brackets like “[excitedly]”.When typing open brackets (“[“) Vids will offer a menu of steering tags to customize pacing, emotional delivery, and sound effects. These cues empower you to guide the...",
     "date": "2026-07-16T16:30:25+00:00"
-  },
-  {
-    "id": "4ee4c588b13b48e1",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "June 12, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/50229244846228-June-12-2026",
-    "summary": "",
-    "date": "2026-06-12T16:41:17Z"
-  },
-  {
-    "id": "2c75db3676a6a563",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Get available times for schedules",
-    "link": "https://developers.zoom.us/changelog/scheduler/july-13-2026",
-    "summary": "Tags: api-release | Added an Available Times API to retrieve available time slots for a schedule.",
-    "date": "2026-07-13T00:00:00+00:00"
   }
 ]
