@@ -650,56 +650,6 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
-    "id": "4a475ddba86caca8",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New VDI plugin info response fields",
-    "link": "https://developers.zoom.us/changelog/accounts/july-20-2026",
-    "summary": "Tags: api-release | We added `vdi_plugin_info_status` and `vdi_plugin_info_fb_code_reason` response fields.",
-    "date": "2026-07-20T00:00:00+00:00"
-  },
-  {
-    "id": "b8d723cfd6262d28",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Add new request field to Shared Spaces API",
-    "link": "https://developers.zoom.us/changelog/chat/july-20-2026",
-    "summary": "Tags: api-release | Added the `groups` request field to the POST /v2/chat/spaces/{spaceId}/members API.",
-    "date": "2026-07-20T00:00:00+00:00"
-  },
-  {
-    "id": "170795da4c8c16d6",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.7.0",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.7.0",
-    "summary": "Tags: sdk-version | Improved annotation input and scrolling behavior, and fixed Web Worker message timing issues.",
-    "date": "2026-07-20T00:00:00+00:00"
-  },
-  {
-    "id": "3959cd554d48c6b0",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 5.7.0",
-    "link": "https://developers.zoom.us/changelog/contact-center/android/5.7.0",
-    "summary": "Tags: sdk-version | Added support for additional Android SDK localizations.",
-    "date": "2026-07-20T00:00:00+00:00"
-  },
-  {
-    "id": "4deb34580181c663",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 5.7.0",
-    "link": "https://developers.zoom.us/changelog/contact-center/ios/5.7.0",
-    "summary": "Tags: sdk-version | Added support for additional iOS SDK localizations; updated minimum supported iOS version to 15.0 or later.",
-    "date": "2026-07-20T00:00:00+00:00"
-  },
-  {
     "id": "f812915fb4039507",
     "product_id": "windows",
     "product_name": "Windows",
@@ -748,6 +698,56 @@
     "link": "https://blogs.windows.com/windows-insider/2026/06/19/announcing-new-builds-for-19-june-2026-26h2-for-experimental/",
     "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental, including Windows 11, version 26H2 for Experimental. Windows 11, version 26H2 Windows 11, version 26H2 represents our yearly second half The post Announcing new builds for 19 June 2026, version 26H2 for...",
     "date": "2026-06-19T17:07:42+00:00"
+  },
+  {
+    "id": "4a475ddba86caca8",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New VDI plugin info response fields",
+    "link": "https://developers.zoom.us/changelog/accounts/july-20-2026",
+    "summary": "Tags: api-release | We added `vdi_plugin_info_status` and `vdi_plugin_info_fb_code_reason` response fields.",
+    "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "b8d723cfd6262d28",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add new request field to Shared Spaces API",
+    "link": "https://developers.zoom.us/changelog/chat/july-20-2026",
+    "summary": "Tags: api-release | Added the `groups` request field to the POST /v2/chat/spaces/{spaceId}/members API.",
+    "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "170795da4c8c16d6",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 3.7.0",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.7.0",
+    "summary": "Tags: sdk-version | Improved annotation input and scrolling behavior, and fixed Web Worker message timing issues.",
+    "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "3959cd554d48c6b0",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 5.7.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/android/5.7.0",
+    "summary": "Tags: sdk-version | Added support for additional Android SDK localizations.",
+    "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "4deb34580181c663",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 5.7.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/ios/5.7.0",
+    "summary": "Tags: sdk-version | Added support for additional iOS SDK localizations; updated minimum supported iOS version to 15.0 or later.",
+    "date": "2026-07-20T00:00:00+00:00"
   },
   {
     "id": "89f4d638d0825a1c",
