@@ -700,6 +700,16 @@
     "date": "2026-06-19T17:07:42+00:00"
   },
   {
+    "id": "b5183f81ad33aba7",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add new response field to Contacts API",
+    "link": "https://developers.zoom.us/changelog/chat/july-23-2026",
+    "summary": "Tags: api-release | Added `pronoun` response field to the `GET /v2/contacts` API.",
+    "date": "2026-07-23T00:00:00+00:00"
+  },
+  {
     "id": "4a475ddba86caca8",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=07132026h",
     "summary": "View downloadsView release notes",
     "date": "2026-07-13T20:00:00+00:00"
-  },
-  {
-    "id": "5d9c381dda96d8e9",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.6 beta 5 (25G5065a)",
-    "link": "https://developer.apple.com/news/releases/?id=07132026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-07-13T17:00:00+00:00"
   }
 ]
