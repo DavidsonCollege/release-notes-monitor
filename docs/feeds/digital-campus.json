@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "d2ebf874deb32a48",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "View supporting calendar delegates in meeting guest list",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/view-supporting-calendar-delegates-in-meeting-guest-list.html",
+    "summary": "When viewing a guest list in Google Calendar on the web, you will now see a new icon next to leaders who have a calendar delegate assisting them with scheduling support. Hovering over the icon will display the person’s information, allowing you to easily initiate a chat with them directly.This...",
+    "date": "2026-07-23T15:47:12+00:00"
+  },
+  {
     "id": "a473230ba6d88982",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/a-centralized-hub-for-meeting-resources-on-the-new-Google-Meet-homepage.html",
     "summary": "Finding the right notes or attachments for a meeting shouldn't feel like a scavenger hunt. We’re introducing a revamped Google Meet homepage on the web to help you stay organized and prepared throughout your entire meeting workflow.The new homepage provides a centralized view of your meeting agenda...",
     "date": "2026-07-21T18:20:41+00:00"
-  },
-  {
-    "id": "f8c23dede8706887",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Import and create combo charts in Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/import-and-create-combo-charts-in-Google-Sheets.html",
-    "summary": "Google Sheets now offers enhanced support for combo charts, providing a more seamless experience when creating multi-series visualizations. Users can create new “Combo” chart types, enabling complex dataset visualization with different scales and metrics without requiring manual re-plotting. These...",
-    "date": "2026-07-20T17:30:35+00:00"
   },
   {
     "id": "c9bb76e62d80a2cd",
@@ -750,6 +750,16 @@
     "date": "2026-07-20T00:00:00+00:00"
   },
   {
+    "id": "f8c23dede8706887",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Import and create combo charts in Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/import-and-create-combo-charts-in-Google-Sheets.html",
+    "summary": "Google Sheets now offers enhanced support for combo charts, providing a more seamless experience when creating multi-series visualizations. Users can create new “Combo” chart types, enabling complex dataset visualization with different scales and metrics without requiring manual re-plotting. These...",
+    "date": "2026-07-20T17:30:35+00:00"
+  },
+  {
     "id": "89f4d638d0825a1c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=07132026c",
     "summary": "View downloadsView release notes",
     "date": "2026-07-13T17:00:00+00:00"
-  },
-  {
-    "id": "ccd14ba4bc1e909b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Easily control the emotions and pacing of AI avatars and AI voiceovers in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/06/easily-steer-ai-voiceover-and-avatar-speaking-with-emotions-pacing-and-sound-effects.html",
-    "summary": "Users can now easily steer voiceover and avatar speaking in Google Vids by typing content within brackets like “[excitedly]”.When typing open brackets (“[“) Vids will offer a menu of steering tags to customize pacing, emotional delivery, and sound effects. These cues empower you to guide the...",
-    "date": "2026-07-16T16:30:25+00:00"
   }
 ]
