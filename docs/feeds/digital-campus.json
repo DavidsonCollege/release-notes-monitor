@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "13ac79e9c6535a0d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - July 24, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-24-2026.html",
+    "summary": "Import and create combo charts in Google SheetsGoogle Sheets now offers enhanced support for combo charts, providing a more seamless experience when creating multi-series visualizations. | Learn more.A centralized hub for meeting resources on the new Google Meet homepageFinding the right notes or...",
+    "date": "2026-07-24T19:18:52+00:00"
+  },
+  {
     "id": "d2ebf874deb32a48",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/redesigned-google-classroom-homepage-with-tailored-views-based-on-users-role.html",
     "summary": "Soon, Google Classroom will introduce a redesigned homepage globally across all editions to help teachers, students, and administrators easily find relevant content, resources, and tools tailored to their specific roles. The updated interface transforms the homepage into a dynamic, centralized hub...",
     "date": "2026-07-21T18:26:27+00:00"
-  },
-  {
-    "id": "e61356fb2df8b973",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "A centralized hub for meeting resources on the new Google Meet homepage",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/a-centralized-hub-for-meeting-resources-on-the-new-Google-Meet-homepage.html",
-    "summary": "Finding the right notes or attachments for a meeting shouldn't feel like a scavenger hunt. We’re introducing a revamped Google Meet homepage on the web to help you stay organized and prepared throughout your entire meeting workflow.The new homepage provides a centralized view of your meeting agenda...",
-    "date": "2026-07-21T18:20:41+00:00"
   },
   {
     "id": "c9bb76e62d80a2cd",
@@ -750,6 +750,16 @@
     "date": "2026-07-20T00:00:00+00:00"
   },
   {
+    "id": "e61356fb2df8b973",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "A centralized hub for meeting resources on the new Google Meet homepage",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/a-centralized-hub-for-meeting-resources-on-the-new-Google-Meet-homepage.html",
+    "summary": "Finding the right notes or attachments for a meeting shouldn't feel like a scavenger hunt. We’re introducing a revamped Google Meet homepage on the web to help you stay organized and prepared throughout your entire meeting workflow.The new homepage provides a centralized view of your meeting agenda...",
+    "date": "2026-07-21T18:20:41+00:00"
+  },
+  {
     "id": "4deb34580181c663",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/expanded-language-support-for-gemini-in-Google-Docs.html",
     "summary": "Earlier this year, we introduced new Gemini in Google Docs capabilities that help you move from a blank page to a finished document faster than ever.We are now expanding support for these features to 11 more languages, including Mandarin, Dutch, Malay, Hebrew, Polish, Turkish, Czech, Indonesian,...",
     "date": "2026-07-16T16:46:22+00:00"
-  },
-  {
-    "id": "abb6ce7901613faf",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 beta 3 v.2 (26A5378n)",
-    "link": "https://developer.apple.com/news/releases/?id=07132026h",
-    "summary": "View downloadsView release notes",
-    "date": "2026-07-13T20:00:00+00:00"
   }
 ]
