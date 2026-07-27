@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "9332d472e2e7dad5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Visual screenshots in Google Meet meeting notes will soon be generally available, pre-configure admin settings in advance",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/visual-screenshots-in-google-meet-meeting-notes-will-soon-be-generally-available-pre-configure-admin-settings-in-advance.html",
+    "summary": "In the coming weeks, we’re starting the rollout of visual screenshots for the ‘Take notes for me’ feature in Google Meet. Visual screenshots automatically capture presented content (such as slides, diagrams, and charts) directly into the generated meeting notes document, ensuring critical visual...",
+    "date": "2026-07-27T14:55:37+00:00"
+  },
+  {
     "id": "13ac79e9c6535a0d",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/gemini-alpha-is-now-gemini-beta.html",
     "summary": "We’re updating the name of the Gemini Alpha program to \"Gemini Beta.\" This new name more accurately reflects both the scale and the quality of the features that enter this launch stage. Please note that this is solely a branding change. This update does not alter any customer configurations, data...",
     "date": "2026-07-22T16:39:21+00:00"
-  },
-  {
-    "id": "4a3edcf341946341",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Redesigned Google Classroom homepage with tailored views based on user’s role",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/redesigned-google-classroom-homepage-with-tailored-views-based-on-users-role.html",
-    "summary": "Soon, Google Classroom will introduce a redesigned homepage globally across all editions to help teachers, students, and administrators easily find relevant content, resources, and tools tailored to their specific roles. The updated interface transforms the homepage into a dynamic, centralized hub...",
-    "date": "2026-07-21T18:26:27+00:00"
   },
   {
     "id": "c9bb76e62d80a2cd",
@@ -750,6 +750,16 @@
     "date": "2026-07-20T00:00:00+00:00"
   },
   {
+    "id": "4a3edcf341946341",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Redesigned Google Classroom homepage with tailored views based on user’s role",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/redesigned-google-classroom-homepage-with-tailored-views-based-on-users-role.html",
+    "summary": "Soon, Google Classroom will introduce a redesigned homepage globally across all editions to help teachers, students, and administrators easily find relevant content, resources, and tools tailored to their specific roles. The updated interface transforms the homepage into a dynamic, centralized hub...",
+    "date": "2026-07-21T18:26:27+00:00"
+  },
+  {
     "id": "e61356fb2df8b973",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/chat/july-13-2026",
     "summary": "Tags: api-release | Added `next_page_token' and `pronoun` request fields to the `GET /v2/contacts` API.",
     "date": "2026-07-13T00:00:00+00:00"
-  },
-  {
-    "id": "faef982c380fe303",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Expanded language support for Gemini in Google Docs",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/expanded-language-support-for-gemini-in-Google-Docs.html",
-    "summary": "Earlier this year, we introduced new Gemini in Google Docs capabilities that help you move from a blank page to a finished document faster than ever.We are now expanding support for these features to 11 more languages, including Mandarin, Dutch, Malay, Hebrew, Polish, Turkish, Czech, Indonesian,...",
-    "date": "2026-07-16T16:46:22+00:00"
   }
 ]
