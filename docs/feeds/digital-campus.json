@@ -700,6 +700,16 @@
     "date": "2026-06-19T17:07:42+00:00"
   },
   {
+    "id": "e4ca63dcbc924713",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Added new operator fields to SMS APIs",
+    "link": "https://developers.zoom.us/changelog/phone/july-27-2026",
+    "summary": "Tags: api-release | Added new `operator_ext_type`, `operator_ext_number`, `operator_ext_id`, `operator_name` response fields in various SMS APIs.",
+    "date": "2026-07-27T00:00:00+00:00"
+  },
+  {
     "id": "b5183f81ad33aba7",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -987,16 +997,6 @@
     "title": "Return assigned user names for phone numbers",
     "link": "https://developers.zoom.us/changelog/number-management/july-16-2026",
     "summary": "Tags: api-release | Added the `assigned_to_name` response field to the Phone Numbers APIs to return the name of the user or entity assigned to each phone number.",
-    "date": "2026-07-16T00:00:00+00:00"
-  },
-  {
-    "id": "23e7a6cbed7118ec",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New external_storage_url field session.recording_completed webhook",
-    "link": "https://developers.zoom.us/changelog/video-sdk/july-16-2026",
-    "summary": "Tags: api-release | New external_storage_url field in the Cloud Recording session.recording_completed webhook event.",
     "date": "2026-07-16T00:00:00+00:00"
   }
 ]
