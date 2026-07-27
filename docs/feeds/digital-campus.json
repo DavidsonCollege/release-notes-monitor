@@ -310,56 +310,6 @@
     "date": "2026-05-21T08:24:45+00:00"
   },
   {
-    "id": "17756a50ee75b5f6",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "June Release Update",
-    "link": "https://announcekit.app/kuali/announcements/june-release-update-2njgOc",
-    "summary": "improvements We've now released Versions and Document History for all Build users. This makes Revisions function detailed below, as well as...",
-    "date": "2026-07-06T17:00:00+00:00"
-  },
-  {
-    "id": "e4d262db0e28e51d",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Propose Revisions to Completed Documents",
-    "link": "https://announcekit.app/kuali/announcements/new-propose-revisions-to-completed-documents-4lWg36",
-    "summary": "You now have another way to update existing documents. In addition to editing a document directly or creating a new version, you can now pro...",
-    "date": "2026-07-02T21:30:00+00:00"
-  },
-  {
-    "id": "077e3dc2b00ed18d",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Version Types and Limit Editability",
-    "link": "https://announcekit.app/kuali/announcements/new-version-types-and-limit-editability-3Tyn2E",
-    "summary": "You can now configure Version Types and Limit Editability to control how users interact with forms based on the type of version they're work...",
-    "date": "2026-06-29T16:00:00+00:00"
-  },
-  {
-    "id": "de946158c73d1d2a",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Resubmit Withdrawn Documents",
-    "link": "https://announcekit.app/kuali/announcements/new-resubmit-withdrawn-documents-3UGLyU",
-    "summary": "You can now edit and resubmit withdrawn documents without starting over. Previously, withdrawing a document was a permanent action. If you n...",
-    "date": "2026-06-25T14:05:00+00:00"
-  },
-  {
-    "id": "4105f44d04a657cd",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Scheduled Secondary Workflows",
-    "link": "https://announcekit.app/kuali/announcements/new-scheduled-secondary-workflows-1uOySQ",
-    "summary": "You can now automate workflow actions based on dates, helping you send reminders, trigger integrations, and manage time-sensitive processes ...",
-    "date": "2026-06-24T20:45:00+00:00"
-  },
-  {
     "id": "bb53f7ae5c6d0991",
     "product_id": "macos",
     "product_name": "macOS",
@@ -508,46 +458,6 @@
     "link": "https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs",
     "summary": "Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.",
     "date": "March 28, 2024"
-  },
-  {
-    "id": "56662ae9cde59545",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Upload files directly into agent chat",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "July 20, 2026"
-  },
-  {
-    "id": "4f8196415fcff456",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Upload files directly into agent chat",
-    "link": "https://scribe.launchnotes.io/announcements/upload-files-directly-into-agent-chat",
-    "summary": "Loading...",
-    "date": "July 20, 2026"
-  },
-  {
-    "id": "452ba901a01755b1",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Optimize",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-07-20T20:05:58.498695+00:00"
-  },
-  {
-    "id": "168ae9765d999795",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Upload files directly into agent chat",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-07-20T20:05:58.498711+00:00"
   },
   {
     "id": "9d2d9f0d9300e11e",
@@ -748,6 +658,96 @@
     "link": "https://developers.zoom.us/changelog/contact-center/android/5.7.0",
     "summary": "Tags: sdk-version | Added support for additional Android SDK localizations.",
     "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "17756a50ee75b5f6",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "June Release Update",
+    "link": "https://announcekit.app/kuali/announcements/june-release-update-2njgOc",
+    "summary": "improvements We've now released Versions and Document History for all Build users. This makes Revisions function detailed below, as well as...",
+    "date": "2026-07-06T17:00:00+00:00"
+  },
+  {
+    "id": "e4d262db0e28e51d",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Propose Revisions to Completed Documents",
+    "link": "https://announcekit.app/kuali/announcements/new-propose-revisions-to-completed-documents-4lWg36",
+    "summary": "You now have another way to update existing documents. In addition to editing a document directly or creating a new version, you can now pro...",
+    "date": "2026-07-02T21:30:00+00:00"
+  },
+  {
+    "id": "077e3dc2b00ed18d",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Version Types and Limit Editability",
+    "link": "https://announcekit.app/kuali/announcements/new-version-types-and-limit-editability-3Tyn2E",
+    "summary": "You can now configure Version Types and Limit Editability to control how users interact with forms based on the type of version they're work...",
+    "date": "2026-06-29T16:00:00+00:00"
+  },
+  {
+    "id": "de946158c73d1d2a",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Resubmit Withdrawn Documents",
+    "link": "https://announcekit.app/kuali/announcements/new-resubmit-withdrawn-documents-3UGLyU",
+    "summary": "You can now edit and resubmit withdrawn documents without starting over. Previously, withdrawing a document was a permanent action. If you n...",
+    "date": "2026-06-25T14:05:00+00:00"
+  },
+  {
+    "id": "4105f44d04a657cd",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Scheduled Secondary Workflows",
+    "link": "https://announcekit.app/kuali/announcements/new-scheduled-secondary-workflows-1uOySQ",
+    "summary": "You can now automate workflow actions based on dates, helping you send reminders, trigger integrations, and manage time-sensitive processes ...",
+    "date": "2026-06-24T20:45:00+00:00"
+  },
+  {
+    "id": "56662ae9cde59545",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Upload files directly into agent chat",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "July 20, 2026"
+  },
+  {
+    "id": "4f8196415fcff456",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Upload files directly into agent chat",
+    "link": "https://scribe.launchnotes.io/announcements/upload-files-directly-into-agent-chat",
+    "summary": "Loading...",
+    "date": "July 20, 2026"
+  },
+  {
+    "id": "452ba901a01755b1",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Optimize",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-07-20T20:05:58.498695+00:00"
+  },
+  {
+    "id": "168ae9765d999795",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Upload files directly into agent chat",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-07-20T20:05:58.498711+00:00"
   },
   {
     "id": "4594bc8e55c8980e",
