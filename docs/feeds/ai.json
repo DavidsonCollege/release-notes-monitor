@@ -1,55 +1,5 @@
 [
   {
-    "id": "f9e1d8adaa601929",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "ChatGPT Free and Go",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "",
-    "date": "2026-06-22T22:15:57.405414+00:00"
-  },
-  {
-    "id": "032d49c8d222abf2",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "What’s changing",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "A new Scheduled page, discoverable in the sidebar, gives users one place to view active tasks, see when they’ll run next, and pause, resume, edit, or delete them.All tasks are faster and more reliable.Users can schedule work for specific times or broader windows, such as morning, afternoon, or...",
-    "date": "2026-06-17T17:10:11.527358+00:00"
-  },
-  {
-    "id": "eff3d1fbae5608f4",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Availability and limits",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "Rolling out to Plus, Pro, Business, and Enterprise users.Active task limits vary by tier. Tasks cannot run more than once per hour, and unattended tasks may automatically pause after a period of inactivity.",
-    "date": "2026-06-17T17:10:11.527380+00:00"
-  },
-  {
-    "id": "914cb1a12e84aa0e",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Update on Pulse",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "Pulse is being sunset as proactive updates move into scheduled tasks. Pro users will continue to have access for 14 days from today. To keep receiving daily updates, you can ask ChatGPT to schedule a daily briefing based on your interests and past chats.",
-    "date": "2026-06-17T17:10:11.527387+00:00"
-  },
-  {
-    "id": "5d9e112be397df77",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Availability",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "These model picker updates are rolling out to Plus and Pro users on web, iOS, and Android globally today.",
-    "date": "2026-06-10T18:05:07.150228+00:00"
-  },
-  {
     "id": "5cd35abac9141645",
     "product_id": "claude",
     "product_name": "Claude",
@@ -98,6 +48,106 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-07-10T00:00:00+00:00"
+  },
+  {
+    "id": "7dd9f9e5d46fcab2",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Probar Gemini",
+    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
+    "summary": "",
+    "date": "2026-07-28T06:02:28.308508+00:00"
+  },
+  {
+    "id": "ca0292e4d6721498",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "De qué se trata: Presentamos Gemini 3.6 Flash, una versión mejorada de nuestro modelo Flash, para ayudarte a realizar tareas cotidianas. Prueba usar",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "De qué se trata: Presentamos Gemini 3.6 Flash, una versión mejorada de nuestro modelo Flash, para ayudarte a realizar tareas cotidianas. Prueba usarlo para tareas rápidas, como analizar varios documentos, o proyectos de varios pasos, como crear un prototipo funcional con la herramienta Canvas. Nos...",
+    "date": "2026-07-28T06:02:28.308544+00:00"
+  },
+  {
+    "id": "8ae63b1bde022190",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Por qué: Queremos que Gemini sea el asistente de IA más útil para todas las personas. Con Gemini 3.6 Flash, ahora puedes abordar tus tareas cotidian",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Por qué: Queremos que Gemini sea el asistente de IA más útil para todas las personas. Con Gemini 3.6 Flash, ahora puedes abordar tus tareas cotidianas con mayor confianza, sin tener que elegir entre velocidad y calidad.",
+    "date": "2026-07-28T06:02:28.308555+00:00"
+  },
+  {
+    "id": "25365e4e90aac878",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "De qué se trata: Gemini Spark, tu agente de IA personal, llegará a la app de Gemini para macOS. Te ayuda a navegar por tu vida digital trabajando en",
+    "link": "https://support.google.com/gemini/answer/17094507?hl=en&co=GENIE.Platform%3DAndroid&sjid=2353166824601345951-NA",
+    "summary": "De qué se trata: Gemini Spark, tu agente de IA personal, llegará a la app de Gemini para macOS. Te ayuda a navegar por tu vida digital trabajando en tareas en tu nombre. Trabaja de forma autónoma siguiendo tus instrucciones: organiza carpetas, usa tus archivos locales para crear documentos y maneja...",
+    "date": "2026-07-28T06:02:28.308564+00:00"
+  },
+  {
+    "id": "5ceefabef133ce0c",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Por qué: Creamos esta función para ayudarte a automatizar las tareas diarias, como optimizar proyectos de varios pasos o administrar archivos locale",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Por qué: Creamos esta función para ayudarte a automatizar las tareas diarias, como optimizar proyectos de varios pasos o administrar archivos locales, entre otras. Con Gemini Spark, Gemini deja de ser solo un asistente que contesta dudas para convertirse en uno que toma la iniciativa y trabaja en...",
+    "date": "2026-07-28T06:02:28.308572+00:00"
+  },
+  {
+    "id": "f9e1d8adaa601929",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "ChatGPT Free and Go",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-06-22T22:15:57.405414+00:00"
+  },
+  {
+    "id": "032d49c8d222abf2",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "What’s changing",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "A new Scheduled page, discoverable in the sidebar, gives users one place to view active tasks, see when they’ll run next, and pause, resume, edit, or delete them.All tasks are faster and more reliable.Users can schedule work for specific times or broader windows, such as morning, afternoon, or...",
+    "date": "2026-06-17T17:10:11.527358+00:00"
+  },
+  {
+    "id": "eff3d1fbae5608f4",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Availability and limits",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "Rolling out to Plus, Pro, Business, and Enterprise users.Active task limits vary by tier. Tasks cannot run more than once per hour, and unattended tasks may automatically pause after a period of inactivity.",
+    "date": "2026-06-17T17:10:11.527380+00:00"
+  },
+  {
+    "id": "914cb1a12e84aa0e",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Update on Pulse",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "Pulse is being sunset as proactive updates move into scheduled tasks. Pro users will continue to have access for 14 days from today. To keep receiving daily updates, you can ask ChatGPT to schedule a daily briefing based on your interests and past chats.",
+    "date": "2026-06-17T17:10:11.527387+00:00"
+  },
+  {
+    "id": "5d9e112be397df77",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Availability",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "These model picker updates are rolling out to Plus and Pro users on web, iOS, and Android globally today.",
+    "date": "2026-06-10T18:05:07.150228+00:00"
   },
   {
     "id": "2005c82e484167da",

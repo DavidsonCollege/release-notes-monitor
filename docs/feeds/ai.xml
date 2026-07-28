@@ -5,8 +5,43 @@
     <description/>
     <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/ai.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 04:37:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:02:29 +0000</lastBuildDate>
     <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/ai.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gemini - Por qué: Creamos esta función para ayudarte a automatizar las tareas diarias, como optimizar proyectos de varios pasos o administrar archivos locale</title>
+      <link>https://gemini.google/release-notes/</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=gemini.google&amp;sz=64&quot; alt=&quot;Gemini&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Gemini&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Por qué: Creamos esta función para ayudarte a automatizar las tareas diarias, como optimizar proyectos de varios pasos o administrar archivos locales, entre otras. Con Gemini Spark, Gemini deja de ser solo un asistente que contesta dudas para convertirse en uno que toma la iniciativa y trabaja en...&lt;/p&gt;&lt;a href=&quot;https://gemini.google/release-notes/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">5ceefabef133ce0c</guid>
+      <pubDate>Tue, 28 Jul 2026 06:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini - De qué se trata: Gemini Spark, tu agente de IA personal, llegará a la app de Gemini para macOS. Te ayuda a navegar por tu vida digital trabajando en</title>
+      <link>https://support.google.com/gemini/answer/17094507?hl=en&amp;co=GENIE.Platform%3DAndroid&amp;sjid=2353166824601345951-NA</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=gemini.google&amp;sz=64&quot; alt=&quot;Gemini&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Gemini&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;De qué se trata: Gemini Spark, tu agente de IA personal, llegará a la app de Gemini para macOS. Te ayuda a navegar por tu vida digital trabajando en tareas en tu nombre. Trabaja de forma autónoma siguiendo tus instrucciones: organiza carpetas, usa tus archivos locales para crear documentos y maneja...&lt;/p&gt;&lt;a href=&quot;https://support.google.com/gemini/answer/17094507?hl=en&amp;co=GENIE.Platform%3DAndroid&amp;sjid=2353166824601345951-NA&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">25365e4e90aac878</guid>
+      <pubDate>Tue, 28 Jul 2026 06:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini - Por qué: Queremos que Gemini sea el asistente de IA más útil para todas las personas. Con Gemini 3.6 Flash, ahora puedes abordar tus tareas cotidian</title>
+      <link>https://gemini.google/release-notes/</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=gemini.google&amp;sz=64&quot; alt=&quot;Gemini&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Gemini&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Por qué: Queremos que Gemini sea el asistente de IA más útil para todas las personas. Con Gemini 3.6 Flash, ahora puedes abordar tus tareas cotidianas con mayor confianza, sin tener que elegir entre velocidad y calidad.&lt;/p&gt;&lt;a href=&quot;https://gemini.google/release-notes/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">8ae63b1bde022190</guid>
+      <pubDate>Tue, 28 Jul 2026 06:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini - De qué se trata: Presentamos Gemini 3.6 Flash, una versión mejorada de nuestro modelo Flash, para ayudarte a realizar tareas cotidianas. Prueba usar</title>
+      <link>https://gemini.google/release-notes/</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=gemini.google&amp;sz=64&quot; alt=&quot;Gemini&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Gemini&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;De qué se trata: Presentamos Gemini 3.6 Flash, una versión mejorada de nuestro modelo Flash, para ayudarte a realizar tareas cotidianas. Prueba usarlo para tareas rápidas, como analizar varios documentos, o proyectos de varios pasos, como crear un prototipo funcional con la herramienta Canvas. Nos...&lt;/p&gt;&lt;a href=&quot;https://gemini.google/release-notes/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">ca0292e4d6721498</guid>
+      <pubDate>Tue, 28 Jul 2026 06:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini - Probar Gemini</title>
+      <link>https://gemini.google.com/app/download/mobile?android-min-version=301356232&amp;ios-min-version=322.0&amp;is_sa=1&amp;campaign_id=gemini_overview_page&amp;utm_source=gemini&amp;utm_medium=web&amp;utm_campaign=gemini_overview_page&amp;pt=9008&amp;mt=8&amp;ct=gemini_overview_page</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=gemini.google&amp;sz=64&quot; alt=&quot;Gemini&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Gemini&lt;/strong&gt;&lt;/div&gt;&lt;a href=&quot;https://gemini.google.com/app/download/mobile?android-min-version=301356232&amp;ios-min-version=322.0&amp;is_sa=1&amp;campaign_id=gemini_overview_page&amp;utm_source=gemini&amp;utm_medium=web&amp;utm_campaign=gemini_overview_page&amp;pt=9008&amp;mt=8&amp;ct=gemini_overview_page&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">7dd9f9e5d46fcab2</guid>
+      <pubDate>Tue, 28 Jul 2026 06:02:28 +0000</pubDate>
+    </item>
     <item>
       <title>Claude - Claude Opus 5 launch</title>
       <link>https://support.claude.com/en/articles/12138966-release-notes</link>
