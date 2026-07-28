@@ -220,6 +220,26 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "283c0d3a658d1747",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Generate and edit visuals with Gemini in Google Docs",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/generate-and-edit-visuals-with-gemini-in-Google-Docs.html",
+    "summary": "You can now create and edit images, diagrams, and infographics directly alongside your text using Gemini in Google Docs. These images leverage the context of your document, so you can generate relevant visuals to accompany your writing without ever leaving Docs or relying on external tools. Plus,...",
+    "date": "2026-07-28T16:20:08+00:00"
+  },
+  {
+    "id": "8c5c92f704a7cbe8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Streamline collaboration in Google Docs with Gemini-powered comment workflows",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/streamline-collaboration-in-google-docs-with-Gemini-powered-comment-workflows.html",
+    "summary": "We’re introducing Gemini-powered comment workflows in Google Docs to help you quickly understand and respond to collaborator feedback. These new features enable Gemini to read, summarize, and act on comments throughout your document, saving you time and streamlining collaboration.Synthesize and Q&A...",
+    "date": "2026-07-28T16:14:48+00:00"
+  },
+  {
     "id": "9332d472e2e7dad5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -248,26 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/view-supporting-calendar-delegates-in-meeting-guest-list.html",
     "summary": "When viewing a guest list in Google Calendar on the web, you will now see a new icon next to leaders who have a calendar delegate assisting them with scheduling support. Hovering over the icon will display the person’s information, allowing you to easily initiate a chat with them directly.This...",
     "date": "2026-07-23T15:47:12+00:00"
-  },
-  {
-    "id": "a473230ba6d88982",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Meet now organizes your meeting notes, transcripts, and recordings in your Google Drive",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/google-meet-now-organizes-your-meeting-notes-transcripts-and-recordings-in-your-Google-Drive.html",
-    "summary": "We’re making it easier for users to find meeting notes, transcripts and recordings in Google Drive with the following improvements:After a meeting, we’ll automatically upload these files to a new folder in the host’s My Drive called “Google Meet.”Within that “Google Meet” folder, these files will...",
-    "date": "2026-07-22T16:48:25+00:00"
-  },
-  {
-    "id": "373fda294b4d7bbe",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini Alpha is now Gemini Beta",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/gemini-alpha-is-now-gemini-beta.html",
-    "summary": "We’re updating the name of the Gemini Alpha program to \"Gemini Beta.\" This new name more accurately reflects both the scale and the quality of the features that enter this launch stage. Please note that this is solely a branding change. This update does not alter any customer configurations, data...",
-    "date": "2026-07-22T16:39:21+00:00"
   },
   {
     "id": "c9bb76e62d80a2cd",
@@ -750,6 +750,26 @@
     "date": "2026-07-20T00:00:00+00:00"
   },
   {
+    "id": "a473230ba6d88982",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Meet now organizes your meeting notes, transcripts, and recordings in your Google Drive",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/google-meet-now-organizes-your-meeting-notes-transcripts-and-recordings-in-your-Google-Drive.html",
+    "summary": "We’re making it easier for users to find meeting notes, transcripts and recordings in Google Drive with the following improvements:After a meeting, we’ll automatically upload these files to a new folder in the host’s My Drive called “Google Meet.”Within that “Google Meet” folder, these files will...",
+    "date": "2026-07-22T16:48:25+00:00"
+  },
+  {
+    "id": "373fda294b4d7bbe",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini Alpha is now Gemini Beta",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/gemini-alpha-is-now-gemini-beta.html",
+    "summary": "We’re updating the name of the Gemini Alpha program to \"Gemini Beta.\" This new name more accurately reflects both the scale and the quality of the features that enter this launch stage. Please note that this is solely a branding change. This update does not alter any customer configurations, data...",
+    "date": "2026-07-22T16:39:21+00:00"
+  },
+  {
     "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
@@ -978,25 +998,5 @@
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
     "date": "July 7, 2026"
-  },
-  {
-    "id": "da7273f09bd8ba1a",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Turn any video into a Scribe",
-    "link": "https://scribe.launchnotes.io/announcements/turn-any-video-into-a-scribe",
-    "summary": "Loading...",
-    "date": "July 7, 2026"
-  },
-  {
-    "id": "4238def2277c1aa7",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Pro Pro Team Enterprise Capturing",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-07-07T16:54:07.702559+00:00"
   }
 ]
