@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "939193096b1d3cc1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create and import scatter charts with multiple x-series in Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/create-and-import-scatter-charts-with-multiple-x-series-in-Google-Sheets.html",
+    "summary": "Google Sheets now supports creating and editing scatter charts with multiple independent x-series. This update allows users to map separate data series to their own unique x-axis, rather than forcing all series in a single chart to share the same horizontal axis domain.Additionally, this feature...",
+    "date": "2026-07-29T17:55:47+00:00"
+  },
+  {
     "id": "8d6d0acce93d061a",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/visual-screenshots-in-google-meet-meeting-notes-will-soon-be-generally-available-pre-configure-admin-settings-in-advance.html",
     "summary": "In the coming weeks, we’re starting the rollout of visual screenshots for the ‘Take notes for me’ feature in Google Meet. Visual screenshots automatically capture presented content (such as slides, diagrams, and charts) directly into the generated meeting notes document, ensuring critical visual...",
     "date": "2026-07-27T14:55:37+00:00"
-  },
-  {
-    "id": "13ac79e9c6535a0d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - July 24, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-24-2026.html",
-    "summary": "Import and create combo charts in Google SheetsGoogle Sheets now offers enhanced support for combo charts, providing a more seamless experience when creating multi-series visualizations. | Learn more.A centralized hub for meeting resources on the new Google Meet homepageFinding the right notes or...",
-    "date": "2026-07-24T19:18:52+00:00"
   },
   {
     "id": "c9bb76e62d80a2cd",
@@ -750,6 +750,16 @@
     "date": "2026-07-20T00:00:00+00:00"
   },
   {
+    "id": "13ac79e9c6535a0d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - July 24, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-24-2026.html",
+    "summary": "Import and create combo charts in Google SheetsGoogle Sheets now offers enhanced support for combo charts, providing a more seamless experience when creating multi-series visualizations. | Learn more.A centralized hub for meeting resources on the new Google Meet homepageFinding the right notes or...",
+    "date": "2026-07-24T19:18:52+00:00"
+  },
+  {
     "id": "d2ebf874deb32a48",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://product.korbyt.com/changelog/korbyt-anywhere-release-recap-12052025",
     "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🐞 Squashed Bugs - Fixed an issue where YouTube element showed an error due to recent changes in YouTube's Terms of Service. - Resolved a styling inheritance issue in Korbyt Create AI Layouts where elements did not...",
     "date": "2025-12-05T15:05:58+00:00"
-  },
-  {
-    "id": "f0ccedc8b994efcf",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 29 May 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/05/29/announcing-new-builds-for-29-may-2026/",
-    "summary": "Hello Windows Insiders, This week we continue to expand the rollout of the new Windows Insider Program changes to devices in channels already announced. New builds this week Today we are releasing new Windows 11 Insider Preview B The post Announcing new builds for 29 May 2026 appeared first on...",
-    "date": "2026-05-29T17:05:27+00:00"
   }
 ]
