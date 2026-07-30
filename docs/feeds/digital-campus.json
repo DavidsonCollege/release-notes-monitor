@@ -550,6 +550,16 @@
     "date": "2026-07-20T20:05:58.498711+00:00"
   },
   {
+    "id": "680bbcbe37c81788",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.6.0",
+    "link": "https://docs.slack.dev/changelog/2026/07/30/slack-cli",
+    "summary": "Version 4.6.0 of the Slack CLI is now available!",
+    "date": "2026-07-30T00:00:00+00:00"
+  },
+  {
     "id": "9d2d9f0d9300e11e",
     "product_id": "slack",
     "product_name": "Slack",
@@ -588,16 +598,6 @@
     "link": "https://docs.slack.dev/changelog/2026/07/13/notification-changes",
     "summary": "Slack desktop client notifications now pull text from blocks first, falling back to the top-level text field only if no text can be extracted from blocks. Mobile notifications continue to exclusively use message.text.",
     "date": "2026-07-13T00:00:00+00:00"
-  },
-  {
-    "id": "09f997080d6a3717",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Agent context has landed",
-    "link": "https://docs.slack.dev/changelog/2026/07/02/app-context",
-    "summary": "Agent apps can now receive context about what a user is currently viewing when they send a message. When a user has a channel, DM, thread, canvas, or list open and messages your app, Slack will pass that context automatically.",
-    "date": "2026-07-02T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -748,6 +748,16 @@
     "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.7.0",
     "summary": "Tags: sdk-version | Improved annotation input and scrolling behavior, and fixed Web Worker message timing issues.",
     "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "09f997080d6a3717",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Agent context has landed",
+    "link": "https://docs.slack.dev/changelog/2026/07/02/app-context",
+    "summary": "Agent apps can now receive context about what a user is currently viewing when they send a message. When a user has a channel, DM, thread, canvas, or list open and messages your app, Slack will pass that context automatically.",
+    "date": "2026-07-02T00:00:00+00:00"
   },
   {
     "id": "9332d472e2e7dad5",
@@ -988,15 +998,5 @@
     "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-02132026",
     "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🆕 New & Enhanced - Enhanced Proof of Play (POP) with **Hourly Reporting**, giving all customers more granular visibility into content performance throughout the day. - Improved Proof of Play to ensure reporting data...",
     "date": "2026-02-13T15:38:48+00:00"
-  },
-  {
-    "id": "3f5b910c597cabb5",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Product Recap - 01.12.2026",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-product-recap-01122026",
-    "summary": "We're constantly working to improve Korbyt. Here's what we were up to over the break and last week week: 🆕 New & Enhanced - **Secrets API: Credential Management** — IT Admins can now securely manage the lifecycle of API credentials using a centralized Secrets API. This includes creating, listing,...",
-    "date": "2026-01-12T16:36:21+00:00"
   }
 ]
