@@ -700,6 +700,16 @@
     "date": "2026-06-26T17:00:19+00:00"
   },
   {
+    "id": "61a42e83c8f287cc",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "meeting.chat_message_sent truncates long messages",
+    "link": "https://developers.zoom.us/changelog/chat/july-30-2026",
+    "summary": "Tags: api-release | For meeting.chat_message_sent, longer messages get truncated. A fix is forthcoming.",
+    "date": "2026-07-30T00:00:00+00:00"
+  },
+  {
     "id": "e4ca63dcbc924713",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-and-playlist-interrupt-release-05152026",
     "summary": "**Playlist Priority Scheduling: Interrupt and Override \\| Take full control of what plays and when** When something urgent needs to go on screen immediately, you shouldn't have to fight your own playlist to get it there. Playlist Priority Scheduling lets you assign priority levels across your...",
     "date": "2026-05-15T20:58:42+00:00"
-  },
-  {
-    "id": "f797e86c07e10880",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Weekly Recap - 02.13.2026",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-02132026",
-    "summary": "We're constantly working to improve Korbyt. Here's what we were up to this week: 🆕 New & Enhanced - Enhanced Proof of Play (POP) with **Hourly Reporting**, giving all customers more granular visibility into content performance throughout the day. - Improved Proof of Play to ensure reporting data...",
-    "date": "2026-02-13T15:38:48+00:00"
   }
 ]
