@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "09941197092bd79d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - July 31, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-31-2026.html",
+    "summary": "Visual screenshots in Google Meet meeting notes will soon be generally available, pre-configure admin settings in advanceIn the coming weeks, we’re starting the rollout of visual screenshots for the ‘Take notes for me’ feature in Google Meet. Visual screenshots automatically capture presented...",
+    "date": "2026-07-31T19:25:01+00:00"
+  },
+  {
     "id": "1e6a9616d3fc317a",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/updated-options-to-better-view-google-Calendar-on-large-monitors.html",
     "summary": "To provide users with more control over their viewing experience, we’re updating information density options for the calendar grid. These updates allow users to customize how calendar events scale on their screens to accommodate various monitor sizes and personal preferences.The available...",
     "date": "2026-07-29T16:03:47+00:00"
-  },
-  {
-    "id": "283c0d3a658d1747",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Generate and edit visuals with Gemini in Google Docs",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/generate-and-edit-visuals-with-gemini-in-Google-Docs.html",
-    "summary": "You can now create and edit images, diagrams, and infographics directly alongside your text using Gemini in Google Docs. These images leverage the context of your document, so you can generate relevant visuals to accompany your writing without ever leaving Docs or relying on external tools. Plus,...",
-    "date": "2026-07-28T16:20:08+00:00"
   },
   {
     "id": "c9bb76e62d80a2cd",
@@ -550,6 +550,16 @@
     "date": "2026-07-20T20:05:58.498711+00:00"
   },
   {
+    "id": "101d2e934d2d87aa",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Announcing the Slack MCP and Skills Plugin",
+    "link": "https://docs.slack.dev/changelog/2026/07/31/slack-skills-plugin",
+    "summary": "We're excited to introduce the Slack MCP and Skills Plugin for AI tools, which bundles a set of skills that help you develop on the Slack platform alongside the Slack MCP Server. The plugin is currently available for Claude Code and Cursor.",
+    "date": "2026-07-31T00:00:00+00:00"
+  },
+  {
     "id": "680bbcbe37c81788",
     "product_id": "slack",
     "product_name": "Slack",
@@ -588,16 +598,6 @@
     "link": "https://docs.slack.dev/changelog/2026/07/14/node-slack-sdk-release",
     "summary": "Our collection of Node Slack SDK packages have received new major versions.",
     "date": "2026-07-14T00:00:00+00:00"
-  },
-  {
-    "id": "93bcbcd2b9061956",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Desktop notifications now pull text from blocks first",
-    "link": "https://docs.slack.dev/changelog/2026/07/13/notification-changes",
-    "summary": "Slack desktop client notifications now pull text from blocks first, falling back to the top-level text field only if no text can be extracted from blocks. Mobile notifications continue to exclusively use message.text.",
-    "date": "2026-07-13T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -748,6 +748,26 @@
     "link": "https://developers.zoom.us/changelog/chat/july-20-2026",
     "summary": "Tags: api-release | Added the `groups` request field to the POST /v2/chat/spaces/{spaceId}/members API.",
     "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "id": "283c0d3a658d1747",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Generate and edit visuals with Gemini in Google Docs",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/generate-and-edit-visuals-with-gemini-in-Google-Docs.html",
+    "summary": "You can now create and edit images, diagrams, and infographics directly alongside your text using Gemini in Google Docs. These images leverage the context of your document, so you can generate relevant visuals to accompany your writing without ever leaving Docs or relying on external tools. Plus,...",
+    "date": "2026-07-28T16:20:08+00:00"
+  },
+  {
+    "id": "93bcbcd2b9061956",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Desktop notifications now pull text from blocks first",
+    "link": "https://docs.slack.dev/changelog/2026/07/13/notification-changes",
+    "summary": "Slack desktop client notifications now pull text from blocks first, falling back to the top-level text field only if no text can be extracted from blocks. Mobile notifications continue to exclusively use message.text.",
+    "date": "2026-07-13T00:00:00+00:00"
   },
   {
     "id": "8c5c92f704a7cbe8",
@@ -978,25 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=07202026c",
     "summary": "View downloadsView release notes",
     "date": "2026-07-20T17:00:00+00:00"
-  },
-  {
-    "id": "91a4c10cb7fb6ccc",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Cast yourself in AI video clips using your personal avatar with Gemini Omni in Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/cast-yourself-in-ai-video-clips-using-your-personal-avatar-with-Gemini-Omni-in-Vids.html",
-    "summary": "Users now have access to Gemini Omni directly within Google Vids. With Gemini Omni, you can create videos using your personal avatar to scale your presence without the studio time. Use a secure verification process to capture your likeness and then select it as a character in Omni generations...",
-    "date": "2026-07-16T20:06:53+00:00"
-  },
-  {
-    "id": "b4b4b616e1d5f8c4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Generate higher quality AI video clips and edit any video with Gemini Omni in Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/generate-higher-quality-ai-video-clips-and-edit-any-video-with-Gemini-Omni-in-Vids.html",
-    "summary": "Users now have access to Gemini Omni directly within Google Vids. Omni provides higher quality video generation with significant improvements over previous models. Additionally, Omni’s world understanding unlocks simple video edits so you can ask Omni to tweak the video you have to get the video...",
-    "date": "2026-07-16T19:09:09+00:00"
   }
 ]
