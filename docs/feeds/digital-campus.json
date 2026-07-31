@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "1e6a9616d3fc317a",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Prevent accidental disclosures with new Reply All BCC warnings in Gmail",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/prevent-accidental-disclosures-with-new-Reply-All-BCC-warnings-in-Gmail.html",
+    "summary": "To help protect your privacy and ensure intentional communication, we are introducing a new caution notification in Gmail. This feature is designed to prevent accidental information disclosure by alerting users when they are about to \"Reply All\" to a thread where they were originally...",
+    "date": "2026-07-30T17:24:38+00:00"
+  },
+  {
     "id": "ce9b31e4a5cbbe56",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/generate-and-edit-visuals-with-gemini-in-Google-Docs.html",
     "summary": "You can now create and edit images, diagrams, and infographics directly alongside your text using Gemini in Google Docs. These images leverage the context of your document, so you can generate relevant visuals to accompany your writing without ever leaving Docs or relying on external tools. Plus,...",
     "date": "2026-07-28T16:20:08+00:00"
-  },
-  {
-    "id": "8c5c92f704a7cbe8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Streamline collaboration in Google Docs with Gemini-powered comment workflows",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/streamline-collaboration-in-google-docs-with-Gemini-powered-comment-workflows.html",
-    "summary": "We’re introducing Gemini-powered comment workflows in Google Docs to help you quickly understand and respond to collaborator feedback. These new features enable Gemini to read, summarize, and act on comments throughout your document, saving you time and streamlining collaboration.Synthesize and Q&A...",
-    "date": "2026-07-28T16:14:48+00:00"
   },
   {
     "id": "c9bb76e62d80a2cd",
@@ -750,6 +750,16 @@
     "date": "2026-07-20T00:00:00+00:00"
   },
   {
+    "id": "8c5c92f704a7cbe8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Streamline collaboration in Google Docs with Gemini-powered comment workflows",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/streamline-collaboration-in-google-docs-with-Gemini-powered-comment-workflows.html",
+    "summary": "We’re introducing Gemini-powered comment workflows in Google Docs to help you quickly understand and respond to collaborator feedback. These new features enable Gemini to read, summarize, and act on comments throughout your document, saving you time and streamlining collaboration.Synthesize and Q&A...",
+    "date": "2026-07-28T16:14:48+00:00"
+  },
+  {
     "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/generate-higher-quality-ai-video-clips-and-edit-any-video-with-Gemini-Omni-in-Vids.html",
     "summary": "Users now have access to Gemini Omni directly within Google Vids. Omni provides higher quality video generation with significant improvements over previous models. Additionally, Omni’s world understanding unlocks simple video edits so you can ask Omni to tweak the video you have to get the video...",
     "date": "2026-07-16T19:09:09+00:00"
-  },
-  {
-    "id": "4573b3ff329778bf",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Introducing the Agent messaging experience",
-    "link": "https://docs.slack.dev/changelog/2026/06/30/agent-messages-tab",
-    "summary": "Agents now support a new messaging experience, set by your app manifest:",
-    "date": "2026-06-30T00:00:00+00:00"
   }
 ]
