@@ -1,13 +1,13 @@
 [
   {
-    "id": "68bf4e06214d3b4d",
+    "id": "92aca7ce8a209770",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
+    "title": "1Password CLI",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "July 29 2026"
+    "date": "July 30 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -750,6 +750,16 @@
     "date": "2026-07-20T00:00:00+00:00"
   },
   {
+    "id": "68bf4e06214d3b4d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "July 29 2026"
+  },
+  {
     "id": "170795da4c8c16d6",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "https://docs.slack.dev/changelog/2026/06/30/agent-messages-tab",
     "summary": "Agents now support a new messaging experience, set by your app manifest:",
     "date": "2026-06-30T00:00:00+00:00"
-  },
-  {
-    "id": "83a6e193535a1b0a",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Weekly Recap & Playlist Interrupt Release - 05.15.2026",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-and-playlist-interrupt-release-05152026",
-    "summary": "**Playlist Priority Scheduling: Interrupt and Override \\| Take full control of what plays and when** When something urgent needs to go on screen immediately, you shouldn't have to fight your own playlist to get it there. Playlist Priority Scheduling lets you assign priority levels across your...",
-    "date": "2026-05-15T20:58:42+00:00"
   }
 ]
