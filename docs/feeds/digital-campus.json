@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "ac260aa0b2ca5716",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "July 31, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/52026436342932-July-31-2026",
+    "summary": "",
+    "date": "2026-08-01T12:57:55Z"
+  },
+  {
     "id": "111913092d3d06c1",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/51063277240596-July-3-2026",
     "summary": "",
     "date": "2026-07-09T15:42:53Z"
-  },
-  {
-    "id": "36e33e3cbc81b1f2",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "June 26, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/50737170831636-June-26-2026",
-    "summary": "",
-    "date": "2026-07-01T18:15:11Z"
   },
   {
     "id": "d8be261279577d9c",
@@ -750,6 +750,16 @@
     "date": "2026-07-20T00:00:00+00:00"
   },
   {
+    "id": "36e33e3cbc81b1f2",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "June 26, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/50737170831636-June-26-2026",
+    "summary": "",
+    "date": "2026-07-01T18:15:11Z"
+  },
+  {
     "id": "283c0d3a658d1747",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://blogs.windows.com/windows-insider/2026/06/12/announcing-new-builds-for-12-june-2026/",
     "summary": "Hello Windows Insiders, We have a number of releases today with new builds across Beta, Experimental and Release Preview. Release notes for inbox Windows 11 apps Windows 11 inbox apps are now getting their own release notes sectio The post Announcing new builds for 12 June 2026 appeared first on...",
     "date": "2026-06-12T17:05:12+00:00"
-  },
-  {
-    "id": "ff3cdcde1dc13a78",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.6 RC (25G70)",
-    "link": "https://developer.apple.com/news/releases/?id=07202026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-07-20T17:00:00+00:00"
   }
 ]
