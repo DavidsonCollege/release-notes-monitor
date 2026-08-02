@@ -12,7 +12,7 @@
       "name": "ai",
       "is_private": false,
       "topic": "",
-      "num_members": 39
+      "num_members": 38
     },
     {
       "id": "C017KEZG1CP",
@@ -89,7 +89,7 @@
       "name": "calendly",
       "is_private": false,
       "topic": "",
-      "num_members": 2
+      "num_members": 1
     },
     {
       "id": "C59PE2Y0H",
@@ -124,7 +124,7 @@
       "name": "client-davidson-college",
       "is_private": false,
       "topic": "",
-      "num_members": 25
+      "num_members": 24
     },
     {
       "id": "C02BTE9AC5D",
@@ -187,7 +187,7 @@
       "name": "disaster-response",
       "is_private": false,
       "topic": "",
-      "num_members": 5
+      "num_members": 4
     },
     {
       "id": "C0QR613U2",
@@ -215,14 +215,14 @@
       "name": "general",
       "is_private": false,
       "topic": "Company-wide announcements and work-based matters",
-      "num_members": 96
+      "num_members": 95
     },
     {
       "id": "C2ETFB938",
       "name": "hiring",
       "is_private": false,
       "topic": "",
-      "num_members": 4
+      "num_members": 3
     },
     {
       "id": "C01865U3DPE",
@@ -243,7 +243,7 @@
       "name": "iam-notifications",
       "is_private": false,
       "topic": "",
-      "num_members": 2
+      "num_members": 1
     },
     {
       "id": "C6H8CGK4K",
@@ -257,7 +257,7 @@
       "name": "ideas",
       "is_private": false,
       "topic": "Ideas for IT@Davidson",
-      "num_members": 51
+      "num_members": 50
     },
     {
       "id": "C07QZEBRGFL",
@@ -299,7 +299,7 @@
       "name": "new-tech",
       "is_private": false,
       "topic": "",
-      "num_members": 4
+      "num_members": 3
     },
     {
       "id": "C0AEAU13553",
@@ -327,7 +327,7 @@
       "name": "outages",
       "is_private": false,
       "topic": "",
-      "num_members": 92
+      "num_members": 91
     },
     {
       "id": "CFA3D26NL",
@@ -341,28 +341,28 @@
       "name": "password-policy",
       "is_private": false,
       "topic": "",
-      "num_members": 2
+      "num_members": 1
     },
     {
       "id": "C6NS7H2BE",
       "name": "phish-buysel-20170815",
       "is_private": false,
       "topic": "",
-      "num_members": 2
+      "num_members": 1
     },
     {
       "id": "C6NQ4BG3C",
       "name": "phish-lmars-20170815",
       "is_private": false,
       "topic": "",
-      "num_members": 2
+      "num_members": 1
     },
     {
       "id": "C9KNY5J01",
       "name": "phishing",
       "is_private": false,
       "topic": "",
-      "num_members": 5
+      "num_members": 4
     },
     {
       "id": "C09DZC59TAP",
@@ -383,21 +383,21 @@
       "name": "proj-akamai-etp",
       "is_private": false,
       "topic": "",
-      "num_members": 2
+      "num_members": 1
     },
     {
       "id": "CJF8K9W2F",
       "name": "proj-atrium",
       "is_private": false,
       "topic": "",
-      "num_members": 7
+      "num_members": 6
     },
     {
       "id": "C2EPG1HFZ",
       "name": "proj-audit-chg-ctrl",
       "is_private": false,
       "topic": "",
-      "num_members": 3
+      "num_members": 2
     },
     {
       "id": "C04KQKQCUA0",
@@ -418,14 +418,14 @@
       "name": "proj-dmarc",
       "is_private": false,
       "topic": "",
-      "num_members": 2
+      "num_members": 1
     },
     {
       "id": "C2ENAFL5V",
       "name": "proj-documentation",
       "is_private": false,
       "topic": "",
-      "num_members": 3
+      "num_members": 2
     },
     {
       "id": "CHPLSDFNG",
@@ -439,7 +439,7 @@
       "name": "proj-entra-mitigation",
       "is_private": false,
       "topic": "",
-      "num_members": 5
+      "num_members": 4
     },
     {
       "id": "C011J6ASTPE",
@@ -474,14 +474,14 @@
       "name": "proj-new-duo-features",
       "is_private": false,
       "topic": "",
-      "num_members": 5
+      "num_members": 4
     },
     {
       "id": "C06A18VRFP0",
       "name": "proj-oracle",
       "is_private": false,
       "topic": "",
-      "num_members": 14
+      "num_members": 13
     },
     {
       "id": "C0B6N3LPH5M",
@@ -509,7 +509,7 @@
       "name": "proj-rapid-identity-cloud",
       "is_private": false,
       "topic": "",
-      "num_members": 5
+      "num_members": 4
     },
     {
       "id": "C01S7P31U2H",
@@ -537,7 +537,7 @@
       "name": "proj-stormprep",
       "is_private": false,
       "topic": "",
-      "num_members": 2
+      "num_members": 1
     },
     {
       "id": "CMUKGD4TU",
@@ -565,7 +565,7 @@
       "name": "quick-wins",
       "is_private": false,
       "topic": "",
-      "num_members": 5
+      "num_members": 4
     },
     {
       "id": "C01JRFQ8YVB",
@@ -579,7 +579,7 @@
       "name": "random",
       "is_private": false,
       "topic": "\r\n",
-      "num_members": 84
+      "num_members": 83
     },
     {
       "id": "C35AAKFNU",
@@ -607,7 +607,7 @@
       "name": "security",
       "is_private": false,
       "topic": "",
-      "num_members": 32
+      "num_members": 31
     },
     {
       "id": "C0769Q158AC",
@@ -705,14 +705,14 @@
       "name": "team-admin-services",
       "is_private": false,
       "topic": "",
-      "num_members": 20
+      "num_members": 19
     },
     {
       "id": "C034RJXRM50",
       "name": "team-cab",
       "is_private": false,
       "topic": "",
-      "num_members": 22
+      "num_members": 21
     },
     {
       "id": "C0284T6CGDA",
@@ -726,14 +726,14 @@
       "name": "team-data-management",
       "is_private": false,
       "topic": "",
-      "num_members": 23
+      "num_members": 22
     },
     {
       "id": "C022KM282HK",
       "name": "team-digital-campus",
       "is_private": false,
       "topic": "",
-      "num_members": 31
+      "num_members": 30
     },
     {
       "id": "C7JP91KEX",
@@ -761,14 +761,14 @@
       "name": "team-id",
       "is_private": false,
       "topic": "",
-      "num_members": 5
+      "num_members": 4
     },
     {
       "id": "C2C29H481",
       "name": "team-infrastructure",
       "is_private": false,
       "topic": "",
-      "num_members": 36
+      "num_members": 35
     },
     {
       "id": "C03SHVDPLJX",
@@ -796,7 +796,7 @@
       "name": "team-support-center",
       "is_private": false,
       "topic": "",
-      "num_members": 64
+      "num_members": 63
     },
     {
       "id": "C685C8F6K",
@@ -838,7 +838,7 @@
       "name": "temp-duo-desktop",
       "is_private": false,
       "topic": "",
-      "num_members": 13
+      "num_members": 12
     },
     {
       "id": "C0A2V1GMGKZ",
@@ -974,6 +974,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-08-02T19:29:06.663203+00:00",
+  "last_updated": "2026-08-02T19:59:08.836868+00:00",
   "fetch_status": "success"
 }
