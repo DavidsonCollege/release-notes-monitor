@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "ccacb4556b2abccf",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Visual screenshots now included in Google Meet meeting notes",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/visual-screenshots-now-included-in-Google-Meet-meeting-notes.html",
+    "summary": "We’re improving the ‘Take notes for me’ feature in Google Meet by giving you the ability to automatically capture and include screenshots of presented content directly in the meeting notes document.While meeting transcripts capture what is said, they often miss critical visual context, like content...",
+    "date": "2026-08-03T18:24:18+00:00"
+  },
+  {
     "id": "0ce49c6223ed8a15",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/use-gemini-in-google-forms-to-quickly-create-a-new-quiz.html",
     "summary": "Help me create in Google Forms now supports generating quizzes.With this launch, you can quickly create a quiz by writing a specific prompt for Help me create describing the quiz you want to create. Your prompt can reference Google Drive files like Docs, Slides or PDFs to use as sources for the...",
     "date": "2026-07-30T15:42:17+00:00"
-  },
-  {
-    "id": "939193096b1d3cc1",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create and import scatter charts with multiple x-series in Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/create-and-import-scatter-charts-with-multiple-x-series-in-Google-Sheets.html",
-    "summary": "Google Sheets now supports creating and editing scatter charts with multiple independent x-series. This update allows users to map separate data series to their own unique x-axis, rather than forcing all series in a single chart to share the same horizontal axis domain.Additionally, this feature...",
-    "date": "2026-07-29T17:55:47+00:00"
   },
   {
     "id": "c9bb76e62d80a2cd",
@@ -750,6 +750,16 @@
     "date": "2026-07-20T00:00:00+00:00"
   },
   {
+    "id": "939193096b1d3cc1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create and import scatter charts with multiple x-series in Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/create-and-import-scatter-charts-with-multiple-x-series-in-Google-Sheets.html",
+    "summary": "Google Sheets now supports creating and editing scatter charts with multiple independent x-series. This update allows users to map separate data series to their own unique x-axis, rather than forcing all series in a single chart to share the same horizontal axis domain.Additionally, this feature...",
+    "date": "2026-07-29T17:55:47+00:00"
+  },
+  {
     "id": "8d6d0acce93d061a",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-17-2026.html",
     "summary": "Google Credential Provider for Windows (GCPW) now supports FIDO2-compliant physical security keys as a second factor for authenticationGoogle Credential Provider for Windows (GCPW) has been updated to support FIDO2-compliant physical security keys as a second factor for authentication. This update...",
     "date": "2026-07-17T19:38:37+00:00"
-  },
-  {
-    "id": "59bd1cb655ab048e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New Google Meet 'Take notes for me' settings for admins and end users",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html",
-    "summary": "To help users remember to capture notes for meetings when it’s most valuable, we’re updating the admin and end user settings that let them pre-configure AI note-taking for Google Meet.Admin settingsPreviously, admins could only enable or disable automatic note-taking for all meetings. Today, we’re...",
-    "date": "2026-07-16T20:07:25+00:00"
   }
 ]
