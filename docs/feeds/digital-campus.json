@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "0ce49c6223ed8a15",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Provide more clear, contextual feedback with timestamped comments in Google Drive videos",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/provide-more-clear-contextual-feedback-with-timestamped-comments-in-Google-Drive-videos.html",
+    "summary": "We are introducing timestamped comments for videos in Google Drive on the web. Users can now anchor comments to a specific time mark in a video, making video collaboration more direct, precise, and contextual.When reviewing a video file, users can choose between adding a timestamped comment or a...",
+    "date": "2026-08-03T16:37:24+00:00"
+  },
+  {
     "id": "09941197092bd79d",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/create-and-import-scatter-charts-with-multiple-x-series-in-Google-Sheets.html",
     "summary": "Google Sheets now supports creating and editing scatter charts with multiple independent x-series. This update allows users to map separate data series to their own unique x-axis, rather than forcing all series in a single chart to share the same horizontal axis domain.Additionally, this feature...",
     "date": "2026-07-29T17:55:47+00:00"
-  },
-  {
-    "id": "8d6d0acce93d061a",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Updated options to better view Google Calendar on large monitors",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/updated-options-to-better-view-google-Calendar-on-large-monitors.html",
-    "summary": "To provide users with more control over their viewing experience, we’re updating information density options for the calendar grid. These updates allow users to customize how calendar events scale on their screens to accommodate various monitor sizes and personal preferences.The available...",
-    "date": "2026-07-29T16:03:47+00:00"
   },
   {
     "id": "c9bb76e62d80a2cd",
@@ -750,6 +750,16 @@
     "date": "2026-07-20T00:00:00+00:00"
   },
   {
+    "id": "8d6d0acce93d061a",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Updated options to better view Google Calendar on large monitors",
+    "link": "http://workspaceupdates.googleblog.com/2026/07/updated-options-to-better-view-google-Calendar-on-large-monitors.html",
+    "summary": "To provide users with more control over their viewing experience, we’re updating information density options for the calendar grid. These updates allow users to customize how calendar events scale on their screens to accommodate various monitor sizes and personal preferences.The available...",
+    "date": "2026-07-29T16:03:47+00:00"
+  },
+  {
     "id": "36e33e3cbc81b1f2",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html",
     "summary": "To help users remember to capture notes for meetings when it’s most valuable, we’re updating the admin and end user settings that let them pre-configure AI note-taking for Google Meet.Admin settingsPreviously, admins could only enable or disable automatic note-taking for all meetings. Today, we’re...",
     "date": "2026-07-16T20:07:25+00:00"
-  },
-  {
-    "id": "d87704e70751f6af",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 12 June 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/06/12/announcing-new-builds-for-12-june-2026/",
-    "summary": "Hello Windows Insiders, We have a number of releases today with new builds across Beta, Experimental and Release Preview. Release notes for inbox Windows 11 apps Windows 11 inbox apps are now getting their own release notes sectio The post Announcing new builds for 12 June 2026 appeared first on...",
-    "date": "2026-06-12T17:05:12+00:00"
   }
 ]
