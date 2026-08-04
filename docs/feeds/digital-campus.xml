@@ -5,63 +5,91 @@
     <description>Technology products managed by the Digital Campus team</description>
     <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 01:40:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 03:11:17 +0000</lastBuildDate>
     <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/digital-campus.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>ScreenCloud - 4.9.0</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New: Amazon Signage Stick (ASS) dedicated player. Previously ran Amazon Fire OS player on ASS device.&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">e1dab31261398830</guid>
-      <pubDate>Tue, 04 Aug 2026 01:40:53 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 03:11:17 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.7.16</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">25cbe092cc1d040f</guid>
-      <pubDate>Tue, 04 Aug 2026 01:40:53 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 03:11:17 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password CLI</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">92aca7ce8a209770</guid>
-      <pubDate>Tue, 04 Aug 2026 01:40:53 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 03:11:17 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password for Android Beta</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">68bf4e06214d3b4d</guid>
-      <pubDate>Tue, 04 Aug 2026 01:40:53 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 03:11:17 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password CLI Beta</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">85fa3f89a4f80853</guid>
-      <pubDate>Tue, 04 Aug 2026 01:40:53 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 03:11:17 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Upload files directly into agent chat</title>
       <link>https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading... Loading...&lt;/p&gt;&lt;a href=&quot;https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">56662ae9cde59545</guid>
-      <pubDate>Tue, 04 Aug 2026 01:40:53 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 03:11:17 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Upload files directly into agent chat</title>
       <link>https://scribe.launchnotes.io/announcements/upload-files-directly-into-agent-chat</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading...&lt;/p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/upload-files-directly-into-agent-chat&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">4f8196415fcff456</guid>
-      <pubDate>Tue, 04 Aug 2026 01:40:53 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 03:11:17 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.11.2</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New: Support for Amazon’s Remote Device Management (RDM) for Signage Sticks, including:Screen/TV mute and unmute via HDMI-CECScreen/TV power on and off via HDMI-CECDevice rebootScreenshot and full-screen captureDeep cache clearing (player app and Android system cache)Player app restartCPU and GPU...&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">06a1b6a05e1c3232</guid>
-      <pubDate>Tue, 04 Aug 2026 01:40:53 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 03:11:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scribe - Switch between light, dark, or system modes</title>
+      <link>https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading... Loading...&lt;/p&gt;&lt;a href=&quot;https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">af26bc4fe3038d63</guid>
+      <pubDate>Tue, 04 Aug 2026 03:11:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scribe - Switch between light, dark, or system modes</title>
+      <link>https://scribe.launchnotes.io/announcements/switch-between-light-dark-or-system-modes</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading...&lt;/p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/switch-between-light-dark-or-system-modes&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">15438128a86c35f6</guid>
+      <pubDate>Tue, 04 Aug 2026 03:11:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scribe - Switch between light, dark, or system modes</title>
+      <link>https://scribe.launchnotes.io/</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;a href=&quot;https://scribe.launchnotes.io/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">d53257aa9dabd30c</guid>
+      <pubDate>Tue, 04 Aug 2026 03:11:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scribe - All Plans</title>
+      <link>https://scribe.launchnotes.io/</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;a href=&quot;https://scribe.launchnotes.io/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">86dfa57862128416</guid>
+      <pubDate>Tue, 04 Aug 2026 03:11:10 +0000</pubDate>
     </item>
     <item>
       <title>Google Workspace - Visual screenshots now included in Google Meet meeting notes</title>
@@ -309,13 +337,6 @@
       <pubDate>Mon, 20 Jul 2026 20:05:58 +0000</pubDate>
     </item>
     <item>
-      <title>macOS - macOS 27.0 beta 4 (26A5388g)</title>
-      <link>https://developer.apple.com/news/releases/?id=07202026i</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=apple.com&amp;sz=64&quot; alt=&quot;macOS&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;macOS&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;View downloadsView release notes&lt;/p&gt;&lt;a href=&quot;https://developer.apple.com/news/releases/?id=07202026i&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">bb53f7ae5c6d0991</guid>
-      <pubDate>Mon, 20 Jul 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Korbyt - Korbyt Room Panel Release Notes V4</title>
       <link>https://product.korbyt.com/changelog/korbyt-room-panel-release-notes-v4</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=gokorbyt.com&amp;sz=64&quot; alt=&quot;Korbyt&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Korbyt&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;## **What's New?** This update represents a significant step forward in the reliability, longevity, and user experience of the Korbyt Room Panel App, while preserving all the functionality you are familiar with from the previous version. **Rebuilt on a Modern, Supported Platform** The application...&lt;/p&gt;&lt;a href=&quot;https://product.korbyt.com/changelog/korbyt-room-panel-release-notes-v4&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
@@ -341,13 +362,6 @@
       <link>https://developers.zoom.us/changelog/cobrowse-sdk/web/3.7.0</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: sdk-version | Improved annotation input and scrolling behavior, and fixed Web Worker message timing issues.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/cobrowse-sdk/web/3.7.0&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">170795da4c8c16d6</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zoom - Version 5.7.0</title>
-      <link>https://developers.zoom.us/changelog/contact-center/android/5.7.0</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: sdk-version | Added support for additional Android SDK localizations.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/contact-center/android/5.7.0&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">3959cd554d48c6b0</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -517,20 +531,6 @@
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=clickup.com&amp;sz=64&quot; alt=&quot;ClickUp&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ClickUp&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;The best AI is Brain². Guaranteed.Brain² is your company AI that self-improves, routes to the best models, and actually completes your work - creating websites, building slides, and managing projects. It's multiplayer AI where human intelligence becomes your collective Brain.Your context. Already...&lt;/p&gt;&lt;a href=&quot;https://feedback.clickup.com/changelog/the-best-ai-isyourai-brain-is-here&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">7c65b617cc4dc32b</guid>
       <pubDate>Tue, 23 Jun 2026 17:47:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ad Astra - June 19, 2026</title>
-      <link>https://help.adastra.live/hc/en-us/articles/50544807118612-June-19-2026</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=aais.com&amp;sz=64&quot; alt=&quot;Ad Astra&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Ad Astra&lt;/strong&gt;&lt;/div&gt;&lt;a href=&quot;https://help.adastra.live/hc/en-us/articles/50544807118612-June-19-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">4594bc8e55c8980e</guid>
-      <pubDate>Mon, 22 Jun 2026 14:51:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Windows - Announcing new builds for 19 June 2026, version 26H2 for Experimental</title>
-      <link>https://blogs.windows.com/windows-insider/2026/06/19/announcing-new-builds-for-19-june-2026-26h2-for-experimental/</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Windows&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Hello Windows Insiders, We have new releases today with builds across Beta and Experimental, including Windows 11, version 26H2 for Experimental. Windows 11, version 26H2 Windows 11, version 26H2 represents our yearly second half The post Announcing new builds for 19 June 2026, version 26H2 for...&lt;/p&gt;&lt;a href=&quot;https://blogs.windows.com/windows-insider/2026/06/19/announcing-new-builds-for-19-june-2026-26h2-for-experimental/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">1b2833bee3fe4aeb</guid>
-      <pubDate>Fri, 19 Jun 2026 17:07:42 +0000</pubDate>
     </item>
     <item>
       <title>Canva - The Create design autofill job API now accepts a type field to support future functionality for different autofill sources. The first supported value</title>

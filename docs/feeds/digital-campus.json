@@ -510,44 +510,44 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "56662ae9cde59545",
+    "id": "af26bc4fe3038d63",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Upload files directly into agent chat",
+    "title": "Switch between light, dark, or system modes",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "July 20, 2026"
+    "date": "August 4, 2026"
   },
   {
-    "id": "4f8196415fcff456",
+    "id": "15438128a86c35f6",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Upload files directly into agent chat",
-    "link": "https://scribe.launchnotes.io/announcements/upload-files-directly-into-agent-chat",
+    "title": "Switch between light, dark, or system modes",
+    "link": "https://scribe.launchnotes.io/announcements/switch-between-light-dark-or-system-modes",
     "summary": "Loading...",
-    "date": "July 20, 2026"
+    "date": "August 4, 2026"
   },
   {
-    "id": "452ba901a01755b1",
+    "id": "86dfa57862128416",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Optimize",
+    "title": "All Plans",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-07-20T20:05:58.498695+00:00"
+    "date": "2026-08-04T03:11:10.096326+00:00"
   },
   {
-    "id": "168ae9765d999795",
+    "id": "d53257aa9dabd30c",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Upload files directly into agent chat",
+    "title": "Switch between light, dark, or system modes",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-07-20T20:05:58.498711+00:00"
+    "date": "2026-08-04T03:11:10.096346+00:00"
   },
   {
     "id": "101d2e934d2d87aa",
@@ -748,6 +748,46 @@
     "link": "https://developers.zoom.us/changelog/probe-sdk/javascript/1.0.49",
     "summary": "Tags: bug-fix, sdk-version | Fixes an `ice-ufrag` issue in SDP offers when using WASM DataChannel, ensuring proper connection negotiation. Patches the Minami template so the JSDoc index navigation consistently displays ProbeSDK.",
     "date": "2026-08-03T00:00:00+00:00"
+  },
+  {
+    "id": "56662ae9cde59545",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Upload files directly into agent chat",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "July 20, 2026"
+  },
+  {
+    "id": "4f8196415fcff456",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Upload files directly into agent chat",
+    "link": "https://scribe.launchnotes.io/announcements/upload-files-directly-into-agent-chat",
+    "summary": "Loading...",
+    "date": "July 20, 2026"
+  },
+  {
+    "id": "452ba901a01755b1",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Optimize",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-07-20T20:05:58.498695+00:00"
+  },
+  {
+    "id": "168ae9765d999795",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Upload files directly into agent chat",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-07-20T20:05:58.498711+00:00"
   },
   {
     "id": "61a42e83c8f287cc",
@@ -958,45 +998,5 @@
     "link": "https://www.papercut.com/products/mf/release-history/25-0/",
     "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
     "date": "2026-02-10T00:00:00+00:00"
-  },
-  {
-    "id": "1b2833bee3fe4aeb",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 19 June 2026, version 26H2 for Experimental",
-    "link": "https://blogs.windows.com/windows-insider/2026/06/19/announcing-new-builds-for-19-june-2026-26h2-for-experimental/",
-    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental, including Windows 11, version 26H2 for Experimental. Windows 11, version 26H2 Windows 11, version 26H2 represents our yearly second half The post Announcing new builds for 19 June 2026, version 26H2 for...",
-    "date": "2026-06-19T17:07:42+00:00"
-  },
-  {
-    "id": "3959cd554d48c6b0",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 5.7.0",
-    "link": "https://developers.zoom.us/changelog/contact-center/android/5.7.0",
-    "summary": "Tags: sdk-version | Added support for additional Android SDK localizations.",
-    "date": "2026-07-20T00:00:00+00:00"
-  },
-  {
-    "id": "bb53f7ae5c6d0991",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 beta 4 (26A5388g)",
-    "link": "https://developer.apple.com/news/releases/?id=07202026i",
-    "summary": "View downloadsView release notes",
-    "date": "2026-07-20T17:00:00+00:00"
-  },
-  {
-    "id": "4594bc8e55c8980e",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "June 19, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/50544807118612-June-19-2026",
-    "summary": "",
-    "date": "2026-06-22T14:51:26Z"
   }
 ]
