@@ -1,5 +1,55 @@
 [
   {
+    "id": "b5daa670da00fd8f",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "ChatGPT Enterprise and Education",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-08-04T18:12:27.125396+00:00"
+  },
+  {
+    "id": "380f24cbcd4027ba",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "more than 10k characters",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-08-04T18:12:27.125417+00:00"
+  },
+  {
+    "id": "db1cd1bebd1c44e1",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Show in text field",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "This is already available to users on all other plans.",
+    "date": "2026-08-04T18:12:27.125425+00:00"
+  },
+  {
+    "id": "f9e1d8adaa601929",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "ChatGPT Free and Go",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "",
+    "date": "2026-06-22T22:15:57.405414+00:00"
+  },
+  {
+    "id": "032d49c8d222abf2",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "What’s changing",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "A new Scheduled page, discoverable in the sidebar, gives users one place to view active tasks, see when they’ll run next, and pause, resume, edit, or delete them.All tasks are faster and more reliable.Users can schedule work for specific times or broader windows, such as morning, afternoon, or...",
+    "date": "2026-06-17T17:10:11.527358+00:00"
+  },
+  {
     "id": "5cd35abac9141645",
     "product_id": "claude",
     "product_name": "Claude",
@@ -98,26 +148,6 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
     "date": "2026-07-21T15:38:39.082080+00:00"
-  },
-  {
-    "id": "f9e1d8adaa601929",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "ChatGPT Free and Go",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "",
-    "date": "2026-06-22T22:15:57.405414+00:00"
-  },
-  {
-    "id": "032d49c8d222abf2",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "What’s changing",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "A new Scheduled page, discoverable in the sidebar, gives users one place to view active tasks, see when they’ll run next, and pause, resume, edit, or delete them.All tasks are faster and more reliable.Users can schedule work for specific times or broader windows, such as morning, afternoon, or...",
-    "date": "2026-06-17T17:10:11.527358+00:00"
   },
   {
     "id": "eff3d1fbae5608f4",
@@ -968,35 +998,5 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-02-17T00:00:00+00:00"
-  },
-  {
-    "id": "b8adcf33c8058b13",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "This update to GPT-5 Instant is starting to roll out to ChatGPT users today.",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "",
-    "date": "2026-03-05T18:33:35.772914+00:00"
-  },
-  {
-    "id": "4924c891e0f4663d",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "adjust course mid-response",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "",
-    "date": "2026-03-06T17:54:24.022263+00:00"
-  },
-  {
-    "id": "5ed604297fb3769b",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "March 2026",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "Memory for free users Memory from chat history is now available for all Claude users, including free users. For more information, refer to the following articles: Use Claude’s chat search and memory to build on previous context",
-    "date": "2026-03-04T12:12:10.553380+00:00"
   }
 ]
