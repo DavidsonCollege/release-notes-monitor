@@ -705,7 +705,7 @@
       "name": "team-add-drop-support",
       "is_private": false,
       "topic": "",
-      "num_members": 10
+      "num_members": 11
     },
     {
       "id": "C022KM662R3",
@@ -981,6 +981,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-08-04T10:23:55.454773+00:00",
+  "last_updated": "2026-08-04T11:19:09.770195+00:00",
   "fetch_status": "success"
 }
