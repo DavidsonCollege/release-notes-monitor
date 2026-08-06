@@ -310,6 +310,16 @@
     "date": "2026-05-21T08:24:45+00:00"
   },
   {
+    "id": "6cd2e2288680a37c",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Certification and Inline Reviewer Enhancements",
+    "link": "https://announcekit.app/kuali/announcements/new-certification-and-inline-reviewer-enhancements-FMl6E",
+    "summary": "We've made several enhancements that make it easier to collect certifications and review information from the right people during workflow—e...",
+    "date": "2026-08-06T21:00:00+00:00"
+  },
+  {
     "id": "17756a50ee75b5f6",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-resubmit-withdrawn-documents-3UGLyU",
     "summary": "You can now edit and resubmit withdrawn documents without starting over. Previously, withdrawing a document was a permanent action. If you n...",
     "date": "2026-06-25T14:05:00+00:00"
-  },
-  {
-    "id": "4105f44d04a657cd",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Scheduled Secondary Workflows",
-    "link": "https://announcekit.app/kuali/announcements/new-scheduled-secondary-workflows-1uOySQ",
-    "summary": "You can now automate workflow actions based on dates, helping you send reminders, trigger integrations, and manage time-sensitive processes ...",
-    "date": "2026-06-24T20:45:00+00:00"
   },
   {
     "id": "608861e163b9edca",
@@ -750,6 +750,16 @@
     "date": "2026-08-03T00:00:00+00:00"
   },
   {
+    "id": "4105f44d04a657cd",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Scheduled Secondary Workflows",
+    "link": "https://announcekit.app/kuali/announcements/new-scheduled-secondary-workflows-1uOySQ",
+    "summary": "You can now automate workflow actions based on dates, helping you send reminders, trigger integrations, and manage time-sensitive processes ...",
+    "date": "2026-06-24T20:45:00+00:00"
+  },
+  {
     "id": "1e6a9616d3fc317a",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "July 28 2026"
-  },
-  {
-    "id": "a473230ba6d88982",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Meet now organizes your meeting notes, transcripts, and recordings in your Google Drive",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/google-meet-now-organizes-your-meeting-notes-transcripts-and-recordings-in-your-Google-Drive.html",
-    "summary": "We’re making it easier for users to find meeting notes, transcripts and recordings in Google Drive with the following improvements:After a meeting, we’ll automatically upload these files to a new folder in the host’s My Drive called “Google Meet.”Within that “Google Meet” folder, these files will...",
-    "date": "2026-07-22T16:48:25+00:00"
   }
 ]
