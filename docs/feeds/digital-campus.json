@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "123c10f78f16293c",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "August 7, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/52248332257300-August-7-2026",
+    "summary": "",
+    "date": "2026-08-07T19:13:03Z"
+  },
+  {
     "id": "ac260aa0b2ca5716",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/51219943503508-July-10-2026",
     "summary": "",
     "date": "2026-07-10T23:19:09Z"
-  },
-  {
-    "id": "37140ed16db6e666",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "July 3, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/51063277240596-July-3-2026",
-    "summary": "",
-    "date": "2026-07-09T15:42:53Z"
   },
   {
     "id": "d8be261279577d9c",
@@ -750,6 +750,16 @@
     "date": "2026-08-03T00:00:00+00:00"
   },
   {
+    "id": "37140ed16db6e666",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "July 3, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/51063277240596-July-3-2026",
+    "summary": "",
+    "date": "2026-07-09T15:42:53Z"
+  },
+  {
     "id": "09941197092bd79d",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.7.0",
     "summary": "Tags: sdk-version | Improved annotation input and scrolling behavior, and fixed Web Worker message timing issues.",
     "date": "2026-07-20T00:00:00+00:00"
-  },
-  {
-    "id": "09f997080d6a3717",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Agent context has landed",
-    "link": "https://docs.slack.dev/changelog/2026/07/02/app-context",
-    "summary": "Agent apps can now receive context about what a user is currently viewing when they send a message. When a user has a channel, DM, thread, canvas, or list open and messages your app, Slack will pass that context automatically.",
-    "date": "2026-07-02T00:00:00+00:00"
   }
 ]
