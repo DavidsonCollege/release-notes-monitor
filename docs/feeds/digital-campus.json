@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "3cfc04f07e24ced6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - August 7, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/weekly-recap-08-07-2026.html",
+    "summary": "Provide more clear, contextual feedback with timestamped comments in Google Drive videosWe are introducing timestamped comments for videos in Google Drive on the web. Users can now anchor comments to a specific time mark in a video, making video collaboration more direct, precise, and contextual. |...",
+    "date": "2026-08-07T19:12:19+00:00"
+  },
+  {
     "id": "cfc648175cdf6d8c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/visual-screenshots-now-included-in-Google-Meet-meeting-notes.html",
     "summary": "We’re improving the ‘Take notes for me’ feature in Google Meet by giving you the ability to automatically capture and include screenshots of presented content directly in the meeting notes document.While meeting transcripts capture what is said, they often miss critical visual context, like content...",
     "date": "2026-08-03T18:24:18+00:00"
-  },
-  {
-    "id": "0ce49c6223ed8a15",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Provide more clear, contextual feedback with timestamped comments in Google Drive videos",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/provide-more-clear-contextual-feedback-with-timestamped-comments-in-Google-Drive-videos.html",
-    "summary": "We are introducing timestamped comments for videos in Google Drive on the web. Users can now anchor comments to a specific time mark in a video, making video collaboration more direct, precise, and contextual.When reviewing a video file, users can choose between adding a timestamped comment or a...",
-    "date": "2026-08-03T16:37:24+00:00"
   },
   {
     "id": "c7394205bc3ad5a3",
@@ -750,6 +750,16 @@
     "date": "2026-08-03T00:00:00+00:00"
   },
   {
+    "id": "0ce49c6223ed8a15",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Provide more clear, contextual feedback with timestamped comments in Google Drive videos",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/provide-more-clear-contextual-feedback-with-timestamped-comments-in-Google-Drive-videos.html",
+    "summary": "We are introducing timestamped comments for videos in Google Drive on the web. Users can now anchor comments to a specific time mark in a video, making video collaboration more direct, precise, and contextual.When reviewing a video file, users can choose between adding a timestamped comment or a...",
+    "date": "2026-08-03T16:37:24+00:00"
+  },
+  {
     "id": "37140ed16db6e666",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -988,15 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "July 29 2026"
-  },
-  {
-    "id": "170795da4c8c16d6",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.7.0",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.7.0",
-    "summary": "Tags: sdk-version | Improved annotation input and scrolling behavior, and fixed Web Worker message timing issues.",
-    "date": "2026-07-20T00:00:00+00:00"
   }
 ]
