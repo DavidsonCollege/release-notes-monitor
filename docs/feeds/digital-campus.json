@@ -270,26 +270,6 @@
     "date": "2026-07-31T19:25:01+00:00"
   },
   {
-    "id": "c9bb76e62d80a2cd",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Room Panel Release Notes V4",
-    "link": "https://product.korbyt.com/changelog/korbyt-room-panel-release-notes-v4",
-    "summary": "## **What's New?** This update represents a significant step forward in the reliability, longevity, and user experience of the Korbyt Room Panel App, while preserving all the functionality you are familiar with from the previous version. **Rebuilt on a Modern, Supported Platform** The application...",
-    "date": "2026-07-20T16:36:00+00:00"
-  },
-  {
-    "id": "5d6603691487673f",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Booking Release Notes V9.9",
-    "link": "https://product.korbyt.com/changelog/korbyt-booking-release-notes-v99",
-    "summary": "# **What's New?** ## **New Booking Diary** The New Booking Diary is a redesigned calendar view. It presents all bookable resources across multiple floors, buildings, and locations in a single scrollable screen, with a fixed time header that stays visible as you scroll, faster booking actions that...",
-    "date": "2026-07-14T16:14:27+00:00"
-  },
-  {
     "id": "c7394205bc3ad5a3",
     "product_id": "korbyt",
     "product_name": "Korbyt",
@@ -308,6 +288,26 @@
     "link": "https://product.korbyt.com/changelog/korbyt-mobile-release-notes-v245",
     "summary": "# **What's New?** ## **New 'Allow Book for Someone Else' Setting for the Mobile App** A new **Allow Book for Someone Else** setting has been added under **Global Settings → Mobile**, letting administrators control whether the Book-for-Someone-Else option is visible to users in the Mobile App. The...",
     "date": "2026-05-21T08:24:45+00:00"
+  },
+  {
+    "id": "ea9639fd7d61eb96",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Booking Release Notes V9.8.1",
+    "link": "https://product.korbyt.com/changelog/korbyt-booking-release-notes-v981",
+    "summary": "# **What’s New?** ## **Bulk Resource Add-on Configuration** Admins can now apply add-ons to multiple resources in a single action instead of repeating the same configuration for each resource. The Resource Add-on Configuration screen has two new multi-select fields, Floor and Resource Type, that...",
+    "date": "2026-05-19T16:34:37+00:00"
+  },
+  {
+    "id": "83a6e193535a1b0a",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Weekly Recap & Playlist Interrupt Release - 05.15.2026",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-and-playlist-interrupt-release-05152026",
+    "summary": "**Playlist Priority Scheduling: Interrupt and Override \\| Take full control of what plays and when** When something urgent needs to go on screen immediately, you shouldn't have to fight your own playlist to get it there. Playlist Priority Scheduling lets you assign priority levels across your...",
+    "date": "2026-05-15T20:58:42+00:00"
   },
   {
     "id": "6cd2e2288680a37c",
@@ -750,6 +750,26 @@
     "date": "2026-08-03T00:00:00+00:00"
   },
   {
+    "id": "c9bb76e62d80a2cd",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Room Panel Release Notes V4",
+    "link": "https://product.korbyt.com/changelog/korbyt-room-panel-release-notes-v4",
+    "summary": "## **What's New?** This update represents a significant step forward in the reliability, longevity, and user experience of the Korbyt Room Panel App, while preserving all the functionality you are familiar with from the previous version. **Rebuilt on a Modern, Supported Platform** The application...",
+    "date": "2026-07-20T16:36:00+00:00"
+  },
+  {
+    "id": "5d6603691487673f",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Booking Release Notes V9.9",
+    "link": "https://product.korbyt.com/changelog/korbyt-booking-release-notes-v99",
+    "summary": "# **What's New?** ## **New Booking Diary** The New Booking Diary is a redesigned calendar view. It presents all bookable resources across multiple floors, buildings, and locations in a single scrollable screen, with a fixed time header that stays visible as you scroll, faster booking actions that...",
+    "date": "2026-07-14T16:14:27+00:00"
+  },
+  {
     "id": "4105f44d04a657cd",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-24-2026.html",
     "summary": "Import and create combo charts in Google SheetsGoogle Sheets now offers enhanced support for combo charts, providing a more seamless experience when creating multi-series visualizations. | Learn more.A centralized hub for meeting resources on the new Google Meet homepageFinding the right notes or...",
     "date": "2026-07-24T19:18:52+00:00"
-  },
-  {
-    "id": "d2ebf874deb32a48",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "View supporting calendar delegates in meeting guest list",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/view-supporting-calendar-delegates-in-meeting-guest-list.html",
-    "summary": "When viewing a guest list in Google Calendar on the web, you will now see a new icon next to leaders who have a calendar delegate assisting them with scheduling support. Hovering over the icon will display the person’s information, allowing you to easily initiate a chat with them directly.This...",
-    "date": "2026-07-23T15:47:12+00:00"
-  },
-  {
-    "id": "85fa3f89a4f80853",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "July 28 2026"
   }
 ]
