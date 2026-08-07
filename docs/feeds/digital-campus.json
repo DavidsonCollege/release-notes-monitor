@@ -310,6 +310,16 @@
     "date": "2026-05-15T20:58:42+00:00"
   },
   {
+    "id": "ac02e87cb840f719",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Academic Ops - Duplicate Term Validation",
+    "link": "https://announcekit.app/kuali/announcements/new-academic-ops---duplicate-term-validation-13CE24",
+    "summary": "You can now prevent curriculum records from being saved with overlapping effective Terms. When you create a new version of an existing curri...",
+    "date": "2026-08-07T15:00:00+00:00"
+  },
+  {
     "id": "6cd2e2288680a37c",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -348,16 +358,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-version-types-and-limit-editability-3Tyn2E",
     "summary": "You can now configure Version Types and Limit Editability to control how users interact with forms based on the type of version they're work...",
     "date": "2026-06-29T16:00:00+00:00"
-  },
-  {
-    "id": "de946158c73d1d2a",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Resubmit Withdrawn Documents",
-    "link": "https://announcekit.app/kuali/announcements/new-resubmit-withdrawn-documents-3UGLyU",
-    "summary": "You can now edit and resubmit withdrawn documents without starting over. Previously, withdrawing a document was a permanent action. If you n...",
-    "date": "2026-06-25T14:05:00+00:00"
   },
   {
     "id": "608861e163b9edca",
@@ -750,6 +750,16 @@
     "date": "2026-08-03T00:00:00+00:00"
   },
   {
+    "id": "de946158c73d1d2a",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Resubmit Withdrawn Documents",
+    "link": "https://announcekit.app/kuali/announcements/new-resubmit-withdrawn-documents-3UGLyU",
+    "summary": "You can now edit and resubmit withdrawn documents without starting over. Previously, withdrawing a document was a permanent action. If you n...",
+    "date": "2026-06-25T14:05:00+00:00"
+  },
+  {
     "id": "c9bb76e62d80a2cd",
     "product_id": "korbyt",
     "product_name": "Korbyt",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/visual-screenshots-in-google-meet-meeting-notes-will-soon-be-generally-available-pre-configure-admin-settings-in-advance.html",
     "summary": "In the coming weeks, we’re starting the rollout of visual screenshots for the ‘Take notes for me’ feature in Google Meet. Visual screenshots automatically capture presented content (such as slides, diagrams, and charts) directly into the generated meeting notes document, ensuring critical visual...",
     "date": "2026-07-27T14:55:37+00:00"
-  },
-  {
-    "id": "13ac79e9c6535a0d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - July 24, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-24-2026.html",
-    "summary": "Import and create combo charts in Google SheetsGoogle Sheets now offers enhanced support for combo charts, providing a more seamless experience when creating multi-series visualizations. | Learn more.A centralized hub for meeting resources on the new Google Meet homepageFinding the right notes or...",
-    "date": "2026-07-24T19:18:52+00:00"
   }
 ]
