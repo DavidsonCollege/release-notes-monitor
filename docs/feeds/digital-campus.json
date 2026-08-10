@@ -360,14 +360,24 @@
     "date": "2026-06-29T16:00:00+00:00"
   },
   {
-    "id": "608861e163b9edca",
+    "id": "11f7e96874d4c2ef",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.6 (25G72)",
-    "link": "https://developer.apple.com/news/releases/?id=07272026c",
+    "title": "macOS 27.0 beta 5 (26A5406e)",
+    "link": "https://developer.apple.com/news/releases/?id=08102026h",
     "summary": "View downloadsView release notes",
-    "date": "2026-07-27T17:00:00+00:00"
+    "date": "2026-08-10T17:00:00+00:00"
+  },
+  {
+    "id": "a8ca42b519426979",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.6.2 (25G82)",
+    "link": "https://developer.apple.com/news/releases/?id=08102026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-08-10T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -750,6 +760,16 @@
     "date": "2026-08-03T00:00:00+00:00"
   },
   {
+    "id": "608861e163b9edca",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.6 (25G72)",
+    "link": "https://developer.apple.com/news/releases/?id=07272026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-07-27T17:00:00+00:00"
+  },
+  {
     "id": "0ce49c6223ed8a15",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "https://docs.slack.dev/changelog/2026/07/13/notification-changes",
     "summary": "Slack desktop client notifications now pull text from blocks first, falling back to the top-level text field only if no text can be extracted from blocks. Mobile notifications continue to exclusively use message.text.",
     "date": "2026-07-13T00:00:00+00:00"
-  },
-  {
-    "id": "8c5c92f704a7cbe8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Streamline collaboration in Google Docs with Gemini-powered comment workflows",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/streamline-collaboration-in-google-docs-with-Gemini-powered-comment-workflows.html",
-    "summary": "We’re introducing Gemini-powered comment workflows in Google Docs to help you quickly understand and respond to collaborator feedback. These new features enable Gemini to read, summarize, and act on comments throughout your document, saving you time and streamlining collaboration.Synthesize and Q&A...",
-    "date": "2026-07-28T16:14:48+00:00"
-  },
-  {
-    "id": "68bf4e06214d3b4d",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "July 29 2026"
   }
 ]
