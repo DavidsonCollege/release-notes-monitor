@@ -278,7 +278,7 @@
       "name": "loc-jackson",
       "is_private": false,
       "topic": "",
-      "num_members": 22
+      "num_members": 21
     },
     {
       "id": "C07S8TVD13P",
@@ -981,6 +981,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-08-10T15:24:47.276975+00:00",
+  "last_updated": "2026-08-10T15:50:22.028945+00:00",
   "fetch_status": "success"
 }
