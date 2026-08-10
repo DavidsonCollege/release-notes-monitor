@@ -520,24 +520,24 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "af26bc4fe3038d63",
+    "id": "b51cce9cededdef9",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Switch between light, dark, or system modes",
+    "title": "Scan and sort your library with new list view",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "August 4, 2026"
+    "date": "August 10, 2026"
   },
   {
-    "id": "15438128a86c35f6",
+    "id": "2041822393aa11b0",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Switch between light, dark, or system modes",
-    "link": "https://scribe.launchnotes.io/announcements/switch-between-light-dark-or-system-modes",
+    "title": "Scan and sort your library with new list view",
+    "link": "https://scribe.launchnotes.io/announcements/scan-and-sort-your-library-with-new-list-view",
     "summary": "Loading...",
-    "date": "August 4, 2026"
+    "date": "August 10, 2026"
   },
   {
     "id": "86dfa57862128416",
@@ -550,14 +550,14 @@
     "date": "2026-08-04T03:11:10.096326+00:00"
   },
   {
-    "id": "d53257aa9dabd30c",
+    "id": "eeee607ca957dd30",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Switch between light, dark, or system modes",
+    "title": "Scan and sort your library with new list view",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-08-04T03:11:10.096346+00:00"
+    "date": "2026-08-10T20:48:51.431024+00:00"
   },
   {
     "id": "101d2e934d2d87aa",
@@ -708,6 +708,86 @@
     "link": "https://blogs.windows.com/windows-insider/2026/06/26/announcing-new-builds-for-26-june-2026-retail-launch-of-new-wip-improvements/",
     "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental, and are excited to begin rolling out the new Windows Insider experience to retail Windows 11 builds this week! New Windows Insider Program changes The post Announcing new builds for 26 June 2026, retail...",
     "date": "2026-06-26T17:00:19+00:00"
+  },
+  {
+    "id": "6a3ceae0ef608194",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New endpoints for DataTable Contents APIs with enhancements to File Management API",
+    "link": "https://developers.zoom.us/changelog/canvas/august-13-2026",
+    "summary": "Tags: api-release | Added new endpoints and made some enhancements to request fields.",
+    "date": "2026-08-13T00:00:00+00:00"
+  },
+  {
+    "id": "93fd5714929302d7",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New response fields for Accounts API endpoints",
+    "link": "https://developers.zoom.us/changelog/accounts/august-10-2026",
+    "summary": "Tags: api-release | Added response fields to enable the summary template and the meeting summary with AI Companion.",
+    "date": "2026-08-10T00:00:00+00:00"
+  },
+  {
+    "id": "ace909d184978278",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Added handler details to Call Logs APIs",
+    "link": "https://developers.zoom.us/changelog/phone/august-10-2026",
+    "summary": "Tags: api-release | Added handler_ext_id, handler_ext_type, handler_ext_number, and handler_name response fields to Call Logs APIs.",
+    "date": "2026-08-10T00:00:00+00:00"
+  },
+  {
+    "id": "914e5ec2fb1c31a6",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New response fields in Groups and Users API endpoints",
+    "link": "https://developers.zoom.us/changelog/users/august-10-2026",
+    "summary": "Tags: api-release | Added response fields in Users API endpoints to enable summary template. Added meeting summary response fields for AI Companion for Groups API endpoints.",
+    "date": "2026-08-10T00:00:00+00:00"
+  },
+  {
+    "id": "82d06356db0e1d1c",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.4.7",
+    "link": "https://developers.zoom.us/changelog/video-sdk/web/2.4.7",
+    "summary": "Tags: bug-fix, sdk-version | Bug fix for WebRTC session decode failure.",
+    "date": "2026-08-10T00:00:00+00:00"
+  },
+  {
+    "id": "af26bc4fe3038d63",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Switch between light, dark, or system modes",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "August 4, 2026"
+  },
+  {
+    "id": "15438128a86c35f6",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Switch between light, dark, or system modes",
+    "link": "https://scribe.launchnotes.io/announcements/switch-between-light-dark-or-system-modes",
+    "summary": "Loading...",
+    "date": "August 4, 2026"
+  },
+  {
+    "id": "d53257aa9dabd30c",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Switch between light, dark, or system modes",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-08-04T03:11:10.096346+00:00"
   },
   {
     "id": "91758f4b8c913e21",
@@ -918,85 +998,5 @@
     "link": "https://developers.zoom.us/changelog/phone/july-27-2026",
     "summary": "Tags: api-release | Added new `operator_ext_type`, `operator_ext_number`, `operator_ext_id`, `operator_name` response fields in various SMS APIs.",
     "date": "2026-07-27T00:00:00+00:00"
-  },
-  {
-    "id": "b5183f81ad33aba7",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Add new response field to Contacts API",
-    "link": "https://developers.zoom.us/changelog/chat/july-23-2026",
-    "summary": "Tags: api-release | Added `pronoun` response field to the `GET /v2/contacts` API.",
-    "date": "2026-07-23T00:00:00+00:00"
-  },
-  {
-    "id": "4a475ddba86caca8",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New VDI plugin info response fields",
-    "link": "https://developers.zoom.us/changelog/accounts/july-20-2026",
-    "summary": "Tags: api-release | We added `vdi_plugin_info_status` and `vdi_plugin_info_fb_code_reason` response fields.",
-    "date": "2026-07-20T00:00:00+00:00"
-  },
-  {
-    "id": "b8d723cfd6262d28",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Add new request field to Shared Spaces API",
-    "link": "https://developers.zoom.us/changelog/chat/july-20-2026",
-    "summary": "Tags: api-release | Added the `groups` request field to the POST /v2/chat/spaces/{spaceId}/members API.",
-    "date": "2026-07-20T00:00:00+00:00"
-  },
-  {
-    "id": "939193096b1d3cc1",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create and import scatter charts with multiple x-series in Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/create-and-import-scatter-charts-with-multiple-x-series-in-Google-Sheets.html",
-    "summary": "Google Sheets now supports creating and editing scatter charts with multiple independent x-series. This update allows users to map separate data series to their own unique x-axis, rather than forcing all series in a single chart to share the same horizontal axis domain.Additionally, this feature...",
-    "date": "2026-07-29T17:55:47+00:00"
-  },
-  {
-    "id": "8d6d0acce93d061a",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Updated options to better view Google Calendar on large monitors",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/updated-options-to-better-view-google-Calendar-on-large-monitors.html",
-    "summary": "To provide users with more control over their viewing experience, we’re updating information density options for the calendar grid. These updates allow users to customize how calendar events scale on their screens to accommodate various monitor sizes and personal preferences.The available...",
-    "date": "2026-07-29T16:03:47+00:00"
-  },
-  {
-    "id": "36e33e3cbc81b1f2",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "June 26, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/50737170831636-June-26-2026",
-    "summary": "",
-    "date": "2026-07-01T18:15:11Z"
-  },
-  {
-    "id": "283c0d3a658d1747",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Generate and edit visuals with Gemini in Google Docs",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/generate-and-edit-visuals-with-gemini-in-Google-Docs.html",
-    "summary": "You can now create and edit images, diagrams, and infographics directly alongside your text using Gemini in Google Docs. These images leverage the context of your document, so you can generate relevant visuals to accompany your writing without ever leaving Docs or relying on external tools. Plus,...",
-    "date": "2026-07-28T16:20:08+00:00"
-  },
-  {
-    "id": "93bcbcd2b9061956",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Desktop notifications now pull text from blocks first",
-    "link": "https://docs.slack.dev/changelog/2026/07/13/notification-changes",
-    "summary": "Slack desktop client notifications now pull text from blocks first, falling back to the top-level text field only if no text can be extracted from blocks. Mobile notifications continue to exclusively use message.text.",
-    "date": "2026-07-13T00:00:00+00:00"
   }
 ]
