@@ -1,13 +1,13 @@
 [
   {
-    "id": "92aca7ce8a209770",
+    "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI",
+    "title": "1Password for Android",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "July 30 2026"
+    "date": "August 11 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -760,6 +760,16 @@
     "date": "2026-08-10T00:00:00+00:00"
   },
   {
+    "id": "92aca7ce8a209770",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password CLI",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "July 30 2026"
+  },
+  {
     "id": "af26bc4fe3038d63",
     "product_id": "scribe",
     "product_name": "Scribe",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/chat/july-30-2026",
     "summary": "Tags: api-release | For meeting.chat_message_sent, longer messages get truncated. A fix is forthcoming.",
     "date": "2026-07-30T00:00:00+00:00"
-  },
-  {
-    "id": "e4ca63dcbc924713",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added new operator fields to SMS APIs",
-    "link": "https://developers.zoom.us/changelog/phone/july-27-2026",
-    "summary": "Tags: api-release | Added new `operator_ext_type`, `operator_ext_number`, `operator_ext_id`, `operator_name` response fields in various SMS APIs.",
-    "date": "2026-07-27T00:00:00+00:00"
   }
 ]
