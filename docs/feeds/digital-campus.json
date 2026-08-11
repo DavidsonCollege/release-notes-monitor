@@ -370,16 +370,6 @@
     "date": "2026-08-10T17:00:00+00:00"
   },
   {
-    "id": "a8ca42b519426979",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.6.2 (25G82)",
-    "link": "https://developer.apple.com/news/releases/?id=08102026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-08-10T17:00:00+00:00"
-  },
-  {
     "id": "8f2885091136ab69",
     "product_id": "microsoft-office",
     "product_name": "Microsoft Office",
@@ -758,6 +748,16 @@
     "link": "https://developers.zoom.us/changelog/video-sdk/web/2.4.7",
     "summary": "Tags: bug-fix, sdk-version | Bug fix for WebRTC session decode failure.",
     "date": "2026-08-10T00:00:00+00:00"
+  },
+  {
+    "id": "a8ca42b519426979",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.6.2 (25G82)",
+    "link": "https://developer.apple.com/news/releases/?id=08102026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-08-10T17:00:00+00:00"
   },
   {
     "id": "ccacb4556b2abccf",
