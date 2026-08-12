@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "0b1771b5ea1b6b3a",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New usability features in Connected Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/new-usability-features-connected-sheets-google.html",
+    "summary": "Google Workspace is introducing two usability enhancements to Connected Sheets to improve data presentation and give more flexibility when analyzing BigQuery data. List parameters: When writing a query, users can reference multiple values in a single list parameter by selecting a grid range in a...",
+    "date": "2026-08-11T22:25:40+00:00"
+  },
+  {
     "id": "dfbf64632f1e2037",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/streamlining-rubric-generation-in-Google-Classroom-with-Gemini.html",
     "summary": "To make it easier to create rubrics and grade in Google Classroom, educators can now instantly generate a new Classroom-ready rubric during their assignment creation workflow, using context from their assignment.With this update, there will now be multiple ways to create and use rubrics in...",
     "date": "2026-08-05T16:41:26+00:00"
-  },
-  {
-    "id": "86ecf26a9f5b3c98",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini in Google Classroom is expanding to users of all ages, with contextualized Gemini starter prompts for students",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/gemini-in-google-classroom-is-expanding-to-users-of-all-ages-with-contextualized-Gemini-starter-prompts-for-students.html",
-    "summary": "Last year, we launched Gemini in Google Classroom to help educators save time on planning and create more engaging lessons, and later expanded Gemini in Classroom to higher education students 18 years of age and older to help them study and learn. Starting August 10, 2026, Gemini in Classroom will...",
-    "date": "2026-08-04T19:56:04+00:00"
   },
   {
     "id": "c7394205bc3ad5a3",
@@ -750,6 +750,16 @@
     "date": "2026-08-10T00:00:00+00:00"
   },
   {
+    "id": "86ecf26a9f5b3c98",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini in Google Classroom is expanding to users of all ages, with contextualized Gemini starter prompts for students",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/gemini-in-google-classroom-is-expanding-to-users-of-all-ages-with-contextualized-Gemini-starter-prompts-for-students.html",
+    "summary": "Last year, we launched Gemini in Google Classroom to help educators save time on planning and create more engaging lessons, and later expanded Gemini in Classroom to higher education students 18 years of age and older to help them study and learn. Starting August 10, 2026, Gemini in Classroom will...",
+    "date": "2026-08-04T19:56:04+00:00"
+  },
+  {
     "id": "a8ca42b519426979",
     "product_id": "macos",
     "product_name": "macOS",
@@ -988,15 +998,5 @@
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
     "date": "2026-07-20T20:05:58.498695+00:00"
-  },
-  {
-    "id": "168ae9765d999795",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Upload files directly into agent chat",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-07-20T20:05:58.498711+00:00"
   }
 ]
