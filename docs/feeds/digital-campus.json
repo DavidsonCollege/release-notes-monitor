@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "6b3407881a469e45",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Take Notes for me for in-person meetings is now available",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/take-notes-with-me-for-in-person-meetings-is-now-available.html",
+    "summary": "We know that balancing active participation with note taking during face-to-face discussions can be a challenge. You shouldn't have to choose between staying present in the moment and capturing critical context for later. We’re excited to start rolling out a new way to make Google Meet the home for...",
+    "date": "2026-08-13T17:50:38+00:00"
+  },
+  {
     "id": "25f755c13101fddd",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/weekly-recap-08-07-2026.html",
     "summary": "Provide more clear, contextual feedback with timestamped comments in Google Drive videosWe are introducing timestamped comments for videos in Google Drive on the web. Users can now anchor comments to a specific time mark in a video, making video collaboration more direct, precise, and contextual. |...",
     "date": "2026-08-07T19:12:19+00:00"
-  },
-  {
-    "id": "cfc648175cdf6d8c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Automatically add sources to your Gemini Notebooks in Workspace Studio",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/automatically-add-sources-to-your-Gemini-Notebooks-in-Workspace-Studio.html",
-    "summary": "Historically, keeping Gemini Notebooks up to date would require you to manually add sources one by one. Now, this new integration lets you automate adding sources to your Gemini Notebooks as part of a recurring workflow. You can use the new Add a source to Gemini Notebook step to add text, links to...",
-    "date": "2026-08-07T14:56:05+00:00"
   },
   {
     "id": "c7394205bc3ad5a3",
@@ -750,6 +750,16 @@
     "date": "2026-08-10T00:00:00+00:00"
   },
   {
+    "id": "cfc648175cdf6d8c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Automatically add sources to your Gemini Notebooks in Workspace Studio",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/automatically-add-sources-to-your-Gemini-Notebooks-in-Workspace-Studio.html",
+    "summary": "Historically, keeping Gemini Notebooks up to date would require you to manually add sources one by one. Now, this new integration lets you automate adding sources to your Gemini Notebooks as part of a recurring workflow. You can use the new Add a source to Gemini Notebook step to add text, links to...",
+    "date": "2026-08-07T14:56:05+00:00"
+  },
+  {
     "id": "18f4c325ea59c7bd",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/prevent-accidental-disclosures-with-new-Reply-All-BCC-warnings-in-Gmail.html",
     "summary": "To help protect your privacy and ensure intentional communication, we are introducing a new caution notification in Gmail. This feature is designed to prevent accidental information disclosure by alerting users when they are about to \"Reply All\" to a thread where they were originally...",
     "date": "2026-07-30T17:24:38+00:00"
-  },
-  {
-    "id": "ce9b31e4a5cbbe56",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use Gemini in Google Forms to quickly create a new quiz",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/use-gemini-in-google-forms-to-quickly-create-a-new-quiz.html",
-    "summary": "Help me create in Google Forms now supports generating quizzes.With this launch, you can quickly create a quiz by writing a specific prompt for Help me create describing the quiz you want to create. Your prompt can reference Google Drive files like Docs, Slides or PDFs to use as sources for the...",
-    "date": "2026-07-30T15:42:17+00:00"
   }
 ]
