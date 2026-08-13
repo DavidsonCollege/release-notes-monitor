@@ -700,6 +700,16 @@
     "date": "2026-06-26T17:00:19+00:00"
   },
   {
+    "id": "4452b7b2961849dc",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Upcoming change: TLS version requirement",
+    "link": "https://developers.zoom.us/changelog/rtms/upcoming-change-tls-version-requirement",
+    "summary": "Tags: breaking-change | After the September release, RTMS will require TLS version 1.2 or 1.3 on all connections.",
+    "date": "2026-09-27T00:00:00+00:00"
+  },
+  {
     "id": "6a3ceae0ef608194",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -707,6 +717,36 @@
     "title": "New endpoints for DataTable Contents APIs with enhancements to File Management API",
     "link": "https://developers.zoom.us/changelog/canvas/august-13-2026",
     "summary": "Tags: api-release | Added new endpoints and made some enhancements to request fields.",
+    "date": "2026-08-13T00:00:00+00:00"
+  },
+  {
+    "id": "51819e06d1576ee0",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Four new APIs and five Queues webhook events",
+    "link": "https://developers.zoom.us/changelog/contact-center/august-13-2026",
+    "summary": "Tags: api-release | Added three new Reports APIs, one new Campaigns API and five new Queues webhooks. Added over a dozen fields across the Reports V2 (CX Analytics), Queue Waiting Experiences, Address Books, Operating Hours, Campaigns, Users, and Queues API endpoints and six Teams webhook events.",
+    "date": "2026-08-13T00:00:00+00:00"
+  },
+  {
+    "id": "b8e7798c9c1206cc",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Two new Summaries APIs; new prevent_screen_capture request and response fields",
+    "link": "https://developers.zoom.us/changelog/meetings/august-13-2026",
+    "summary": "Tags: api-release | Add two new Summaries APIs; add prevent_screen_capture fields in four Meetings APIs and in one Meetings webhook event.",
+    "date": "2026-08-13T00:00:00+00:00"
+  },
+  {
+    "id": "1d59b4a7759bb358",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add new imports forecast API",
+    "link": "https://developers.zoom.us/changelog/workforce-management/august-13-2026",
+    "summary": "Tags: api-release | Add a new imports forecast API.",
     "date": "2026-08-13T00:00:00+00:00"
   },
   {
@@ -958,45 +998,5 @@
     "link": "https://announcekit.app/kuali/announcements/new-resubmit-withdrawn-documents-3UGLyU",
     "summary": "You can now edit and resubmit withdrawn documents without starting over. Previously, withdrawing a document was a permanent action. If you n...",
     "date": "2026-06-25T14:05:00+00:00"
-  },
-  {
-    "id": "c9bb76e62d80a2cd",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Room Panel Release Notes V4",
-    "link": "https://product.korbyt.com/changelog/korbyt-room-panel-release-notes-v4",
-    "summary": "## **What's New?** This update represents a significant step forward in the reliability, longevity, and user experience of the Korbyt Room Panel App, while preserving all the functionality you are familiar with from the previous version. **Rebuilt on a Modern, Supported Platform** The application...",
-    "date": "2026-07-20T16:36:00+00:00"
-  },
-  {
-    "id": "5d6603691487673f",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Booking Release Notes V9.9",
-    "link": "https://product.korbyt.com/changelog/korbyt-booking-release-notes-v99",
-    "summary": "# **What's New?** ## **New Booking Diary** The New Booking Diary is a redesigned calendar view. It presents all bookable resources across multiple floors, buildings, and locations in a single scrollable screen, with a fixed time header that stays visible as you scroll, faster booking actions that...",
-    "date": "2026-07-14T16:14:27+00:00"
-  },
-  {
-    "id": "4105f44d04a657cd",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Scheduled Secondary Workflows",
-    "link": "https://announcekit.app/kuali/announcements/new-scheduled-secondary-workflows-1uOySQ",
-    "summary": "You can now automate workflow actions based on dates, helping you send reminders, trigger integrations, and manage time-sensitive processes ...",
-    "date": "2026-06-24T20:45:00+00:00"
-  },
-  {
-    "id": "1e6a9616d3fc317a",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Prevent accidental disclosures with new Reply All BCC warnings in Gmail",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/prevent-accidental-disclosures-with-new-Reply-All-BCC-warnings-in-Gmail.html",
-    "summary": "To help protect your privacy and ensure intentional communication, we are introducing a new caution notification in Gmail. This feature is designed to prevent accidental information disclosure by alerting users when they are about to \"Reply All\" to a thread where they were originally...",
-    "date": "2026-07-30T17:24:38+00:00"
   }
 ]
