@@ -1,13 +1,13 @@
 [
   {
-    "id": "18f4c325ea59c7bd",
+    "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Mac",
+    "title": "1Password for Android",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "August 12 2026"
+    "date": "August 13 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -750,6 +750,16 @@
     "date": "2026-08-10T00:00:00+00:00"
   },
   {
+    "id": "18f4c325ea59c7bd",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Mac",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "August 12 2026"
+  },
+  {
     "id": "af80e504ca0862d4",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -765,16 +775,6 @@
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
     "title": "1Password CLI Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "August 11 2026"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "August 11 2026"
