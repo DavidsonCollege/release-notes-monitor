@@ -220,6 +220,16 @@
     "date": "2026-03-06T17:53:58.565888+00:00"
   },
   {
+    "id": "25f755c13101fddd",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Use Sheets canvas to visualize data in custom, interactive mini-apps",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/use-google-sheets-canvas-to-visualize-data.html",
+    "summary": "We’re excited to launch Sheets canvas, a new Gemini-powered capability that transforms your spreadsheets into custom, interactive, read-write applications using simple natural language prompts. It acts as a dynamic visualization layered directly on top of your spreadsheet data, allowing you and...",
+    "date": "2026-08-13T16:58:36+00:00"
+  },
+  {
     "id": "0b1771b5ea1b6b3a",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -258,16 +268,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/automatically-add-sources-to-your-Gemini-Notebooks-in-Workspace-Studio.html",
     "summary": "Historically, keeping Gemini Notebooks up to date would require you to manually add sources one by one. Now, this new integration lets you automate adding sources to your Gemini Notebooks as part of a recurring workflow. You can use the new Add a source to Gemini Notebook step to add text, links to...",
     "date": "2026-08-07T14:56:05+00:00"
-  },
-  {
-    "id": "af80e504ca0862d4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Streamlining rubric generation in Google Classroom with Gemini",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/streamlining-rubric-generation-in-Google-Classroom-with-Gemini.html",
-    "summary": "To make it easier to create rubrics and grade in Google Classroom, educators can now instantly generate a new Classroom-ready rubric during their assignment creation workflow, using context from their assignment.With this update, there will now be multiple ways to create and use rubrics in...",
-    "date": "2026-08-05T16:41:26+00:00"
   },
   {
     "id": "c7394205bc3ad5a3",
@@ -750,6 +750,16 @@
     "date": "2026-08-10T00:00:00+00:00"
   },
   {
+    "id": "af80e504ca0862d4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Streamlining rubric generation in Google Classroom with Gemini",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/streamlining-rubric-generation-in-Google-Classroom-with-Gemini.html",
+    "summary": "To make it easier to create rubrics and grade in Google Classroom, educators can now instantly generate a new Classroom-ready rubric during their assignment creation workflow, using context from their assignment.With this update, there will now be multiple ways to create and use rubrics in...",
+    "date": "2026-08-05T16:41:26+00:00"
+  },
+  {
     "id": "85fa3f89a4f80853",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/use-gemini-in-google-forms-to-quickly-create-a-new-quiz.html",
     "summary": "Help me create in Google Forms now supports generating quizzes.With this launch, you can quickly create a quiz by writing a specific prompt for Help me create describing the quiz you want to create. Your prompt can reference Google Drive files like Docs, Slides or PDFs to use as sources for the...",
     "date": "2026-07-30T15:42:17+00:00"
-  },
-  {
-    "id": "56662ae9cde59545",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Upload files directly into agent chat",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "July 20, 2026"
   }
 ]
