@@ -12,7 +12,7 @@
       "name": "ai",
       "is_private": false,
       "topic": "",
-      "num_members": 38
+      "num_members": 37
     },
     {
       "id": "C017KEZG1CP",
@@ -201,7 +201,7 @@
       "name": "fellows",
       "is_private": false,
       "topic": "",
-      "num_members": 6
+      "num_members": 5
     },
     {
       "id": "C05HF829Z6G",
@@ -215,7 +215,7 @@
       "name": "general",
       "is_private": false,
       "topic": "Company-wide announcements and work-based matters",
-      "num_members": 96
+      "num_members": 95
     },
     {
       "id": "C2ETFB938",
@@ -313,7 +313,7 @@
       "name": "on-call",
       "is_private": false,
       "topic": "",
-      "num_members": 15
+      "num_members": 14
     },
     {
       "id": "C0ALV8BRW4R",
@@ -579,14 +579,14 @@
       "name": "racial-equity-challenge",
       "is_private": false,
       "topic": "",
-      "num_members": 4
+      "num_members": 3
     },
     {
       "id": "C0PTBGB6D",
       "name": "random",
       "is_private": false,
       "topic": "\r\n",
-      "num_members": 84
+      "num_members": 83
     },
     {
       "id": "C35AAKFNU",
@@ -775,7 +775,7 @@
       "name": "team-infrastructure",
       "is_private": false,
       "topic": "",
-      "num_members": 36
+      "num_members": 35
     },
     {
       "id": "C03SHVDPLJX",
@@ -981,6 +981,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-08-13T11:47:48.439747+00:00",
+  "last_updated": "2026-08-13T12:22:19.060851+00:00",
   "fetch_status": "success"
 }
