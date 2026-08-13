@@ -796,7 +796,7 @@
       "name": "team-platform-engineering",
       "is_private": false,
       "topic": "",
-      "num_members": 4
+      "num_members": 5
     },
     {
       "id": "C2BPHND42",
@@ -981,6 +981,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-08-13T15:50:02.530924+00:00",
+  "last_updated": "2026-08-13T16:21:18.478790+00:00",
   "fetch_status": "success"
 }
