@@ -27,7 +27,7 @@
     "title": "August 7, 2026",
     "link": "https://help.adastra.live/hc/en-us/articles/52248332257300-August-7-2026",
     "summary": "",
-    "date": "2026-08-13T17:55:28Z"
+    "date": "2026-08-14T18:40:52Z"
   },
   {
     "id": "ac260aa0b2ca5716",
@@ -120,6 +120,16 @@
     "date": "2026-06-25T01:06:17.954115+00:00"
   },
   {
+    "id": "b3f73e2a29a4e83f",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New admin controls for adding invitations to Google Calendar",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/new-admin-controls-for-adding-invitations-to-Google-Calendar.html",
+    "summary": "Google Calendar users have three options for how event invitations are added to their calendar: auto-add invitations from everyone, auto-add invitations from known senders only, or add invitations only after the user responds in email. To date, administrators can only choose the default value for...",
+    "date": "2026-08-14T18:03:14+00:00"
+  },
+  {
     "id": "6b3407881a469e45",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/improved-file-import-google-sheets-tables.html",
     "summary": "We’re introducing two key improvements in Google Sheets that preserve formatting and linked data when converting files from Microsoft Excel. First, Excel tables will now seamlessly import as Sheets tables. Second, Sheets now fully supports importing Excel pivot tables that are backed by table...",
     "date": "2026-08-11T16:22:22+00:00"
-  },
-  {
-    "id": "3cfc04f07e24ced6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - August 7, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/weekly-recap-08-07-2026.html",
-    "summary": "Provide more clear, contextual feedback with timestamped comments in Google Drive videosWe are introducing timestamped comments for videos in Google Drive on the web. Users can now anchor comments to a specific time mark in a video, making video collaboration more direct, precise, and contextual. |...",
-    "date": "2026-08-07T19:12:19+00:00"
   },
   {
     "id": "c7394205bc3ad5a3",
@@ -800,6 +800,16 @@
     "date": "2026-08-14T14:16:58.978180+00:00"
   },
   {
+    "id": "3cfc04f07e24ced6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - August 7, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/weekly-recap-08-07-2026.html",
+    "summary": "Provide more clear, contextual feedback with timestamped comments in Google Drive videosWe are introducing timestamped comments for videos in Google Drive on the web. Users can now anchor comments to a specific time mark in a video, making video collaboration more direct, precise, and contextual. |...",
+    "date": "2026-08-07T19:12:19+00:00"
+  },
+  {
     "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "August 12 2026"
-  },
-  {
-    "id": "af80e504ca0862d4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Streamlining rubric generation in Google Classroom with Gemini",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/streamlining-rubric-generation-in-Google-Classroom-with-Gemini.html",
-    "summary": "To make it easier to create rubrics and grade in Google Classroom, educators can now instantly generate a new Classroom-ready rubric during their assignment creation workflow, using context from their assignment.With this update, there will now be multiple ways to create and use rubrics in...",
-    "date": "2026-08-05T16:41:26+00:00"
   }
 ]
