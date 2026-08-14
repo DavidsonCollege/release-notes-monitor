@@ -20,6 +20,16 @@
     "date": "2026-03-06T17:53:53.055734+00:00"
   },
   {
+    "id": "436afad157af2a4d",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "August 14, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/52518263974420-August-14-2026",
+    "summary": "",
+    "date": "2026-08-14T20:35:15Z"
+  },
+  {
     "id": "123c10f78f16293c",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/51477488444564-July-17-2026",
     "summary": "",
     "date": "2026-07-24T17:09:51Z"
-  },
-  {
-    "id": "5afa0bdb207b1b17",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "July 10, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/51219943503508-July-10-2026",
-    "summary": "",
-    "date": "2026-07-10T23:19:09Z"
   },
   {
     "id": "fc203cbbb45411e3",
@@ -120,6 +120,16 @@
     "date": "2026-06-25T01:06:17.954115+00:00"
   },
   {
+    "id": "69fb5830159d7ae4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - August 14, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/weekly-recap-08-14-2026.html",
+    "summary": "Improved file importing in Google Sheets with tables and linked pivot tablesWe’re introducing two key improvements in Google Sheets that preserve formatting and linked data when converting files from Microsoft Excel. First, Excel tables will now seamlessly import as Sheets tables. Second, Sheets...",
+    "date": "2026-08-14T19:41:50+00:00"
+  },
+  {
     "id": "b3f73e2a29a4e83f",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/new-usability-features-connected-sheets-google.html",
     "summary": "Google Workspace is introducing two usability enhancements to Connected Sheets to improve data presentation and give more flexibility when analyzing BigQuery data. List parameters: When writing a query, users can reference multiple values in a single list parameter by selecting a grid range in a...",
     "date": "2026-08-11T22:25:40+00:00"
-  },
-  {
-    "id": "dfbf64632f1e2037",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improved file importing in Google Sheets with tables and linked pivot tables",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/improved-file-import-google-sheets-tables.html",
-    "summary": "We’re introducing two key improvements in Google Sheets that preserve formatting and linked data when converting files from Microsoft Excel. First, Excel tables will now seamlessly import as Sheets tables. Second, Sheets now fully supports importing Excel pivot tables that are backed by table...",
-    "date": "2026-08-11T16:22:22+00:00"
   },
   {
     "id": "c7394205bc3ad5a3",
@@ -800,6 +800,26 @@
     "date": "2026-08-14T14:16:58.978180+00:00"
   },
   {
+    "id": "5afa0bdb207b1b17",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "July 10, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/51219943503508-July-10-2026",
+    "summary": "",
+    "date": "2026-07-10T23:19:09Z"
+  },
+  {
+    "id": "dfbf64632f1e2037",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improved file importing in Google Sheets with tables and linked pivot tables",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/improved-file-import-google-sheets-tables.html",
+    "summary": "We’re introducing two key improvements in Google Sheets that preserve formatting and linked data when converting files from Microsoft Excel. First, Excel tables will now seamlessly import as Sheets tables. Second, Sheets now fully supports importing Excel pivot tables that are backed by table...",
+    "date": "2026-08-11T16:22:22+00:00"
+  },
+  {
     "id": "3cfc04f07e24ced6",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "https://developers.zoom.us/changelog/video-sdk/web/2.4.7",
     "summary": "Tags: bug-fix, sdk-version | Bug fix for WebRTC session decode failure.",
     "date": "2026-08-10T00:00:00+00:00"
-  },
-  {
-    "id": "cfc648175cdf6d8c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Automatically add sources to your Gemini Notebooks in Workspace Studio",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/automatically-add-sources-to-your-Gemini-Notebooks-in-Workspace-Studio.html",
-    "summary": "Historically, keeping Gemini Notebooks up to date would require you to manually add sources one by one. Now, this new integration lets you automate adding sources to your Gemini Notebooks as part of a recurring workflow. You can use the new Add a source to Gemini Notebook step to add text, links to...",
-    "date": "2026-08-07T14:56:05+00:00"
-  },
-  {
-    "id": "18f4c325ea59c7bd",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Mac",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "August 12 2026"
   }
 ]
