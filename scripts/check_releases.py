@@ -36,6 +36,7 @@ SEEN_FILE = BASE_DIR / "data" / "seen.json"
 FEEDS_DIR = BASE_DIR / "docs" / "feeds"
 MAX_FEED_ITEMS = 100  # Max items to keep in each team's RSS feed
 RECENT_PER_PRODUCT = 5  # Always keep latest N items per product in feed
+SEEN_LIMIT = 200  # Max remembered item ids per product (see the cap below)
 REQUEST_TIMEOUT = 30
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 
@@ -1141,9 +1142,14 @@ def main():
                 if first_run:
                     print(f"    First run for {product_id} - baselining, no notifications")
 
+                # Every id visible in this fetch, newest first. Used below to
+                # cap the seen list without evicting what we can still see.
+                observed_ids: list[str] = []
+
                 # Always enrich the latest items for the feed
                 for i, raw_item in enumerate(raw_items[:RECENT_PER_PRODUCT]):
                     item_id = generate_item_id(product_id, raw_item["title"], raw_item["link"])
+                    observed_ids.append(item_id)
 
                     # Prefer: 1) date from scraper, 2) existing date from prior run, 3) now()
                     item_date = (
@@ -1178,11 +1184,26 @@ def main():
                 # Also track remaining items beyond the top 5 for seen
                 for raw_item in raw_items[RECENT_PER_PRODUCT:]:
                     item_id = generate_item_id(product_id, raw_item["title"], raw_item["link"])
+                    observed_ids.append(item_id)
                     if item_id not in seen[team_id][product_id]:
                         seen[team_id][product_id].append(item_id)
 
-                # Keep seen list from growing unbounded
-                seen[team_id][product_id] = seen[team_id][product_id][-200:]
+                # Keep the seen list bounded WITHOUT forgetting anything the
+                # source can still show us.
+                #
+                # This used to be `[-200:]`, which kept the *tail* of the list.
+                # Ids get appended newest-first, so on a product with more than
+                # 200 entries the truncation threw away the newest items and
+                # kept the oldest - and the next run re-announced the top five
+                # as brand new. ChatGPT (237 entries) hit this the moment its
+                # scraper started working again.
+                #
+                # Keep everything currently visible (newest first), then as much
+                # prior history as fits. Items that fall off the end are older
+                # than position 200 in the feed and can never reach the top
+                # RECENT_PER_PRODUCT window that notifications are drawn from.
+                prior_ids = [i for i in seen[team_id][product_id] if i not in set(observed_ids)]
+                seen[team_id][product_id] = (observed_ids + prior_ids)[:SEEN_LIMIT]
 
             except Exception as e:
                 print(f"  [ERROR] Failed to check {product_name}: {e}")
