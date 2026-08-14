@@ -689,21 +689,44 @@ def check_intercom_article_source(product: dict) -> list[dict]:
     # Allow overriding the heading selectors for different Intercom layouts
     month_selector = source.get("month_selector", "h2")
     date_selector = source.get("date_selector", "h3")
+    # Some Intercom help centers title each entry with a heading instead of a
+    # bold paragraph. help.openai.com uses h1=date, h2=entry title. Setting
+    # title_tag switches the parser to heading-based entries.
+    title_tag = source.get("title_tag")
 
     print(f"  Intercom article: {url}")
 
     # Try multiple strategies to fetch the page (sites like OpenAI tighten bot protection)
     resp_content = None
 
-    # Strategy 1: curl_cffi with browser impersonation (best Cloudflare bypass)
+    # Strategy 1: curl_cffi with browser impersonation (best Cloudflare bypass).
+    # Try several profiles: help.openai.com resets the connection on the chrome
+    # TLS fingerprint but serves safari fine, so a single profile isn't enough.
+    # A source can pin the order with "impersonate": "safari" (or a list).
+    pinned = source.get("impersonate")
+    if isinstance(pinned, str):
+        profiles = [pinned]
+    elif isinstance(pinned, list) and pinned:
+        profiles = pinned
+    else:
+        profiles = ["chrome", "safari", "chrome131", "edge101"]
+
     try:
         from curl_cffi import requests as cffi_requests
-        resp = cffi_requests.get(url, timeout=REQUEST_TIMEOUT, impersonate="chrome")
-        resp.raise_for_status()
-        resp_content = resp.content
-        print(f"  Fetched via curl_cffi")
-    except Exception as e:
-        print(f"  [INFO] curl_cffi failed ({e}), trying cloudscraper...")
+        for profile in profiles:
+            try:
+                resp = cffi_requests.get(url, timeout=REQUEST_TIMEOUT, impersonate=profile)
+                resp.raise_for_status()
+                resp_content = resp.content
+                print(f"  Fetched via curl_cffi (impersonate={profile})")
+                break
+            except Exception as e:
+                print(f"  [INFO] curl_cffi {profile} failed ({str(e)[:120]})")
+    except ImportError as e:
+        print(f"  [INFO] curl_cffi unavailable ({e})")
+
+    if resp_content is None:
+        print(f"  [INFO] All curl_cffi profiles failed, trying cloudscraper...")
 
     # Strategy 2: cloudscraper (Cloudflare JS challenge solver)
     if resp_content is None:
@@ -768,7 +791,7 @@ def check_intercom_article_source(product: dict) -> list[dict]:
             continue
 
         # Detect month headings (h2) - skip these as entries
-        if tag_name == month_selector and month_pattern.match(text):
+        if not title_tag and tag_name == month_selector and month_pattern.match(text):
             continue
 
         # Detect date headings (h3) - set the current_date context
@@ -784,8 +807,31 @@ def check_intercom_article_source(product: dict) -> list[dict]:
                     current_date = ""
             continue
 
+        # Heading-based entries (title_tag set, e.g. help.openai.com h2 titles)
+        if title_tag and tag_name == title_tag:
+            title = text
+            if len(title) < 3 or len(title) > 200 or title.endswith(":"):
+                continue
+
+            desc_parts = []
+            sibling = el.find_next_sibling()
+            while sibling:
+                if sibling.name in (title_tag, date_selector, "hr"):
+                    break
+                if sibling.name in ("p", "ul", "ol", "h3", "h4"):
+                    desc_parts.append(clean_text(sibling.get_text()))
+                sibling = sibling.find_next_sibling()
+
+            items.append({
+                "title": title,
+                "link": product.get("release_notes_url", url),
+                "summary": truncate_text(" ".join(desc_parts)),
+                "date": current_date or "",
+            })
+            continue
+
         # Detect entry titles - bold text inside a paragraph (Intercom pattern)
-        if tag_name == "p":
+        if not title_tag and tag_name == "p":
             bold_el = el.find(["b", "strong"], recursive=False)
             if not bold_el:
                 continue
