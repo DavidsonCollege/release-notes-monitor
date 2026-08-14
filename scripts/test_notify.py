@@ -2,9 +2,15 @@
 """
 Send test notifications to verify Slack and Zoom channel configuration.
 
-Creates a realistic-looking fake release note card and sends it to all
-configured channels, so teams can confirm integrations are working before
-real release notes appear.
+Creates realistic-looking fake release notes and sends them to all configured
+channels, so teams can confirm integrations are working before real release
+notes appear.
+
+The batch deliberately spans three fake products, one of which has two notes.
+A single-item test cannot exercise the multi-product grouping that
+notify_common does, and the mixed batch is exactly the case that used to read
+badly. Set TEST_SLACK_CHANNEL / TEST_ZOOM_CHANNEL / TEST_GCHAT_WEBHOOK to
+redirect a test run at a scratch channel instead of the team's real one.
 """
 
 import json
@@ -27,24 +33,49 @@ CONFIG_FILE = BASE_DIR / "config" / "teams.json"
 TEST_ICON_URL = "https://raw.githubusercontent.com/DavidsonCollege/ti-assets/main/release-notes-monitor-icon-square.png"
 
 
-def create_test_item(team: dict, base_url: str) -> dict:
-    """Create a fake release-note item for a team's configured channels."""
-    return {
-        "id": f"test-{team['id']}",
-        "product_id": "test-notification",
-        "product_name": "Test Notification",
-        "icon_url": TEST_ICON_URL,
-        "title": "If you see this, notifications are working!",
-        "link": base_url,
-        "summary": (
-            "This is a test from Release Notes Monitor. "
-            "Real notifications will appear here when product updates are detected."
-        ),
-        "date": datetime.now(timezone.utc).isoformat(),
-        "slack_channel": team.get("slack_channel", ""),
-        "zoom_channel": team.get("zoom_channel", ""),
-        "gchat_webhook": team.get("gchat_webhook", ""),
-    }
+# Three fake products, one with two notes - enough to exercise per-product
+# grouping and prove the posts split where they should.
+TEST_PRODUCTS = [
+    ("test-alpha", "Test Product Alpha", [
+        "If you see this, notifications are working!",
+        "This second note should share a post with the one above.",
+    ]),
+    ("test-beta", "Test Product Beta", [
+        "This note should arrive in its own separate post.",
+    ]),
+    ("test-gamma", "Test Product Gamma", [
+        "And this one in a third post.",
+    ]),
+]
+
+
+def create_test_items(team: dict, base_url: str) -> list[dict]:
+    """Create a multi-product batch of fake release notes for a team."""
+    slack = os.environ.get("TEST_SLACK_CHANNEL", "") or team.get("slack_channel", "")
+    zoom = os.environ.get("TEST_ZOOM_CHANNEL", "") or team.get("zoom_channel", "")
+    gchat = os.environ.get("TEST_GCHAT_WEBHOOK", "") or team.get("gchat_webhook", "")
+
+    items: list[dict] = []
+    for product_id, product_name, titles in TEST_PRODUCTS:
+        for index, title in enumerate(titles):
+            items.append({
+                "id": f"test-{team['id']}-{product_id}-{index}",
+                "product_id": product_id,
+                "product_name": product_name,
+                "icon_url": TEST_ICON_URL,
+                "title": title,
+                "link": base_url,
+                "summary": (
+                    "This is a test from Release Notes Monitor. Real notifications "
+                    "will appear here when product updates are detected."
+                ),
+                "date": datetime.now(timezone.utc).isoformat(),
+                "slack_channel": slack,
+                "zoom_channel": zoom,
+                "gchat_webhook": gchat,
+                "notification_grouping": team.get("notification_grouping", ""),
+            })
+    return items
 
 
 def main():
@@ -78,9 +109,9 @@ def main():
         if team_filter and team["id"].lower() not in team_filter:
             continue
 
-        has_slack = bool(team.get("slack_channel"))
-        has_zoom = bool(team.get("zoom_channel"))
-        has_gchat = bool(team.get("gchat_webhook"))
+        has_slack = bool(os.environ.get("TEST_SLACK_CHANNEL") or team.get("slack_channel"))
+        has_zoom = bool(os.environ.get("TEST_ZOOM_CHANNEL") or team.get("zoom_channel"))
+        has_gchat = bool(os.environ.get("TEST_GCHAT_WEBHOOK") or team.get("gchat_webhook"))
 
         if not has_slack and not has_zoom and not has_gchat:
             print(f"  ⚠  {team['name']}: no channels configured — skipping")
@@ -94,14 +125,18 @@ def main():
         if has_gchat:
             targets.append("Google Chat")
 
-        item = create_test_item(team, base_url)
-        test_items.append(item)
-        print(f"  ✓  {team['name']}: sending test to {', '.join(targets)}")
+        items = create_test_items(team, base_url)
+        test_items.extend(items)
+        print(f"  ✓  {team['name']}: sending {len(items)} test notes "
+              f"across {len(TEST_PRODUCTS)} products to {', '.join(targets)}")
 
     if not test_items:
         print("\nNo teams have notification channels configured. Nothing to send.")
         sys.exit(0)
 
+    redirect = os.environ.get("TEST_SLACK_CHANNEL", "")
+    if redirect:
+        print(f"\n  Slack output redirected to {redirect}")
     print(f"\nSending {len(test_items)} test notification(s)...\n")
 
     print("--- Slack ---")

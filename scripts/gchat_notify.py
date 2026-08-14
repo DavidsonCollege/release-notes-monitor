@@ -20,6 +20,8 @@ from datetime import datetime, timezone
 
 import requests
 
+from notify_common import group_for_posting, pace, summary_text
+
 
 # ── Card Building ────────────────────────────────────────────────────────────
 
@@ -120,25 +122,24 @@ def send_gchat_notifications(new_items: list[dict], base_url: str):
     if not new_items:
         return
 
-    # Group items by target webhook URL
-    by_webhook: dict[str, list[dict]] = {}
-    for item in new_items:
-        webhook_url = item.get("gchat_webhook", "")
-        if not webhook_url:
-            continue
-        by_webhook.setdefault(webhook_url, []).append(item)
+    # One post per product by default - see notify_common.
+    posts = group_for_posting(new_items, lambda item: item.get("gchat_webhook", ""))
 
-    if not by_webhook:
+    if not posts:
         print("  No Google Chat webhooks configured – skipping notifications")
         return
 
-    for webhook_url, items in by_webhook.items():
+    for index, (webhook_url, items) in enumerate(posts):
+        pace(index)
         try:
-            # Build cards — one per item plus a footer
+            # Build cards — one per item. The footer only earns its place on a
+            # mixed batch; on a per-product post it is repeated clutter.
+            single_product = len({i.get("product_id") or i.get("product_name") for i in items}) == 1
             cards = []
             for i, item in enumerate(items):
                 cards.append(_build_item_card(item, i))
-            cards.append(_build_footer_card(len(items), len(items)))
+            if not single_product:
+                cards.append(_build_footer_card(len(items), len(items)))
 
             payload = {"cardsV2": cards}
 
@@ -151,7 +152,7 @@ def send_gchat_notifications(new_items: list[dict], base_url: str):
 
             if resp.status_code == 200:
                 masked = webhook_url[:60] + "…" if len(webhook_url) > 60 else webhook_url
-                print(f"  Google Chat: posted {len(items)} items to {masked}")
+                print(f"  Google Chat: posted \"{summary_text(items)}\" to {masked}")
             else:
                 print(f"  Google Chat error: {resp.status_code} {resp.text[:500]}")
 

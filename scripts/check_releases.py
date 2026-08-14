@@ -1216,6 +1216,7 @@ def main():
             item["slack_channel"] = team.get("slack_channel", "")
             item["zoom_channel"] = team.get("zoom_channel", "")
             item["gchat_webhook"] = team.get("gchat_webhook", "")
+            item["notification_grouping"] = team.get("notification_grouping", "")
         all_new_items.extend(new_team_items)
 
     # Generate OPML for easy subscription

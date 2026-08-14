@@ -26,6 +26,8 @@ from datetime import datetime, timezone
 
 import requests
 
+from notify_common import group_for_posting, pace, summary_text
+
 ZOOM_OAUTH_URL = "https://zoom.us/oauth/token"
 ZOOM_CHATBOT_URL = "https://api.zoom.us/v2/im/chat/messages"
 ZOOM_CHAT_URL = "https://api.zoom.us/v2/chat/users/me/messages"
@@ -391,15 +393,10 @@ def send_zoom_notifications(new_items: list[dict], base_url: str):
     if not new_items:
         return
 
-    # Group items by target channel
-    by_channel: dict[str, list[dict]] = {}
-    for item in new_items:
-        channel = item.get("zoom_channel", "")
-        if not channel:
-            continue
-        by_channel.setdefault(channel, []).append(item)
+    # One post per product by default - see notify_common.
+    posts = group_for_posting(new_items, lambda item: item.get("zoom_channel", ""))
 
-    if not by_channel:
+    if not posts:
         print("  No Zoom channels configured – skipping notifications")
         return
 
@@ -430,7 +427,8 @@ def send_zoom_notifications(new_items: list[dict], base_url: str):
         print(f"  Zoom OAuth error: {exc}")
         return
 
-    for channel_id, items in by_channel.items():
+    for index, (channel_id, items) in enumerate(posts):
+        pace(index)
         try:
             if use_chatbot:
                 body = _build_chatbot_body(items)
@@ -440,6 +438,6 @@ def send_zoom_notifications(new_items: list[dict], base_url: str):
                 ok = _send_via_user_chat(channel_id, message, token)
 
             if ok:
-                print(f"  Zoom: posted {len(items)} items to {channel_id}")
+                print(f"  Zoom: posted \"{summary_text(items)}\" to {channel_id}")
         except Exception as exc:
             print(f"  Zoom exception ({channel_id}): {exc}")

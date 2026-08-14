@@ -18,6 +18,17 @@ on:
         required: false
         type: string
         default: ''
+      test_channel:
+        description: 'Slack channel or user ID to redirect the test to (e.g. a scratch channel). Blank uses the real channel.'
+        required: false
+        type: string
+        default: ''
+      test_grouping:
+        description: 'Grouping to preview in the test run.'
+        required: false
+        type: choice
+        options: ['product', 'batch', 'item']
+        default: 'product'
 
   # Also run when config changes
   push:
@@ -83,6 +94,8 @@ jobs:
           ZOOM_BOT_JID: ${{ secrets.ZOOM_BOT_JID }}
           ZOOM_USER_JID: ${{ vars.ZOOM_USER_JID }}
           TEST_TEAMS: ${{ github.event.inputs.test_teams }}
+          TEST_SLACK_CHANNEL: ${{ github.event.inputs.test_channel }}
+          NOTIFICATION_GROUPING: ${{ github.event.inputs.test_grouping || 'product' }}
         run: python scripts/test_notify.py
 
       - name: Run release notes checker
@@ -90,6 +103,7 @@ jobs:
         env:
           BASE_URL: ${{ vars.BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
           CONFIG_API_URL: ${{ vars.CONFIG_API_URL }}
+          NOTIFICATION_GROUPING: ${{ vars.NOTIFICATION_GROUPING }}
           ADASTRA_EMAIL: ${{ secrets.ADASTRA_EMAIL }}
           ADASTRA_PASSWORD: ${{ secrets.ADASTRA_PASSWORD }}
           KUALI_ZD_EMAIL: ${{ secrets.KUALI_ZD_EMAIL }}
