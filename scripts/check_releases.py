@@ -1130,9 +1130,15 @@ def main():
                 # First time we've ever seen this product: seed the seen list
                 # without notifying, so newly added products don't dump their
                 # whole recent backlog into Slack/Zoom/Chat on the first run.
-                first_run = product_id not in seen[team_id]
-                if first_run:
+                # Treat an empty seen list as a first run too, not just a
+                # missing key. A product whose very first fetch failed (e.g.
+                # ChatGPT while help.openai.com was 403ing) leaves an empty
+                # list behind; without this it would dump its whole backlog
+                # the moment the source starts working again.
+                first_run = not seen[team_id].get(product_id)
+                if product_id not in seen[team_id]:
                     seen[team_id][product_id] = []
+                if first_run:
                     print(f"    First run for {product_id} - baselining, no notifications")
 
                 # Always enrich the latest items for the feed
