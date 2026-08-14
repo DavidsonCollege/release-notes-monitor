@@ -70,6 +70,16 @@
     "date": "2026-07-10T23:19:09Z"
   },
   {
+    "id": "fc203cbbb45411e3",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Get folder API, Delete folder API, and Move folder item API now return a 400 error with the invalid_field code when the supplied folder ID isn't a",
+    "link": "https://www.canva.dev/docs/connect/api-reference/folders/get-folder/",
+    "summary": "The Get folder API, Delete folder API, and Move folder item API now return a 400 error with the invalid_field code when the supplied folder ID isn't a valid folder ID. These requests previously returned a 500 error.",
+    "date": "2026-08-14T00:34:15.269769+00:00"
+  },
+  {
     "id": "d8be261279577d9c",
     "product_id": "canva",
     "product_name": "Canva",
@@ -108,16 +118,6 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
     "summary": "The Create design autofill job API now accepts video data values, letting you autofill an image data field with a video asset. Autofilling a video is currently a preview feature.",
     "date": "2026-06-25T01:06:17.954115+00:00"
-  },
-  {
-    "id": "c4a23313f8f2e2ad",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Create design autofill job API now accepts a type field to support future functionality for different autofill sources. The first supported value",
-    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
-    "summary": "The Create design autofill job API now accepts a type field to support future functionality for different autofill sources. The first supported value is create_from_brand_template, which is the existing functionality for creating new designs from a brand template. For backwards compatibility,...",
-    "date": "2026-06-18T01:34:21.226187+00:00"
   },
   {
     "id": "03b6bc06dc04399d",
@@ -750,6 +750,16 @@
     "date": "2026-08-13T00:00:00+00:00"
   },
   {
+    "id": "c4a23313f8f2e2ad",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Create design autofill job API now accepts a type field to support future functionality for different autofill sources. The first supported value",
+    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
+    "summary": "The Create design autofill job API now accepts a type field to support future functionality for different autofill sources. The first supported value is create_from_brand_template, which is the existing functionality for creating new designs from a brand template. For backwards compatibility,...",
+    "date": "2026-06-18T01:34:21.226187+00:00"
+  },
+  {
     "id": "93fd5714929302d7",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-31-2026.html",
     "summary": "Visual screenshots in Google Meet meeting notes will soon be generally available, pre-configure admin settings in advanceIn the coming weeks, we’re starting the rollout of visual screenshots for the ‘Take notes for me’ feature in Google Meet. Visual screenshots automatically capture presented...",
     "date": "2026-07-31T19:25:01+00:00"
-  },
-  {
-    "id": "de946158c73d1d2a",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Resubmit Withdrawn Documents",
-    "link": "https://announcekit.app/kuali/announcements/new-resubmit-withdrawn-documents-3UGLyU",
-    "summary": "You can now edit and resubmit withdrawn documents without starting over. Previously, withdrawing a document was a permanent action. If you n...",
-    "date": "2026-06-25T14:05:00+00:00"
   }
 ]
