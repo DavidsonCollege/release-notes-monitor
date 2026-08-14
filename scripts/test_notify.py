@@ -134,19 +134,41 @@ def main():
         print("\nNo teams have notification channels configured. Nothing to send.")
         sys.exit(0)
 
-    redirect = os.environ.get("TEST_SLACK_CHANNEL", "")
-    if redirect:
-        print(f"\n  Slack output redirected to {redirect}")
     print(f"\nSending {len(test_items)} test notification(s)...\n")
 
-    print("--- Slack ---")
-    send_slack_notifications(test_items, base_url)
+    # If ANY redirect is set, the caller is deliberately keeping this test out
+    # of the real channels. Platforms without their own redirect are skipped
+    # rather than posted to for real - on 2026-08-14 a Slack-only redirect
+    # still sent three fake products into the live Google Chat space, because
+    # "redirect" was silently per-platform.
+    redirects = {
+        "Slack": os.environ.get("TEST_SLACK_CHANNEL", ""),
+        "Zoom": os.environ.get("TEST_ZOOM_CHANNEL", ""),
+        "Google Chat": os.environ.get("TEST_GCHAT_WEBHOOK", ""),
+    }
+    redirect_mode = any(redirects.values())
 
-    print("--- Zoom ---")
-    send_zoom_notifications(test_items, base_url)
+    if redirect_mode:
+        missing = [name for name, value in redirects.items() if not value]
+        print("  Redirect mode: only platforms with an explicit test target will receive this.")
+        for name, value in redirects.items():
+            if value:
+                shown = value if len(value) < 60 else value[:57] + "…"
+                print(f"    {name}: -> {shown}")
+        for name in missing:
+            print(f"    {name}: SKIPPED (no test target; refusing to post to the real one)")
 
-    print("--- Google Chat ---")
-    send_gchat_notifications(test_items, base_url)
+    senders = [
+        ("Slack", send_slack_notifications),
+        ("Zoom", send_zoom_notifications),
+        ("Google Chat", send_gchat_notifications),
+    ]
+    for name, send in senders:
+        print(f"--- {name} ---")
+        if redirect_mode and not redirects[name]:
+            print(f"  Skipped: set a test target for {name} to include it.")
+            continue
+        send(test_items, base_url)
 
     print("\n" + "=" * 60)
     print("  Done! Check your channels to confirm delivery.")

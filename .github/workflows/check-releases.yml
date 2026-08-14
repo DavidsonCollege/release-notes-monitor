@@ -19,7 +19,17 @@ on:
         type: string
         default: ''
       test_channel:
-        description: 'Slack channel or user ID to redirect the test to (e.g. a scratch channel). Blank uses the real channel.'
+        description: 'Slack channel or user ID to redirect the test to. Setting this SKIPS Zoom and Google Chat unless their own targets are set too.'
+        required: false
+        type: string
+        default: ''
+      test_zoom_channel:
+        description: 'Zoom channel ID to redirect the test to. Leave blank to skip Zoom when redirecting.'
+        required: false
+        type: string
+        default: ''
+      test_gchat_webhook:
+        description: 'Google Chat webhook to redirect the test to. Leave blank to skip Google Chat when redirecting.'
         required: false
         type: string
         default: ''
@@ -95,6 +105,8 @@ jobs:
           ZOOM_USER_JID: ${{ vars.ZOOM_USER_JID }}
           TEST_TEAMS: ${{ github.event.inputs.test_teams }}
           TEST_SLACK_CHANNEL: ${{ github.event.inputs.test_channel }}
+          TEST_ZOOM_CHANNEL: ${{ github.event.inputs.test_zoom_channel }}
+          TEST_GCHAT_WEBHOOK: ${{ github.event.inputs.test_gchat_webhook }}
           NOTIFICATION_GROUPING: ${{ github.event.inputs.test_grouping || 'product' }}
         run: python scripts/test_notify.py
 
