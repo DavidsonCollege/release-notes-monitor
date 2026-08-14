@@ -1,13 +1,13 @@
 [
   {
-    "id": "9b4a49c55cd1a750",
+    "id": "c510432506c56d94",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
+    "title": "1Password in the browser",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "August 13 2026"
+    "date": "August 14 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -800,6 +800,16 @@
     "date": "2026-08-14T14:16:58.978180+00:00"
   },
   {
+    "id": "9b4a49c55cd1a750",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "August 13 2026"
+  },
+  {
     "id": "b5a7bdb310d375d2",
     "product_id": "windows",
     "product_name": "Windows",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/streamlining-rubric-generation-in-Google-Classroom-with-Gemini.html",
     "summary": "To make it easier to create rubrics and grade in Google Classroom, educators can now instantly generate a new Classroom-ready rubric during their assignment creation workflow, using context from their assignment.With this update, there will now be multiple ways to create and use rubrics in...",
     "date": "2026-08-05T16:41:26+00:00"
-  },
-  {
-    "id": "85fa3f89a4f80853",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "August 11 2026"
   }
 ]
