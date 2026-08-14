@@ -427,17 +427,53 @@ def send_zoom_notifications(new_items: list[dict], base_url: str):
         print(f"  Zoom OAuth error: {exc}")
         return
 
+    # Optional safety net: if the Chatbot API refuses (e.g. the Marketplace app's
+    # shared access permissions are not authorized, which returns 403 code 7004),
+    # fall back to the User Chat API so Zoom is not silently skipped. Off by
+    # default because it changes the posting identity from the bot to the
+    # service-account user - set ZOOM_USER_CHAT_FALLBACK=true to enable.
+    allow_fallback = os.environ.get("ZOOM_USER_CHAT_FALLBACK", "").strip().lower() in (
+        "1", "true", "yes", "on")
+
+    delivered = 0
+    failed = 0
+
     for index, (channel_id, items) in enumerate(posts):
         pace(index)
         try:
+            ok = False
             if use_chatbot:
                 body = _build_chatbot_body(items)
                 ok = _send_via_chatbot(channel_id, body, token, robot_jid, account_id, admin_jid)
+                if not ok and allow_fallback and has_s2s_creds:
+                    print("  Zoom: chatbot refused, retrying via User Chat API")
+                    try:
+                        message = _build_user_chat_message(items)
+                        ok = _send_via_user_chat(channel_id, message, _get_access_token())
+                    except Exception as exc:
+                        print(f"  Zoom user-chat fallback failed: {exc}")
             else:
                 message = _build_user_chat_message(items)
                 ok = _send_via_user_chat(channel_id, message, token)
 
             if ok:
+                delivered += 1
                 print(f"  Zoom: posted \"{summary_text(items)}\" to {channel_id}")
+            else:
+                failed += 1
         except Exception as exc:
+            failed += 1
             print(f"  Zoom exception ({channel_id}): {exc}")
+
+    # Make total failure loud. This path used to log per-message errors and then
+    # let the run finish green, so Zoom Team Chat delivery was dead for months
+    # without anything surfacing it.
+    if failed and not delivered:
+        print(f"  [ERROR] Zoom: ALL {failed} message(s) failed to deliver. "
+              f"Zoom Team Chat is receiving nothing.")
+        if use_chatbot:
+            print("  [ERROR] If the errors above are 403 code 7004, the Marketplace app's "
+                  "Shared Access Permissions are not authorized: "
+                  "marketplace.zoom.us > My library > Release Notes Monitor > Update.")
+    elif failed:
+        print(f"  [WARN] Zoom: {delivered} delivered, {failed} failed.")

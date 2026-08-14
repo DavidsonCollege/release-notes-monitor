@@ -102,7 +102,8 @@ jobs:
           ZOOM_CHATBOT_CLIENT_ID: ${{ secrets.ZOOM_CHATBOT_CLIENT_ID }}
           ZOOM_CHATBOT_CLIENT_SECRET: ${{ secrets.ZOOM_CHATBOT_CLIENT_SECRET }}
           ZOOM_BOT_JID: ${{ secrets.ZOOM_BOT_JID }}
-          ZOOM_USER_JID: ${{ vars.ZOOM_USER_JID }}
+          ZOOM_USER_EMAIL: ${{ vars.ZOOM_USER_EMAIL }}
+          ZOOM_USER_CHAT_FALLBACK: ${{ vars.ZOOM_USER_CHAT_FALLBACK }}
           TEST_TEAMS: ${{ github.event.inputs.test_teams }}
           TEST_SLACK_CHANNEL: ${{ github.event.inputs.test_channel }}
           TEST_ZOOM_CHANNEL: ${{ github.event.inputs.test_zoom_channel }}
@@ -128,7 +129,8 @@ jobs:
           ZOOM_CHATBOT_CLIENT_ID: ${{ secrets.ZOOM_CHATBOT_CLIENT_ID }}
           ZOOM_CHATBOT_CLIENT_SECRET: ${{ secrets.ZOOM_CHATBOT_CLIENT_SECRET }}
           ZOOM_BOT_JID: ${{ secrets.ZOOM_BOT_JID }}
-          ZOOM_USER_JID: ${{ vars.ZOOM_USER_JID }}
+          ZOOM_USER_EMAIL: ${{ vars.ZOOM_USER_EMAIL }}
+          ZOOM_USER_CHAT_FALLBACK: ${{ vars.ZOOM_USER_CHAT_FALLBACK }}
         run: python scripts/check_releases.py
 
       - name: Commit and push changes
