@@ -120,56 +120,6 @@
     "date": "2026-06-25T01:06:17.954115+00:00"
   },
   {
-    "id": "03b6bc06dc04399d",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "Brain²: Release Notes Takeover",
-    "link": "https://feedback.clickup.com/changelog/brain-release-notes-takeover",
-    "summary": "Hey, Community!This week's ClickUpdates is a full Brain² takeover. Brain² self-improves, routes to the best models, and actually completes your work. It creates websites, builds slides, and manages projects while co-working with your entire team. Use every model you're used to, on every device, for...",
-    "date": "2026-07-02T13:47:29+00:00"
-  },
-  {
-    "id": "5fe6706279b6dc3c",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "👋 Ask ClickUp&apos;s Head of AI anything about Brain² (Reddit AMA)",
-    "link": "https://feedback.clickup.com/changelog/ask-clickups-head-of-ai-anything-about-brain-reddit-ama",
-    "summary": "Hey, everyone!Jay Hack, ClickUp's Head of AI, is hosting an AMA (Ask Me Anything) on Reddit all about Brain², the ground-up rebuild of ClickUp Brain.🗓️ When: Tuesday, July 7th, 9am–11am PT📍 Where: r/ClickUp on RedditBrain² isn't another chatbot. It's a context-aware AI coworker that understands...",
-    "date": "2026-06-30T19:47:15+00:00"
-  },
-  {
-    "id": "7c65b617cc4dc32b",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "The best AI is your AI. Brain² is here.",
-    "link": "https://feedback.clickup.com/changelog/the-best-ai-isyourai-brain-is-here",
-    "summary": "The best AI is Brain². Guaranteed.Brain² is your company AI that self-improves, routes to the best models, and actually completes your work - creating websites, building slides, and managing projects. It's multiplayer AI where human intelligence becomes your collective Brain.Your context. Already...",
-    "date": "2026-06-23T17:47:36+00:00"
-  },
-  {
-    "id": "5cc3318b9fb82a1d",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "Release Notes 4.04",
-    "link": "https://feedback.clickup.com/changelog/release-notes-404",
-    "summary": "Gantt Baselines, Brain goes Mobile, ClickUp in ChatGPT, and More!This week's ClickUpdates brings Gantt Baselines to track how your project plans shift over time, the full power of Brain to your mobile device, ClickUp right inside ChatGPT, and more ways to customize how your meetings are captured.✨...",
-    "date": "2026-05-05T14:07:51+00:00"
-  },
-  {
-    "id": "ee39cb69a4114687",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "Release Notes 4.03",
-    "link": "https://feedback.clickup.com/changelog/release-notes-403",
-    "summary": "Google Drive Automations, Granular Capacity in Workload View, and Smoother Teammate Onboarding!This week's release automates work between ClickUp and Google Drive, provides more detail into team capacity in Workload view, and lets you onboard invitees to teams faster.✨ Automate Workflows between...",
-    "date": "2026-04-08T13:54:50+00:00"
-  },
-  {
     "id": "6b3407881a469e45",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -700,6 +650,156 @@
     "date": "2026-08-13T00:00:00+00:00"
   },
   {
+    "id": "57b0ad1b45055065",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Skill and plugin security scanning (beta)",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-08-06T00:00:00+00:00"
+  },
+  {
+    "id": "7e165bbd73b00517",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Get started with skill and plugin scanning",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-08-06T00:00:00+00:00"
+  },
+  {
+    "id": "5cd35abac9141645",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Opus 5 launch",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-24T00:00:00+00:00"
+  },
+  {
+    "id": "39d1b7fc19de212d",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Opus 5",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-24T00:00:00+00:00"
+  },
+  {
+    "id": "2dccaec2bf94ce03",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "HIPAA configuration for your Claude organizations is now self-serve",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-14T00:00:00+00:00"
+  },
+  {
+    "id": "2005c82e484167da",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Try Gemini",
+    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
+    "summary": "",
+    "date": "2026-08-14T14:16:58.978118+00:00"
+  },
+  {
+    "id": "ee471d9e880a13c9",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We’re introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your act",
+    "link": "https://gemini.google/mac/",
+    "summary": "What: We’re introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
+    "date": "2026-08-14T14:16:58.978159+00:00"
+  },
+  {
+    "id": "2754336d1efcf5fc",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes se",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
+    "date": "2026-08-14T14:16:58.978170+00:00"
+  },
+  {
+    "id": "e2be92ce3ee7f254",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks li",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "What: We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analyzing several documents or multi-step projects like building a working prototype with the Canvas tool. We're excited to bring this model to all...",
+    "date": "2026-08-14T14:16:58.978175+00:00"
+  },
+  {
+    "id": "58b9d9ddb34c22df",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater c",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
+    "date": "2026-08-14T14:16:58.978180+00:00"
+  },
+  {
+    "id": "03b6bc06dc04399d",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Brain²: Release Notes Takeover",
+    "link": "https://feedback.clickup.com/changelog/brain-release-notes-takeover",
+    "summary": "Hey, Community!This week's ClickUpdates is a full Brain² takeover. Brain² self-improves, routes to the best models, and actually completes your work. It creates websites, builds slides, and manages projects while co-working with your entire team. Use every model you're used to, on every device, for...",
+    "date": "2026-07-02T13:47:29+00:00"
+  },
+  {
+    "id": "5fe6706279b6dc3c",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "👋 Ask ClickUp&apos;s Head of AI anything about Brain² (Reddit AMA)",
+    "link": "https://feedback.clickup.com/changelog/ask-clickups-head-of-ai-anything-about-brain-reddit-ama",
+    "summary": "Hey, everyone!Jay Hack, ClickUp's Head of AI, is hosting an AMA (Ask Me Anything) on Reddit all about Brain², the ground-up rebuild of ClickUp Brain.🗓️ When: Tuesday, July 7th, 9am–11am PT📍 Where: r/ClickUp on RedditBrain² isn't another chatbot. It's a context-aware AI coworker that understands...",
+    "date": "2026-06-30T19:47:15+00:00"
+  },
+  {
+    "id": "7c65b617cc4dc32b",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "The best AI is your AI. Brain² is here.",
+    "link": "https://feedback.clickup.com/changelog/the-best-ai-isyourai-brain-is-here",
+    "summary": "The best AI is Brain². Guaranteed.Brain² is your company AI that self-improves, routes to the best models, and actually completes your work - creating websites, building slides, and managing projects. It's multiplayer AI where human intelligence becomes your collective Brain.Your context. Already...",
+    "date": "2026-06-23T17:47:36+00:00"
+  },
+  {
+    "id": "5cc3318b9fb82a1d",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Release Notes 4.04",
+    "link": "https://feedback.clickup.com/changelog/release-notes-404",
+    "summary": "Gantt Baselines, Brain goes Mobile, ClickUp in ChatGPT, and More!This week's ClickUpdates brings Gantt Baselines to track how your project plans shift over time, the full power of Brain to your mobile device, ClickUp right inside ChatGPT, and more ways to customize how your meetings are captured.✨...",
+    "date": "2026-05-05T14:07:51+00:00"
+  },
+  {
+    "id": "ee39cb69a4114687",
+    "product_id": "clickup",
+    "product_name": "ClickUp",
+    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
+    "title": "Release Notes 4.03",
+    "link": "https://feedback.clickup.com/changelog/release-notes-403",
+    "summary": "Google Drive Automations, Granular Capacity in Workload View, and Smoother Teammate Onboarding!This week's release automates work between ClickUp and Google Drive, provides more detail into team capacity in Workload view, and lets you onboard invitees to teams faster.✨ Automate Workflows between...",
+    "date": "2026-04-08T13:54:50+00:00"
+  },
+  {
     "id": "01fe930feaaa6a09",
     "product_id": "ems",
     "product_name": "EMS",
@@ -898,105 +998,5 @@
     "link": "https://scribe.launchnotes.io/announcements/switch-between-light-dark-or-system-modes",
     "summary": "Loading...",
     "date": "August 4, 2026"
-  },
-  {
-    "id": "d53257aa9dabd30c",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Switch between light, dark, or system modes",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-08-04T03:11:10.096346+00:00"
-  },
-  {
-    "id": "91758f4b8c913e21",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New user group ID request fields for event_subscription endpoints",
-    "link": "https://developers.zoom.us/changelog/app-marketplace/august-03-2026",
-    "summary": "Tags: api-release | Added `user_group_ids` and `user_group_id` request fields.",
-    "date": "2026-08-03T00:00:00+00:00"
-  },
-  {
-    "id": "2a89fd9f701ae3d9",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Search API for Canvas",
-    "link": "https://developers.zoom.us/changelog/canvas/august-03-2026",
-    "summary": "Tags: api-release | Added new API added to Canvas.",
-    "date": "2026-08-03T00:00:00+00:00"
-  },
-  {
-    "id": "a6e3b00b03495bdf",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Add new response fields to Chat Channel Mention Group API",
-    "link": "https://developers.zoom.us/changelog/chat/august-03-2026",
-    "summary": "Tags: api-release | Added new display_name response field to the Chat Channel Mention Group API.",
-    "date": "2026-08-03T00:00:00+00:00"
-  },
-  {
-    "id": "2b02e477401f872a",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Introducing My Notes API and webhooks",
-    "link": "https://developers.zoom.us/changelog/my-notes/august-03-2026",
-    "summary": "Tags: api-release, new-feature | We are pleased to introduce one of our new products My Notes APIs and webhooks.",
-    "date": "2026-08-03T00:00:00+00:00"
-  },
-  {
-    "id": "65ae18c1e7a95e45",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 1.0.49",
-    "link": "https://developers.zoom.us/changelog/probe-sdk/javascript/1.0.49",
-    "summary": "Tags: bug-fix, sdk-version | Fixes an `ice-ufrag` issue in SDP offers when using WASM DataChannel, ensuring proper connection negotiation. Patches the Minami template so the JSDoc index navigation consistently displays ProbeSDK.",
-    "date": "2026-08-03T00:00:00+00:00"
-  },
-  {
-    "id": "608861e163b9edca",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.6 (25G72)",
-    "link": "https://developer.apple.com/news/releases/?id=07272026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-07-27T17:00:00+00:00"
-  },
-  {
-    "id": "0ce49c6223ed8a15",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Provide more clear, contextual feedback with timestamped comments in Google Drive videos",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/provide-more-clear-contextual-feedback-with-timestamped-comments-in-Google-Drive-videos.html",
-    "summary": "We are introducing timestamped comments for videos in Google Drive on the web. Users can now anchor comments to a specific time mark in a video, making video collaboration more direct, precise, and contextual.When reviewing a video file, users can choose between adding a timestamped comment or a...",
-    "date": "2026-08-03T16:37:24+00:00"
-  },
-  {
-    "id": "37140ed16db6e666",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "July 3, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/51063277240596-July-3-2026",
-    "summary": "",
-    "date": "2026-07-09T15:42:53Z"
-  },
-  {
-    "id": "09941197092bd79d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - July 31, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-31-2026.html",
-    "summary": "Visual screenshots in Google Meet meeting notes will soon be generally available, pre-configure admin settings in advanceIn the coming weeks, we’re starting the rollout of visual screenshots for the ‘Take notes for me’ feature in Google Meet. Visual screenshots automatically capture presented...",
-    "date": "2026-07-31T19:25:01+00:00"
   }
 ]
