@@ -1,0 +1,10 @@
+# The image only needs app/ - keep the build context small.
+.git
+.github
+data
+docs
+public
+_claude-patches
+*.patch
+**/__pycache__
+.DS_Store
