@@ -28,6 +28,10 @@ from gchat_notify import send_gchat_notifications
 # --- Configuration ---
 BASE_DIR = Path(__file__).resolve().parent.parent
 CONFIG_FILE = BASE_DIR / "config" / "teams.json"
+# When set, team/product config is read from the Azure Container App's public
+# config API (backed by Azure Table Storage, written by the admin dashboard).
+# Falls back to CONFIG_FILE if unset, unreachable, or empty.
+CONFIG_API_URL = os.environ.get("CONFIG_API_URL", "").strip()
 SEEN_FILE = BASE_DIR / "data" / "seen.json"
 FEEDS_DIR = BASE_DIR / "docs" / "feeds"
 MAX_FEED_ITEMS = 100  # Max items to keep in each team's RSS feed
@@ -42,6 +46,35 @@ def load_json(path: Path) -> dict:
         with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
     return {}
+
+
+def load_config() -> dict:
+    """Load team/product config.
+
+    Prefers the Azure config API (CONFIG_API_URL) so that edits made in the
+    admin dashboard take effect without a commit. Falls back to the committed
+    config/teams.json whenever the API is unset, unreachable, or returns no
+    teams -- a bad deploy should never silently stop all notifications.
+    """
+    if CONFIG_API_URL:
+        url = f"{CONFIG_API_URL.rstrip('/')}/api/config"
+        try:
+            resp = requests.get(
+                url, timeout=REQUEST_TIMEOUT,
+                headers={"User-Agent": "release-notes-monitor"},
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            if isinstance(data, dict) and data.get("teams"):
+                print(f"Config source: {url} ({len(data['teams'])} teams)")
+                return data
+            print(f"[WARN] {url} returned no teams; falling back to {CONFIG_FILE.name}")
+        except Exception as exc:
+            print(f"[WARN] Could not load config from {url}: {exc}")
+            print(f"[WARN] Falling back to {CONFIG_FILE.name}")
+    else:
+        print(f"Config source: {CONFIG_FILE.name} (CONFIG_API_URL not set)")
+    return load_json(CONFIG_FILE)
 
 
 def save_json(path: Path, data: dict):
@@ -970,7 +1003,7 @@ def main():
     print("=" * 60)
 
     # Load config and seen data
-    config = load_json(CONFIG_FILE)
+    config = load_config()
     seen = load_json(SEEN_FILE)
     teams = config.get("teams", [])
 
@@ -1048,8 +1081,13 @@ def main():
                 raw_items = check_product(product)
                 print(f"  Found {len(raw_items)} items from source")
 
-                if product_id not in seen[team_id]:
+                # First time we've ever seen this product: seed the seen list
+                # without notifying, so newly added products don't dump their
+                # whole recent backlog into Slack/Zoom/Chat on the first run.
+                first_run = product_id not in seen[team_id]
+                if first_run:
                     seen[team_id][product_id] = []
+                    print(f"    First run for {product_id} - baselining, no notifications")
 
                 # Always enrich the latest items for the feed
                 for i, raw_item in enumerate(raw_items[:RECENT_PER_PRODUCT]):
@@ -1077,8 +1115,11 @@ def main():
                     # Track new vs seen
                     if item_id not in seen[team_id][product_id]:
                         seen[team_id][product_id].append(item_id)
-                        new_team_items.append(enriched_item)
-                        print(f"    NEW: {raw_item['title'][:80]}")
+                        if first_run:
+                            print(f"    BASELINE: {raw_item['title'][:80]}")
+                        else:
+                            new_team_items.append(enriched_item)
+                            print(f"    NEW: {raw_item['title'][:80]}")
                     else:
                         print(f"    OK: {raw_item['title'][:80]}")
 
