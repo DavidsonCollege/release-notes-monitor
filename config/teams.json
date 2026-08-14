@@ -65,21 +65,6 @@
           }
         },
         {
-          "id": "ems",
-          "name": "EMS",
-          "domain": "accruent.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-          "release_notes_url": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
-          "source": {
-            "type": "scrape",
-            "url": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
-            "selector": "a, li a",
-            "title_selector": null,
-            "date_selector": null,
-            "summary_selector": null
-          }
-        },
-        {
           "id": "google-workspace",
           "name": "Google Workspace",
           "domain": "google.com",
