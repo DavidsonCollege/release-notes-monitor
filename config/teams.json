@@ -243,20 +243,6 @@
           }
         },
         {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "domain": "openai.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-          "source": {
-            "type": "intercom_article",
-            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-            "impersonate": "safari",
-            "date_selector": "h1",
-            "title_tag": "h2"
-          },
-          "release_notes_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
-        },
-        {
           "id": "claude",
           "name": "Claude",
           "domain": "claude.ai",
