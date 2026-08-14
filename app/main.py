@@ -59,9 +59,40 @@ def get_admin_config():
     return ConfigStore().read_with_etag()
 
 
+def _truthy(value: str | None) -> bool:
+    return (value or "").strip().lower() in ("1", "true", "yes", "on")
+
+
 @app.put("/api/admin/config", dependencies=[Depends(require_authenticated)])
 async def save_admin_config(request: Request):
+    """Save the whole config document.
+
+    ConfigStore.write() is a full REPLACE, so a client that PUTs a partial
+    document silently erases the teams it left out. The if-match ETag guards
+    against concurrent edits but not against this. Refuse a save that drops a
+    team unless the caller opts in with ?allow_team_removal=true.
+    """
     body = await request.json()
     etag = request.headers.get("if-match")
     config = body.get("config", body)
-    return ConfigStore().write(config, etag=etag)
+    store = ConfigStore()
+
+    if not _truthy(request.query_params.get("allow_team_removal")):
+        existing = {t.get("id") for t in store.read().get("teams", []) if t.get("id")}
+        incoming = {t.get("id") for t in config.get("teams", []) if t.get("id")}
+        dropped = sorted(existing - incoming)
+        if dropped:
+            raise HTTPException(
+                status_code=409,
+                detail={
+                    "error": "team_removal_blocked",
+                    "message": (
+                        "This save would remove team(s) that currently exist, which "
+                        "usually means a partial config was submitted. Re-send with "
+                        "?allow_team_removal=true if the removal is intended."
+                    ),
+                    "teams": dropped,
+                },
+            )
+
+    return store.write(config, etag=etag)
