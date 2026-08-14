@@ -650,56 +650,6 @@
     "date": "2026-08-13T00:00:00+00:00"
   },
   {
-    "id": "2154a50fbf9ae68d",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Google Drive is now in Library",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "If you have the Google Drive plugin connected, you can now see and browse your Google Drive files and folders directly from Library, including items shared directly with you. You can also quickly pull up a Drive file from the composer or with @mentions and add it to any chat—without uploading it...",
-    "date": "2026-08-13T00:00:00+00:00"
-  },
-  {
-    "id": "57f48166e48868a4",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Computer History for macOS",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "Computer History is an optional feature in the ChatGPT macOS app that lets ChatGPT and Codex reference selected activity from apps and websites, helping users continue work without re-explaining every detail. It records interaction events—not screenshots, screen recordings, microphone input, or...",
-    "date": "2026-08-13T00:00:00+00:00"
-  },
-  {
-    "id": "7213db0347015133",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Restaurant reservations in ChatGPT",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "ChatGPT can now help you find available restaurant reservations with OpenTable, Resy, and Yelp.Ask in the chat and include where and when you’d like to eat, your party size, and any preferences, such as cuisine, budget, dietary needs, or atmosphere. You’ll see available reservation times directly...",
-    "date": "2026-08-10T00:00:00+00:00"
-  },
-  {
-    "id": "004cbaeeaaf39b1d",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "ChatGPT app experience updates",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "We’ve made it easier to bring documents and saved files into your conversations, find what you need, and pick up where you left off. Writing, files, and search Keep your formatting when you paste. On the web, text copied from Google Docs or another ChatGPT conversation keeps its headings, bold...",
-    "date": "2026-08-07T00:00:00+00:00"
-  },
-  {
-    "id": "539d7f211aa488e9",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Files and Projects in ChatGPT Voice",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "GPT-Live in ChatGPT Voice now supports file uploads and Projects. You can now upload files in a voice conversation and analyze its contents or ask questions. You can also use voice in Projects, referencing recent project chats, sources, and project instructions.Learn more about ChatGPT Voice.",
-    "date": "2026-08-07T00:00:00+00:00"
-  },
-  {
     "id": "57b0ad1b45055065",
     "product_id": "claude",
     "product_name": "Claude",
@@ -798,6 +748,56 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
     "date": "2026-08-14T14:16:58.978180+00:00"
+  },
+  {
+    "id": "2154a50fbf9ae68d",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Google Drive is now in Library",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "If you have the Google Drive plugin connected, you can now see and browse your Google Drive files and folders directly from Library, including items shared directly with you. You can also quickly pull up a Drive file from the composer or with @mentions and add it to any chat—without uploading it...",
+    "date": "2026-08-13T00:00:00+00:00"
+  },
+  {
+    "id": "57f48166e48868a4",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Computer History for macOS",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "Computer History is an optional feature in the ChatGPT macOS app that lets ChatGPT and Codex reference selected activity from apps and websites, helping users continue work without re-explaining every detail. It records interaction events—not screenshots, screen recordings, microphone input, or...",
+    "date": "2026-08-13T00:00:00+00:00"
+  },
+  {
+    "id": "7213db0347015133",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Restaurant reservations in ChatGPT",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "ChatGPT can now help you find available restaurant reservations with OpenTable, Resy, and Yelp.Ask in the chat and include where and when you’d like to eat, your party size, and any preferences, such as cuisine, budget, dietary needs, or atmosphere. You’ll see available reservation times directly...",
+    "date": "2026-08-10T00:00:00+00:00"
+  },
+  {
+    "id": "004cbaeeaaf39b1d",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "ChatGPT app experience updates",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "We’ve made it easier to bring documents and saved files into your conversations, find what you need, and pick up where you left off. Writing, files, and search Keep your formatting when you paste. On the web, text copied from Google Docs or another ChatGPT conversation keeps its headings, bold...",
+    "date": "2026-08-07T00:00:00+00:00"
+  },
+  {
+    "id": "539d7f211aa488e9",
+    "product_id": "chatgpt",
+    "product_name": "ChatGPT",
+    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
+    "title": "Files and Projects in ChatGPT Voice",
+    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "summary": "GPT-Live in ChatGPT Voice now supports file uploads and Projects. You can now upload files in a voice conversation and analyze its contents or ask questions. You can also use voice in Projects, referencing recent project chats, sources, and project instructions.Learn more about ChatGPT Voice.",
+    "date": "2026-08-07T00:00:00+00:00"
   },
   {
     "id": "5afa0bdb207b1b17",
