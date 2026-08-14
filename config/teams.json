@@ -54,17 +54,6 @@
           }
         },
         {
-          "id": "clickup",
-          "name": "ClickUp",
-          "domain": "clickup.com",
-          "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-          "release_notes_url": "https://clickup.canny.io/changelog",
-          "source": {
-            "type": "rss",
-            "feed_url": "https://feedback.clickup.com/api/changelog/feed.rss"
-          }
-        },
-        {
           "id": "google-workspace",
           "name": "Google Workspace",
           "domain": "google.com",
@@ -252,18 +241,7 @@
             "type": "rss",
             "feed_url": "https://developers.zoom.us/changelog/rss.xml"
           }
-        }
-      ]
-    },
-    {
-      "id": "ai",
-      "name": "AI",
-      "description": "",
-      "slack_channel": "C0AJ45N511V",
-      "zoom_channel": "9fe0109f5a2841e59bbd79b9673d2046",
-      "gchat_webhook": "https://chat.googleapis.com/v1/spaces/AAQAaI6HYyg/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=d-BnDhF_4yiqq4K0hgACsEVuUT2TG1I-4TgbXUF4EC8",
-      "gchat_space_name": "AI Product Updates",
-      "products": [
+        },
         {
           "id": "chatgpt",
           "name": "ChatGPT",
@@ -271,7 +249,10 @@
           "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
           "source": {
             "type": "intercom_article",
-            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+            "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+            "impersonate": "safari",
+            "date_selector": "h1",
+            "title_tag": "h2"
           },
           "release_notes_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
         },
@@ -301,7 +282,9 @@
           },
           "release_notes_url": "https://gemini.google/release-notes/"
         }
-      ]
+      ],
+      "slack_channel_name": "dc-product-updates",
+      "zoom_channel_name": "DC Product Updates"
     }
   ]
 }
