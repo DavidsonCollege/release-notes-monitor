@@ -710,46 +710,6 @@
     "date": "2026-08-14T14:16:58.978118+00:00"
   },
   {
-    "id": "ca023babef112cd9",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your act",
-    "link": "https://gemini.google/mac/",
-    "summary": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
-    "date": "2026-08-16T19:10:17.970255+00:00"
-  },
-  {
-    "id": "c31440c5be7f2778",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes s",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
-    "date": "2026-08-16T19:10:17.970294+00:00"
-  },
-  {
-    "id": "46a4095c941d315e",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks li",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analysing several documents or multi-step projects like building a working prototype with the Canvas tool. We're excited to bring this model to all...",
-    "date": "2026-08-16T19:10:17.970304+00:00"
-  },
-  {
-    "id": "58b9d9ddb34c22df",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater c",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
-    "date": "2026-08-14T14:16:58.978180+00:00"
-  },
-  {
     "id": "ee471d9e880a13c9",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -778,6 +738,46 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "What: We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analyzing several documents or multi-step projects like building a working prototype with the Canvas tool. We're excited to bring this model to all...",
     "date": "2026-08-14T14:16:58.978175+00:00"
+  },
+  {
+    "id": "58b9d9ddb34c22df",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater c",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
+    "date": "2026-08-14T14:16:58.978180+00:00"
+  },
+  {
+    "id": "ca023babef112cd9",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your act",
+    "link": "https://gemini.google/mac/",
+    "summary": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
+    "date": "2026-08-16T19:10:17.970255+00:00"
+  },
+  {
+    "id": "c31440c5be7f2778",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes s",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
+    "date": "2026-08-16T19:10:17.970294+00:00"
+  },
+  {
+    "id": "46a4095c941d315e",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks li",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analysing several documents or multi-step projects like building a working prototype with the Canvas tool. We're excited to bring this model to all...",
+    "date": "2026-08-16T19:10:17.970304+00:00"
   },
   {
     "id": "c510432506c56d94",
