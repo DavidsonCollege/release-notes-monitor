@@ -710,6 +710,46 @@
     "date": "2026-08-14T14:16:58.978118+00:00"
   },
   {
+    "id": "ca023babef112cd9",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your act",
+    "link": "https://gemini.google/mac/",
+    "summary": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
+    "date": "2026-08-16T19:10:17.970255+00:00"
+  },
+  {
+    "id": "c31440c5be7f2778",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes s",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
+    "date": "2026-08-16T19:10:17.970294+00:00"
+  },
+  {
+    "id": "46a4095c941d315e",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks li",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analysing several documents or multi-step projects like building a working prototype with the Canvas tool. We're excited to bring this model to all...",
+    "date": "2026-08-16T19:10:17.970304+00:00"
+  },
+  {
+    "id": "58b9d9ddb34c22df",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater c",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
+    "date": "2026-08-14T14:16:58.978180+00:00"
+  },
+  {
     "id": "ee471d9e880a13c9",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -738,16 +778,6 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "What: We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analyzing several documents or multi-step projects like building a working prototype with the Canvas tool. We're excited to bring this model to all...",
     "date": "2026-08-14T14:16:58.978175+00:00"
-  },
-  {
-    "id": "58b9d9ddb34c22df",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater c",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
-    "date": "2026-08-14T14:16:58.978180+00:00"
   },
   {
     "id": "c510432506c56d94",
@@ -968,35 +998,5 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
     "summary": "The Create design autofill job API now accepts a type field to support future functionality for different autofill sources. The first supported value is create_from_brand_template, which is the existing functionality for creating new designs from a brand template. For backwards compatibility,...",
     "date": "2026-06-18T01:34:21.226187+00:00"
-  },
-  {
-    "id": "93fd5714929302d7",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New response fields for Accounts API endpoints",
-    "link": "https://developers.zoom.us/changelog/accounts/august-10-2026",
-    "summary": "Tags: api-release | Added response fields to enable the summary template and the meeting summary with AI Companion.",
-    "date": "2026-08-10T00:00:00+00:00"
-  },
-  {
-    "id": "ace909d184978278",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added handler details to Call Logs APIs",
-    "link": "https://developers.zoom.us/changelog/phone/august-10-2026",
-    "summary": "Tags: api-release | Added handler_ext_id, handler_ext_type, handler_ext_number, and handler_name response fields to Call Logs APIs.",
-    "date": "2026-08-10T00:00:00+00:00"
-  },
-  {
-    "id": "914e5ec2fb1c31a6",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New response fields in Groups and Users API endpoints",
-    "link": "https://developers.zoom.us/changelog/users/august-10-2026",
-    "summary": "Tags: api-release | Added response fields in Users API endpoints to enable summary template. Added meeting summary response fields for AI Companion for Groups API endpoints.",
-    "date": "2026-08-10T00:00:00+00:00"
   }
 ]
