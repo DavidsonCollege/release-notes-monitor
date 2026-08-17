@@ -120,6 +120,16 @@
     "date": "2026-06-30T01:06:14.398332+00:00"
   },
   {
+    "id": "c7ddbde99d810803",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Enhanced external sharing insights now available in Drive Inventory Reporting",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/enhanced-external-sharing-insights-now-available-in-Drive-Inventory-Reporting.html",
+    "summary": "Administrators using Drive Inventory Reporting in Google BigQuery can now access granular external sharing fields designed to simplify complex permission structures. By automatically consolidating direct permissions, group memberships, and public links into clear signals, this update helps...",
+    "date": "2026-08-17T17:34:55+00:00"
+  },
+  {
     "id": "69fb5830159d7ae4",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/use-google-sheets-canvas-to-visualize-data.html",
     "summary": "We’re excited to launch Sheets canvas, a new Gemini-powered capability that transforms your spreadsheets into custom, interactive, read-write applications using simple natural language prompts. It acts as a dynamic visualization layered directly on top of your spreadsheet data, allowing you and...",
     "date": "2026-08-13T16:58:36+00:00"
-  },
-  {
-    "id": "0b1771b5ea1b6b3a",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New usability features in Connected Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/new-usability-features-connected-sheets-google.html",
-    "summary": "Google Workspace is introducing two usability enhancements to Connected Sheets to improve data presentation and give more flexibility when analyzing BigQuery data. List parameters: When writing a query, users can reference multiple values in a single list parameter by selecting a grid range in a...",
-    "date": "2026-08-11T22:25:40+00:00"
   },
   {
     "id": "c7394205bc3ad5a3",
@@ -620,44 +620,44 @@
     "date": "2026-09-27T00:00:00+00:00"
   },
   {
-    "id": "6a3ceae0ef608194",
+    "id": "71fde96bb6eb2766",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New endpoints for DataTable Contents APIs with enhancements to File Management API",
-    "link": "https://developers.zoom.us/changelog/canvas/august-13-2026",
-    "summary": "Tags: api-release | Added new endpoints and made some enhancements to request fields.",
-    "date": "2026-08-13T00:00:00+00:00"
+    "title": "Added Chat Migration API",
+    "link": "https://developers.zoom.us/changelog/chat/august-17-2026",
+    "summary": "Tags: api-release | Added an API to delete tabs from migrated chat channels.",
+    "date": "2026-08-17T00:00:00+00:00"
   },
   {
-    "id": "51819e06d1576ee0",
+    "id": "38b2885637edb4d1",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Four new APIs and five Queues webhook events",
-    "link": "https://developers.zoom.us/changelog/contact-center/august-13-2026",
-    "summary": "Tags: api-release | Added three new Reports APIs, one new Campaigns API and five new Queues webhooks. Added over a dozen fields across the Reports V2 (CX Analytics), Queue Waiting Experiences, Address Books, Operating Hours, Campaigns, Users, and Queues API endpoints and six Teams webhook events.",
-    "date": "2026-08-13T00:00:00+00:00"
+    "title": "Four new endpoints and five new events; new fields in dozens of API endpoints and new fields in five Teams events",
+    "link": "https://developers.zoom.us/changelog/contact-center/august-17-2026",
+    "summary": "Tags: api-release | Three new Reports endpoints, one new Campaigns endpoint, and five new Queues webhook events; new fields in dozens of API endpoints and new fields in five Teams events.",
+    "date": "2026-08-17T00:00:00+00:00"
   },
   {
-    "id": "b8e7798c9c1206cc",
+    "id": "d9c7175c91b018e4",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Two new Summaries APIs; new prevent_screen_capture request and response fields",
-    "link": "https://developers.zoom.us/changelog/meetings/august-13-2026",
-    "summary": "Tags: api-release | Add two new Summaries APIs; add prevent_screen_capture fields in four Meetings APIs and in one Meetings webhook event.",
-    "date": "2026-08-13T00:00:00+00:00"
+    "title": "Two new Summaries APIs; new prevent_screen_capture fields in 8 endpoints and 1 event",
+    "link": "https://developers.zoom.us/changelog/meetings/august-17-2026",
+    "summary": "Tags: api-release | Two new Summaries APIs; new prevent_screen_capture fields in eight Meetings API endpoints and one Meetings webhook event.",
+    "date": "2026-08-17T00:00:00+00:00"
   },
   {
-    "id": "1d59b4a7759bb358",
+    "id": "27374ae4e8166b50",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Add new imports forecast API",
-    "link": "https://developers.zoom.us/changelog/workforce-management/august-13-2026",
-    "summary": "Tags: api-release | Add a new imports forecast API.",
-    "date": "2026-08-13T00:00:00+00:00"
+    "title": "New webhook event added",
+    "link": "https://developers.zoom.us/changelog/my-notes/august-17-2026",
+    "summary": "Tags: api-release | New webhook event added.",
+    "date": "2026-08-17T00:00:00+00:00"
   },
   {
     "id": "57b0ad1b45055065",
@@ -758,6 +758,56 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
     "date": "2026-08-14T14:16:58.978180+00:00"
+  },
+  {
+    "id": "0b1771b5ea1b6b3a",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New usability features in Connected Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/new-usability-features-connected-sheets-google.html",
+    "summary": "Google Workspace is introducing two usability enhancements to Connected Sheets to improve data presentation and give more flexibility when analyzing BigQuery data. List parameters: When writing a query, users can reference multiple values in a single list parameter by selecting a grid range in a...",
+    "date": "2026-08-11T22:25:40+00:00"
+  },
+  {
+    "id": "6a3ceae0ef608194",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New endpoints for DataTable Contents APIs with enhancements to File Management API",
+    "link": "https://developers.zoom.us/changelog/canvas/august-13-2026",
+    "summary": "Tags: api-release | Added new endpoints and made some enhancements to request fields.",
+    "date": "2026-08-13T00:00:00+00:00"
+  },
+  {
+    "id": "51819e06d1576ee0",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Four new APIs and five Queues webhook events",
+    "link": "https://developers.zoom.us/changelog/contact-center/august-13-2026",
+    "summary": "Tags: api-release | Added three new Reports APIs, one new Campaigns API and five new Queues webhooks. Added over a dozen fields across the Reports V2 (CX Analytics), Queue Waiting Experiences, Address Books, Operating Hours, Campaigns, Users, and Queues API endpoints and six Teams webhook events.",
+    "date": "2026-08-13T00:00:00+00:00"
+  },
+  {
+    "id": "b8e7798c9c1206cc",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Two new Summaries APIs; new prevent_screen_capture request and response fields",
+    "link": "https://developers.zoom.us/changelog/meetings/august-13-2026",
+    "summary": "Tags: api-release | Add two new Summaries APIs; add prevent_screen_capture fields in four Meetings APIs and in one Meetings webhook event.",
+    "date": "2026-08-13T00:00:00+00:00"
+  },
+  {
+    "id": "1d59b4a7759bb358",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Add new imports forecast API",
+    "link": "https://developers.zoom.us/changelog/workforce-management/august-13-2026",
+    "summary": "Tags: api-release | Add a new imports forecast API.",
+    "date": "2026-08-13T00:00:00+00:00"
   },
   {
     "id": "11f7e96874d4c2ef",
@@ -948,55 +998,5 @@
     "link": "https://feedback.clickup.com/changelog/ask-clickups-head-of-ai-anything-about-brain-reddit-ama",
     "summary": "Hey, everyone!Jay Hack, ClickUp's Head of AI, is hosting an AMA (Ask Me Anything) on Reddit all about Brain², the ground-up rebuild of ClickUp Brain.🗓️ When: Tuesday, July 7th, 9am–11am PT📍 Where: r/ClickUp on RedditBrain² isn't another chatbot. It's a context-aware AI coworker that understands...",
     "date": "2026-06-30T19:47:15+00:00"
-  },
-  {
-    "id": "7c65b617cc4dc32b",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "The best AI is your AI. Brain² is here.",
-    "link": "https://feedback.clickup.com/changelog/the-best-ai-isyourai-brain-is-here",
-    "summary": "The best AI is Brain². Guaranteed.Brain² is your company AI that self-improves, routes to the best models, and actually completes your work - creating websites, building slides, and managing projects. It's multiplayer AI where human intelligence becomes your collective Brain.Your context. Already...",
-    "date": "2026-06-23T17:47:36+00:00"
-  },
-  {
-    "id": "5cc3318b9fb82a1d",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "Release Notes 4.04",
-    "link": "https://feedback.clickup.com/changelog/release-notes-404",
-    "summary": "Gantt Baselines, Brain goes Mobile, ClickUp in ChatGPT, and More!This week's ClickUpdates brings Gantt Baselines to track how your project plans shift over time, the full power of Brain to your mobile device, ClickUp right inside ChatGPT, and more ways to customize how your meetings are captured.✨...",
-    "date": "2026-05-05T14:07:51+00:00"
-  },
-  {
-    "id": "ee39cb69a4114687",
-    "product_id": "clickup",
-    "product_name": "ClickUp",
-    "icon_url": "https://www.google.com/s2/favicons?domain=clickup.com&sz=64",
-    "title": "Release Notes 4.03",
-    "link": "https://feedback.clickup.com/changelog/release-notes-403",
-    "summary": "Google Drive Automations, Granular Capacity in Workload View, and Smoother Teammate Onboarding!This week's release automates work between ClickUp and Google Drive, provides more detail into team capacity in Workload view, and lets you onboard invitees to teams faster.✨ Automate Workflows between...",
-    "date": "2026-04-08T13:54:50+00:00"
-  },
-  {
-    "id": "01fe930feaaa6a09",
-    "product_id": "ems",
-    "product_name": "EMS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "upgrade",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
-    "summary": "",
-    "date": "2026-03-06T17:53:58.565738+00:00"
-  },
-  {
-    "id": "7aba50c4d8071e11",
-    "product_id": "ems",
-    "product_name": "EMS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "224.3.0",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
-    "summary": "",
-    "date": "2026-03-06T17:53:58.565789+00:00"
   }
 ]
