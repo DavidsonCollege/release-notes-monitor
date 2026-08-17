@@ -320,7 +320,7 @@
       "name": "oracle-api-dev",
       "is_private": false,
       "topic": "",
-      "num_members": 3
+      "num_members": 2
     },
     {
       "id": "C0T4LGTKJ",
@@ -845,14 +845,14 @@
       "name": "temp-duo-desktop",
       "is_private": false,
       "topic": "",
-      "num_members": 12
+      "num_members": 11
     },
     {
       "id": "C0A2V1GMGKZ",
       "name": "temp-oracle-security-doc",
       "is_private": false,
       "topic": "",
-      "num_members": 4
+      "num_members": 3
     },
     {
       "id": "C3D661EVA",
@@ -981,6 +981,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-08-17T11:40:28.781238+00:00",
+  "last_updated": "2026-08-17T12:10:58.382351+00:00",
   "fetch_status": "success"
 }
