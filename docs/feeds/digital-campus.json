@@ -70,6 +70,26 @@
     "date": "2026-07-24T17:09:51Z"
   },
   {
+    "id": "4efcf3bff8ee4b0d",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an impo",
+    "link": "https://www.canva.dev/docs/connect/api-reference/assets/get-asset/",
+    "summary": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an import filename. This issue has been fixed, and the API now returns the asset with an empty name.",
+    "date": "2026-08-17T05:46:06.436359+00:00"
+  },
+  {
+    "id": "610018693117fd7e",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "Previously, the List folder items API returned a 500 Internal Server Error when a folder contained an image that didn't have a title or an import file",
+    "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
+    "summary": "Previously, the List folder items API returned a 500 Internal Server Error when a folder contained an image that didn't have a title or an import filename. This issue has been fixed, and the API now returns the image with an empty name.",
+    "date": "2026-08-17T05:46:06.436385+00:00"
+  },
+  {
     "id": "fc203cbbb45411e3",
     "product_id": "canva",
     "product_name": "Canva",
@@ -98,26 +118,6 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/analytics/get-design-analytics/",
     "summary": "New preview APIs are available: Get design analytics, Get design analytics viewers, Get design analytics views over time, Get design analytics page views, and Get design analytics links. These APIs let you retrieve engagement metrics for a design shared via Canva.",
     "date": "2026-06-30T01:06:14.398332+00:00"
-  },
-  {
-    "id": "db1b79e0952750cf",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "You can now autofill a new design from an existing design that contains autofill data fields. The new Get design dataset API returns the data field na",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-dataset/",
-    "summary": "You can now autofill a new design from an existing design that contains autofill data fields. The new Get design dataset API returns the data field names and types for a design, and the Create design autofill job API now supports a create_from_design value for type that uses those fields to create...",
-    "date": "2026-06-26T01:17:39.250782+00:00"
-  },
-  {
-    "id": "cb99ad42a7c1a469",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Create design autofill job API now accepts video data values, letting you autofill an image data field with a video asset. Autofilling a video is",
-    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
-    "summary": "The Create design autofill job API now accepts video data values, letting you autofill an image data field with a video asset. Autofilling a video is currently a preview feature.",
-    "date": "2026-06-25T01:06:17.954115+00:00"
   },
   {
     "id": "69fb5830159d7ae4",
@@ -750,6 +750,26 @@
     "date": "2026-08-14T14:16:58.978180+00:00"
   },
   {
+    "id": "db1b79e0952750cf",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "You can now autofill a new design from an existing design that contains autofill data fields. The new Get design dataset API returns the data field na",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-dataset/",
+    "summary": "You can now autofill a new design from an existing design that contains autofill data fields. The new Get design dataset API returns the data field names and types for a design, and the Create design autofill job API now supports a create_from_design value for type that uses those fields to create...",
+    "date": "2026-06-26T01:17:39.250782+00:00"
+  },
+  {
+    "id": "cb99ad42a7c1a469",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Create design autofill job API now accepts video data values, letting you autofill an image data field with a video asset. Autofilling a video is",
+    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
+    "summary": "The Create design autofill job API now accepts video data values, letting you autofill an image data field with a video asset. Autofilling a video is currently a preview feature.",
+    "date": "2026-06-25T01:06:17.954115+00:00"
+  },
+  {
     "id": "ca023babef112cd9",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -978,25 +998,5 @@
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
     "date": "2026-03-06T17:53:58.565857+00:00"
-  },
-  {
-    "id": "6aa653e3e373f710",
-    "product_id": "ems",
-    "product_name": "EMS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "223.3.0",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
-    "summary": "",
-    "date": "2026-03-06T17:53:58.565888+00:00"
-  },
-  {
-    "id": "c4a23313f8f2e2ad",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Create design autofill job API now accepts a type field to support future functionality for different autofill sources. The first supported value",
-    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
-    "summary": "The Create design autofill job API now accepts a type field to support future functionality for different autofill sources. The first supported value is create_from_brand_template, which is the existing functionality for creating new designs from a brand template. For backwards compatibility,...",
-    "date": "2026-06-18T01:34:21.226187+00:00"
   }
 ]
