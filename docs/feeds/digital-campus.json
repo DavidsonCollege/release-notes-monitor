@@ -260,14 +260,24 @@
     "date": "2026-06-29T16:00:00+00:00"
   },
   {
-    "id": "11f7e96874d4c2ef",
+    "id": "61ddb6e2cd7416f7",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 beta 5 (26A5406e)",
-    "link": "https://developer.apple.com/news/releases/?id=08102026h",
+    "title": "macOS 27.0 beta 6 (26A5416b)",
+    "link": "https://developer.apple.com/news/releases/?id=08172026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-08-10T17:00:00+00:00"
+    "date": "2026-08-17T17:00:00+00:00"
+  },
+  {
+    "id": "6cbda131d21dda79",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.6.2 (25G83)",
+    "link": "https://developer.apple.com/news/releases/?id=08172026j",
+    "summary": "View downloadsView release notes",
+    "date": "2026-08-17T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -750,6 +760,16 @@
     "date": "2026-08-14T14:16:58.978180+00:00"
   },
   {
+    "id": "11f7e96874d4c2ef",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 27.0 beta 5 (26A5406e)",
+    "link": "https://developer.apple.com/news/releases/?id=08102026h",
+    "summary": "View downloadsView release notes",
+    "date": "2026-08-10T17:00:00+00:00"
+  },
+  {
     "id": "db1b79e0952750cf",
     "product_id": "canva",
     "product_name": "Canva",
@@ -978,25 +998,5 @@
     "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
     "summary": "",
     "date": "2026-03-06T17:53:58.565789+00:00"
-  },
-  {
-    "id": "e67335b00b3797c1",
-    "product_id": "ems",
-    "product_name": "EMS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "224.2.0",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
-    "summary": "",
-    "date": "2026-03-06T17:53:58.565825+00:00"
-  },
-  {
-    "id": "0d90b9c66b88bbce",
-    "product_id": "ems",
-    "product_name": "EMS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=accruent.com&sz=64",
-    "title": "224.1.0",
-    "link": "https://help.accruent.com/ems/Content/ReleaseNotes/2024%20Releases/Release%20Notes%202024.htm",
-    "summary": "",
-    "date": "2026-03-06T17:53:58.565857+00:00"
   }
 ]
