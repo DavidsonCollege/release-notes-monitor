@@ -120,6 +120,16 @@
     "date": "2026-06-30T01:06:14.398332+00:00"
   },
   {
+    "id": "266905c1f44ceaa4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Managing unsolicited event invitations with user blocking in Google Calendar",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/managing-unsolicited-event-invitations-with-user-blocking-in-Google-Calendar.html",
+    "summary": "You can now protect your calendar from repeated calendar spam and unwanted invitations. When you block a user in Google Calendar, the current event is automatically removed and you no longer receive new calendar invitations from that person.In addition, when you block an individual in Calendar,...",
+    "date": "2026-08-18T18:25:46+00:00"
+  },
+  {
     "id": "724061a0811e9599",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/enhanced-external-sharing-insights-now-available-in-Drive-Inventory-Reporting.html",
     "summary": "Administrators using Drive Inventory Reporting in Google BigQuery can now access granular external sharing fields designed to simplify complex permission structures. By automatically consolidating direct permissions, group memberships, and public links into clear signals, this update helps...",
     "date": "2026-08-17T17:34:55+00:00"
-  },
-  {
-    "id": "69fb5830159d7ae4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - August 14, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/weekly-recap-08-14-2026.html",
-    "summary": "Improved file importing in Google Sheets with tables and linked pivot tablesWe’re introducing two key improvements in Google Sheets that preserve formatting and linked data when converting files from Microsoft Excel. First, Excel tables will now seamlessly import as Sheets tables. Second, Sheets...",
-    "date": "2026-08-14T19:41:50+00:00"
   },
   {
     "id": "c7394205bc3ad5a3",
@@ -760,6 +760,16 @@
     "date": "2026-08-14T14:16:58.978180+00:00"
   },
   {
+    "id": "69fb5830159d7ae4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - August 14, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/weekly-recap-08-14-2026.html",
+    "summary": "Improved file importing in Google Sheets with tables and linked pivot tablesWe’re introducing two key improvements in Google Sheets that preserve formatting and linked data when converting files from Microsoft Excel. First, Excel tables will now seamlessly import as Sheets tables. Second, Sheets...",
+    "date": "2026-08-14T19:41:50+00:00"
+  },
+  {
     "id": "7dd9f9e5d46fcab2",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -987,16 +997,6 @@
     "title": "Google Drive is now in Library",
     "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "summary": "If you have the Google Drive plugin connected, you can now see and browse your Google Drive files and folders directly from Library, including items shared directly with you. You can also quickly pull up a Drive file from the composer or with @mentions and add it to any chat—without uploading it...",
-    "date": "2026-08-13T00:00:00+00:00"
-  },
-  {
-    "id": "57f48166e48868a4",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Computer History for macOS",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "Computer History is an optional feature in the ChatGPT macOS app that lets ChatGPT and Codex reference selected activity from apps and websites, helping users continue work without re-explaining every detail. It records interaction events—not screenshots, screen recordings, microphone input, or...",
     "date": "2026-08-13T00:00:00+00:00"
   }
 ]
