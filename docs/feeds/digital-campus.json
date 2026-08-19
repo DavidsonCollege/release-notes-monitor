@@ -1,13 +1,13 @@
 [
   {
-    "id": "68bf4e06214d3b4d",
+    "id": "c96b27c36027c52d",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
+    "title": "1Password SCIM Bridge",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "August 17 2026"
+    "date": "August 18 2026"
   },
   {
     "id": "9c09b21f403ecfc4",
@@ -760,6 +760,16 @@
     "date": "2026-08-14T14:16:58.978180+00:00"
   },
   {
+    "id": "68bf4e06214d3b4d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "August 17 2026"
+  },
+  {
     "id": "7dd9f9e5d46fcab2",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -988,15 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "August 14 2026"
-  },
-  {
-    "id": "2154a50fbf9ae68d",
-    "product_id": "chatgpt",
-    "product_name": "ChatGPT",
-    "icon_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-    "title": "Google Drive is now in Library",
-    "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-    "summary": "If you have the Google Drive plugin connected, you can now see and browse your Google Drive files and folders directly from Library, including items shared directly with you. You can also quickly pull up a Drive file from the composer or with @mentions and add it to any chat—without uploading it...",
-    "date": "2026-08-13T00:00:00+00:00"
   }
 ]
