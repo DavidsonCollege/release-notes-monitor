@@ -720,6 +720,26 @@
     "date": "2026-08-14T14:16:58.978118+00:00"
   },
   {
+    "id": "1d48e7a689257710",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We’re introducing a dedicated student hub in the Gemini app to help students easily manage classes and create personalized study notebooks fro",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "What: We’re introducing a dedicated student hub in the Gemini app to help students easily manage classes and create personalized study notebooks from their own course materials like syllabi. Study notebooks—first launched on desktop in June—are now available on mobile to help students get...",
+    "date": "2026-08-19T18:48:41.246191+00:00"
+  },
+  {
+    "id": "44ae6dfce0aea52f",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a p",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
+    "date": "2026-08-19T18:48:41.246217+00:00"
+  },
+  {
     "id": "ee471d9e880a13c9",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -978,25 +998,5 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
     "date": "2026-08-16T19:10:17.970294+00:00"
-  },
-  {
-    "id": "46a4095c941d315e",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks li",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analysing several documents or multi-step projects like building a working prototype with the Canvas tool. We're excited to bring this model to all...",
-    "date": "2026-08-16T19:10:17.970304+00:00"
-  },
-  {
-    "id": "c510432506c56d94",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password in the browser",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "August 14 2026"
   }
 ]
