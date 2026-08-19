@@ -120,6 +120,16 @@
     "date": "2026-06-30T01:06:14.398332+00:00"
   },
   {
+    "id": "294173efc6fc1407",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Elevate your Google Meet experience for shared meeting spaces with Room Display mode",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/elevate-your-google-meet-experience-for-shared-meeting-spaces-with-Room-Display-mode.html",
+    "summary": "We are excited to introduce Room Display mode, a new dual-window experience for Google Meet on the web. Launching in beta, this feature is designed specifically for \"Bring Your Own Device\" meeting spaces, where users connect a personal laptop to a shared external display, such as a TV or...",
+    "date": "2026-08-19T19:36:20+00:00"
+  },
+  {
     "id": "266905c1f44ceaa4",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/new-enterprise-security-controls-for-Workspace-Studio-enable-expanded-collaboration-use-cases.html",
     "summary": "Workspace Studio enables users to boost their productivity with custom, no-code agentic automation. Today, we are adding a new set of enterprise security controls to enable additional collaboration use cases. These granular identity, data protection, observability, and governance controls provide...",
     "date": "2026-08-17T21:14:11+00:00"
-  },
-  {
-    "id": "c7ddbde99d810803",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Enhanced external sharing insights now available in Drive Inventory Reporting",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/enhanced-external-sharing-insights-now-available-in-Drive-Inventory-Reporting.html",
-    "summary": "Administrators using Drive Inventory Reporting in Google BigQuery can now access granular external sharing fields designed to simplify complex permission structures. By automatically consolidating direct permissions, group memberships, and public links into clear signals, this update helps...",
-    "date": "2026-08-17T17:34:55+00:00"
   },
   {
     "id": "c7394205bc3ad5a3",
@@ -760,6 +760,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "c7ddbde99d810803",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Enhanced external sharing insights now available in Drive Inventory Reporting",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/enhanced-external-sharing-insights-now-available-in-Drive-Inventory-Reporting.html",
+    "summary": "Administrators using Drive Inventory Reporting in Google BigQuery can now access granular external sharing fields designed to simplify complex permission structures. By automatically consolidating direct permissions, group memberships, and public links into clear signals, this update helps...",
+    "date": "2026-08-17T17:34:55+00:00"
+  },
+  {
     "id": "e2be92ce3ee7f254",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google/mac/",
     "summary": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
     "date": "2026-08-16T19:10:17.970255+00:00"
-  },
-  {
-    "id": "c31440c5be7f2778",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes s",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
-    "date": "2026-08-16T19:10:17.970294+00:00"
   }
 ]
