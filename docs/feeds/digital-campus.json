@@ -710,56 +710,6 @@
     "date": "2026-07-14T00:00:00+00:00"
   },
   {
-    "id": "7dd9f9e5d46fcab2",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Probar Gemini",
-    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
-    "summary": "",
-    "date": "2026-08-18T02:54:18.337779+00:00"
-  },
-  {
-    "id": "11083138bb0d83b5",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "De qué se trata: Presentamos una nueva forma de trabajar con Gemini usando solo tu voz, directamente desde donde estés. Mantén presionada la tecla F",
-    "link": "https://gemini.google/mac/",
-    "summary": "De qué se trata: Presentamos una nueva forma de trabajar con Gemini usando solo tu voz, directamente desde donde estés. Mantén presionada la tecla Fn para dictar en tu ventana activa y que Gemini transcriba tus palabras en texto limpio y pulido directamente en la ubicación del cursor. También...",
-    "date": "2026-08-18T02:54:18.337822+00:00"
-  },
-  {
-    "id": "b7b93b37991554a6",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Por qué lo hacemos: Cuando dices lo que piensas, puedes trabajar a la velocidad del pensamiento, lo que te permite divagar, dudar o corregirte mient",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Por qué lo hacemos: Cuando dices lo que piensas, puedes trabajar a la velocidad del pensamiento, lo que te permite divagar, dudar o corregirte mientras Gemini les da sentido a tus palabras con facilidad. Para ayudarte a mantener la concentración, Gemini trabaja contigo teniendo en cuenta el...",
-    "date": "2026-08-18T02:54:18.337837+00:00"
-  },
-  {
-    "id": "ca0292e4d6721498",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "De qué se trata: Presentamos Gemini 3.6 Flash, una versión mejorada de nuestro modelo Flash, para ayudarte a realizar tareas cotidianas. Prueba usar",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "De qué se trata: Presentamos Gemini 3.6 Flash, una versión mejorada de nuestro modelo Flash, para ayudarte a realizar tareas cotidianas. Prueba usarlo para tareas rápidas, como analizar varios documentos, o proyectos de varios pasos, como crear un prototipo funcional con la herramienta Canvas. Nos...",
-    "date": "2026-08-18T02:54:18.337845+00:00"
-  },
-  {
-    "id": "8ae63b1bde022190",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Por qué: Queremos que Gemini sea el asistente de IA más útil para todas las personas. Con Gemini 3.6 Flash, ahora puedes abordar tus tareas cotidian",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Por qué: Queremos que Gemini sea el asistente de IA más útil para todas las personas. Con Gemini 3.6 Flash, ahora puedes abordar tus tareas cotidianas con mayor confianza, sin tener que elegir entre velocidad y calidad.",
-    "date": "2026-08-18T02:54:18.337852+00:00"
-  },
-  {
     "id": "2005c82e484167da",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -808,6 +758,56 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
     "date": "2026-08-14T14:16:58.978180+00:00"
+  },
+  {
+    "id": "7dd9f9e5d46fcab2",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Probar Gemini",
+    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
+    "summary": "",
+    "date": "2026-08-18T02:54:18.337779+00:00"
+  },
+  {
+    "id": "11083138bb0d83b5",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "De qué se trata: Presentamos una nueva forma de trabajar con Gemini usando solo tu voz, directamente desde donde estés. Mantén presionada la tecla F",
+    "link": "https://gemini.google/mac/",
+    "summary": "De qué se trata: Presentamos una nueva forma de trabajar con Gemini usando solo tu voz, directamente desde donde estés. Mantén presionada la tecla Fn para dictar en tu ventana activa y que Gemini transcriba tus palabras en texto limpio y pulido directamente en la ubicación del cursor. También...",
+    "date": "2026-08-18T02:54:18.337822+00:00"
+  },
+  {
+    "id": "b7b93b37991554a6",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Por qué lo hacemos: Cuando dices lo que piensas, puedes trabajar a la velocidad del pensamiento, lo que te permite divagar, dudar o corregirte mient",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Por qué lo hacemos: Cuando dices lo que piensas, puedes trabajar a la velocidad del pensamiento, lo que te permite divagar, dudar o corregirte mientras Gemini les da sentido a tus palabras con facilidad. Para ayudarte a mantener la concentración, Gemini trabaja contigo teniendo en cuenta el...",
+    "date": "2026-08-18T02:54:18.337837+00:00"
+  },
+  {
+    "id": "ca0292e4d6721498",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "De qué se trata: Presentamos Gemini 3.6 Flash, una versión mejorada de nuestro modelo Flash, para ayudarte a realizar tareas cotidianas. Prueba usar",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "De qué se trata: Presentamos Gemini 3.6 Flash, una versión mejorada de nuestro modelo Flash, para ayudarte a realizar tareas cotidianas. Prueba usarlo para tareas rápidas, como analizar varios documentos, o proyectos de varios pasos, como crear un prototipo funcional con la herramienta Canvas. Nos...",
+    "date": "2026-08-18T02:54:18.337845+00:00"
+  },
+  {
+    "id": "8ae63b1bde022190",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Por qué: Queremos que Gemini sea el asistente de IA más útil para todas las personas. Con Gemini 3.6 Flash, ahora puedes abordar tus tareas cotidian",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Por qué: Queremos que Gemini sea el asistente de IA más útil para todas las personas. Con Gemini 3.6 Flash, ahora puedes abordar tus tareas cotidianas con mayor confianza, sin tener que elegir entre velocidad y calidad.",
+    "date": "2026-08-18T02:54:18.337852+00:00"
   },
   {
     "id": "69fb5830159d7ae4",
