@@ -460,6 +460,16 @@
     "date": "2026-08-10T20:48:51.431024+00:00"
   },
   {
+    "id": "7613252f36fcff97",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "The next wave of Agent messaging experience",
+    "link": "https://docs.slack.dev/changelog/2026/08/20/agent-updates",
+    "summary": "We're rolling out a wave of updates to agents on Slack, along with an important heads-up about the road ahead for the Assistant messaging experience.",
+    "date": "2026-08-20T00:00:00+00:00"
+  },
+  {
     "id": "101d2e934d2d87aa",
     "product_id": "slack",
     "product_name": "Slack",
@@ -498,16 +508,6 @@
     "link": "https://docs.slack.dev/changelog/2026/07/15/bolt-js-release",
     "summary": "Version 5.0.0 of Bolt for JS is here! This release follows the Node Slack SDK's shift from axios to the native Fetch API, removes the deprecated Workflow Steps from Apps feature, and raises the minimum Node.js version to 20.",
     "date": "2026-07-15T00:00:00+00:00"
-  },
-  {
-    "id": "ff5374f5385bc02a",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Multiple Node Slack SDK package updates",
-    "link": "https://docs.slack.dev/changelog/2026/07/14/node-slack-sdk-release",
-    "summary": "Our collection of Node Slack SDK packages have received new major versions.",
-    "date": "2026-07-14T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -760,6 +760,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "ff5374f5385bc02a",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Multiple Node Slack SDK package updates",
+    "link": "https://docs.slack.dev/changelog/2026/07/14/node-slack-sdk-release",
+    "summary": "Our collection of Node Slack SDK packages have received new major versions.",
+    "date": "2026-07-14T00:00:00+00:00"
+  },
+  {
     "id": "973bed8c6058a6bb",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-dataset/",
     "summary": "You can now autofill a new design from an existing design that contains autofill data fields. The new Get design dataset API returns the data field names and types for a design, and the Create design autofill job API now supports a create_from_design value for type that uses those fields to create...",
     "date": "2026-06-26T01:17:39.250782+00:00"
-  },
-  {
-    "id": "cb99ad42a7c1a469",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Create design autofill job API now accepts video data values, letting you autofill an image data field with a video asset. Autofilling a video is",
-    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
-    "summary": "The Create design autofill job API now accepts video data values, letting you autofill an image data field with a video asset. Autofilling a video is currently a preview feature.",
-    "date": "2026-06-25T01:06:17.954115+00:00"
   }
 ]
