@@ -120,6 +120,16 @@
     "date": "2026-06-30T01:06:14.398332+00:00"
   },
   {
+    "id": "e4605b9d6ab0ccc0",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing Ask Gemini in Chat: your new partner in productivity",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html",
+    "summary": "Google Chat is the central hub for real-time collaboration in Workspace, and starting August 26, 2026, it becomes the place where you can bring the power of Gemini into your flow of teamwork. We’re introducing Ask Gemini in Google Chat, a unified command line for your work, powered by Workspace...",
+    "date": "2026-08-19T23:20:07+00:00"
+  },
+  {
     "id": "294173efc6fc1407",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/make-copy-of-notebook-in-gemini-notebook.html",
     "summary": "Gemini Notebook users can now copy entire notebooks, including all associated sources and studio items, if they have copy permission for that notebook. This capability allows users to build upon existing work or templates shared by others. For example, a student can copy a notebook shared by a...",
     "date": "2026-08-17T21:23:12+00:00"
-  },
-  {
-    "id": "973bed8c6058a6bb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New enterprise security controls for Workspace Studio enable expanded collaboration use cases",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/new-enterprise-security-controls-for-Workspace-Studio-enable-expanded-collaboration-use-cases.html",
-    "summary": "Workspace Studio enables users to boost their productivity with custom, no-code agentic automation. Today, we are adding a new set of enterprise security controls to enable additional collaboration use cases. These granular identity, data protection, observability, and governance controls provide...",
-    "date": "2026-08-17T21:14:11+00:00"
   },
   {
     "id": "c7394205bc3ad5a3",
@@ -760,6 +760,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "973bed8c6058a6bb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New enterprise security controls for Workspace Studio enable expanded collaboration use cases",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/new-enterprise-security-controls-for-Workspace-Studio-enable-expanded-collaboration-use-cases.html",
+    "summary": "Workspace Studio enables users to boost their productivity with custom, no-code agentic automation. Today, we are adding a new set of enterprise security controls to enable additional collaboration use cases. These granular identity, data protection, observability, and governance controls provide...",
+    "date": "2026-08-17T21:14:11+00:00"
+  },
+  {
     "id": "c7ddbde99d810803",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
     "summary": "The Create design autofill job API now accepts video data values, letting you autofill an image data field with a video asset. Autofilling a video is currently a preview feature.",
     "date": "2026-06-25T01:06:17.954115+00:00"
-  },
-  {
-    "id": "ca023babef112cd9",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your act",
-    "link": "https://gemini.google/mac/",
-    "summary": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
-    "date": "2026-08-16T19:10:17.970255+00:00"
   }
 ]
