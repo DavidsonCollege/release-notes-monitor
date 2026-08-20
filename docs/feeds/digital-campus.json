@@ -470,6 +470,16 @@
     "date": "2026-08-20T00:00:00+00:00"
   },
   {
+    "id": "52f738cd5b52c231",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Announcing Slack Code",
+    "link": "https://docs.slack.dev/changelog/2026/08/20/slack-code",
+    "summary": "An agent can answer a question in a thread, but some tasks become bigger than a single question. A coding agent may need to implement a change, share a prototype, and iterate on it. A research agent may need to gather information and work through decisions with the people involved. This kind of...",
+    "date": "2026-08-20T00:00:00+00:00"
+  },
+  {
     "id": "101d2e934d2d87aa",
     "product_id": "slack",
     "product_name": "Slack",
@@ -498,16 +508,6 @@
     "link": "https://docs.slack.dev/changelog/2026/07/21/slack-cli",
     "summary": "Version 4.5.0 of the developer tools for the Slack platform has landed!",
     "date": "2026-07-21T00:00:00+00:00"
-  },
-  {
-    "id": "d38ec99caa346ceb",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Bolt for JS v5",
-    "link": "https://docs.slack.dev/changelog/2026/07/15/bolt-js-release",
-    "summary": "Version 5.0.0 of Bolt for JS is here! This release follows the Node Slack SDK's shift from axios to the native Fetch API, removes the deprecated Workflow Steps from Apps feature, and raises the minimum Node.js version to 20.",
-    "date": "2026-07-15T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -760,6 +760,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "d38ec99caa346ceb",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Bolt for JS v5",
+    "link": "https://docs.slack.dev/changelog/2026/07/15/bolt-js-release",
+    "summary": "Version 5.0.0 of Bolt for JS is here! This release follows the Node Slack SDK's shift from axios to the native Fetch API, removes the deprecated Workflow Steps from Apps feature, and raises the minimum Node.js version to 20.",
+    "date": "2026-07-15T00:00:00+00:00"
+  },
+  {
     "id": "ff5374f5385bc02a",
     "product_id": "slack",
     "product_name": "Slack",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=08102026h",
     "summary": "View downloadsView release notes",
     "date": "2026-08-10T17:00:00+00:00"
-  },
-  {
-    "id": "db1b79e0952750cf",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "You can now autofill a new design from an existing design that contains autofill data fields. The new Get design dataset API returns the data field na",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-dataset/",
-    "summary": "You can now autofill a new design from an existing design that contains autofill data fields. The new Get design dataset API returns the data field names and types for a design, and the Create design autofill job API now supports a create_from_design value for type that uses those fields to create...",
-    "date": "2026-06-26T01:17:39.250782+00:00"
   }
 ]
