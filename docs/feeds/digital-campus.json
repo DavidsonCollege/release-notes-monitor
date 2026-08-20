@@ -120,6 +120,16 @@
     "date": "2026-06-30T01:06:14.398332+00:00"
   },
   {
+    "id": "68e637468e73b375",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Granular space creation restrictions now available in Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/granular-space-creation-restrictions-now-available-in-Google-Chat.html",
+    "summary": "We are introducing a new admin setting in Google Chat that allows administrators to restrict specific users or groups from creating spaces, while continuing to permit them to create 1:1 direct messages (DMs) and group direct messages (gDMs).Previously, Chat restriction settings functioned as a...",
+    "date": "2026-08-20T15:13:17+00:00"
+  },
+  {
     "id": "e4605b9d6ab0ccc0",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/use-gemini-to-help-manage-google-Workspace-for-your-organization.html",
     "summary": "We are introducing Admin Assist, bringing two new Gemini-powered capabilities to the Google Admin Console: the Sidepanel and Search Overviews. Designed to simplify complex administrative workflows and troubleshooting, this launch makes managing Google Workspace easier and faster. Admin Assist is...",
     "date": "2026-08-17T21:27:55+00:00"
-  },
-  {
-    "id": "acebfce2cbf47063",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Make a copy of a notebook in Gemini Notebook",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/make-copy-of-notebook-in-gemini-notebook.html",
-    "summary": "Gemini Notebook users can now copy entire notebooks, including all associated sources and studio items, if they have copy permission for that notebook. This capability allows users to build upon existing work or templates shared by others. For example, a student can copy a notebook shared by a...",
-    "date": "2026-08-17T21:23:12+00:00"
   },
   {
     "id": "c7394205bc3ad5a3",
@@ -760,6 +760,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "acebfce2cbf47063",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Make a copy of a notebook in Gemini Notebook",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/make-copy-of-notebook-in-gemini-notebook.html",
+    "summary": "Gemini Notebook users can now copy entire notebooks, including all associated sources and studio items, if they have copy permission for that notebook. This capability allows users to build upon existing work or templates shared by others. For example, a student can copy a notebook shared by a...",
+    "date": "2026-08-17T21:23:12+00:00"
+  },
+  {
     "id": "d38ec99caa346ceb",
     "product_id": "slack",
     "product_name": "Slack",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/workforce-management/august-13-2026",
     "summary": "Tags: api-release | Add a new imports forecast API.",
     "date": "2026-08-13T00:00:00+00:00"
-  },
-  {
-    "id": "11f7e96874d4c2ef",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 beta 5 (26A5406e)",
-    "link": "https://developer.apple.com/news/releases/?id=08102026h",
-    "summary": "View downloadsView release notes",
-    "date": "2026-08-10T17:00:00+00:00"
   }
 ]
