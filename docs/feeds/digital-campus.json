@@ -1,13 +1,13 @@
 [
   {
-    "id": "c96b27c36027c52d",
+    "id": "5a1ea089b4372fc7",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password SCIM Bridge",
+    "title": "1Password SaaS Manager",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "August 18 2026"
+    "date": "August 20 2026"
   },
   {
     "id": "87c02b09c4a21c48",
@@ -760,6 +760,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "c96b27c36027c52d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password SCIM Bridge",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "August 18 2026"
+  },
+  {
     "id": "d9c7175c91b018e4",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/use-google-sheets-canvas-to-visualize-data.html",
     "summary": "We’re excited to launch Sheets canvas, a new Gemini-powered capability that transforms your spreadsheets into custom, interactive, read-write applications using simple natural language prompts. It acts as a dynamic visualization layered directly on top of your spreadsheet data, allowing you and...",
     "date": "2026-08-13T16:58:36+00:00"
-  },
-  {
-    "id": "8563fef570c790a7",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for July 6 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/07/06/announcing-new-builds-for-july-6-2026/",
-    "summary": "Hello Windows Insiders, We have new releases today with builds across Beta and Experimental. New builds this week Today we are releasing new Windows 11 Insider Preview Builds. As a reminder, all Insiders can find the rel The post Announcing new builds for July 6 2026 appeared first on Windows...",
-    "date": "2026-07-06T21:06:46+00:00"
   }
 ]
