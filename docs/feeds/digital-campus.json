@@ -10,14 +10,14 @@
     "date": "August 18 2026"
   },
   {
-    "id": "9c09b21f403ecfc4",
+    "id": "87c02b09c4a21c48",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
+    "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning SaaS Manager",
     "link": "https://releases.1password.com/mac/",
     "summary": "",
-    "date": "2026-03-06T17:53:53.055734+00:00"
+    "date": "2026-08-20T17:11:45.962622+00:00"
   },
   {
     "id": "436afad157af2a4d",
@@ -760,6 +760,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "9c09b21f403ecfc4",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
+    "link": "https://releases.1password.com/mac/",
+    "summary": "",
+    "date": "2026-03-06T17:53:53.055734+00:00"
+  },
+  {
     "id": "acebfce2cbf47063",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -987,16 +997,6 @@
     "title": "Two new Summaries APIs; new prevent_screen_capture request and response fields",
     "link": "https://developers.zoom.us/changelog/meetings/august-13-2026",
     "summary": "Tags: api-release | Add two new Summaries APIs; add prevent_screen_capture fields in four Meetings APIs and in one Meetings webhook event.",
-    "date": "2026-08-13T00:00:00+00:00"
-  },
-  {
-    "id": "1d59b4a7759bb358",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Add new imports forecast API",
-    "link": "https://developers.zoom.us/changelog/workforce-management/august-13-2026",
-    "summary": "Tags: api-release | Add a new imports forecast API.",
     "date": "2026-08-13T00:00:00+00:00"
   }
 ]
