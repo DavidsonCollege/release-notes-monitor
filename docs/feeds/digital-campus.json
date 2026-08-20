@@ -120,6 +120,36 @@
     "date": "2026-06-30T01:06:14.398332+00:00"
   },
   {
+    "id": "5c98969ec999894f",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Record presentations in Google Slides with Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/record-presentations-in-google-slides-with-Google-Vids.html",
+    "summary": "We are introducing a seamless way to record presentations in Google Slides using Google Vids directly from the Slides interface. Moving forward, you will see a new Record option in the right-hand menu of Slides. Selecting this option guides you through a streamlined recording workflow and outputs...",
+    "date": "2026-08-20T17:28:12+00:00"
+  },
+  {
+    "id": "bd09033388401d6f",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "View Google Chat usage metrics in Gemini reports dashboard",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/view-google-chat-usage-metrics-in-Gemini-reports-dashboard.html",
+    "summary": "Admins can now access Google Chat usage metrics in the Gemini reports dashboard across both organization- and user-level reports.At the organization level, this allows admins to track active Gemini users in Google Chat, analyze usage trends, and identify who benefits most from Gemini-powered...",
+    "date": "2026-08-20T17:05:35+00:00"
+  },
+  {
+    "id": "084feac1a26d78a5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Allowlisted Domains API now generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/allowlisted-domains-api-now-generally-available.html",
+    "summary": "The Google Workspace Allowlisted Domains API is now generally available. Previously, administrators had to manage their allowlisted domains list manually through the Google Workspace Admin console. With this release, hosted under the Cloud Identity API suite as a top-level resource, organizations...",
+    "date": "2026-08-20T17:01:51+00:00"
+  },
+  {
     "id": "68e637468e73b375",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -138,36 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html",
     "summary": "Google Chat is the central hub for real-time collaboration in Workspace, and starting August 26, 2026, it becomes the place where you can bring the power of Gemini into your flow of teamwork. We’re introducing Ask Gemini in Google Chat, a unified command line for your work, powered by Workspace...",
     "date": "2026-08-19T23:20:07+00:00"
-  },
-  {
-    "id": "294173efc6fc1407",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Elevate your Google Meet experience for shared meeting spaces with Room Display mode",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/elevate-your-google-meet-experience-for-shared-meeting-spaces-with-Room-Display-mode.html",
-    "summary": "We are excited to introduce Room Display mode, a new dual-window experience for Google Meet on the web. Launching in beta, this feature is designed specifically for \"Bring Your Own Device\" meeting spaces, where users connect a personal laptop to a shared external display, such as a TV or...",
-    "date": "2026-08-19T19:36:20+00:00"
-  },
-  {
-    "id": "266905c1f44ceaa4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Managing unsolicited event invitations with user blocking in Google Calendar",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/managing-unsolicited-event-invitations-with-user-blocking-in-Google-Calendar.html",
-    "summary": "You can now protect your calendar from repeated calendar spam and unwanted invitations. When you block a user in Google Calendar, the current event is automatically removed and you no longer receive new calendar invitations from that person.In addition, when you block an individual in Calendar,...",
-    "date": "2026-08-18T18:25:46+00:00"
-  },
-  {
-    "id": "724061a0811e9599",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use Gemini to help manage Google Workspace for your organization",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/use-gemini-to-help-manage-google-Workspace-for-your-organization.html",
-    "summary": "We are introducing Admin Assist, bringing two new Gemini-powered capabilities to the Google Admin Console: the Sidepanel and Search Overviews. Designed to simplify complex administrative workflows and troubleshooting, this launch makes managing Google Workspace easier and faster. Admin Assist is...",
-    "date": "2026-08-17T21:27:55+00:00"
   },
   {
     "id": "c7394205bc3ad5a3",
@@ -760,6 +760,36 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "294173efc6fc1407",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Elevate your Google Meet experience for shared meeting spaces with Room Display mode",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/elevate-your-google-meet-experience-for-shared-meeting-spaces-with-Room-Display-mode.html",
+    "summary": "We are excited to introduce Room Display mode, a new dual-window experience for Google Meet on the web. Launching in beta, this feature is designed specifically for \"Bring Your Own Device\" meeting spaces, where users connect a personal laptop to a shared external display, such as a TV or...",
+    "date": "2026-08-19T19:36:20+00:00"
+  },
+  {
+    "id": "266905c1f44ceaa4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Managing unsolicited event invitations with user blocking in Google Calendar",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/managing-unsolicited-event-invitations-with-user-blocking-in-Google-Calendar.html",
+    "summary": "You can now protect your calendar from repeated calendar spam and unwanted invitations. When you block a user in Google Calendar, the current event is automatically removed and you no longer receive new calendar invitations from that person.In addition, when you block an individual in Calendar,...",
+    "date": "2026-08-18T18:25:46+00:00"
+  },
+  {
+    "id": "724061a0811e9599",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Use Gemini to help manage Google Workspace for your organization",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/use-gemini-to-help-manage-google-Workspace-for-your-organization.html",
+    "summary": "We are introducing Admin Assist, bringing two new Gemini-powered capabilities to the Google Admin Console: the Sidepanel and Search Overviews. Designed to simplify complex administrative workflows and troubleshooting, this launch makes managing Google Workspace easier and faster. Admin Assist is...",
+    "date": "2026-08-17T21:27:55+00:00"
+  },
+  {
     "id": "9c09b21f403ecfc4",
     "product_id": "1password",
     "product_name": "1Password",
@@ -968,35 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/new-usability-features-connected-sheets-google.html",
     "summary": "Google Workspace is introducing two usability enhancements to Connected Sheets to improve data presentation and give more flexibility when analyzing BigQuery data. List parameters: When writing a query, users can reference multiple values in a single list parameter by selecting a grid range in a...",
     "date": "2026-08-11T22:25:40+00:00"
-  },
-  {
-    "id": "6a3ceae0ef608194",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New endpoints for DataTable Contents APIs with enhancements to File Management API",
-    "link": "https://developers.zoom.us/changelog/canvas/august-13-2026",
-    "summary": "Tags: api-release | Added new endpoints and made some enhancements to request fields.",
-    "date": "2026-08-13T00:00:00+00:00"
-  },
-  {
-    "id": "51819e06d1576ee0",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Four new APIs and five Queues webhook events",
-    "link": "https://developers.zoom.us/changelog/contact-center/august-13-2026",
-    "summary": "Tags: api-release | Added three new Reports APIs, one new Campaigns API and five new Queues webhooks. Added over a dozen fields across the Reports V2 (CX Analytics), Queue Waiting Experiences, Address Books, Operating Hours, Campaigns, Users, and Queues API endpoints and six Teams webhook events.",
-    "date": "2026-08-13T00:00:00+00:00"
-  },
-  {
-    "id": "b8e7798c9c1206cc",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Two new Summaries APIs; new prevent_screen_capture request and response fields",
-    "link": "https://developers.zoom.us/changelog/meetings/august-13-2026",
-    "summary": "Tags: api-release | Add two new Summaries APIs; add prevent_screen_capture fields in four Meetings APIs and in one Meetings webhook event.",
-    "date": "2026-08-13T00:00:00+00:00"
   }
 ]
