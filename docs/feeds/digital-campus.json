@@ -170,6 +170,16 @@
     "date": "2026-08-19T23:20:07+00:00"
   },
   {
+    "id": "d3a6eaae64d2596f",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Release Recap - 08.21.2026",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-release-recap-08212026",
+    "summary": "**Screen Detective: Catch dead screens before your audience does**...",
+    "date": "2026-08-21T13:48:19+00:00"
+  },
+  {
     "id": "c7394205bc3ad5a3",
     "product_id": "korbyt",
     "product_name": "Korbyt",
@@ -198,16 +208,6 @@
     "link": "https://product.korbyt.com/changelog/korbyt-booking-release-notes-v981",
     "summary": "# **What’s New?** ## **Bulk Resource Add-on Configuration** Admins can now apply add-ons to multiple resources in a single action instead of repeating the same configuration for each resource. The Resource Add-on Configuration screen has two new multi-select fields, Floor and Resource Type, that...",
     "date": "2026-05-19T16:34:37+00:00"
-  },
-  {
-    "id": "83a6e193535a1b0a",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Anywhere Weekly Recap & Playlist Interrupt Release - 05.15.2026",
-    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-and-playlist-interrupt-release-05152026",
-    "summary": "**Playlist Priority Scheduling: Interrupt and Override \\| Take full control of what plays and when** When something urgent needs to go on screen immediately, you shouldn't have to fight your own playlist to get it there. Playlist Priority Scheduling lets you assign priority levels across your...",
-    "date": "2026-05-15T20:58:42+00:00"
   },
   {
     "id": "ac02e87cb840f719",
@@ -760,6 +760,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "83a6e193535a1b0a",
+    "product_id": "korbyt",
+    "product_name": "Korbyt",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
+    "title": "Korbyt Anywhere Weekly Recap & Playlist Interrupt Release - 05.15.2026",
+    "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-and-playlist-interrupt-release-05152026",
+    "summary": "**Playlist Priority Scheduling: Interrupt and Override \\| Take full control of what plays and when** When something urgent needs to go on screen immediately, you shouldn't have to fight your own playlist to get it there. Playlist Priority Scheduling lets you assign priority levels across your...",
+    "date": "2026-05-15T20:58:42+00:00"
+  },
+  {
     "id": "7dd9f9e5d46fcab2",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Por qué: Queremos que Gemini sea el asistente de IA más útil para todas las personas. Con Gemini 3.6 Flash, ahora puedes abordar tus tareas cotidianas con mayor confianza, sin tener que elegir entre velocidad y calidad.",
     "date": "2026-08-18T02:54:18.337852+00:00"
-  },
-  {
-    "id": "69fb5830159d7ae4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - August 14, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/weekly-recap-08-14-2026.html",
-    "summary": "Improved file importing in Google Sheets with tables and linked pivot tablesWe’re introducing two key improvements in Google Sheets that preserve formatting and linked data when converting files from Microsoft Excel. First, Excel tables will now seamlessly import as Sheets tables. Second, Sheets...",
-    "date": "2026-08-14T19:41:50+00:00"
   }
 ]
