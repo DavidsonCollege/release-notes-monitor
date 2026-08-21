@@ -120,6 +120,16 @@
     "date": "2026-06-30T01:06:14.398332+00:00"
   },
   {
+    "id": "6546b8b4ea413788",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - August 21, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/weekly-recap-08-21-2026.html",
+    "summary": "Enhanced external sharing insights now available in Drive Inventory ReportingAdministrators using Drive Inventory Reporting in Google BigQuery can now access granular external sharing fields designed to simplify complex permission structures. By automatically consolidating direct permissions, group...",
+    "date": "2026-08-21T19:10:10+00:00"
+  },
+  {
     "id": "5c98969ec999894f",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/granular-space-creation-restrictions-now-available-in-Google-Chat.html",
     "summary": "We are introducing a new admin setting in Google Chat that allows administrators to restrict specific users or groups from creating spaces, while continuing to permit them to create 1:1 direct messages (DMs) and group direct messages (gDMs).Previously, Chat restriction settings functioned as a...",
     "date": "2026-08-20T15:13:17+00:00"
-  },
-  {
-    "id": "e4605b9d6ab0ccc0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing Ask Gemini in Chat: your new partner in productivity",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html",
-    "summary": "Google Chat is the central hub for real-time collaboration in Workspace, and starting August 26, 2026, it becomes the place where you can bring the power of Gemini into your flow of teamwork. We’re introducing Ask Gemini in Google Chat, a unified command line for your work, powered by Workspace...",
-    "date": "2026-08-19T23:20:07+00:00"
   },
   {
     "id": "d3a6eaae64d2596f",
@@ -760,6 +760,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "e4605b9d6ab0ccc0",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing Ask Gemini in Chat: your new partner in productivity",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html",
+    "summary": "Google Chat is the central hub for real-time collaboration in Workspace, and starting August 26, 2026, it becomes the place where you can bring the power of Gemini into your flow of teamwork. We’re introducing Ask Gemini in Google Chat, a unified command line for your work, powered by Workspace...",
+    "date": "2026-08-19T23:20:07+00:00"
+  },
+  {
     "id": "7cd0d0dbea07e961",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "What: We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analyzing several documents or multi-step projects like building a working prototype with the Canvas tool. We're excited to bring this model to all...",
     "date": "2026-08-14T14:16:58.978175+00:00"
-  },
-  {
-    "id": "68bf4e06214d3b4d",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "August 17 2026"
   }
 ]
