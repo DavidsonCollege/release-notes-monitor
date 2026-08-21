@@ -560,6 +560,16 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "debb78a5394a0501",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 21 August 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/08/21/announcing-new-builds-for-21-august-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental Channels. Experimental Feature Flags We’ve fixed the issue causing the Feature Flags list to show empty for Ins The post Announcing new builds for 21 August 2026 appeared first on...",
+    "date": "2026-08-21T17:09:32+00:00"
+  },
+  {
     "id": "649811031122b561",
     "product_id": "windows",
     "product_name": "Windows",
@@ -598,16 +608,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/07/21/announcing-windows-11-insider-preview-build-28120-2546-for-experimental-26h1/",
     "summary": "Hello Windows Insiders, Today we're releasing build 28120.2546 for the Experimental (26H1) channel. Release notes can be found over in the Announcing Windows 11 Insider Preview Build 28120.2546 for Experimental (26H1) appeared first on Windows Insider Blog.",
     "date": "2026-07-21T21:03:05+00:00"
-  },
-  {
-    "id": "2c785ffedb21673a",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 20 July 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/07/20/announcing-new-builds-for-20-july-2026/",
-    "summary": "Hello Windows Insiders, Today we are releasing new Windows 11 Insider Preview Builds across Beta, Experimental and Release Preview. See your channel release notes here: Beta: Announcing new builds for 20 July 2026 appeared first on Windows Insider Blog.",
-    "date": "2026-07-20T21:05:12+00:00"
   },
   {
     "id": "4452b7b2961849dc",
@@ -758,6 +758,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
     "date": "2026-08-14T14:16:58.978170+00:00"
+  },
+  {
+    "id": "2c785ffedb21673a",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 20 July 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/07/20/announcing-new-builds-for-20-july-2026/",
+    "summary": "Hello Windows Insiders, Today we are releasing new Windows 11 Insider Preview Builds across Beta, Experimental and Release Preview. See your channel release notes here: Beta: Announcing new builds for 20 July 2026 appeared first on Windows Insider Blog.",
+    "date": "2026-07-20T21:05:12+00:00"
   },
   {
     "id": "83a6e193535a1b0a",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "De qué se trata: Presentamos Gemini 3.6 Flash, una versión mejorada de nuestro modelo Flash, para ayudarte a realizar tareas cotidianas. Prueba usarlo para tareas rápidas, como analizar varios documentos, o proyectos de varios pasos, como crear un prototipo funcional con la herramienta Canvas. Nos...",
     "date": "2026-08-18T02:54:18.337845+00:00"
-  },
-  {
-    "id": "8ae63b1bde022190",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Por qué: Queremos que Gemini sea el asistente de IA más útil para todas las personas. Con Gemini 3.6 Flash, ahora puedes abordar tus tareas cotidian",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Por qué: Queremos que Gemini sea el asistente de IA más útil para todas las personas. Con Gemini 3.6 Flash, ahora puedes abordar tus tareas cotidianas con mayor confianza, sin tener que elegir entre velocidad y calidad.",
-    "date": "2026-08-18T02:54:18.337852+00:00"
   }
 ]
