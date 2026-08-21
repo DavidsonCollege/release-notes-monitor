@@ -720,6 +720,46 @@
     "date": "2026-08-14T14:16:58.978118+00:00"
   },
   {
+    "id": "ca023babef112cd9",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your act",
+    "link": "https://gemini.google/mac/",
+    "summary": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
+    "date": "2026-08-21T00:51:38.629085+00:00"
+  },
+  {
+    "id": "c31440c5be7f2778",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes s",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
+    "date": "2026-08-21T00:51:38.629122+00:00"
+  },
+  {
+    "id": "46a4095c941d315e",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks li",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analysing several documents or multi-step projects like building a working prototype with the Canvas tool. We're excited to bring this model to all...",
+    "date": "2026-08-21T00:51:38.629130+00:00"
+  },
+  {
+    "id": "58b9d9ddb34c22df",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater c",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
+    "date": "2026-08-14T14:16:58.978180+00:00"
+  },
+  {
     "id": "1d48e7a689257710",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -890,16 +930,6 @@
     "date": "2026-08-14T14:16:58.978175+00:00"
   },
   {
-    "id": "58b9d9ddb34c22df",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater c",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
-    "date": "2026-08-14T14:16:58.978180+00:00"
-  },
-  {
     "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
@@ -968,35 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/weekly-recap-08-14-2026.html",
     "summary": "Improved file importing in Google Sheets with tables and linked pivot tablesWe’re introducing two key improvements in Google Sheets that preserve formatting and linked data when converting files from Microsoft Excel. First, Excel tables will now seamlessly import as Sheets tables. Second, Sheets...",
     "date": "2026-08-14T19:41:50+00:00"
-  },
-  {
-    "id": "b3f73e2a29a4e83f",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New admin controls for adding invitations to Google Calendar",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/new-admin-controls-for-adding-invitations-to-Google-Calendar.html",
-    "summary": "Google Calendar users have three options for how event invitations are added to their calendar: auto-add invitations from everyone, auto-add invitations from known senders only, or add invitations only after the user responds in email. To date, administrators can only choose the default value for...",
-    "date": "2026-08-14T18:03:14+00:00"
-  },
-  {
-    "id": "6b3407881a469e45",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Take Notes for me for in-person meetings is now available",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/take-notes-with-me-for-in-person-meetings-is-now-available.html",
-    "summary": "We know that balancing active participation with note taking during face-to-face discussions can be a challenge. You shouldn't have to choose between staying present in the moment and capturing critical context for later. We’re excited to start rolling out a new way to make Google Meet the home for...",
-    "date": "2026-08-13T17:50:38+00:00"
-  },
-  {
-    "id": "25f755c13101fddd",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use Sheets canvas to visualize data in custom, interactive mini-apps",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/use-google-sheets-canvas-to-visualize-data.html",
-    "summary": "We’re excited to launch Sheets canvas, a new Gemini-powered capability that transforms your spreadsheets into custom, interactive, read-write applications using simple natural language prompts. It acts as a dynamic visualization layered directly on top of your spreadsheet data, allowing you and...",
-    "date": "2026-08-13T16:58:36+00:00"
   }
 ]
