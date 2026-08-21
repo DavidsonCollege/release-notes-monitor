@@ -20,6 +20,16 @@
     "date": "2026-08-20T17:11:45.962622+00:00"
   },
   {
+    "id": "72359246fbd1110c",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "August 21, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/52769826639252-August-21-2026",
+    "summary": "",
+    "date": "2026-08-21T18:40:03Z"
+  },
+  {
     "id": "436afad157af2a4d",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/51820280811412-July-24-2026",
     "summary": "",
     "date": "2026-07-28T21:08:05Z"
-  },
-  {
-    "id": "7cd0d0dbea07e961",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "July 17, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/51477488444564-July-17-2026",
-    "summary": "",
-    "date": "2026-07-24T17:09:51Z"
   },
   {
     "id": "4efcf3bff8ee4b0d",
@@ -760,6 +760,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "7cd0d0dbea07e961",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "July 17, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/51477488444564-July-17-2026",
+    "summary": "",
+    "date": "2026-07-24T17:09:51Z"
+  },
+  {
     "id": "2c785ffedb21673a",
     "product_id": "windows",
     "product_name": "Windows",
@@ -988,15 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "August 17 2026"
-  },
-  {
-    "id": "ca0292e4d6721498",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "De qué se trata: Presentamos Gemini 3.6 Flash, una versión mejorada de nuestro modelo Flash, para ayudarte a realizar tareas cotidianas. Prueba usar",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "De qué se trata: Presentamos Gemini 3.6 Flash, una versión mejorada de nuestro modelo Flash, para ayudarte a realizar tareas cotidianas. Prueba usarlo para tareas rápidas, como analizar varios documentos, o proyectos de varios pasos, como crear un prototipo funcional con la herramienta Canvas. Nos...",
-    "date": "2026-08-18T02:54:18.337845+00:00"
   }
 ]
