@@ -120,6 +120,16 @@
     "date": "2026-06-30T01:06:14.398332+00:00"
   },
   {
+    "id": "203d25495c3cfd27",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Now available: A refreshed user interface for Google Meet hardware touch controllers on Neat and Poly devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/now-available-refreshed-user-interface-for-Google-Meet-hardware-touch-controllers-on-Neat-and-Poly-devices.html",
+    "summary": "On August 26, 2026, we are officially launching our updated user interface for Neat touch controllers and the Poly TC8.Overall, the design allows users to concentrate on their meetings rather than searching for controls, resulting in a more efficient and aesthetically pleasing experience.Here's...",
+    "date": "2026-08-24T15:26:38+00:00"
+  },
+  {
     "id": "6546b8b4ea413788",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/allowlisted-domains-api-now-generally-available.html",
     "summary": "The Google Workspace Allowlisted Domains API is now generally available. Previously, administrators had to manage their allowlisted domains list manually through the Google Workspace Admin console. With this release, hosted under the Cloud Identity API suite as a top-level resource, organizations...",
     "date": "2026-08-20T17:01:51+00:00"
-  },
-  {
-    "id": "68e637468e73b375",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Granular space creation restrictions now available in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/granular-space-creation-restrictions-now-available-in-Google-Chat.html",
-    "summary": "We are introducing a new admin setting in Google Chat that allows administrators to restrict specific users or groups from creating spaces, while continuing to permit them to create 1:1 direct messages (DMs) and group direct messages (gDMs).Previously, Chat restriction settings functioned as a...",
-    "date": "2026-08-20T15:13:17+00:00"
   },
   {
     "id": "d3a6eaae64d2596f",
@@ -760,6 +760,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "68e637468e73b375",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Granular space creation restrictions now available in Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/granular-space-creation-restrictions-now-available-in-Google-Chat.html",
+    "summary": "We are introducing a new admin setting in Google Chat that allows administrators to restrict specific users or groups from creating spaces, while continuing to permit them to create 1:1 direct messages (DMs) and group direct messages (gDMs).Previously, Chat restriction settings functioned as a...",
+    "date": "2026-08-20T15:13:17+00:00"
+  },
+  {
     "id": "7dd9f9e5d46fcab2",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/enhanced-external-sharing-insights-now-available-in-Drive-Inventory-Reporting.html",
     "summary": "Administrators using Drive Inventory Reporting in Google BigQuery can now access granular external sharing fields designed to simplify complex permission structures. By automatically consolidating direct permissions, group memberships, and public links into clear signals, this update helps...",
     "date": "2026-08-17T17:34:55+00:00"
-  },
-  {
-    "id": "e2be92ce3ee7f254",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks li",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "What: We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analyzing several documents or multi-step projects like building a working prototype with the Canvas tool. We're excited to bring this model to all...",
-    "date": "2026-08-14T14:16:58.978175+00:00"
   }
 ]
