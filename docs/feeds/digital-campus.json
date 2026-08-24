@@ -610,44 +610,44 @@
     "date": "2026-09-27T00:00:00+00:00"
   },
   {
-    "id": "4aabcee757da276d",
+    "id": "af1cada8fbd1ad54",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New response field for Quote API",
-    "link": "https://developers.zoom.us/changelog/commerce/august-20-2026",
-    "summary": "Tags: api-release | Added need response field for Quote API.",
-    "date": "2026-08-20T00:00:00+00:00"
+    "title": "New response field added to File Management API",
+    "link": "https://developers.zoom.us/changelog/canvas/august-24-2026",
+    "summary": "Tags: api-release | Added file_icon response field to File Management API.",
+    "date": "2026-08-24T00:00:00+00:00"
   },
   {
-    "id": "5b67ec10ee447511",
+    "id": "36675846aee6b94b",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 2.5.0-1",
-    "link": "https://developers.zoom.us/changelog/ui-toolkit/web/2.5.0-1",
-    "summary": "Tags: bug-fix, sdk-version | Fixed issues with screen sharing, and with missing function buttons after leaving subsession rooms.",
-    "date": "2026-08-18T00:00:00+00:00"
+    "title": "Version 5.8.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/android/5.8.0",
+    "summary": "Tags: new-feature, sdk-version | Add short links to join video sessions; add support for pre-join audio announcements in video sessions; add admin controls to toggle users' outgoing audio and camera.",
+    "date": "2026-08-24T00:00:00+00:00"
   },
   {
-    "id": "71fde96bb6eb2766",
+    "id": "ab4b800bd322394f",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added Chat Migration API",
-    "link": "https://developers.zoom.us/changelog/chat/august-17-2026",
-    "summary": "Tags: api-release | Added an API to delete tabs from migrated chat channels.",
-    "date": "2026-08-17T00:00:00+00:00"
+    "title": "Version 5.8.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/ios/5.8.0",
+    "summary": "Tags: new-feature, sdk-version | Add short links to join video sessions; add support for pre-join audio announcements in video sessions; add admin controls to toggle users' outgoing audio and camera.",
+    "date": "2026-08-24T00:00:00+00:00"
   },
   {
-    "id": "38b2885637edb4d1",
+    "id": "474a4d041df71e7e",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Four new endpoints and five new events; new fields in dozens of API endpoints and new fields in five Teams events",
-    "link": "https://developers.zoom.us/changelog/contact-center/august-17-2026",
-    "summary": "Tags: api-release | Three new Reports endpoints, one new Campaigns endpoint, and five new Queues webhook events; new fields in dozens of API endpoints and new fields in five Teams events.",
-    "date": "2026-08-17T00:00:00+00:00"
+    "title": "Added Fax Cover Page APIs",
+    "link": "https://developers.zoom.us/changelog/phone/august-24-2026",
+    "summary": "Tags: api-release | Added APIs to retrieve and download fax cover pages and new request fields to specify cover page details when sending faxes.",
+    "date": "2026-08-24T00:00:00+00:00"
   },
   {
     "id": "57b0ad1b45055065",
@@ -748,6 +748,46 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
     "date": "2026-08-14T14:16:58.978170+00:00"
+  },
+  {
+    "id": "4aabcee757da276d",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New response field for Quote API",
+    "link": "https://developers.zoom.us/changelog/commerce/august-20-2026",
+    "summary": "Tags: api-release | Added need response field for Quote API.",
+    "date": "2026-08-20T00:00:00+00:00"
+  },
+  {
+    "id": "5b67ec10ee447511",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.5.0-1",
+    "link": "https://developers.zoom.us/changelog/ui-toolkit/web/2.5.0-1",
+    "summary": "Tags: bug-fix, sdk-version | Fixed issues with screen sharing, and with missing function buttons after leaving subsession rooms.",
+    "date": "2026-08-18T00:00:00+00:00"
+  },
+  {
+    "id": "71fde96bb6eb2766",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Added Chat Migration API",
+    "link": "https://developers.zoom.us/changelog/chat/august-17-2026",
+    "summary": "Tags: api-release | Added an API to delete tabs from migrated chat channels.",
+    "date": "2026-08-17T00:00:00+00:00"
+  },
+  {
+    "id": "38b2885637edb4d1",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Four new endpoints and five new events; new fields in dozens of API endpoints and new fields in five Teams events",
+    "link": "https://developers.zoom.us/changelog/contact-center/august-17-2026",
+    "summary": "Tags: api-release | Three new Reports endpoints, one new Campaigns endpoint, and five new Queues webhook events; new fields in dozens of API endpoints and new fields in five Teams events.",
+    "date": "2026-08-17T00:00:00+00:00"
   },
   {
     "id": "61ddb6e2cd7416f7",
@@ -958,45 +998,5 @@
     "link": "https://releases.1password.com/mac/",
     "summary": "",
     "date": "2026-03-06T17:53:53.055734+00:00"
-  },
-  {
-    "id": "acebfce2cbf47063",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Make a copy of a notebook in Gemini Notebook",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/make-copy-of-notebook-in-gemini-notebook.html",
-    "summary": "Gemini Notebook users can now copy entire notebooks, including all associated sources and studio items, if they have copy permission for that notebook. This capability allows users to build upon existing work or templates shared by others. For example, a student can copy a notebook shared by a...",
-    "date": "2026-08-17T21:23:12+00:00"
-  },
-  {
-    "id": "d38ec99caa346ceb",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Bolt for JS v5",
-    "link": "https://docs.slack.dev/changelog/2026/07/15/bolt-js-release",
-    "summary": "Version 5.0.0 of Bolt for JS is here! This release follows the Node Slack SDK's shift from axios to the native Fetch API, removes the deprecated Workflow Steps from Apps feature, and raises the minimum Node.js version to 20.",
-    "date": "2026-07-15T00:00:00+00:00"
-  },
-  {
-    "id": "ff5374f5385bc02a",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Multiple Node Slack SDK package updates",
-    "link": "https://docs.slack.dev/changelog/2026/07/14/node-slack-sdk-release",
-    "summary": "Our collection of Node Slack SDK packages have received new major versions.",
-    "date": "2026-07-14T00:00:00+00:00"
-  },
-  {
-    "id": "973bed8c6058a6bb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New enterprise security controls for Workspace Studio enable expanded collaboration use cases",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/new-enterprise-security-controls-for-Workspace-Studio-enable-expanded-collaboration-use-cases.html",
-    "summary": "Workspace Studio enables users to boost their productivity with custom, no-code agentic automation. Today, we are adding a new set of enterprise security controls to enable additional collaboration use cases. These granular identity, data protection, observability, and governance controls provide...",
-    "date": "2026-08-17T21:14:11+00:00"
   }
 ]
