@@ -120,6 +120,16 @@
     "date": "2026-06-30T01:06:14.398332+00:00"
   },
   {
+    "id": "8ef3d161e4194ef5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Generate interactive simulations and models in the Gemini app",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/generate-interactive-simulations-and-models-in-the-Gemini-app.html",
+    "summary": "Gemini can transform your questions and complex topics into custom, interactive visualizations — directly within your Gemini app chat.Previously, responses were largely text with static diagrams. Now, we’re delivering functional simulations that can help you better understand the topic you’re...",
+    "date": "2026-08-24T17:51:01+00:00"
+  },
+  {
     "id": "203d25495c3cfd27",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/view-google-chat-usage-metrics-in-Gemini-reports-dashboard.html",
     "summary": "Admins can now access Google Chat usage metrics in the Gemini reports dashboard across both organization- and user-level reports.At the organization level, this allows admins to track active Gemini users in Google Chat, analyze usage trends, and identify who benefits most from Gemini-powered...",
     "date": "2026-08-20T17:05:35+00:00"
-  },
-  {
-    "id": "084feac1a26d78a5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Allowlisted Domains API now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/allowlisted-domains-api-now-generally-available.html",
-    "summary": "The Google Workspace Allowlisted Domains API is now generally available. Previously, administrators had to manage their allowlisted domains list manually through the Google Workspace Admin console. With this release, hosted under the Cloud Identity API suite as a top-level resource, organizations...",
-    "date": "2026-08-20T17:01:51+00:00"
   },
   {
     "id": "d3a6eaae64d2596f",
@@ -750,6 +750,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "084feac1a26d78a5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Allowlisted Domains API now generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/allowlisted-domains-api-now-generally-available.html",
+    "summary": "The Google Workspace Allowlisted Domains API is now generally available. Previously, administrators had to manage their allowlisted domains list manually through the Google Workspace Admin console. With this release, hosted under the Cloud Identity API suite as a top-level resource, organizations...",
+    "date": "2026-08-20T17:01:51+00:00"
+  },
+  {
     "id": "4aabcee757da276d",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/use-gemini-to-help-manage-google-Workspace-for-your-organization.html",
     "summary": "We are introducing Admin Assist, bringing two new Gemini-powered capabilities to the Google Admin Console: the Sidepanel and Search Overviews. Designed to simplify complex administrative workflows and troubleshooting, this launch makes managing Google Workspace easier and faster. Admin Assist is...",
     "date": "2026-08-17T21:27:55+00:00"
-  },
-  {
-    "id": "9c09b21f403ecfc4",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning",
-    "link": "https://releases.1password.com/mac/",
-    "summary": "",
-    "date": "2026-03-06T17:53:53.055734+00:00"
   }
 ]
