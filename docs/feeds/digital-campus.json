@@ -260,24 +260,14 @@
     "date": "2026-06-29T16:00:00+00:00"
   },
   {
-    "id": "61ddb6e2cd7416f7",
+    "id": "a08098dee88bbee6",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 beta 6 (26A5416b)",
-    "link": "https://developer.apple.com/news/releases/?id=08172026c",
+    "title": "macOS 27.0 beta 7 (26A5421a)",
+    "link": "https://developer.apple.com/news/releases/?id=08242026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-08-17T17:00:00+00:00"
-  },
-  {
-    "id": "6cbda131d21dda79",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.6.2 (25G83)",
-    "link": "https://developer.apple.com/news/releases/?id=08172026j",
-    "summary": "View downloadsView release notes",
-    "date": "2026-08-17T17:00:00+00:00"
+    "date": "2026-08-24T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -760,6 +750,26 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "61ddb6e2cd7416f7",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 27.0 beta 6 (26A5416b)",
+    "link": "https://developer.apple.com/news/releases/?id=08172026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-08-17T17:00:00+00:00"
+  },
+  {
+    "id": "6cbda131d21dda79",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 26.6.2 (25G83)",
+    "link": "https://developer.apple.com/news/releases/?id=08172026j",
+    "summary": "View downloadsView release notes",
+    "date": "2026-08-17T17:00:00+00:00"
+  },
+  {
     "id": "68e637468e73b375",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/new-enterprise-security-controls-for-Workspace-Studio-enable-expanded-collaboration-use-cases.html",
     "summary": "Workspace Studio enables users to boost their productivity with custom, no-code agentic automation. Today, we are adding a new set of enterprise security controls to enable additional collaboration use cases. These granular identity, data protection, observability, and governance controls provide...",
     "date": "2026-08-17T21:14:11+00:00"
-  },
-  {
-    "id": "c7ddbde99d810803",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Enhanced external sharing insights now available in Drive Inventory Reporting",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/enhanced-external-sharing-insights-now-available-in-Drive-Inventory-Reporting.html",
-    "summary": "Administrators using Drive Inventory Reporting in Google BigQuery can now access granular external sharing fields designed to simplify complex permission structures. By automatically consolidating direct permissions, group memberships, and public links into clear signals, this update helps...",
-    "date": "2026-08-17T17:34:55+00:00"
   }
 ]
