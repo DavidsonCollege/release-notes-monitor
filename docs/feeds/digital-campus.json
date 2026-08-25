@@ -120,6 +120,16 @@
     "date": "2026-06-30T01:06:14.398332+00:00"
   },
   {
+    "id": "924766c359b34798",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Restrict who can view the member lists in Google Chat spaces",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/restrict-who-can-view-member-lists-in-Google-Chat-spaces.html",
+    "summary": "Space owners and managers can now control who can view the full list of members in a Google Chat space, providing enhanced privacy and administrative control for sensitive, large-scale, or external collaboration spaces.Previously, any member of a Google Chat space could view the complete list of...",
+    "date": "2026-08-25T17:02:42+00:00"
+  },
+  {
     "id": "8ef3d161e4194ef5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/record-presentations-in-google-slides-with-Google-Vids.html",
     "summary": "We are introducing a seamless way to record presentations in Google Slides using Google Vids directly from the Slides interface. Moving forward, you will see a new Record option in the right-hand menu of Slides. Selecting this option guides you through a streamlined recording workflow and outputs...",
     "date": "2026-08-20T17:28:12+00:00"
-  },
-  {
-    "id": "bd09033388401d6f",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "View Google Chat usage metrics in Gemini reports dashboard",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/view-google-chat-usage-metrics-in-Gemini-reports-dashboard.html",
-    "summary": "Admins can now access Google Chat usage metrics in the Gemini reports dashboard across both organization- and user-level reports.At the organization level, this allows admins to track active Gemini users in Google Chat, analyze usage trends, and identify who benefits most from Gemini-powered...",
-    "date": "2026-08-20T17:05:35+00:00"
   },
   {
     "id": "d3a6eaae64d2596f",
@@ -700,14 +700,14 @@
     "date": "2026-07-24T00:00:00+00:00"
   },
   {
-    "id": "7dd9f9e5d46fcab2",
+    "id": "2005c82e484167da",
     "product_id": "gemini",
     "product_name": "Gemini",
     "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Probar Gemini",
+    "title": "Try Gemini",
     "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
     "summary": "",
-    "date": "2026-08-18T02:54:18.337779+00:00"
+    "date": "2026-08-14T14:16:58.978118+00:00"
   },
   {
     "id": "1d48e7a689257710",
@@ -730,36 +730,6 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
-    "id": "11083138bb0d83b5",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "De qué se trata: Presentamos una nueva forma de trabajar con Gemini usando solo tu voz, directamente desde donde estés. Mantén presionada la tecla F",
-    "link": "https://gemini.google/mac/",
-    "summary": "De qué se trata: Presentamos una nueva forma de trabajar con Gemini usando solo tu voz, directamente desde donde estés. Mantén presionada la tecla Fn para dictar en tu ventana activa y que Gemini transcriba tus palabras en texto limpio y pulido directamente en la ubicación del cursor. También...",
-    "date": "2026-08-18T02:54:18.337822+00:00"
-  },
-  {
-    "id": "b7b93b37991554a6",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Por qué lo hacemos: Cuando dices lo que piensas, puedes trabajar a la velocidad del pensamiento, lo que te permite divagar, dudar o corregirte mient",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Por qué lo hacemos: Cuando dices lo que piensas, puedes trabajar a la velocidad del pensamiento, lo que te permite divagar, dudar o corregirte mientras Gemini les da sentido a tus palabras con facilidad. Para ayudarte a mantener la concentración, Gemini trabaja contigo teniendo en cuenta el...",
-    "date": "2026-08-18T02:54:18.337837+00:00"
-  },
-  {
-    "id": "2005c82e484167da",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Try Gemini",
-    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
-    "summary": "",
-    "date": "2026-08-14T14:16:58.978118+00:00"
-  },
-  {
     "id": "ee471d9e880a13c9",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -778,6 +748,46 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
     "date": "2026-08-14T14:16:58.978170+00:00"
+  },
+  {
+    "id": "bd09033388401d6f",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "View Google Chat usage metrics in Gemini reports dashboard",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/view-google-chat-usage-metrics-in-Gemini-reports-dashboard.html",
+    "summary": "Admins can now access Google Chat usage metrics in the Gemini reports dashboard across both organization- and user-level reports.At the organization level, this allows admins to track active Gemini users in Google Chat, analyze usage trends, and identify who benefits most from Gemini-powered...",
+    "date": "2026-08-20T17:05:35+00:00"
+  },
+  {
+    "id": "7dd9f9e5d46fcab2",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Probar Gemini",
+    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
+    "summary": "",
+    "date": "2026-08-18T02:54:18.337779+00:00"
+  },
+  {
+    "id": "11083138bb0d83b5",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "De qué se trata: Presentamos una nueva forma de trabajar con Gemini usando solo tu voz, directamente desde donde estés. Mantén presionada la tecla F",
+    "link": "https://gemini.google/mac/",
+    "summary": "De qué se trata: Presentamos una nueva forma de trabajar con Gemini usando solo tu voz, directamente desde donde estés. Mantén presionada la tecla Fn para dictar en tu ventana activa y que Gemini transcriba tus palabras en texto limpio y pulido directamente en la ubicación del cursor. También...",
+    "date": "2026-08-18T02:54:18.337822+00:00"
+  },
+  {
+    "id": "b7b93b37991554a6",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Por qué lo hacemos: Cuando dices lo que piensas, puedes trabajar a la velocidad del pensamiento, lo que te permite divagar, dudar o corregirte mient",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Por qué lo hacemos: Cuando dices lo que piensas, puedes trabajar a la velocidad del pensamiento, lo que te permite divagar, dudar o corregirte mientras Gemini les da sentido a tus palabras con facilidad. Para ayudarte a mantener la concentración, Gemini trabaja contigo teniendo en cuenta el...",
+    "date": "2026-08-18T02:54:18.337837+00:00"
   },
   {
     "id": "2dccaec2bf94ce03",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/my-notes/august-17-2026",
     "summary": "Tags: api-release | New webhook event added.",
     "date": "2026-08-17T00:00:00+00:00"
-  },
-  {
-    "id": "294173efc6fc1407",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Elevate your Google Meet experience for shared meeting spaces with Room Display mode",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/elevate-your-google-meet-experience-for-shared-meeting-spaces-with-Room-Display-mode.html",
-    "summary": "We are excited to introduce Room Display mode, a new dual-window experience for Google Meet on the web. Launching in beta, this feature is designed specifically for \"Bring Your Own Device\" meeting spaces, where users connect a personal laptop to a shared external display, such as a TV or...",
-    "date": "2026-08-19T19:36:20+00:00"
   }
 ]
