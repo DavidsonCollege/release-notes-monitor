@@ -1,13 +1,13 @@
 [
   {
-    "id": "5a1ea089b4372fc7",
+    "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password SaaS Manager",
+    "title": "1Password for Android",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "August 20 2026"
+    "date": "August 25 2026"
   },
   {
     "id": "87c02b09c4a21c48",
@@ -750,6 +750,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "5a1ea089b4372fc7",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password SaaS Manager",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "August 20 2026"
+  },
+  {
     "id": "084feac1a26d78a5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/managing-unsolicited-event-invitations-with-user-blocking-in-Google-Calendar.html",
     "summary": "You can now protect your calendar from repeated calendar spam and unwanted invitations. When you block a user in Google Calendar, the current event is automatically removed and you no longer receive new calendar invitations from that person.In addition, when you block an individual in Calendar,...",
     "date": "2026-08-18T18:25:46+00:00"
-  },
-  {
-    "id": "724061a0811e9599",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use Gemini to help manage Google Workspace for your organization",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/use-gemini-to-help-manage-google-Workspace-for-your-organization.html",
-    "summary": "We are introducing Admin Assist, bringing two new Gemini-powered capabilities to the Google Admin Console: the Sidepanel and Search Overviews. Designed to simplify complex administrative workflows and troubleshooting, this launch makes managing Google Workspace easier and faster. Admin Assist is...",
-    "date": "2026-08-17T21:27:55+00:00"
   }
 ]
