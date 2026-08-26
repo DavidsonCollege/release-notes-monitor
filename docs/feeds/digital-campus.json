@@ -120,6 +120,16 @@
     "date": "2026-06-30T01:06:14.398332+00:00"
   },
   {
+    "id": "3f501f306a7db85b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Classroom now supports Context-Aware Access controls",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/google-classroom-now-supports-context-Aware-Access-controls.html",
+    "summary": "We’re excited to introduce the ability to specify Context-Aware Access policies to control access to Google Classroom. This update allows Google Workspace administrators to set granular security parameters for Classroom access directly from the Admin console. For example, an organization can create...",
+    "date": "2026-08-26T18:55:52+00:00"
+  },
+  {
     "id": "51e7c0497bdbfc50",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/introducing-data-import-for-microsoft-Teams-An-easier-faster-and-higher-fidelity-migration-to-Google-Workspace.html",
     "summary": "For enterprise organizations, migrating communication history and collaboration channels to a new platform can feel daunting and risk interrupting daily business operations. To make this transition smoother, we are excited to announce that migrating chat data from Microsoft Teams to Google...",
     "date": "2026-08-25T18:08:32+00:00"
-  },
-  {
-    "id": "924766c359b34798",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Restrict who can view the member lists in Google Chat spaces",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/restrict-who-can-view-member-lists-in-Google-Chat-spaces.html",
-    "summary": "Space owners and managers can now control who can view the full list of members in a Google Chat space, providing enhanced privacy and administrative control for sensitive, large-scale, or external collaboration spaces.Previously, any member of a Google Chat space could view the complete list of...",
-    "date": "2026-08-25T17:02:42+00:00"
   },
   {
     "id": "d3a6eaae64d2596f",
@@ -750,6 +750,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "924766c359b34798",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Restrict who can view the member lists in Google Chat spaces",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/restrict-who-can-view-member-lists-in-Google-Chat-spaces.html",
+    "summary": "Space owners and managers can now control who can view the full list of members in a Google Chat space, providing enhanced privacy and administrative control for sensitive, large-scale, or external collaboration spaces.Previously, any member of a Google Chat space could view the complete list of...",
+    "date": "2026-08-25T17:02:42+00:00"
+  },
+  {
     "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google/mac/",
     "summary": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
     "date": "2026-08-21T00:51:38.629085+00:00"
-  },
-  {
-    "id": "c31440c5be7f2778",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes s",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
-    "date": "2026-08-21T00:51:38.629122+00:00"
   }
 ]
