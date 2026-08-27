@@ -320,14 +320,14 @@
     "date": "2026-03-06T17:54:07.627705+00:00"
   },
   {
-    "id": "3e2508eda188e198",
+    "id": "e279cf807341196a",
     "product_id": "ninjaone",
     "product_name": "NinjaOne",
     "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
-    "title": "Bridge the Linux Gap with NinjaOne 14.0: Seamlessly Discover, Deploy, and Support Every Endpoint",
-    "link": "https://www.ninjaone.com/blog/bridge-the-linux-gap-with-ninjaone-14/",
-    "summary": "NinjaOne’s 14.0 release expands on the platform’s unified experience, offering IT professionals unparalleled visibility and control across operating systems. These enhancements eliminate operational gaps with remote support, automated deployment, and data protection all in one interface. Explore...",
-    "date": "2026-06-24T14:00:59+00:00"
+    "title": "NinjaOne 15.0: Dark Mode Is Here (and It’s Just the Start)",
+    "link": "https://www.ninjaone.com/blog/release-15-dark-mode-sla-tracking-ddm-chromeos/",
+    "summary": "The NinjaOne 15.0 release brings a fresh look and stronger control across the tools IT teams and MSPs use every day. The platform adds the dark theme customers have been asking for, built for the people who stare at NinjaOne all day. Ticketing also gets held to its service-level agreements (SLAs),...",
+    "date": "2026-08-27T13:00:57+00:00"
   },
   {
     "id": "5a36061fb32af699",
@@ -750,6 +750,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "3e2508eda188e198",
+    "product_id": "ninjaone",
+    "product_name": "NinjaOne",
+    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
+    "title": "Bridge the Linux Gap with NinjaOne 14.0: Seamlessly Discover, Deploy, and Support Every Endpoint",
+    "link": "https://www.ninjaone.com/blog/bridge-the-linux-gap-with-ninjaone-14/",
+    "summary": "NinjaOne’s 14.0 release expands on the platform’s unified experience, offering IT professionals unparalleled visibility and control across operating systems. These enhancements eliminate operational gaps with remote support, automated deployment, and data protection all in one interface. Explore...",
+    "date": "2026-06-24T14:00:59+00:00"
+  },
+  {
     "id": "924766c359b34798",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://product.korbyt.com/changelog/korbyt-anywhere-weekly-recap-and-playlist-interrupt-release-05152026",
     "summary": "**Playlist Priority Scheduling: Interrupt and Override \\| Take full control of what plays and when** When something urgent needs to go on screen immediately, you shouldn't have to fight your own playlist to get it there. Playlist Priority Scheduling lets you assign priority levels across your...",
     "date": "2026-05-15T20:58:42+00:00"
-  },
-  {
-    "id": "ca023babef112cd9",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your act",
-    "link": "https://gemini.google/mac/",
-    "summary": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
-    "date": "2026-08-21T00:51:38.629085+00:00"
   }
 ]
