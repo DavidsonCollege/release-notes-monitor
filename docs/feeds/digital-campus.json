@@ -1,13 +1,13 @@
 [
   {
-    "id": "68bf4e06214d3b4d",
+    "id": "32f33ae82449bb7e",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
+    "title": "1Password for Linux Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "August 26 2026"
+    "date": "August 27 2026"
   },
   {
     "id": "87c02b09c4a21c48",
@@ -120,6 +120,16 @@
     "date": "2026-06-30T01:06:14.398332+00:00"
   },
   {
+    "id": "c999d2b22043dec8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improving Google Calendar’s interoperability with third-party video conferencing solutions",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/improving-google-calendars-interoperability-with-third-party-video-conferencing-solutions.html",
+    "summary": "We are introducing improvements to Google Calendar that make it easier to join third-party video meetings, including Microsoft Teams, Zoom, and Cisco Webex, when collaborating across different calendar and email clients.Specifically, users may notice:A better join experience for external recipients...",
+    "date": "2026-08-27T18:01:47+00:00"
+  },
+  {
     "id": "3f501f306a7db85b",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/introducing-data-import-for-microsoft-OneDrive-An-easier-faster-and-higher-fidelity-migration-to-Google-Workspace.html",
     "summary": "For enterprise organizations, migrating files along with their permissions to a new platform can feel daunting and risk interrupting daily business operations. To help simplify this transition, we are excited to announce general availability of Google Workspace data import (advanced mode) to...",
     "date": "2026-08-25T18:11:43+00:00"
-  },
-  {
-    "id": "7de912fa2dc7f180",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing data import for Microsoft Teams: An easier, faster, and higher-fidelity migration to Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/introducing-data-import-for-microsoft-Teams-An-easier-faster-and-higher-fidelity-migration-to-Google-Workspace.html",
-    "summary": "For enterprise organizations, migrating communication history and collaboration channels to a new platform can feel daunting and risk interrupting daily business operations. To make this transition smoother, we are excited to announce that migrating chat data from Microsoft Teams to Google...",
-    "date": "2026-08-25T18:08:32+00:00"
   },
   {
     "id": "d3a6eaae64d2596f",
@@ -640,13 +640,13 @@
     "date": "2026-08-24T00:00:00+00:00"
   },
   {
-    "id": "474a4d041df71e7e",
+    "id": "ae6fd6a9f3fe921f",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added Fax Cover Page APIs",
-    "link": "https://developers.zoom.us/changelog/phone/august-24-2026",
-    "summary": "Tags: api-release | Added APIs to retrieve and download fax cover pages and new request fields to specify cover page details when sending faxes.",
+    "title": "One new Archiving API",
+    "link": "https://developers.zoom.us/changelog/meetings/august-24-2026",
+    "summary": "Tags: api-release | One new Archiving API",
     "date": "2026-08-24T00:00:00+00:00"
   },
   {
@@ -748,6 +748,36 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
     "date": "2026-08-14T14:16:58.978170+00:00"
+  },
+  {
+    "id": "68bf4e06214d3b4d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "August 26 2026"
+  },
+  {
+    "id": "7de912fa2dc7f180",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing data import for Microsoft Teams: An easier, faster, and higher-fidelity migration to Google Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/introducing-data-import-for-microsoft-Teams-An-easier-faster-and-higher-fidelity-migration-to-Google-Workspace.html",
+    "summary": "For enterprise organizations, migrating communication history and collaboration channels to a new platform can feel daunting and risk interrupting daily business operations. To make this transition smoother, we are excited to announce that migrating chat data from Microsoft Teams to Google...",
+    "date": "2026-08-25T18:08:32+00:00"
+  },
+  {
+    "id": "474a4d041df71e7e",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Added Fax Cover Page APIs",
+    "link": "https://developers.zoom.us/changelog/phone/august-24-2026",
+    "summary": "Tags: api-release | Added APIs to retrieve and download fax cover pages and new request fields to specify cover page details when sending faxes.",
+    "date": "2026-08-24T00:00:00+00:00"
   },
   {
     "id": "f812915fb4039507",
@@ -968,35 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/granular-space-creation-restrictions-now-available-in-Google-Chat.html",
     "summary": "We are introducing a new admin setting in Google Chat that allows administrators to restrict specific users or groups from creating spaces, while continuing to permit them to create 1:1 direct messages (DMs) and group direct messages (gDMs).Previously, Chat restriction settings functioned as a...",
     "date": "2026-08-20T15:13:17+00:00"
-  },
-  {
-    "id": "e4605b9d6ab0ccc0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing Ask Gemini in Chat: your new partner in productivity",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html",
-    "summary": "Google Chat is the central hub for real-time collaboration in Workspace, and starting August 26, 2026, it becomes the place where you can bring the power of Gemini into your flow of teamwork. We’re introducing Ask Gemini in Google Chat, a unified command line for your work, powered by Workspace...",
-    "date": "2026-08-19T23:20:07+00:00"
-  },
-  {
-    "id": "7cd0d0dbea07e961",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "July 17, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/51477488444564-July-17-2026",
-    "summary": "",
-    "date": "2026-07-24T17:09:51Z"
-  },
-  {
-    "id": "2c785ffedb21673a",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 20 July 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/07/20/announcing-new-builds-for-20-july-2026/",
-    "summary": "Hello Windows Insiders, Today we are releasing new Windows 11 Insider Preview Builds across Beta, Experimental and Release Preview. See your channel release notes here: Beta: Announcing new builds for 20 July 2026 appeared first on Windows Insider Blog.",
-    "date": "2026-07-20T21:05:12+00:00"
   }
 ]
