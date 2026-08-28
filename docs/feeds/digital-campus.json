@@ -70,6 +70,26 @@
     "date": "2026-07-28T21:08:05Z"
   },
   {
+    "id": "c5b58b7cc95f6495",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no lo",
+    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
+    "summary": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no longer in preview, and are now generally available.",
+    "date": "2026-08-28T00:33:33.619546+00:00"
+  },
+  {
+    "id": "f47f9be6b9ad443f",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Get design dataset API is no longer in preview, and is now generally available.",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-dataset/",
+    "summary": "",
+    "date": "2026-08-28T00:33:33.619573+00:00"
+  },
+  {
     "id": "4efcf3bff8ee4b0d",
     "product_id": "canva",
     "product_name": "Canva",
@@ -98,26 +118,6 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/folders/get-folder/",
     "summary": "The Get folder API, Delete folder API, and Move folder item API now return a 400 error with the invalid_field code when the supplied folder ID isn't a valid folder ID. These requests previously returned a 500 error.",
     "date": "2026-08-14T00:34:15.269769+00:00"
-  },
-  {
-    "id": "d8be261279577d9c",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The design_types field on Design responses and the design_type field on DesignPage are now out of preview and included in every response.",
-    "link": "https://www.canva.dev/docs/connect/changelog/",
-    "summary": "",
-    "date": "2026-07-13T04:43:53.876569+00:00"
-  },
-  {
-    "id": "b859d2dbe285873b",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "New preview APIs are available: Get design analytics, Get design analytics viewers, Get design analytics views over time, Get design analytics page vi",
-    "link": "https://www.canva.dev/docs/connect/api-reference/analytics/get-design-analytics/",
-    "summary": "New preview APIs are available: Get design analytics, Get design analytics viewers, Get design analytics views over time, Get design analytics page views, and Get design analytics links. These APIs let you retrieve engagement metrics for a design shared via Canva.",
-    "date": "2026-06-30T01:06:14.398332+00:00"
   },
   {
     "id": "c999d2b22043dec8",
@@ -750,6 +750,26 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "d8be261279577d9c",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The design_types field on Design responses and the design_type field on DesignPage are now out of preview and included in every response.",
+    "link": "https://www.canva.dev/docs/connect/changelog/",
+    "summary": "",
+    "date": "2026-07-13T04:43:53.876569+00:00"
+  },
+  {
+    "id": "b859d2dbe285873b",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "New preview APIs are available: Get design analytics, Get design analytics viewers, Get design analytics views over time, Get design analytics page vi",
+    "link": "https://www.canva.dev/docs/connect/api-reference/analytics/get-design-analytics/",
+    "summary": "New preview APIs are available: Get design analytics, Get design analytics viewers, Get design analytics views over time, Get design analytics page views, and Get design analytics links. These APIs let you retrieve engagement metrics for a design shared via Canva.",
+    "date": "2026-06-30T01:06:14.398332+00:00"
+  },
+  {
     "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
@@ -978,25 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=08172026c",
     "summary": "View downloadsView release notes",
     "date": "2026-08-17T17:00:00+00:00"
-  },
-  {
-    "id": "6cbda131d21dda79",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 26.6.2 (25G83)",
-    "link": "https://developer.apple.com/news/releases/?id=08172026j",
-    "summary": "View downloadsView release notes",
-    "date": "2026-08-17T17:00:00+00:00"
-  },
-  {
-    "id": "68e637468e73b375",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Granular space creation restrictions now available in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/granular-space-creation-restrictions-now-available-in-Google-Chat.html",
-    "summary": "We are introducing a new admin setting in Google Chat that allows administrators to restrict specific users or groups from creating spaces, while continuing to permit them to create 1:1 direct messages (DMs) and group direct messages (gDMs).Previously, Chat restriction settings functioned as a...",
-    "date": "2026-08-20T15:13:17+00:00"
   }
 ]
