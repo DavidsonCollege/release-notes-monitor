@@ -159,7 +159,7 @@
       "name": "data-management-notifications",
       "is_private": false,
       "topic": "",
-      "num_members": 5
+      "num_members": 4
     },
     {
       "id": "C01QQDYJVU2",
@@ -208,7 +208,7 @@
       "name": "fellows",
       "is_private": false,
       "topic": "",
-      "num_members": 5
+      "num_members": 3
     },
     {
       "id": "C05HF829Z6G",
@@ -222,7 +222,7 @@
       "name": "general",
       "is_private": false,
       "topic": "Company-wide announcements and work-based matters",
-      "num_members": 95
+      "num_members": 80
     },
     {
       "id": "C2ETFB938",
@@ -264,7 +264,7 @@
       "name": "ideas",
       "is_private": false,
       "topic": "Ideas for IT@Davidson",
-      "num_members": 51
+      "num_members": 39
     },
     {
       "id": "C07QZEBRGFL",
@@ -334,7 +334,7 @@
       "name": "outages",
       "is_private": false,
       "topic": "",
-      "num_members": 92
+      "num_members": 79
     },
     {
       "id": "CFA3D26NL",
@@ -439,7 +439,7 @@
       "name": "proj-edw",
       "is_private": false,
       "topic": "",
-      "num_members": 6
+      "num_members": 5
     },
     {
       "id": "C09MH29463G",
@@ -474,7 +474,7 @@
       "name": "proj-network-closet-cleanup",
       "is_private": false,
       "topic": "",
-      "num_members": 5
+      "num_members": 2
     },
     {
       "id": "C04TYSNKPEJ",
@@ -565,7 +565,7 @@
       "name": "project-power-bi",
       "is_private": false,
       "topic": "",
-      "num_members": 7
+      "num_members": 6
     },
     {
       "id": "C0B7SDLSWV8",
@@ -593,7 +593,7 @@
       "name": "random",
       "is_private": false,
       "topic": "\r\n",
-      "num_members": 83
+      "num_members": 70
     },
     {
       "id": "C35AAKFNU",
@@ -677,7 +677,7 @@
       "name": "summersquad",
       "is_private": false,
       "topic": "",
-      "num_members": 5
+      "num_members": 4
     },
     {
       "id": "C08TLCYAPLZ",
@@ -705,7 +705,7 @@
       "name": "team-academic-tech",
       "is_private": false,
       "topic": "",
-      "num_members": 16
+      "num_members": 15
     },
     {
       "id": "C09S2BHTFRA",
@@ -719,14 +719,14 @@
       "name": "team-admin-services",
       "is_private": false,
       "topic": "",
-      "num_members": 19
+      "num_members": 18
     },
     {
       "id": "C034RJXRM50",
       "name": "team-cab",
       "is_private": false,
       "topic": "",
-      "num_members": 21
+      "num_members": 20
     },
     {
       "id": "C0284T6CGDA",
@@ -740,7 +740,7 @@
       "name": "team-data-management",
       "is_private": false,
       "topic": "",
-      "num_members": 22
+      "num_members": 21
     },
     {
       "id": "C022KM282HK",
@@ -775,14 +775,14 @@
       "name": "team-id",
       "is_private": false,
       "topic": "",
-      "num_members": 4
+      "num_members": 3
     },
     {
       "id": "C2C29H481",
       "name": "team-infrastructure",
       "is_private": false,
       "topic": "",
-      "num_members": 35
+      "num_members": 34
     },
     {
       "id": "C03SHVDPLJX",
@@ -796,7 +796,7 @@
       "name": "team-oracle-operations",
       "is_private": false,
       "topic": "",
-      "num_members": 15
+      "num_members": 14
     },
     {
       "id": "C0BEGST8GLV",
@@ -810,7 +810,7 @@
       "name": "team-support-center",
       "is_private": false,
       "topic": "",
-      "num_members": 63
+      "num_members": 61
     },
     {
       "id": "C685C8F6K",
@@ -901,7 +901,7 @@
       "name": "vendor-ops",
       "is_private": false,
       "topic": "",
-      "num_members": 6
+      "num_members": 5
     },
     {
       "id": "C77ED5XN1",
@@ -988,6 +988,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-08-28T10:36:56.010103+00:00",
+  "last_updated": "2026-08-28T15:03:32.525546+00:00",
   "fetch_status": "success"
 }
