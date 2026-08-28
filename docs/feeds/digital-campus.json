@@ -20,6 +20,16 @@
     "date": "2026-08-20T17:11:45.962622+00:00"
   },
   {
+    "id": "a2b9a252c3492a0d",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "August 28, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/53005059257876-August-28-2026",
+    "summary": "",
+    "date": "2026-08-28T17:51:58Z"
+  },
+  {
     "id": "72359246fbd1110c",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -27,7 +37,7 @@
     "title": "August 21, 2026",
     "link": "https://help.adastra.live/hc/en-us/articles/52769826639252-August-21-2026",
     "summary": "",
-    "date": "2026-08-26T11:56:06Z"
+    "date": "2026-08-28T17:26:05Z"
   },
   {
     "id": "436afad157af2a4d",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/52026436342932-July-31-2026",
     "summary": "",
     "date": "2026-08-01T12:57:55Z"
-  },
-  {
-    "id": "111913092d3d06c1",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "July 24, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/51820280811412-July-24-2026",
-    "summary": "",
-    "date": "2026-07-28T21:08:05Z"
   },
   {
     "id": "c5b58b7cc95f6495",
@@ -120,6 +120,16 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "e1c1f225c98592d6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Suppress email responses to calendar invitations and updates",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/suppress-email-responses-to-calendar-invitations-and-updates.html",
+    "summary": "We’re introducing a new per-event setting in Google Calendar that allows meeting organizers or their delegates to decide whether or not to receive RSVP emails and automatic responses, such as out-of-office messages and vacation responders.By default, this new setting, called “Get an email when...",
+    "date": "2026-08-28T18:24:16+00:00"
+  },
+  {
     "id": "c999d2b22043dec8",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/preserve-and-reuse-grouped-pivot-table-fields-in-Google-Sheets.html",
     "summary": "Google Sheets now supports grouped field persistence for pivot tables. When you create custom groupings or work with grouped date, time, or numeric fields, these fields are now retained directly in the pivot table editor sidebar as reusable source fields. This allows you to unassign grouped fields...",
     "date": "2026-08-25T18:14:02+00:00"
-  },
-  {
-    "id": "7a6e8012c2e5a74c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing data import for Microsoft OneDrive: An easier, faster, and higher-fidelity migration to Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/introducing-data-import-for-microsoft-OneDrive-An-easier-faster-and-higher-fidelity-migration-to-Google-Workspace.html",
-    "summary": "For enterprise organizations, migrating files along with their permissions to a new platform can feel daunting and risk interrupting daily business operations. To help simplify this transition, we are excited to announce general availability of Google Workspace data import (advanced mode) to...",
-    "date": "2026-08-25T18:11:43+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,26 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "111913092d3d06c1",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "July 24, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/51820280811412-July-24-2026",
+    "summary": "",
+    "date": "2026-07-28T21:08:05Z"
+  },
+  {
+    "id": "7a6e8012c2e5a74c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing data import for Microsoft OneDrive: An easier, faster, and higher-fidelity migration to Google Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/introducing-data-import-for-microsoft-OneDrive-An-easier-faster-and-higher-fidelity-migration-to-Google-Workspace.html",
+    "summary": "For enterprise organizations, migrating files along with their permissions to a new platform can feel daunting and risk interrupting daily business operations. To help simplify this transition, we are excited to announce general availability of Google Workspace data import (advanced mode) to...",
+    "date": "2026-08-25T18:11:43+00:00"
+  },
+  {
     "id": "ea9639fd7d61eb96",
     "product_id": "korbyt",
     "product_name": "Korbyt",
@@ -978,25 +998,5 @@
     "link": "https://developers.zoom.us/changelog/ui-toolkit/web/2.5.0-1",
     "summary": "Tags: bug-fix, sdk-version | Fixed issues with screen sharing, and with missing function buttons after leaving subsession rooms.",
     "date": "2026-08-18T00:00:00+00:00"
-  },
-  {
-    "id": "71fde96bb6eb2766",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added Chat Migration API",
-    "link": "https://developers.zoom.us/changelog/chat/august-17-2026",
-    "summary": "Tags: api-release | Added an API to delete tabs from migrated chat channels.",
-    "date": "2026-08-17T00:00:00+00:00"
-  },
-  {
-    "id": "38b2885637edb4d1",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Four new endpoints and five new events; new fields in dozens of API endpoints and new fields in five Teams events",
-    "link": "https://developers.zoom.us/changelog/contact-center/august-17-2026",
-    "summary": "Tags: api-release | Three new Reports endpoints, one new Campaigns endpoint, and five new Queues webhook events; new fields in dozens of API endpoints and new fields in five Teams events.",
-    "date": "2026-08-17T00:00:00+00:00"
   }
 ]

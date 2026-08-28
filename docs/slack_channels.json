@@ -5,7 +5,7 @@
       "name": "academicsoftware",
       "is_private": false,
       "topic": "",
-      "num_members": 4
+      "num_members": 3
     },
     {
       "id": "C051NTVN6E9",
@@ -54,7 +54,7 @@
       "name": "benefits-discoveries",
       "is_private": false,
       "topic": "",
-      "num_members": 4
+      "num_members": 3
     },
     {
       "id": "CML6LQZKQ",
@@ -110,7 +110,7 @@
       "name": "catsched",
       "is_private": false,
       "topic": "",
-      "num_members": 3
+      "num_members": 2
     },
     {
       "id": "C01BSRZ55JQ",
@@ -222,7 +222,7 @@
       "name": "general",
       "is_private": false,
       "topic": "Company-wide announcements and work-based matters",
-      "num_members": 80
+      "num_members": 78
     },
     {
       "id": "C2ETFB938",
@@ -264,7 +264,7 @@
       "name": "ideas",
       "is_private": false,
       "topic": "Ideas for IT@Davidson",
-      "num_members": 39
+      "num_members": 38
     },
     {
       "id": "C07QZEBRGFL",
@@ -334,7 +334,7 @@
       "name": "outages",
       "is_private": false,
       "topic": "",
-      "num_members": 79
+      "num_members": 77
     },
     {
       "id": "CFA3D26NL",
@@ -397,7 +397,7 @@
       "name": "proj-atrium",
       "is_private": false,
       "topic": "",
-      "num_members": 6
+      "num_members": 5
     },
     {
       "id": "C2EPG1HFZ",
@@ -453,7 +453,7 @@
       "name": "proj-kuali-build",
       "is_private": false,
       "topic": "",
-      "num_members": 8
+      "num_members": 7
     },
     {
       "id": "C019C15PXR6",
@@ -488,7 +488,7 @@
       "name": "proj-oracle",
       "is_private": false,
       "topic": "",
-      "num_members": 13
+      "num_members": 12
     },
     {
       "id": "C0B6N3LPH5M",
@@ -537,7 +537,7 @@
       "name": "proj-ssb9",
       "is_private": false,
       "topic": "",
-      "num_members": 5
+      "num_members": 4
     },
     {
       "id": "CCT2FCHSB",
@@ -593,7 +593,7 @@
       "name": "random",
       "is_private": false,
       "topic": "\r\n",
-      "num_members": 70
+      "num_members": 68
     },
     {
       "id": "C35AAKFNU",
@@ -705,7 +705,7 @@
       "name": "team-academic-tech",
       "is_private": false,
       "topic": "",
-      "num_members": 15
+      "num_members": 14
     },
     {
       "id": "C09S2BHTFRA",
@@ -733,7 +733,7 @@
       "name": "team-cio-office",
       "is_private": false,
       "topic": "",
-      "num_members": 10
+      "num_members": 9
     },
     {
       "id": "C023CHSMEJC",
@@ -768,7 +768,7 @@
       "name": "team-finance-and-admin",
       "is_private": false,
       "topic": "",
-      "num_members": 6
+      "num_members": 5
     },
     {
       "id": "C64R0G4UT",
@@ -810,7 +810,7 @@
       "name": "team-support-center",
       "is_private": false,
       "topic": "",
-      "num_members": 61
+      "num_members": 60
     },
     {
       "id": "C685C8F6K",
@@ -988,6 +988,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-08-28T15:03:32.525546+00:00",
+  "last_updated": "2026-08-28T19:32:19.885392+00:00",
   "fetch_status": "success"
 }
