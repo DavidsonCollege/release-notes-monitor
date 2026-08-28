@@ -27,7 +27,7 @@
     "title": "August 28, 2026",
     "link": "https://help.adastra.live/hc/en-us/articles/53005059257876-August-28-2026",
     "summary": "",
-    "date": "2026-08-28T17:51:58Z"
+    "date": "2026-08-28T21:12:50Z"
   },
   {
     "id": "72359246fbd1110c",
@@ -120,6 +120,16 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "e92b7c54ee69486e",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Preview client-side encrypted PDF and image files directly in Google Drive, now available in beta",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/preview-client-side-encrypted-pdf-and-image-files-directly-in-Google-Drive-now-available-in-beta.html",
+    "summary": "Client-side encryption (CSE) provides organizations control over access to their confidential data, with customer controlled encryption keys and data that is indecipherable to third-parties, including Google. Google Drive now supports direct file previewing for CSE files. Previously, users needed...",
+    "date": "2026-08-28T19:49:41+00:00"
+  },
+  {
     "id": "e1c1f225c98592d6",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/control-take-notes-for-me-directly-from-Google-Meet-hardware-touch-controllers.html",
     "summary": "On August 31, 2026, we’ll start rolling out the ability to start, stop, and manage the “Take notes for me” feature directly from the Google Meet Hardware touch controller for eligible meetings. This ensures in-room participants have direct control over Gemini note-taking without being in Companion...",
     "date": "2026-08-25T19:55:42+00:00"
-  },
-  {
-    "id": "d856da44365d1eec",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Preserve and reuse grouped pivot table fields in Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/preserve-and-reuse-grouped-pivot-table-fields-in-Google-Sheets.html",
-    "summary": "Google Sheets now supports grouped field persistence for pivot tables. When you create custom groupings or work with grouped date, time, or numeric fields, these fields are now retained directly in the pivot table editor sidebar as reusable source fields. This allows you to unassign grouped fields...",
-    "date": "2026-08-25T18:14:02+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "d856da44365d1eec",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Preserve and reuse grouped pivot table fields in Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/preserve-and-reuse-grouped-pivot-table-fields-in-Google-Sheets.html",
+    "summary": "Google Sheets now supports grouped field persistence for pivot tables. When you create custom groupings or work with grouped date, time, or numeric fields, these fields are now retained directly in the pivot table editor sidebar as reusable source fields. This allows you to unassign grouped fields...",
+    "date": "2026-08-25T18:14:02+00:00"
+  },
+  {
     "id": "111913092d3d06c1",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/commerce/august-20-2026",
     "summary": "Tags: api-release | Added need response field for Quote API.",
     "date": "2026-08-20T00:00:00+00:00"
-  },
-  {
-    "id": "5b67ec10ee447511",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 2.5.0-1",
-    "link": "https://developers.zoom.us/changelog/ui-toolkit/web/2.5.0-1",
-    "summary": "Tags: bug-fix, sdk-version | Fixed issues with screen sharing, and with missing function buttons after leaving subsession rooms.",
-    "date": "2026-08-18T00:00:00+00:00"
   }
 ]
