@@ -120,6 +120,26 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "610864d73542abf2",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - August 28, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/weekly-recap-08-28-2026.html",
+    "summary": "Now available: A refreshed user interface for Google Meet hardware touch controllers on Neat and Poly devicesOn August 26, 2026, we are officially launching our updated user interface for Neat touch controllers and the Poly TC8. Overall, the design allows users to concentrate on their meetings...",
+    "date": "2026-08-28T22:08:21+00:00"
+  },
+  {
+    "id": "41afd219352d7702",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini-based data classification in Google Drive is now available in open beta",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/gemini-based-data-classification-in-Google-Drive-is-now-available-in-open-beta.html",
+    "summary": "Gemini-powered AI classification in Google Drive is now available in open beta.By automating file identification and labeling across Drive, AI classification helps organizations enforce granular data loss prevention (DLP) policies at scale, establish retention rules, and utilize label metadata...",
+    "date": "2026-08-28T21:51:12+00:00"
+  },
+  {
     "id": "e92b7c54ee69486e",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/improving-google-calendars-interoperability-with-third-party-video-conferencing-solutions.html",
     "summary": "We are introducing improvements to Google Calendar that make it easier to join third-party video meetings, including Microsoft Teams, Zoom, and Cisco Webex, when collaborating across different calendar and email clients.Specifically, users may notice:A better join experience for external recipients...",
     "date": "2026-08-27T18:01:47+00:00"
-  },
-  {
-    "id": "3f501f306a7db85b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Classroom now supports Context-Aware Access controls",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/google-classroom-now-supports-context-Aware-Access-controls.html",
-    "summary": "We’re excited to introduce the ability to specify Context-Aware Access policies to control access to Google Classroom. This update allows Google Workspace administrators to set granular security parameters for Classroom access directly from the Admin console. For example, an organization can create...",
-    "date": "2026-08-26T18:55:52+00:00"
-  },
-  {
-    "id": "51e7c0497bdbfc50",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Control “Take notes for me” directly from Google Meet hardware touch controllers",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/control-take-notes-for-me-directly-from-Google-Meet-hardware-touch-controllers.html",
-    "summary": "On August 31, 2026, we’ll start rolling out the ability to start, stop, and manage the “Take notes for me” feature directly from the Google Meet Hardware touch controller for eligible meetings. This ensures in-room participants have direct control over Gemini note-taking without being in Companion...",
-    "date": "2026-08-25T19:55:42+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,26 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "3f501f306a7db85b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Classroom now supports Context-Aware Access controls",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/google-classroom-now-supports-context-Aware-Access-controls.html",
+    "summary": "We’re excited to introduce the ability to specify Context-Aware Access policies to control access to Google Classroom. This update allows Google Workspace administrators to set granular security parameters for Classroom access directly from the Admin console. For example, an organization can create...",
+    "date": "2026-08-26T18:55:52+00:00"
+  },
+  {
+    "id": "51e7c0497bdbfc50",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Control “Take notes for me” directly from Google Meet hardware touch controllers",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/control-take-notes-for-me-directly-from-Google-Meet-hardware-touch-controllers.html",
+    "summary": "On August 31, 2026, we’ll start rolling out the ability to start, stop, and manage the “Take notes for me” feature directly from the Google Meet Hardware touch controller for eligible meetings. This ensures in-room participants have direct control over Gemini note-taking without being in Companion...",
+    "date": "2026-08-25T19:55:42+00:00"
+  },
+  {
     "id": "d856da44365d1eec",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "August 20 2026"
-  },
-  {
-    "id": "084feac1a26d78a5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Allowlisted Domains API now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/allowlisted-domains-api-now-generally-available.html",
-    "summary": "The Google Workspace Allowlisted Domains API is now generally available. Previously, administrators had to manage their allowlisted domains list manually through the Google Workspace Admin console. With this release, hosted under the Cloud Identity API suite as a top-level resource, organizations...",
-    "date": "2026-08-20T17:01:51+00:00"
-  },
-  {
-    "id": "4aabcee757da276d",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New response field for Quote API",
-    "link": "https://developers.zoom.us/changelog/commerce/august-20-2026",
-    "summary": "Tags: api-release | Added need response field for Quote API.",
-    "date": "2026-08-20T00:00:00+00:00"
   }
 ]
