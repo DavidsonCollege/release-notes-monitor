@@ -1,5 +1,25 @@
 [
   {
+    "id": "32f33ae82449bb7e",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Linux Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "August 27 2026"
+  },
+  {
+    "id": "87c02b09c4a21c48",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning SaaS Manager",
+    "link": "https://releases.1password.com/mac/",
+    "summary": "",
+    "date": "2026-08-20T17:11:45.962622+00:00"
+  },
+  {
     "id": "a2b9a252c3492a0d",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -728,26 +748,6 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
     "date": "2026-08-14T14:16:58.978170+00:00"
-  },
-  {
-    "id": "32f33ae82449bb7e",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Linux Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "August 27 2026"
-  },
-  {
-    "id": "87c02b09c4a21c48",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password works everywhereMac iOS Windows Android Browser Linux Developer tools Provisioning SaaS Manager",
-    "link": "https://releases.1password.com/mac/",
-    "summary": "",
-    "date": "2026-08-20T17:11:45.962622+00:00"
   },
   {
     "id": "7dd9f9e5d46fcab2",
