@@ -260,14 +260,14 @@
     "date": "2026-06-29T16:00:00+00:00"
   },
   {
-    "id": "a08098dee88bbee6",
+    "id": "d61b5ed28aa1712e",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 beta 7 (26A5421a)",
-    "link": "https://developer.apple.com/news/releases/?id=08242026c",
+    "title": "macOS 27.0 beta 8 (26A5425a)",
+    "link": "https://developer.apple.com/news/releases/?id=08312026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-08-24T17:00:00+00:00"
+    "date": "2026-08-31T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -750,6 +750,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "a08098dee88bbee6",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 27.0 beta 7 (26A5421a)",
+    "link": "https://developer.apple.com/news/releases/?id=08242026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-08-24T17:00:00+00:00"
+  },
+  {
     "id": "7dd9f9e5d46fcab2",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -988,15 +998,5 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-07-14T00:00:00+00:00"
-  },
-  {
-    "id": "5a1ea089b4372fc7",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password SaaS Manager",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "August 20 2026"
   }
 ]
