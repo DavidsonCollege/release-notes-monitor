@@ -450,6 +450,16 @@
     "date": "2026-08-10T20:48:51.431024+00:00"
   },
   {
+    "id": "d9767bd9dcae2b7d",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.7.0",
+    "link": "https://docs.slack.dev/changelog/2026/08/28/slack-cli",
+    "summary": "Version 4.7.0 of the Slack CLI has been released!",
+    "date": "2026-08-31T00:00:00+00:00"
+  },
+  {
     "id": "7613252f36fcff97",
     "product_id": "slack",
     "product_name": "Slack",
@@ -488,16 +498,6 @@
     "link": "https://docs.slack.dev/changelog/2026/07/30/slack-cli",
     "summary": "Version 4.6.0 of the Slack CLI is now available!",
     "date": "2026-07-30T00:00:00+00:00"
-  },
-  {
-    "id": "9d2d9f0d9300e11e",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.5.0",
-    "link": "https://docs.slack.dev/changelog/2026/07/21/slack-cli",
-    "summary": "Version 4.5.0 of the developer tools for the Slack platform has landed!",
-    "date": "2026-07-21T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -750,6 +750,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "9d2d9f0d9300e11e",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.5.0",
+    "link": "https://docs.slack.dev/changelog/2026/07/21/slack-cli",
+    "summary": "Version 4.5.0 of the developer tools for the Slack platform has landed!",
+    "date": "2026-07-21T00:00:00+00:00"
+  },
+  {
     "id": "af1cada8fbd1ad54",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/generate-interactive-simulations-and-models-in-the-Gemini-app.html",
     "summary": "Gemini can transform your questions and complex topics into custom, interactive visualizations — directly within your Gemini app chat.Previously, responses were largely text with static diagrams. Now, we’re delivering functional simulations that can help you better understand the topic you’re...",
     "date": "2026-08-24T17:51:01+00:00"
-  },
-  {
-    "id": "203d25495c3cfd27",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Now available: A refreshed user interface for Google Meet hardware touch controllers on Neat and Poly devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/now-available-refreshed-user-interface-for-Google-Meet-hardware-touch-controllers-on-Neat-and-Poly-devices.html",
-    "summary": "On August 26, 2026, we are officially launching our updated user interface for Neat touch controllers and the Poly TC8.Overall, the design allows users to concentrate on their meetings rather than searching for controls, resulting in a more efficient and aesthetically pleasing experience.Here's...",
-    "date": "2026-08-24T15:26:38+00:00"
   }
 ]
