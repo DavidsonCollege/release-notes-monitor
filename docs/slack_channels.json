@@ -810,7 +810,7 @@
       "name": "team-support-center",
       "is_private": false,
       "topic": "",
-      "num_members": 60
+      "num_members": 61
     },
     {
       "id": "C685C8F6K",
@@ -988,6 +988,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-08-31T20:36:31.372661+00:00",
+  "last_updated": "2026-08-31T21:13:52.416279+00:00",
   "fetch_status": "success"
 }

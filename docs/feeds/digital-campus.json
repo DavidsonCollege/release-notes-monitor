@@ -550,6 +550,16 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "a1398cf90f6226c3",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 31 August 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/08/31/announcing-new-builds-for-31-august-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds for Windows 11, version 26H1 to the Beta and Experimental channels. Please see the release notes for each channel below: Beta (26H1): Announcing new builds for 31 August 2026 appeared first on Windows Insider Blog.",
+    "date": "2026-08-31T21:00:52+00:00"
+  },
+  {
     "id": "d4c8f6deeca94d26",
     "product_id": "windows",
     "product_name": "Windows",
@@ -588,16 +598,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/08/14/announcing-new-release-preview-builds-for-14-august-2026/",
     "summary": "Hello Windows Insiders, Today we’re releasing new builds for Release Preview across our supported versions of Windows 11. Please see the build numbers and links to the release notes below: Windows 11 version 24H2/25H2: Announcing new Release Preview builds for 14 August 2026 appeared first on...",
     "date": "2026-08-14T17:22:16+00:00"
-  },
-  {
-    "id": "ba2ddc6431a5729d",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 29634.1000 for Experimental (Future Platforms)",
-    "link": "https://blogs.windows.com/windows-insider/2026/07/27/announcing-windows-11-insider-preview-build-29634-1000-for-experimental-future-platforms/",
-    "summary": "Hello Windows Insiders, Today we’re releasing build 29634.1000 for the Experimental (Future Platforms) channel. Release notes can be found over in the Announcing Windows 11 Insider Preview Build 29634.1000 for Experimental (Future Platforms) appeared first on Windows Insider Blog.",
-    "date": "2026-07-27T21:01:05+00:00"
   },
   {
     "id": "4452b7b2961849dc",
@@ -748,6 +748,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
     "date": "2026-08-14T14:16:58.978170+00:00"
+  },
+  {
+    "id": "ba2ddc6431a5729d",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Insider Preview Build 29634.1000 for Experimental (Future Platforms)",
+    "link": "https://blogs.windows.com/windows-insider/2026/07/27/announcing-windows-11-insider-preview-build-29634-1000-for-experimental-future-platforms/",
+    "summary": "Hello Windows Insiders, Today we’re releasing build 29634.1000 for the Experimental (Future Platforms) channel. Release notes can be found over in the Announcing Windows 11 Insider Preview Build 29634.1000 for Experimental (Future Platforms) appeared first on Windows Insider Blog.",
+    "date": "2026-07-27T21:01:05+00:00"
   },
   {
     "id": "9d2d9f0d9300e11e",
@@ -988,15 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "August 25 2026"
-  },
-  {
-    "id": "8ef3d161e4194ef5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Generate interactive simulations and models in the Gemini app",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/generate-interactive-simulations-and-models-in-the-Gemini-app.html",
-    "summary": "Gemini can transform your questions and complex topics into custom, interactive visualizations — directly within your Gemini app chat.Previously, responses were largely text with static diagrams. Now, we’re delivering functional simulations that can help you better understand the topic you’re...",
-    "date": "2026-08-24T17:51:01+00:00"
   }
 ]
