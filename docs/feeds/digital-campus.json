@@ -120,6 +120,36 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "b2c769bb6380535d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Pics brings pro-level AI image creation and editing to Google Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/google-pics-brings-pro-level-ai-image-creation-and-editing-to-Google-Workspace.html",
+    "summary": "We are thrilled to announce that Google Pics is generally available starting today, bringing advanced AI image generation and precise, object-based image editing directly into your Workspace creative workflow. To get started, open Pics and simply type in a prompt to generate any image using...",
+    "date": "2026-09-01T16:03:37+00:00"
+  },
+  {
+    "id": "d4a323859eb80d59",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Transitioning Google Meet room hardware to focus on Android (AOSP), ongoing ChromeOS support unchanged and up to September 2030",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/transitioning-google-meet-room-hardware-to-focus-on-Android-AOSP-ongoing-ChromeOS-support-unchanged-and-up-to-September-2030.html",
+    "summary": "We're transitioning our Google Meet hardware portfolio from ChromeOS to Android to deliver features faster, broaden device choices, and increase flexibility. We're working closely with hardware partners, including Logitech, Neat, and HP Poly, to offer Google Meet-certified devices for spaces of any...",
+    "date": "2026-09-01T15:34:39+00:00"
+  },
+  {
+    "id": "3f335123c2675bac",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Add co-presenters in Google Meet with one click",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/add-co-presenters-in-google-meet-with-one-click.html",
+    "summary": "Previously, adding a co-presenter in Google Meet required multiple manual steps. Now, Gemini will intelligently suggest a co-presenter in the Ask Gemini in Meet panel, and with just one click, a user can allow another user to co-present their Google Slides presentation.Note that this “nudge” will...",
+    "date": "2026-09-01T15:28:33+00:00"
+  },
+  {
     "id": "610864d73542abf2",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -138,36 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/gemini-based-data-classification-in-Google-Drive-is-now-available-in-open-beta.html",
     "summary": "Gemini-powered AI classification in Google Drive is now available in open beta.By automating file identification and labeling across Drive, AI classification helps organizations enforce granular data loss prevention (DLP) policies at scale, establish retention rules, and utilize label metadata...",
     "date": "2026-08-28T21:51:12+00:00"
-  },
-  {
-    "id": "e92b7c54ee69486e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Preview client-side encrypted PDF and image files directly in Google Drive, now available in beta",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/preview-client-side-encrypted-pdf-and-image-files-directly-in-Google-Drive-now-available-in-beta.html",
-    "summary": "Client-side encryption (CSE) provides organizations control over access to their confidential data, with customer controlled encryption keys and data that is indecipherable to third-parties, including Google. Google Drive now supports direct file previewing for CSE files. Previously, users needed...",
-    "date": "2026-08-28T19:49:41+00:00"
-  },
-  {
-    "id": "e1c1f225c98592d6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Suppress email responses to calendar invitations and updates",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/suppress-email-responses-to-calendar-invitations-and-updates.html",
-    "summary": "We’re introducing a new per-event setting in Google Calendar that allows meeting organizers or their delegates to decide whether or not to receive RSVP emails and automatic responses, such as out-of-office messages and vacation responders.By default, this new setting, called “Get an email when...",
-    "date": "2026-08-28T18:24:16+00:00"
-  },
-  {
-    "id": "c999d2b22043dec8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improving Google Calendar’s interoperability with third-party video conferencing solutions",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/improving-google-calendars-interoperability-with-third-party-video-conferencing-solutions.html",
-    "summary": "We are introducing improvements to Google Calendar that make it easier to join third-party video meetings, including Microsoft Teams, Zoom, and Cisco Webex, when collaborating across different calendar and email clients.Specifically, users may notice:A better join experience for external recipients...",
-    "date": "2026-08-27T18:01:47+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,36 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "e92b7c54ee69486e",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Preview client-side encrypted PDF and image files directly in Google Drive, now available in beta",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/preview-client-side-encrypted-pdf-and-image-files-directly-in-Google-Drive-now-available-in-beta.html",
+    "summary": "Client-side encryption (CSE) provides organizations control over access to their confidential data, with customer controlled encryption keys and data that is indecipherable to third-parties, including Google. Google Drive now supports direct file previewing for CSE files. Previously, users needed...",
+    "date": "2026-08-28T19:49:41+00:00"
+  },
+  {
+    "id": "e1c1f225c98592d6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Suppress email responses to calendar invitations and updates",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/suppress-email-responses-to-calendar-invitations-and-updates.html",
+    "summary": "We’re introducing a new per-event setting in Google Calendar that allows meeting organizers or their delegates to decide whether or not to receive RSVP emails and automatic responses, such as out-of-office messages and vacation responders.By default, this new setting, called “Get an email when...",
+    "date": "2026-08-28T18:24:16+00:00"
+  },
+  {
+    "id": "c999d2b22043dec8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Improving Google Calendar’s interoperability with third-party video conferencing solutions",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/improving-google-calendars-interoperability-with-third-party-video-conferencing-solutions.html",
+    "summary": "We are introducing improvements to Google Calendar that make it easier to join third-party video meetings, including Microsoft Teams, Zoom, and Cisco Webex, when collaborating across different calendar and email clients.Specifically, users may notice:A better join experience for external recipients...",
+    "date": "2026-08-27T18:01:47+00:00"
+  },
+  {
     "id": "680bbcbe37c81788",
     "product_id": "slack",
     "product_name": "Slack",
@@ -968,35 +998,5 @@
     "link": "https://developers.zoom.us/changelog/phone/august-24-2026",
     "summary": "Tags: api-release | Added APIs to retrieve and download fax cover pages and new request fields to specify cover page details when sending faxes.",
     "date": "2026-08-24T00:00:00+00:00"
-  },
-  {
-    "id": "f812915fb4039507",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 28120.2546 for Experimental (26H1)",
-    "link": "https://blogs.windows.com/windows-insider/2026/07/21/announcing-windows-11-insider-preview-build-28120-2546-for-experimental-26h1/",
-    "summary": "Hello Windows Insiders, Today we're releasing build 28120.2546 for the Experimental (26H1) channel. Release notes can be found over in the Announcing Windows 11 Insider Preview Build 28120.2546 for Experimental (26H1) appeared first on Windows Insider Blog.",
-    "date": "2026-07-21T21:03:05+00:00"
-  },
-  {
-    "id": "3e2508eda188e198",
-    "product_id": "ninjaone",
-    "product_name": "NinjaOne",
-    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
-    "title": "Bridge the Linux Gap with NinjaOne 14.0: Seamlessly Discover, Deploy, and Support Every Endpoint",
-    "link": "https://www.ninjaone.com/blog/bridge-the-linux-gap-with-ninjaone-14/",
-    "summary": "NinjaOne’s 14.0 release expands on the platform’s unified experience, offering IT professionals unparalleled visibility and control across operating systems. These enhancements eliminate operational gaps with remote support, automated deployment, and data protection all in one interface. Explore...",
-    "date": "2026-06-24T14:00:59+00:00"
-  },
-  {
-    "id": "924766c359b34798",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Restrict who can view the member lists in Google Chat spaces",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/restrict-who-can-view-member-lists-in-Google-Chat-spaces.html",
-    "summary": "Space owners and managers can now control who can view the full list of members in a Google Chat space, providing enhanced privacy and administrative control for sensitive, large-scale, or external collaboration spaces.Previously, any member of a Google Chat space could view the complete list of...",
-    "date": "2026-08-25T17:02:42+00:00"
   }
 ]
