@@ -5,56 +5,56 @@
     <description>Combined release notes from all teams</description>
     <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/all.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 17:38:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:22:22 +0000</lastBuildDate>
     <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>ScreenCloud - 4.9.0</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New: Amazon Signage Stick (ASS) dedicated player. Previously ran Amazon Fire OS player on ASS device.&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">e1dab31261398830</guid>
-      <pubDate>Tue, 01 Sep 2026 17:38:26 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 18:22:22 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.7.16</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">25cbe092cc1d040f</guid>
-      <pubDate>Tue, 01 Sep 2026 17:38:26 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 18:22:22 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.11.2</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New: Support for Amazon’s Remote Device Management (RDM) for Signage Sticks, including:Screen/TV mute and unmute via HDMI-CECScreen/TV power on and off via HDMI-CECDevice rebootScreenshot and full-screen captureDeep cache clearing (player app and Android system cache)Player app restartCPU and GPU...&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">06a1b6a05e1c3232</guid>
-      <pubDate>Tue, 01 Sep 2026 17:38:26 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 18:22:22 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password for Linux Beta</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">32f33ae82449bb7e</guid>
-      <pubDate>Tue, 01 Sep 2026 17:38:26 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 18:22:22 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password for Android Beta</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">68bf4e06214d3b4d</guid>
-      <pubDate>Tue, 01 Sep 2026 17:38:26 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 18:22:22 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Scan and sort your library with new list view</title>
       <link>https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading... Loading...&lt;/p&gt;&lt;a href=&quot;https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">b51cce9cededdef9</guid>
-      <pubDate>Tue, 01 Sep 2026 17:38:26 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 18:22:22 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Scan and sort your library with new list view</title>
       <link>https://scribe.launchnotes.io/announcements/scan-and-sort-your-library-with-new-list-view</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading...&lt;/p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/scan-and-sort-your-library-with-new-list-view&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">2041822393aa11b0</guid>
-      <pubDate>Tue, 01 Sep 2026 17:38:26 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 18:22:22 +0000</pubDate>
     </item>
     <item>
       <title>Zoom - Upcoming change: TLS version requirement</title>
@@ -89,6 +89,20 @@
       <link>https://docs.slack.dev/changelog/2026/09/01/slack-marketplace-install-requirement</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=slack.com&amp;sz=64&quot; alt=&quot;Slack&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Slack&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;As of July 2026, we require that apps submitting to the Slack Marketplace have at least 10 installations on active workspaces, up from the temporary lower threshold. Your app needs to stay at 10 or more installed workspaces throughout the entire duration of the review.&lt;/p&gt;&lt;a href=&quot;https://docs.slack.dev/changelog/2026/09/01/slack-marketplace-install-requirement&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">9c3d06b9f59f1579</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude - Claude Fable 5.1 and Claude Mythos 5.1 launch</title>
+      <link>https://support.claude.com/en/articles/12138966-release-notes</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=claude.ai&amp;sz=64&quot; alt=&quot;Claude&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Claude&lt;/strong&gt;&lt;/div&gt;&lt;a href=&quot;https://support.claude.com/en/articles/12138966-release-notes&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">3511cf28b94e8081</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude - Claude Fable 5.1 and Mythos 5.1</title>
+      <link>https://support.claude.com/en/articles/12138966-release-notes</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=claude.ai&amp;sz=64&quot; alt=&quot;Claude&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Claude&lt;/strong&gt;&lt;/div&gt;&lt;a href=&quot;https://support.claude.com/en/articles/12138966-release-notes&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">f9c006bd67d749e5</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -253,13 +267,6 @@
       <pubDate>Tue, 25 Aug 2026 18:11:43 +0000</pubDate>
     </item>
     <item>
-      <title>Google Workspace - Introducing data import for Microsoft Teams: An easier, faster, and higher-fidelity migration to Google Workspace</title>
-      <link>http://workspaceupdates.googleblog.com/2026/08/introducing-data-import-for-microsoft-Teams-An-easier-faster-and-higher-fidelity-migration-to-Google-Workspace.html</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=workspace.google.com&amp;sz=64&quot; alt=&quot;Google Workspace&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Google Workspace&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;For enterprise organizations, migrating communication history and collaboration channels to a new platform can feel daunting and risk interrupting daily business operations. To make this transition smoother, we are excited to announce that migrating chat data from Microsoft Teams to Google...&lt;/p&gt;&lt;a href=&quot;http://workspaceupdates.googleblog.com/2026/08/introducing-data-import-for-microsoft-Teams-An-easier-faster-and-higher-fidelity-migration-to-Google-Workspace.html&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">7de912fa2dc7f180</guid>
-      <pubDate>Tue, 25 Aug 2026 18:08:32 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude - Memory in Claude Cowork, editable topics, and a sensitive topics setting</title>
       <link>https://support.claude.com/en/articles/12138966-release-notes</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=claude.ai&amp;sz=64&quot; alt=&quot;Claude&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Claude&lt;/strong&gt;&lt;/div&gt;&lt;a href=&quot;https://support.claude.com/en/articles/12138966-release-notes&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
@@ -299,13 +306,6 @@
       <link>https://developers.zoom.us/changelog/meetings/august-24-2026</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: api-release | One new Archiving API&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/meetings/august-24-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">ae6fd6a9f3fe921f</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zoom - Added Fax Cover Page APIs</title>
-      <link>https://developers.zoom.us/changelog/phone/august-24-2026</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: api-release | Added APIs to retrieve and download fax cover pages and new request fields to specify cover page details when sending faxes.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/phone/august-24-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">474a4d041df71e7e</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

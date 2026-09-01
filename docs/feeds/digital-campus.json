@@ -650,6 +650,26 @@
     "date": "2026-08-31T00:00:00+00:00"
   },
   {
+    "id": "3511cf28b94e8081",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1 launch",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-01T00:00:00+00:00"
+  },
+  {
+    "id": "f9c006bd67d749e5",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Fable 5.1 and Mythos 5.1",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-01T00:00:00+00:00"
+  },
+  {
     "id": "38e58d8dfd17d4be",
     "product_id": "claude",
     "product_name": "Claude",
@@ -678,26 +698,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-08-06T00:00:00+00:00"
-  },
-  {
-    "id": "5cd35abac9141645",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Opus 5 launch",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-07-24T00:00:00+00:00"
-  },
-  {
-    "id": "39d1b7fc19de212d",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Opus 5",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-07-24T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -748,6 +748,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
     "date": "2026-08-14T14:16:58.978170+00:00"
+  },
+  {
+    "id": "5cd35abac9141645",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Opus 5 launch",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-24T00:00:00+00:00"
+  },
+  {
+    "id": "39d1b7fc19de212d",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Opus 5",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-07-24T00:00:00+00:00"
   },
   {
     "id": "e92b7c54ee69486e",
@@ -978,25 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "August 26 2026"
-  },
-  {
-    "id": "7de912fa2dc7f180",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing data import for Microsoft Teams: An easier, faster, and higher-fidelity migration to Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/introducing-data-import-for-microsoft-Teams-An-easier-faster-and-higher-fidelity-migration-to-Google-Workspace.html",
-    "summary": "For enterprise organizations, migrating communication history and collaboration channels to a new platform can feel daunting and risk interrupting daily business operations. To make this transition smoother, we are excited to announce that migrating chat data from Microsoft Teams to Google...",
-    "date": "2026-08-25T18:08:32+00:00"
-  },
-  {
-    "id": "474a4d041df71e7e",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added Fax Cover Page APIs",
-    "link": "https://developers.zoom.us/changelog/phone/august-24-2026",
-    "summary": "Tags: api-release | Added APIs to retrieve and download fax cover pages and new request fields to specify cover page details when sending faxes.",
-    "date": "2026-08-24T00:00:00+00:00"
   }
 ]
