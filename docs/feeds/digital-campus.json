@@ -270,56 +270,6 @@
     "date": "2026-08-31T17:00:00+00:00"
   },
   {
-    "id": "8f2885091136ab69",
-    "product_id": "microsoft-office",
-    "product_name": "Microsoft Office",
-    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-    "title": "Security Updates for Microsoft 365 Apps Releases",
-    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-    "summary": "For a complete list of security updates, see the following article:",
-    "date": "2026-03-06T17:54:07.627266+00:00"
-  },
-  {
-    "id": "b9360485c3e61f3c",
-    "product_id": "microsoft-office",
-    "product_name": "Microsoft Office",
-    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-    "title": "History for Microsoft 365 Apps Releases",
-    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-    "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
-    "date": "2026-03-06T17:54:07.627389+00:00"
-  },
-  {
-    "id": "185d4d7625c4f74e",
-    "product_id": "microsoft-office",
-    "product_name": "Microsoft Office",
-    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-    "title": "Download Sizes for Microsoft 365 Apps Releases",
-    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-    "summary": "For a complete list of update releases sizes, see the following article:",
-    "date": "2026-03-06T17:54:07.627508+00:00"
-  },
-  {
-    "id": "813b1ad089721490",
-    "product_id": "microsoft-office",
-    "product_name": "Microsoft Office",
-    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-    "title": "Release Notes for Microsoft 365 Apps Releases",
-    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-    "summary": "For a complete list of release notes by update channel and year, see the following articles:",
-    "date": "2026-03-06T17:54:07.627609+00:00"
-  },
-  {
-    "id": "324fe31ac188c1d9",
-    "product_id": "microsoft-office",
-    "product_name": "Microsoft Office",
-    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
-    "title": "Release Notes for Microsoft 365 Insiders",
-    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
-    "summary": "For a complete list of release notes for Insiders, see the following articles:",
-    "date": "2026-03-06T17:54:07.627705+00:00"
-  },
-  {
     "id": "e279cf807341196a",
     "product_id": "ninjaone",
     "product_name": "NinjaOne",
@@ -748,6 +698,56 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
     "date": "2026-08-14T14:16:58.978170+00:00"
+  },
+  {
+    "id": "8f2885091136ab69",
+    "product_id": "microsoft-office",
+    "product_name": "Microsoft Office",
+    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
+    "title": "Security Updates for Microsoft 365 Apps Releases",
+    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
+    "summary": "For a complete list of security updates, see the following article:",
+    "date": "2026-03-06T17:54:07.627266+00:00"
+  },
+  {
+    "id": "b9360485c3e61f3c",
+    "product_id": "microsoft-office",
+    "product_name": "Microsoft Office",
+    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
+    "title": "History for Microsoft 365 Apps Releases",
+    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
+    "summary": "For a complete list of releases and the supported versions for each channel, see the following article:",
+    "date": "2026-03-06T17:54:07.627389+00:00"
+  },
+  {
+    "id": "185d4d7625c4f74e",
+    "product_id": "microsoft-office",
+    "product_name": "Microsoft Office",
+    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
+    "title": "Download Sizes for Microsoft 365 Apps Releases",
+    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
+    "summary": "For a complete list of update releases sizes, see the following article:",
+    "date": "2026-03-06T17:54:07.627508+00:00"
+  },
+  {
+    "id": "813b1ad089721490",
+    "product_id": "microsoft-office",
+    "product_name": "Microsoft Office",
+    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
+    "title": "Release Notes for Microsoft 365 Apps Releases",
+    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
+    "summary": "For a complete list of release notes by update channel and year, see the following articles:",
+    "date": "2026-03-06T17:54:07.627609+00:00"
+  },
+  {
+    "id": "324fe31ac188c1d9",
+    "product_id": "microsoft-office",
+    "product_name": "Microsoft Office",
+    "icon_url": "https://www.google.com/s2/favicons?domain=office.com&sz=64",
+    "title": "Release Notes for Microsoft 365 Insiders",
+    "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
+    "summary": "For a complete list of release notes for Insiders, see the following articles:",
+    "date": "2026-03-06T17:54:07.627705+00:00"
   },
   {
     "id": "ba2ddc6431a5729d",
