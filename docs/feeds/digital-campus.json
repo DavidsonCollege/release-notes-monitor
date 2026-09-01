@@ -450,6 +450,16 @@
     "date": "2026-08-10T20:48:51.431024+00:00"
   },
   {
+    "id": "9c3d06b9f59f1579",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Updated installation requirement for Slack Marketplace apps",
+    "link": "https://docs.slack.dev/changelog/2026/09/01/slack-marketplace-install-requirement",
+    "summary": "As of July 2026, we require that apps submitting to the Slack Marketplace have at least 10 installations on active workspaces, up from the temporary lower threshold. Your app needs to stay at 10 or more installed workspaces throughout the entire duration of the review.",
+    "date": "2026-09-01T00:00:00+00:00"
+  },
+  {
     "id": "d9767bd9dcae2b7d",
     "product_id": "slack",
     "product_name": "Slack",
@@ -488,16 +498,6 @@
     "link": "https://docs.slack.dev/changelog/2026/07/31/slack-skills-plugin",
     "summary": "We're excited to introduce the Slack MCP and Skills Plugin for AI tools, which bundles a set of skills that help you develop on the Slack platform alongside the Slack MCP Server. The plugin is currently available for Claude Code and Cursor.",
     "date": "2026-07-31T00:00:00+00:00"
-  },
-  {
-    "id": "680bbcbe37c81788",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.6.0",
-    "link": "https://docs.slack.dev/changelog/2026/07/30/slack-cli",
-    "summary": "Version 4.6.0 of the Slack CLI is now available!",
-    "date": "2026-07-30T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -750,6 +750,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "680bbcbe37c81788",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.6.0",
+    "link": "https://docs.slack.dev/changelog/2026/07/30/slack-cli",
+    "summary": "Version 4.6.0 of the Slack CLI is now available!",
+    "date": "2026-07-30T00:00:00+00:00"
+  },
+  {
     "id": "7dd9f9e5d46fcab2",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/restrict-who-can-view-member-lists-in-Google-Chat-spaces.html",
     "summary": "Space owners and managers can now control who can view the full list of members in a Google Chat space, providing enhanced privacy and administrative control for sensitive, large-scale, or external collaboration spaces.Previously, any member of a Google Chat space could view the complete list of...",
     "date": "2026-08-25T17:02:42+00:00"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "August 25 2026"
   }
 ]
