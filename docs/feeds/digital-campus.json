@@ -120,6 +120,26 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "ccc07798c60174fa",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New built-in interoperability between Google Meet and Microsoft Teams on Android (AOSP) devices, now in Early Preview",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/new-built-in-interoperability-between-Google-Meet-and-Microsoft-Teams-on-Android-AOSP-devices-now-in-Early-Preview.html",
+    "summary": "We’re introducing video conferencing device interoperability between Google Meet and Microsoft Teams, which will allow you to:Join Microsoft Teams meetings from Android (AOSP)-based Google Meet hardware devicesJoin Google Meet meetings from Android (AOSP)-based Microsoft Teams Rooms devicesPlease...",
+    "date": "2026-09-02T17:50:51+00:00"
+  },
+  {
+    "id": "af29059db89df57b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Turn Google Docs, PDFs, and Word files into video summaries in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/turn-google-docs-pdfs-and-word-files-into-video-summaries-in-Google-Vids.html",
+    "summary": "Google Vids now allows you to transform static Google Docs, PDFs, and Word files into engaging video summaries. This new feature leverages AI to generate scripts and narration while providing custom visuals to bring your documents to life.Whether you are catching up on training material, meeting...",
+    "date": "2026-09-02T17:23:48+00:00"
+  },
+  {
     "id": "19d69d3b1635e4a0",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/google-pics-brings-pro-level-ai-image-creation-and-editing-to-Google-Workspace.html",
     "summary": "We are thrilled to announce that Google Pics is generally available starting today, bringing advanced AI image generation and precise, object-based image editing directly into your Workspace creative workflow. To get started, open Pics and simply type in a prompt to generate any image using...",
     "date": "2026-09-01T16:03:37+00:00"
-  },
-  {
-    "id": "d4a323859eb80d59",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Transitioning Google Meet room hardware to focus on Android (AOSP), ongoing ChromeOS support unchanged and up to September 2030",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/transitioning-google-meet-room-hardware-to-focus-on-Android-AOSP-ongoing-ChromeOS-support-unchanged-and-up-to-September-2030.html",
-    "summary": "We're transitioning our Google Meet hardware portfolio from ChromeOS to Android to deliver features faster, broaden device choices, and increase flexibility. We're working closely with hardware partners, including Logitech, Neat, and HP Poly, to offer Google Meet-certified devices for spaces of any...",
-    "date": "2026-09-01T15:34:39+00:00"
-  },
-  {
-    "id": "3f335123c2675bac",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Add co-presenters in Google Meet with one click",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/add-co-presenters-in-google-meet-with-one-click.html",
-    "summary": "Previously, adding a co-presenter in Google Meet required multiple manual steps. Now, Gemini will intelligently suggest a co-presenter in the Ask Gemini in Meet panel, and with just one click, a user can allow another user to co-present their Google Slides presentation.Note that this “nudge” will...",
-    "date": "2026-09-01T15:28:33+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,26 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "d4a323859eb80d59",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Transitioning Google Meet room hardware to focus on Android (AOSP), ongoing ChromeOS support unchanged and up to September 2030",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/transitioning-google-meet-room-hardware-to-focus-on-Android-AOSP-ongoing-ChromeOS-support-unchanged-and-up-to-September-2030.html",
+    "summary": "We're transitioning our Google Meet hardware portfolio from ChromeOS to Android to deliver features faster, broaden device choices, and increase flexibility. We're working closely with hardware partners, including Logitech, Neat, and HP Poly, to offer Google Meet-certified devices for spaces of any...",
+    "date": "2026-09-01T15:34:39+00:00"
+  },
+  {
+    "id": "3f335123c2675bac",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Add co-presenters in Google Meet with one click",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/add-co-presenters-in-google-meet-with-one-click.html",
+    "summary": "Previously, adding a co-presenter in Google Meet required multiple manual steps. Now, Gemini will intelligently suggest a co-presenter in the Ask Gemini in Meet panel, and with just one click, a user can allow another user to co-present their Google Slides presentation.Note that this “nudge” will...",
+    "date": "2026-09-01T15:28:33+00:00"
+  },
+  {
     "id": "610864d73542abf2",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/introducing-data-import-for-microsoft-OneDrive-An-easier-faster-and-higher-fidelity-migration-to-Google-Workspace.html",
     "summary": "For enterprise organizations, migrating files along with their permissions to a new platform can feel daunting and risk interrupting daily business operations. To help simplify this transition, we are excited to announce general availability of Google Workspace data import (advanced mode) to...",
     "date": "2026-08-25T18:11:43+00:00"
-  },
-  {
-    "id": "ea9639fd7d61eb96",
-    "product_id": "korbyt",
-    "product_name": "Korbyt",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gokorbyt.com&sz=64",
-    "title": "Korbyt Booking Release Notes V9.8.1",
-    "link": "https://product.korbyt.com/changelog/korbyt-booking-release-notes-v981",
-    "summary": "# **What’s New?** ## **Bulk Resource Add-on Configuration** Admins can now apply add-ons to multiple resources in a single action instead of repeating the same configuration for each resource. The Resource Add-on Configuration screen has two new multi-select fields, Floor and Resource Type, that...",
-    "date": "2026-05-19T16:34:37+00:00"
-  },
-  {
-    "id": "d8be261279577d9c",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The design_types field on Design responses and the design_type field on DesignPage are now out of preview and included in every response.",
-    "link": "https://www.canva.dev/docs/connect/changelog/",
-    "summary": "",
-    "date": "2026-07-13T04:43:53.876569+00:00"
   }
 ]
