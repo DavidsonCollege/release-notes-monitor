@@ -210,6 +210,16 @@
     "date": "2026-05-21T08:24:45+00:00"
   },
   {
+    "id": "857939dbd7fd18a7",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "August Release Update",
+    "link": "https://announcekit.app/kuali/announcements/august-release-update-48obDy",
+    "summary": "We’re changing the way we share what’s new in Kuali! Rather than announcing each update separately, we’ll bring new features, improvements, ...",
+    "date": "2026-09-03T00:00:00+00:00"
+  },
+  {
     "id": "ac02e87cb840f719",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -248,16 +258,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-propose-revisions-to-completed-documents-4lWg36",
     "summary": "You now have another way to update existing documents. In addition to editing a document directly or creating a new version, you can now pro...",
     "date": "2026-07-02T21:30:00+00:00"
-  },
-  {
-    "id": "077e3dc2b00ed18d",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Version Types and Limit Editability",
-    "link": "https://announcekit.app/kuali/announcements/new-version-types-and-limit-editability-3Tyn2E",
-    "summary": "You can now configure Version Types and Limit Editability to control how users interact with forms based on the type of version they're work...",
-    "date": "2026-06-29T16:00:00+00:00"
   },
   {
     "id": "d61b5ed28aa1712e",
@@ -750,6 +750,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "077e3dc2b00ed18d",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Version Types and Limit Editability",
+    "link": "https://announcekit.app/kuali/announcements/new-version-types-and-limit-editability-3Tyn2E",
+    "summary": "You can now configure Version Types and Limit Editability to control how users interact with forms based on the type of version they're work...",
+    "date": "2026-06-29T16:00:00+00:00"
+  },
+  {
     "id": "d4a323859eb80d59",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://help.adastra.live/hc/en-us/articles/51820280811412-July-24-2026",
     "summary": "",
     "date": "2026-07-28T21:08:05Z"
-  },
-  {
-    "id": "7a6e8012c2e5a74c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing data import for Microsoft OneDrive: An easier, faster, and higher-fidelity migration to Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/introducing-data-import-for-microsoft-OneDrive-An-easier-faster-and-higher-fidelity-migration-to-Google-Workspace.html",
-    "summary": "For enterprise organizations, migrating files along with their permissions to a new platform can feel daunting and risk interrupting daily business operations. To help simplify this transition, we are excited to announce general availability of Google Workspace data import (advanced mode) to...",
-    "date": "2026-08-25T18:11:43+00:00"
   }
 ]
