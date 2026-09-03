@@ -120,6 +120,16 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "32ef78e1bf10bb89",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing comprehensive audit logs for Gemini Notebook in the Workspace Admin console",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/introducing-comprehensive-audit-logs-for-Gemini-Notebook-in-the-Workspace-Admin-console.html",
+    "summary": "Google Workspace administrators can now access comprehensive audit logs for Gemini Notebook in the Admin console, providing greater insights into how the application is used across their organizations. This update introduces full visibility into Gemini Notebook actions, allowing administrators to...",
+    "date": "2026-09-03T21:48:05+00:00"
+  },
+  {
     "id": "ccc07798c60174fa",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/automate-drive-gmail-and-google-chat-actions-with-new-steps-in-Workspace-Studio.html",
     "summary": "To help teams automate everyday work and seamlessly connect tasks across Google Workspace, we are introducing four new automation steps in Workspace Studio Flows: Move Drive file, Copy Drive file, Send a Chat reply, and Reply to email.These new steps give end users greater control over document...",
     "date": "2026-09-02T16:18:26+00:00"
-  },
-  {
-    "id": "b2c769bb6380535d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Pics brings pro-level AI image creation and editing to Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/google-pics-brings-pro-level-ai-image-creation-and-editing-to-Google-Workspace.html",
-    "summary": "We are thrilled to announce that Google Pics is generally available starting today, bringing advanced AI image generation and precise, object-based image editing directly into your Workspace creative workflow. To get started, open Pics and simply type in a prompt to generate any image using...",
-    "date": "2026-09-01T16:03:37+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "b2c769bb6380535d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Pics brings pro-level AI image creation and editing to Google Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/google-pics-brings-pro-level-ai-image-creation-and-editing-to-Google-Workspace.html",
+    "summary": "We are thrilled to announce that Google Pics is generally available starting today, bringing advanced AI image generation and precise, object-based image editing directly into your Workspace creative workflow. To get started, open Pics and simply type in a prompt to generate any image using...",
+    "date": "2026-09-01T16:03:37+00:00"
+  },
+  {
     "id": "a5b7b6d67527abed",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/control-take-notes-for-me-directly-from-Google-Meet-hardware-touch-controllers.html",
     "summary": "On August 31, 2026, we’ll start rolling out the ability to start, stop, and manage the “Take notes for me” feature directly from the Google Meet Hardware touch controller for eligible meetings. This ensures in-room participants have direct control over Gemini note-taking without being in Companion...",
     "date": "2026-08-25T19:55:42+00:00"
-  },
-  {
-    "id": "d856da44365d1eec",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Preserve and reuse grouped pivot table fields in Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/preserve-and-reuse-grouped-pivot-table-fields-in-Google-Sheets.html",
-    "summary": "Google Sheets now supports grouped field persistence for pivot tables. When you create custom groupings or work with grouped date, time, or numeric fields, these fields are now retained directly in the pivot table editor sidebar as reusable source fields. This allows you to unassign grouped fields...",
-    "date": "2026-08-25T18:14:02+00:00"
   }
 ]
