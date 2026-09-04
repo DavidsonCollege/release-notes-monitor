@@ -1,13 +1,13 @@
 [
   {
-    "id": "32f33ae82449bb7e",
+    "id": "5a1ea089b4372fc7",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Linux Beta",
+    "title": "1Password SaaS Manager",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "August 27 2026"
+    "date": "September 3 2026"
   },
   {
     "id": "87c02b09c4a21c48",
@@ -750,6 +750,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "32f33ae82449bb7e",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Linux Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "August 27 2026"
+  },
+  {
     "id": "b2c769bb6380535d",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/google-classroom-now-supports-context-Aware-Access-controls.html",
     "summary": "We’re excited to introduce the ability to specify Context-Aware Access policies to control access to Google Classroom. This update allows Google Workspace administrators to set granular security parameters for Classroom access directly from the Admin console. For example, an organization can create...",
     "date": "2026-08-26T18:55:52+00:00"
-  },
-  {
-    "id": "51e7c0497bdbfc50",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Control “Take notes for me” directly from Google Meet hardware touch controllers",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/control-take-notes-for-me-directly-from-Google-Meet-hardware-touch-controllers.html",
-    "summary": "On August 31, 2026, we’ll start rolling out the ability to start, stop, and manage the “Take notes for me” feature directly from the Google Meet Hardware touch controller for eligible meetings. This ensures in-room participants have direct control over Gemini note-taking without being in Companion...",
-    "date": "2026-08-25T19:55:42+00:00"
   }
 ]
