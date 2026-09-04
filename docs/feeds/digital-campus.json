@@ -20,6 +20,16 @@
     "date": "2026-08-20T17:11:45.962622+00:00"
   },
   {
+    "id": "955840806905a111",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "September 04, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/53264707434644-September-04-2026",
+    "summary": "",
+    "date": "2026-09-04T19:13:40Z"
+  },
+  {
     "id": "a2b9a252c3492a0d",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/52248332257300-August-7-2026",
     "summary": "",
     "date": "2026-08-14T18:40:52Z"
-  },
-  {
-    "id": "ac260aa0b2ca5716",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "July 31, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/52026436342932-July-31-2026",
-    "summary": "",
-    "date": "2026-08-01T12:57:55Z"
   },
   {
     "id": "c5b58b7cc95f6495",
@@ -750,6 +750,16 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "ac260aa0b2ca5716",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "July 31, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/52026436342932-July-31-2026",
+    "summary": "",
+    "date": "2026-08-01T12:57:55Z"
+  },
+  {
     "id": "32f33ae82449bb7e",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=08242026c",
     "summary": "View downloadsView release notes",
     "date": "2026-08-24T17:00:00+00:00"
-  },
-  {
-    "id": "3f501f306a7db85b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Classroom now supports Context-Aware Access controls",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/google-classroom-now-supports-context-Aware-Access-controls.html",
-    "summary": "We’re excited to introduce the ability to specify Context-Aware Access policies to control access to Google Classroom. This update allows Google Workspace administrators to set granular security parameters for Classroom access directly from the Admin console. For example, an organization can create...",
-    "date": "2026-08-26T18:55:52+00:00"
   }
 ]
