@@ -710,46 +710,6 @@
     "date": "2026-08-14T14:16:58.978118+00:00"
   },
   {
-    "id": "1d48e7a689257710",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We’re introducing a dedicated student hub in the Gemini app to help students easily manage classes and create personalized study notebooks fro",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "What: We’re introducing a dedicated student hub in the Gemini app to help students easily manage classes and create personalized study notebooks from their own course materials like syllabi. Study notebooks—first launched on desktop in June—are now available on mobile to help students get...",
-    "date": "2026-08-19T18:48:41.246191+00:00"
-  },
-  {
-    "id": "44ae6dfce0aea52f",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a p",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
-    "date": "2026-08-19T18:48:41.246217+00:00"
-  },
-  {
-    "id": "ee471d9e880a13c9",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We’re introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your act",
-    "link": "https://gemini.google/mac/",
-    "summary": "What: We’re introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
-    "date": "2026-08-14T14:16:58.978159+00:00"
-  },
-  {
-    "id": "2754336d1efcf5fc",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes se",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
-    "date": "2026-08-14T14:16:58.978170+00:00"
-  },
-  {
     "id": "ca023babef112cd9",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -788,6 +748,46 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
     "date": "2026-09-06T11:14:03.544732+00:00"
+  },
+  {
+    "id": "1d48e7a689257710",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We’re introducing a dedicated student hub in the Gemini app to help students easily manage classes and create personalized study notebooks fro",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "What: We’re introducing a dedicated student hub in the Gemini app to help students easily manage classes and create personalized study notebooks from their own course materials like syllabi. Study notebooks—first launched on desktop in June—are now available on mobile to help students get...",
+    "date": "2026-08-19T18:48:41.246191+00:00"
+  },
+  {
+    "id": "44ae6dfce0aea52f",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a p",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
+    "date": "2026-08-19T18:48:41.246217+00:00"
+  },
+  {
+    "id": "ee471d9e880a13c9",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We’re introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your act",
+    "link": "https://gemini.google/mac/",
+    "summary": "What: We’re introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
+    "date": "2026-08-14T14:16:58.978159+00:00"
+  },
+  {
+    "id": "2754336d1efcf5fc",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes se",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
+    "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
     "id": "ec9f082b54aa6c47",
