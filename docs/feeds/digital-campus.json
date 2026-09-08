@@ -120,6 +120,26 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "0824eabbbd8500d0",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing the new 1Password App for Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/introducing-new-1password-app-for-Google-Chat.html",
+    "summary": "The new 1Password SaaS Manager integration for Google Chat helps teams streamline IT and HR processes by bringing notifications, actions and approvals directly within Chat.With this integration, teams can build automated workflows for common employee access scenarios, including provisioning and...",
+    "date": "2026-09-08T16:02:56+00:00"
+  },
+  {
+    "id": "e40759000833130e",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Use custom web fonts in Google Sheets charts",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/use-custom-web-fonts-in-google-sheets-charts.html",
+    "summary": "Google Sheets now supports the full Google Fonts web font library directly within charts. Users can now select “More fonts” from any font dropdown inside the chart editor sidebar to search, add, and apply custom web fonts across key chart text elements. This expanded font support is available...",
+    "date": "2026-09-08T15:05:12+00:00"
+  },
+  {
     "id": "a757a537660d6a98",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/new-built-in-interoperability-between-Google-Meet-and-Microsoft-Teams-on-Android-AOSP-devices-now-in-Early-Preview.html",
     "summary": "We’re introducing video conferencing device interoperability between Google Meet and Microsoft Teams, which will allow you to:Join Microsoft Teams meetings from Android (AOSP)-based Google Meet hardware devicesJoin Google Meet meetings from Android (AOSP)-based Microsoft Teams Rooms devicesPlease...",
     "date": "2026-09-02T17:50:51+00:00"
-  },
-  {
-    "id": "af29059db89df57b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Turn Google Docs, PDFs, and Word files into video summaries in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/turn-google-docs-pdfs-and-word-files-into-video-summaries-in-Google-Vids.html",
-    "summary": "Google Vids now allows you to transform static Google Docs, PDFs, and Word files into engaging video summaries. This new feature leverages AI to generate scripts and narration while providing custom visuals to bring your documents to life.Whether you are catching up on training material, meeting...",
-    "date": "2026-09-02T17:23:48+00:00"
-  },
-  {
-    "id": "19d69d3b1635e4a0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Custom instructions for Gemini in Workspace now available in more apps",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/custom-instructions-for-gemini-in-Workspace-now-available-in-more-apps.html",
-    "summary": "Earlier this year, we introduced the ability for Workspace users to set persistent custom instructions for Gemini in Google Docs. We're now expanding support for these custom instructions to additional Gemini in Workspace surfaces, specifically:Ask Gemini in DriveAsk Gemini in ChatGemini side panel...",
-    "date": "2026-09-02T16:22:23+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,26 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "af29059db89df57b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Turn Google Docs, PDFs, and Word files into video summaries in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/turn-google-docs-pdfs-and-word-files-into-video-summaries-in-Google-Vids.html",
+    "summary": "Google Vids now allows you to transform static Google Docs, PDFs, and Word files into engaging video summaries. This new feature leverages AI to generate scripts and narration while providing custom visuals to bring your documents to life.Whether you are catching up on training material, meeting...",
+    "date": "2026-09-02T17:23:48+00:00"
+  },
+  {
+    "id": "19d69d3b1635e4a0",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Custom instructions for Gemini in Workspace now available in more apps",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/custom-instructions-for-gemini-in-Workspace-now-available-in-more-apps.html",
+    "summary": "Earlier this year, we introduced the ability for Workspace users to set persistent custom instructions for Gemini in Google Docs. We're now expanding support for these custom instructions to additional Gemini in Workspace surfaces, specifically:Ask Gemini in DriveAsk Gemini in ChatGemini side panel...",
+    "date": "2026-09-02T16:22:23+00:00"
+  },
+  {
     "id": "7dd9f9e5d46fcab2",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -978,25 +998,5 @@
     "link": "https://docs.slack.dev/changelog/2026/07/30/slack-cli",
     "summary": "Version 4.6.0 of the Slack CLI is now available!",
     "date": "2026-07-30T00:00:00+00:00"
-  },
-  {
-    "id": "ba2ddc6431a5729d",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Insider Preview Build 29634.1000 for Experimental (Future Platforms)",
-    "link": "https://blogs.windows.com/windows-insider/2026/07/27/announcing-windows-11-insider-preview-build-29634-1000-for-experimental-future-platforms/",
-    "summary": "Hello Windows Insiders, Today we’re releasing build 29634.1000 for the Experimental (Future Platforms) channel. Release notes can be found over in the Announcing Windows 11 Insider Preview Build 29634.1000 for Experimental (Future Platforms) appeared first on Windows Insider Blog.",
-    "date": "2026-07-27T21:01:05+00:00"
-  },
-  {
-    "id": "9d2d9f0d9300e11e",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.5.0",
-    "link": "https://docs.slack.dev/changelog/2026/07/21/slack-cli",
-    "summary": "Version 4.5.0 of the developer tools for the Slack platform has landed!",
-    "date": "2026-07-21T00:00:00+00:00"
   }
 ]
