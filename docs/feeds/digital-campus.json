@@ -120,6 +120,26 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "af1d744e694fa0b5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Pick up where you left off with persistent drafts in Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/pick-up-where-you-left-off-with-persistent-drafts-in-Google-Chat.html",
+    "summary": "We are introducing persistent drafts in Google Chat. Unsent messages are now automatically saved so you can finish and send later, and are also synchronized across your devices, allowing you to start composing a message on one device and finish or send it from another.With this update, you can...",
+    "date": "2026-09-08T18:25:30+00:00"
+  },
+  {
+    "id": "16ba5baf9691928b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Context-aware access controls are available for Gemini Enterprise in the Admin console",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/context-aware-access-controls-are-available-for-Gemini-Enterprise-in-the-Admin-console.html",
+    "summary": "To help organizations elevate their security posture, we are introducing context-aware access (CAA) policies in the Admin console for Gemini Enterprise. Google Workspace administrators can select granular security attributes for Gemini Enterprise access, including device security and location...",
+    "date": "2026-09-08T17:50:47+00:00"
+  },
+  {
     "id": "0824eabbbd8500d0",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-04-2026.html",
     "summary": "Add co-presenters in Google Meet with one clickPreviously, adding a co-presenter in Google Meet required multiple manual steps. Now, Gemini will intelligently suggest a co-presenter in the Ask Gemini in Meet panel, and with just one click, a user can allow another user to co-present their Google...",
     "date": "2026-09-04T19:08:03+00:00"
-  },
-  {
-    "id": "32ef78e1bf10bb89",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing comprehensive audit logs for Gemini Notebook in the Workspace Admin console",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/introducing-comprehensive-audit-logs-for-Gemini-Notebook-in-the-Workspace-Admin-console.html",
-    "summary": "Google Workspace administrators can now access comprehensive audit logs for Gemini Notebook in the Admin console, providing greater insights into how the application is used across their organizations. This update introduces full visibility into Gemini Notebook actions, allowing administrators to...",
-    "date": "2026-09-03T21:48:05+00:00"
-  },
-  {
-    "id": "ccc07798c60174fa",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New built-in interoperability between Google Meet and Microsoft Teams on Android (AOSP) devices, now in Early Preview",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/new-built-in-interoperability-between-Google-Meet-and-Microsoft-Teams-on-Android-AOSP-devices-now-in-Early-Preview.html",
-    "summary": "We’re introducing video conferencing device interoperability between Google Meet and Microsoft Teams, which will allow you to:Join Microsoft Teams meetings from Android (AOSP)-based Google Meet hardware devicesJoin Google Meet meetings from Android (AOSP)-based Microsoft Teams Rooms devicesPlease...",
-    "date": "2026-09-02T17:50:51+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,26 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "32ef78e1bf10bb89",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing comprehensive audit logs for Gemini Notebook in the Workspace Admin console",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/introducing-comprehensive-audit-logs-for-Gemini-Notebook-in-the-Workspace-Admin-console.html",
+    "summary": "Google Workspace administrators can now access comprehensive audit logs for Gemini Notebook in the Admin console, providing greater insights into how the application is used across their organizations. This update introduces full visibility into Gemini Notebook actions, allowing administrators to...",
+    "date": "2026-09-03T21:48:05+00:00"
+  },
+  {
+    "id": "ccc07798c60174fa",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New built-in interoperability between Google Meet and Microsoft Teams on Android (AOSP) devices, now in Early Preview",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/new-built-in-interoperability-between-Google-Meet-and-Microsoft-Teams-on-Android-AOSP-devices-now-in-Early-Preview.html",
+    "summary": "We’re introducing video conferencing device interoperability between Google Meet and Microsoft Teams, which will allow you to:Join Microsoft Teams meetings from Android (AOSP)-based Google Meet hardware devicesJoin Google Meet meetings from Android (AOSP)-based Microsoft Teams Rooms devicesPlease...",
+    "date": "2026-09-02T17:50:51+00:00"
+  },
+  {
     "id": "5a1ea089b4372fc7",
     "product_id": "1password",
     "product_name": "1Password",
@@ -978,25 +998,5 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-07-24T00:00:00+00:00"
-  },
-  {
-    "id": "e92b7c54ee69486e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Preview client-side encrypted PDF and image files directly in Google Drive, now available in beta",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/preview-client-side-encrypted-pdf-and-image-files-directly-in-Google-Drive-now-available-in-beta.html",
-    "summary": "Client-side encryption (CSE) provides organizations control over access to their confidential data, with customer controlled encryption keys and data that is indecipherable to third-parties, including Google. Google Drive now supports direct file previewing for CSE files. Previously, users needed...",
-    "date": "2026-08-28T19:49:41+00:00"
-  },
-  {
-    "id": "e1c1f225c98592d6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Suppress email responses to calendar invitations and updates",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/suppress-email-responses-to-calendar-invitations-and-updates.html",
-    "summary": "We’re introducing a new per-event setting in Google Calendar that allows meeting organizers or their delegates to decide whether or not to receive RSVP emails and automatic responses, such as out-of-office messages and vacation responders.By default, this new setting, called “Get an email when...",
-    "date": "2026-08-28T18:24:16+00:00"
   }
 ]
