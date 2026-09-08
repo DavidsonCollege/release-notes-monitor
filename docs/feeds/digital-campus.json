@@ -1,13 +1,13 @@
 [
   {
-    "id": "5a1ea089b4372fc7",
+    "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password SaaS Manager",
+    "title": "1Password for Android",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "September 3 2026"
+    "date": "September 8 2026"
   },
   {
     "id": "87c02b09c4a21c48",
@@ -550,6 +550,16 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "b1c187f70824aab2",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 8 September 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/09/08/announcing-new-builds-for-8-september-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 8 September 2026 appeared first on Windows Insider Blog.",
+    "date": "2026-09-08T17:05:10+00:00"
+  },
+  {
     "id": "a1398cf90f6226c3",
     "product_id": "windows",
     "product_name": "Windows",
@@ -588,16 +598,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/08/17/announcing-new-builds-for-17-august-2026/",
     "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental Channels. This post also includes reminders about renewed flight certificates and the current Feature Flags settings issue in the Exp The post Announcing new builds for 17 August 2026...",
     "date": "2026-08-17T21:19:57+00:00"
-  },
-  {
-    "id": "2c7de5d5d7431544",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new Release Preview builds for 14 August 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/08/14/announcing-new-release-preview-builds-for-14-august-2026/",
-    "summary": "Hello Windows Insiders, Today we’re releasing new builds for Release Preview across our supported versions of Windows 11. Please see the build numbers and links to the release notes below: Windows 11 version 24H2/25H2: Announcing new Release Preview builds for 14 August 2026 appeared first on...",
-    "date": "2026-08-14T17:22:16+00:00"
   },
   {
     "id": "4452b7b2961849dc",
@@ -748,6 +748,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
     "date": "2026-08-14T14:16:58.978170+00:00"
+  },
+  {
+    "id": "5a1ea089b4372fc7",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password SaaS Manager",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "September 3 2026"
+  },
+  {
+    "id": "2c7de5d5d7431544",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new Release Preview builds for 14 August 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/08/14/announcing-new-release-preview-builds-for-14-august-2026/",
+    "summary": "Hello Windows Insiders, Today we’re releasing new builds for Release Preview across our supported versions of Windows 11. Please see the build numbers and links to the release notes below: Windows 11 version 24H2/25H2: Announcing new Release Preview builds for 14 August 2026 appeared first on...",
+    "date": "2026-08-14T17:22:16+00:00"
   },
   {
     "id": "af29059db89df57b",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/suppress-email-responses-to-calendar-invitations-and-updates.html",
     "summary": "We’re introducing a new per-event setting in Google Calendar that allows meeting organizers or their delegates to decide whether or not to receive RSVP emails and automatic responses, such as out-of-office messages and vacation responders.By default, this new setting, called “Get an email when...",
     "date": "2026-08-28T18:24:16+00:00"
-  },
-  {
-    "id": "c999d2b22043dec8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Improving Google Calendar’s interoperability with third-party video conferencing solutions",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/improving-google-calendars-interoperability-with-third-party-video-conferencing-solutions.html",
-    "summary": "We are introducing improvements to Google Calendar that make it easier to join third-party video meetings, including Microsoft Teams, Zoom, and Cisco Webex, when collaborating across different calendar and email clients.Specifically, users may notice:A better join experience for external recipients...",
-    "date": "2026-08-27T18:01:47+00:00"
-  },
-  {
-    "id": "680bbcbe37c81788",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.6.0",
-    "link": "https://docs.slack.dev/changelog/2026/07/30/slack-cli",
-    "summary": "Version 4.6.0 of the Slack CLI is now available!",
-    "date": "2026-07-30T00:00:00+00:00"
   }
 ]
