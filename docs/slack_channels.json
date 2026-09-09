@@ -593,7 +593,7 @@
       "name": "random",
       "is_private": false,
       "topic": "\r\n",
-      "num_members": 70
+      "num_members": 71
     },
     {
       "id": "C35AAKFNU",
@@ -789,7 +789,7 @@
       "name": "team-moodle",
       "is_private": false,
       "topic": "",
-      "num_members": 7
+      "num_members": 8
     },
     {
       "id": "C09UL58UWUA",
@@ -810,7 +810,7 @@
       "name": "team-support-center",
       "is_private": false,
       "topic": "",
-      "num_members": 61
+      "num_members": 62
     },
     {
       "id": "C685C8F6K",
@@ -988,6 +988,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-09-09T16:39:53.904038+00:00",
+  "last_updated": "2026-09-09T17:14:14.781884+00:00",
   "fetch_status": "success"
 }
