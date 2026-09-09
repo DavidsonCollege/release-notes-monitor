@@ -120,6 +120,36 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "682abdb9581abeb9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create and edit calculated fields in Google Sheets pivot tables with an improved editor",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/create-and-edit-calculated-fields-in-Google-Sheets-pivot-tables-with-an-improved-editor.html",
+    "summary": "We are introducing a new, dedicated formula editor dialog for creating and editing calculated fields within pivot tables in Google Sheets. This update streamlines how you build custom formulas and derived metrics, making data analysis faster and more accurate.Specifically, this new update...",
+    "date": "2026-09-09T19:59:50+00:00"
+  },
+  {
+    "id": "a9fb810255599230",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Automatic room check-in for Google Meet available on mobile devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/automatic-room-check-in-for-google-meet-available-on-mobile-devices.html",
+    "summary": "In January 2026, we introduced Automatic room check-in for Google Meet available on mobile to organizations on the Rapid Release track enrolled in Early Preview Rooms. We’re excited to announce that this feature is now rolling out to all Workspace customers with Google Meet hardware. This feature...",
+    "date": "2026-09-09T19:15:38+00:00"
+  },
+  {
+    "id": "6d56b23b13e370cb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create content, schedule events, and coordinate tasks across Workspace regardless of what app you are in",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/create-content-schedule-events-and-coordinate-tasks-across-Workspace-regardless-of-what-app-you-are-in.html",
+    "summary": "Completing a single task shouldn't mean breaking your focus or switching apps. To keep you in the flow of work, Gemini can tackle complex tasks behind the scenes, working as an intelligent orchestrator across Workspace using the power of Workspace Intelligence. You can prompt Gemini to help from...",
+    "date": "2026-09-09T17:42:25+00:00"
+  },
+  {
     "id": "af1d744e694fa0b5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -138,36 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/context-aware-access-controls-are-available-for-Gemini-Enterprise-in-the-Admin-console.html",
     "summary": "To help organizations elevate their security posture, we are introducing context-aware access (CAA) policies in the Admin console for Gemini Enterprise. Google Workspace administrators can select granular security attributes for Gemini Enterprise access, including device security and location...",
     "date": "2026-09-08T17:50:47+00:00"
-  },
-  {
-    "id": "0824eabbbd8500d0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing the new 1Password App for Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/introducing-new-1password-app-for-Google-Chat.html",
-    "summary": "The new 1Password SaaS Manager integration for Google Chat helps teams streamline IT and HR processes by bringing notifications, actions and approvals directly within Chat.With this integration, teams can build automated workflows for common employee access scenarios, including provisioning and...",
-    "date": "2026-09-08T16:02:56+00:00"
-  },
-  {
-    "id": "e40759000833130e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use custom web fonts in Google Sheets charts",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/use-custom-web-fonts-in-google-sheets-charts.html",
-    "summary": "Google Sheets now supports the full Google Fonts web font library directly within charts. Users can now select “More fonts” from any font dropdown inside the chart editor sidebar to search, add, and apply custom web fonts across key chart text elements. This expanded font support is available...",
-    "date": "2026-09-08T15:05:12+00:00"
-  },
-  {
-    "id": "a757a537660d6a98",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - September 4, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-04-2026.html",
-    "summary": "Add co-presenters in Google Meet with one clickPreviously, adding a co-presenter in Google Meet required multiple manual steps. Now, Gemini will intelligently suggest a co-presenter in the Ask Gemini in Meet panel, and with just one click, a user can allow another user to co-present their Google...",
-    "date": "2026-09-04T19:08:03+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,36 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "0824eabbbd8500d0",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing the new 1Password App for Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/introducing-new-1password-app-for-Google-Chat.html",
+    "summary": "The new 1Password SaaS Manager integration for Google Chat helps teams streamline IT and HR processes by bringing notifications, actions and approvals directly within Chat.With this integration, teams can build automated workflows for common employee access scenarios, including provisioning and...",
+    "date": "2026-09-08T16:02:56+00:00"
+  },
+  {
+    "id": "e40759000833130e",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Use custom web fonts in Google Sheets charts",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/use-custom-web-fonts-in-google-sheets-charts.html",
+    "summary": "Google Sheets now supports the full Google Fonts web font library directly within charts. Users can now select “More fonts” from any font dropdown inside the chart editor sidebar to search, add, and apply custom web fonts across key chart text elements. This expanded font support is available...",
+    "date": "2026-09-08T15:05:12+00:00"
+  },
+  {
+    "id": "a757a537660d6a98",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - September 4, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-04-2026.html",
+    "summary": "Add co-presenters in Google Meet with one clickPreviously, adding a co-presenter in Google Meet required multiple manual steps. Now, Gemini will intelligently suggest a co-presenter in the Ask Gemini in Meet panel, and with just one click, a user can allow another user to co-present their Google...",
+    "date": "2026-09-04T19:08:03+00:00"
+  },
+  {
     "id": "7b4f9528d86cfad5",
     "product_id": "1password",
     "product_name": "1Password",
@@ -968,35 +998,5 @@
     "link": "https://announcekit.app/kuali/announcements/new-version-types-and-limit-editability-3Tyn2E",
     "summary": "You can now configure Version Types and Limit Editability to control how users interact with forms based on the type of version they're work...",
     "date": "2026-06-29T16:00:00+00:00"
-  },
-  {
-    "id": "d4a323859eb80d59",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Transitioning Google Meet room hardware to focus on Android (AOSP), ongoing ChromeOS support unchanged and up to September 2030",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/transitioning-google-meet-room-hardware-to-focus-on-Android-AOSP-ongoing-ChromeOS-support-unchanged-and-up-to-September-2030.html",
-    "summary": "We're transitioning our Google Meet hardware portfolio from ChromeOS to Android to deliver features faster, broaden device choices, and increase flexibility. We're working closely with hardware partners, including Logitech, Neat, and HP Poly, to offer Google Meet-certified devices for spaces of any...",
-    "date": "2026-09-01T15:34:39+00:00"
-  },
-  {
-    "id": "3f335123c2675bac",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Add co-presenters in Google Meet with one click",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/add-co-presenters-in-google-meet-with-one-click.html",
-    "summary": "Previously, adding a co-presenter in Google Meet required multiple manual steps. Now, Gemini will intelligently suggest a co-presenter in the Ask Gemini in Meet panel, and with just one click, a user can allow another user to co-present their Google Slides presentation.Note that this “nudge” will...",
-    "date": "2026-09-01T15:28:33+00:00"
-  },
-  {
-    "id": "610864d73542abf2",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - August 28, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/weekly-recap-08-28-2026.html",
-    "summary": "Now available: A refreshed user interface for Google Meet hardware touch controllers on Neat and Poly devicesOn August 26, 2026, we are officially launching our updated user interface for Neat touch controllers and the Poly TC8. Overall, the design allows users to concentrate on their meetings...",
-    "date": "2026-08-28T22:08:21+00:00"
   }
 ]
