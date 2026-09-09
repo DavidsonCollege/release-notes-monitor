@@ -610,6 +610,36 @@
     "date": "2026-09-27T00:00:00+00:00"
   },
   {
+    "id": "30970f24fb94fd43",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New data-connection-established webhook events in Meetings and Webinars",
+    "link": "https://developers.zoom.us/changelog/meetings/september-08-2026",
+    "summary": "Tags: api-release | New data-connection-established webhook events in Meetings and Webinars.",
+    "date": "2026-09-08T00:00:00+00:00"
+  },
+  {
+    "id": "c24617a1e0876449",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 3.8.1",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.8.1",
+    "summary": "Tags: bug-fix, sdk-version | Fixed the occasional page crash.",
+    "date": "2026-09-07T00:00:00+00:00"
+  },
+  {
+    "id": "8ce74ef53a98581c",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Introducing Hub API",
+    "link": "https://developers.zoom.us/changelog/hub/september-07-2026",
+    "summary": "Tags: api-release, new-feature | Introducing Hub API.",
+    "date": "2026-09-07T00:00:00+00:00"
+  },
+  {
     "id": "46b547504deeb1b0",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -618,36 +648,6 @@
     "link": "https://developers.zoom.us/changelog/phone/september-03-2026",
     "summary": "Tags: api-release | Added the ID response field to the Sites Settings APIs.",
     "date": "2026-09-03T00:00:00+00:00"
-  },
-  {
-    "id": "4ee34c7500a23fa2",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New endpoint for Report API",
-    "link": "https://developers.zoom.us/changelog/canvas/august-31-2026",
-    "summary": "Tags: api-release | Added new endpoint for Report API.",
-    "date": "2026-08-31T00:00:00+00:00"
-  },
-  {
-    "id": "19747fafdaaf2ae8",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.8.0",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.8.0",
-    "summary": "Tags: sdk-version | Includes rendering optimizations. Addresses several synchronization and display issues across different browsers and devices.",
-    "date": "2026-08-31T00:00:00+00:00"
-  },
-  {
-    "id": "e10b789d403841e8",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New webhook added",
-    "link": "https://developers.zoom.us/changelog/my-notes/august-31-2026",
-    "summary": "Tags: api-release | Added new webhook event.",
-    "date": "2026-08-31T00:00:00+00:00"
   },
   {
     "id": "3511cf28b94e8081",
@@ -748,6 +748,36 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
     "date": "2026-08-14T14:16:58.978170+00:00"
+  },
+  {
+    "id": "4ee34c7500a23fa2",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New endpoint for Report API",
+    "link": "https://developers.zoom.us/changelog/canvas/august-31-2026",
+    "summary": "Tags: api-release | Added new endpoint for Report API.",
+    "date": "2026-08-31T00:00:00+00:00"
+  },
+  {
+    "id": "19747fafdaaf2ae8",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 3.8.0",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.8.0",
+    "summary": "Tags: sdk-version | Includes rendering optimizations. Addresses several synchronization and display issues across different browsers and devices.",
+    "date": "2026-08-31T00:00:00+00:00"
+  },
+  {
+    "id": "e10b789d403841e8",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New webhook added",
+    "link": "https://developers.zoom.us/changelog/my-notes/august-31-2026",
+    "summary": "Tags: api-release | Added new webhook event.",
+    "date": "2026-08-31T00:00:00+00:00"
   },
   {
     "id": "0824eabbbd8500d0",
@@ -968,35 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "August 27 2026"
-  },
-  {
-    "id": "b2c769bb6380535d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Pics brings pro-level AI image creation and editing to Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/google-pics-brings-pro-level-ai-image-creation-and-editing-to-Google-Workspace.html",
-    "summary": "We are thrilled to announce that Google Pics is generally available starting today, bringing advanced AI image generation and precise, object-based image editing directly into your Workspace creative workflow. To get started, open Pics and simply type in a prompt to generate any image using...",
-    "date": "2026-09-01T16:03:37+00:00"
-  },
-  {
-    "id": "a5b7b6d67527abed",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Expanded Call Charges Report Fields",
-    "link": "https://developers.zoom.us/changelog/phone/august-31-2026",
-    "summary": "Tags: api-release | Added caller, callee, owner, and call result fields to the Call Charges Reports APIs.",
-    "date": "2026-08-31T00:00:00+00:00"
-  },
-  {
-    "id": "077e3dc2b00ed18d",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Version Types and Limit Editability",
-    "link": "https://announcekit.app/kuali/announcements/new-version-types-and-limit-editability-3Tyn2E",
-    "summary": "You can now configure Version Types and Limit Editability to control how users interact with forms based on the type of version they're work...",
-    "date": "2026-06-29T16:00:00+00:00"
   }
 ]
