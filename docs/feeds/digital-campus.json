@@ -1,10 +1,10 @@
 [
   {
-    "id": "7b4f9528d86cfad5",
+    "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Linux",
+    "title": "1Password for Android Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "September 9 2026"
@@ -260,14 +260,14 @@
     "date": "2026-07-02T21:30:00+00:00"
   },
   {
-    "id": "d61b5ed28aa1712e",
+    "id": "3f3925a31de62d42",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 beta 8 (26A5425a)",
-    "link": "https://developer.apple.com/news/releases/?id=08312026c",
+    "title": "macOS 27.0 RC (26A428)",
+    "link": "https://developer.apple.com/news/releases/?id=09092026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-08-31T17:00:00+00:00"
+    "date": "2026-09-09T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -750,6 +750,26 @@
     "date": "2026-08-14T14:16:58.978170+00:00"
   },
   {
+    "id": "7b4f9528d86cfad5",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Linux",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "September 9 2026"
+  },
+  {
+    "id": "d61b5ed28aa1712e",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 27.0 beta 8 (26A5425a)",
+    "link": "https://developer.apple.com/news/releases/?id=08312026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-08-31T17:00:00+00:00"
+  },
+  {
     "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/08/weekly-recap-08-28-2026.html",
     "summary": "Now available: A refreshed user interface for Google Meet hardware touch controllers on Neat and Poly devicesOn August 26, 2026, we are officially launching our updated user interface for Neat touch controllers and the Poly TC8. Overall, the design allows users to concentrate on their meetings...",
     "date": "2026-08-28T22:08:21+00:00"
-  },
-  {
-    "id": "41afd219352d7702",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini-based data classification in Google Drive is now available in open beta",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/gemini-based-data-classification-in-Google-Drive-is-now-available-in-open-beta.html",
-    "summary": "Gemini-powered AI classification in Google Drive is now available in open beta.By automating file identification and labeling across Drive, AI classification helps organizations enforce granular data loss prevention (DLP) policies at scale, establish retention rules, and utilize label metadata...",
-    "date": "2026-08-28T21:51:12+00:00"
-  },
-  {
-    "id": "5cd35abac9141645",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Opus 5 launch",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-07-24T00:00:00+00:00"
   }
 ]
