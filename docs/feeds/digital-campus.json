@@ -710,6 +710,26 @@
     "date": "2026-08-14T14:16:58.978118+00:00"
   },
   {
+    "id": "0a7ded8ac4c47805",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: The Gemini app is now available on Windows. Press Alt + Space to summon Gemini instantly from anywhere on your PC whenever you need it. You ca",
+    "link": "https://gemini.google/desktop/",
+    "summary": "What: The Gemini app is now available on Windows. Press Alt + Space to summon Gemini instantly from anywhere on your PC whenever you need it. You can get quick answers, draft messages, and brainstorm ideas right alongside your active applications. Inside your dedicated desktop workspace, you have...",
+    "date": "2026-09-10T15:39:41.367114+00:00"
+  },
+  {
+    "id": "9061a5ebcc575a73",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: Your desktop is where you get work done. Bringing Gemini straight to your PC with instant shortcut access keeps you in your flow, making it sim",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: Your desktop is where you get work done. Bringing Gemini straight to your PC with instant shortcut access keeps you in your flow, making it simple to get answers and create visuals right alongside your everyday tools.",
+    "date": "2026-09-10T15:39:41.367136+00:00"
+  },
+  {
     "id": "1d48e7a689257710",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -978,25 +998,5 @@
     "link": "https://blogs.windows.com/windows-insider/2026/08/14/announcing-new-release-preview-builds-for-14-august-2026/",
     "summary": "Hello Windows Insiders, Today we’re releasing new builds for Release Preview across our supported versions of Windows 11. Please see the build numbers and links to the release notes below: Windows 11 version 24H2/25H2: Announcing new Release Preview builds for 14 August 2026 appeared first on...",
     "date": "2026-08-14T17:22:16+00:00"
-  },
-  {
-    "id": "af29059db89df57b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Turn Google Docs, PDFs, and Word files into video summaries in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/turn-google-docs-pdfs-and-word-files-into-video-summaries-in-Google-Vids.html",
-    "summary": "Google Vids now allows you to transform static Google Docs, PDFs, and Word files into engaging video summaries. This new feature leverages AI to generate scripts and narration while providing custom visuals to bring your documents to life.Whether you are catching up on training material, meeting...",
-    "date": "2026-09-02T17:23:48+00:00"
-  },
-  {
-    "id": "19d69d3b1635e4a0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Custom instructions for Gemini in Workspace now available in more apps",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/custom-instructions-for-gemini-in-Workspace-now-available-in-more-apps.html",
-    "summary": "Earlier this year, we introduced the ability for Workspace users to set persistent custom instructions for Gemini in Google Docs. We're now expanding support for these custom instructions to additional Gemini in Workspace surfaces, specifically:Ask Gemini in DriveAsk Gemini in ChatGemini side panel...",
-    "date": "2026-09-02T16:22:23+00:00"
   }
 ]
