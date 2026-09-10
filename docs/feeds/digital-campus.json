@@ -120,6 +120,36 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "3d0ffff423c53661",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini in Google Sheets is now available on Android devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/gemini-in-google-sheets-is-now-available-on-Android-devices.html",
+    "summary": "Building upon the power of Gemini in Sheets on the web, we’re excited to announce that you can now use Gemini in Google Sheets on your Android device to quickly analyze and understand your data while on the go.Simply tap on the Gemini spark icon, and you can ask questions about your data, generate...",
+    "date": "2026-09-10T18:32:26+00:00"
+  },
+  {
+    "id": "eb02511a2d2f4987",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Manage external sharing for Gemini Notebook in the Admin console",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/manage-external-sharing-for-gemini-notebook-in-the-Admin-console.html",
+    "summary": "Google Workspace administrators can now enable external sharing for Gemini Notebook using granular controls in the Admin console. Previously, administrators only had a single high-level toggle to turn Gemini Notebook completely on or off for their entire organization. This update introduces four...",
+    "date": "2026-09-10T18:27:38+00:00"
+  },
+  {
+    "id": "fdb7d6cd862a3ed9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Doubled cell limits in Google Sheets now generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/doubled-cell-limits-in-google-sheets-now-generally-available.html",
+    "summary": "We’re committed to continuously improving Sheets to ensure it is a powerful, responsive, and scalable spreadsheet tool for your needs. To that end, we’ve increased the cell limit in Google Sheets from up to 10 million cells to up to 20 million cells. This limit applies to new, existing, and...",
+    "date": "2026-09-10T18:21:19+00:00"
+  },
+  {
     "id": "682abdb9581abeb9",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -138,36 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/automatic-room-check-in-for-google-meet-available-on-mobile-devices.html",
     "summary": "In January 2026, we introduced Automatic room check-in for Google Meet available on mobile to organizations on the Rapid Release track enrolled in Early Preview Rooms. We’re excited to announce that this feature is now rolling out to all Workspace customers with Google Meet hardware. This feature...",
     "date": "2026-09-09T19:15:38+00:00"
-  },
-  {
-    "id": "6d56b23b13e370cb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create content, schedule events, and coordinate tasks across Workspace regardless of what app you are in",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/create-content-schedule-events-and-coordinate-tasks-across-Workspace-regardless-of-what-app-you-are-in.html",
-    "summary": "Completing a single task shouldn't mean breaking your focus or switching apps. To keep you in the flow of work, Gemini can tackle complex tasks behind the scenes, working as an intelligent orchestrator across Workspace using the power of Workspace Intelligence. You can prompt Gemini to help from...",
-    "date": "2026-09-09T17:42:25+00:00"
-  },
-  {
-    "id": "af1d744e694fa0b5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Pick up where you left off with persistent drafts in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/pick-up-where-you-left-off-with-persistent-drafts-in-Google-Chat.html",
-    "summary": "We are introducing persistent drafts in Google Chat. Unsent messages are now automatically saved so you can finish and send later, and are also synchronized across your devices, allowing you to start composing a message on one device and finish or send it from another.With this update, you can...",
-    "date": "2026-09-08T18:25:30+00:00"
-  },
-  {
-    "id": "16ba5baf9691928b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Context-aware access controls are available for Gemini Enterprise in the Admin console",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/context-aware-access-controls-are-available-for-Gemini-Enterprise-in-the-Admin-console.html",
-    "summary": "To help organizations elevate their security posture, we are introducing context-aware access (CAA) policies in the Admin console for Gemini Enterprise. Google Workspace administrators can select granular security attributes for Gemini Enterprise access, including device security and location...",
-    "date": "2026-09-08T17:50:47+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -410,44 +410,44 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "b51cce9cededdef9",
+    "id": "76bfe466a5a9fa43",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Scan and sort your library with new list view",
+    "title": "Customize Optimize workflows to match how your team works",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "August 10, 2026"
+    "date": "September 10, 2026"
   },
   {
-    "id": "2041822393aa11b0",
+    "id": "accbde209ebd5ae0",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Scan and sort your library with new list view",
-    "link": "https://scribe.launchnotes.io/announcements/scan-and-sort-your-library-with-new-list-view",
+    "title": "Customize Optimize workflows to match how your team works",
+    "link": "https://scribe.launchnotes.io/announcements/customize-optimize-workflows-to-match-how-your-team-works",
     "summary": "Loading...",
-    "date": "August 10, 2026"
+    "date": "September 10, 2026"
   },
   {
-    "id": "86dfa57862128416",
+    "id": "452ba901a01755b1",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "All Plans",
+    "title": "Optimize",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-08-04T03:11:10.096326+00:00"
+    "date": "2026-09-10T20:16:17.385384+00:00"
   },
   {
-    "id": "eeee607ca957dd30",
+    "id": "25ba8f2c7ebb97ad",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Scan and sort your library with new list view",
+    "title": "Customize Optimize workflows to match how your team works",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-08-10T20:48:51.431024+00:00"
+    "date": "2026-09-10T20:16:17.385405+00:00"
   },
   {
     "id": "9c3d06b9f59f1579",
@@ -650,6 +650,26 @@
     "date": "2026-09-03T00:00:00+00:00"
   },
   {
+    "id": "0c90824591792dd9",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Smart reports (beta)",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-10T00:00:00+00:00"
+  },
+  {
+    "id": "5287423c784e99c7",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Get started with smart reports",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-10T00:00:00+00:00"
+  },
+  {
     "id": "3511cf28b94e8081",
     "product_id": "claude",
     "product_name": "Claude",
@@ -678,26 +698,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-08-25T00:00:00+00:00"
-  },
-  {
-    "id": "57b0ad1b45055065",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Skill and plugin security scanning (beta)",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-08-06T00:00:00+00:00"
-  },
-  {
-    "id": "7e165bbd73b00517",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Get started with skill and plugin scanning",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-08-06T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -748,6 +748,96 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
     "date": "2026-08-19T18:48:41.246217+00:00"
+  },
+  {
+    "id": "6d56b23b13e370cb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create content, schedule events, and coordinate tasks across Workspace regardless of what app you are in",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/create-content-schedule-events-and-coordinate-tasks-across-Workspace-regardless-of-what-app-you-are-in.html",
+    "summary": "Completing a single task shouldn't mean breaking your focus or switching apps. To keep you in the flow of work, Gemini can tackle complex tasks behind the scenes, working as an intelligent orchestrator across Workspace using the power of Workspace Intelligence. You can prompt Gemini to help from...",
+    "date": "2026-09-09T17:42:25+00:00"
+  },
+  {
+    "id": "af1d744e694fa0b5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Pick up where you left off with persistent drafts in Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/pick-up-where-you-left-off-with-persistent-drafts-in-Google-Chat.html",
+    "summary": "We are introducing persistent drafts in Google Chat. Unsent messages are now automatically saved so you can finish and send later, and are also synchronized across your devices, allowing you to start composing a message on one device and finish or send it from another.With this update, you can...",
+    "date": "2026-09-08T18:25:30+00:00"
+  },
+  {
+    "id": "16ba5baf9691928b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Context-aware access controls are available for Gemini Enterprise in the Admin console",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/context-aware-access-controls-are-available-for-Gemini-Enterprise-in-the-Admin-console.html",
+    "summary": "To help organizations elevate their security posture, we are introducing context-aware access (CAA) policies in the Admin console for Gemini Enterprise. Google Workspace administrators can select granular security attributes for Gemini Enterprise access, including device security and location...",
+    "date": "2026-09-08T17:50:47+00:00"
+  },
+  {
+    "id": "b51cce9cededdef9",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Scan and sort your library with new list view",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "August 10, 2026"
+  },
+  {
+    "id": "2041822393aa11b0",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Scan and sort your library with new list view",
+    "link": "https://scribe.launchnotes.io/announcements/scan-and-sort-your-library-with-new-list-view",
+    "summary": "Loading...",
+    "date": "August 10, 2026"
+  },
+  {
+    "id": "86dfa57862128416",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "All Plans",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-08-04T03:11:10.096326+00:00"
+  },
+  {
+    "id": "eeee607ca957dd30",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Scan and sort your library with new list view",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-08-10T20:48:51.431024+00:00"
+  },
+  {
+    "id": "57b0ad1b45055065",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Skill and plugin security scanning (beta)",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-08-06T00:00:00+00:00"
+  },
+  {
+    "id": "7e165bbd73b00517",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Get started with skill and plugin scanning",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-08-06T00:00:00+00:00"
   },
   {
     "id": "649811031122b561",
@@ -908,95 +998,5 @@
     "link": "https://developers.zoom.us/changelog/my-notes/august-31-2026",
     "summary": "Tags: api-release | Added new webhook event.",
     "date": "2026-08-31T00:00:00+00:00"
-  },
-  {
-    "id": "0824eabbbd8500d0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing the new 1Password App for Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/introducing-new-1password-app-for-Google-Chat.html",
-    "summary": "The new 1Password SaaS Manager integration for Google Chat helps teams streamline IT and HR processes by bringing notifications, actions and approvals directly within Chat.With this integration, teams can build automated workflows for common employee access scenarios, including provisioning and...",
-    "date": "2026-09-08T16:02:56+00:00"
-  },
-  {
-    "id": "e40759000833130e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use custom web fonts in Google Sheets charts",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/use-custom-web-fonts-in-google-sheets-charts.html",
-    "summary": "Google Sheets now supports the full Google Fonts web font library directly within charts. Users can now select “More fonts” from any font dropdown inside the chart editor sidebar to search, add, and apply custom web fonts across key chart text elements. This expanded font support is available...",
-    "date": "2026-09-08T15:05:12+00:00"
-  },
-  {
-    "id": "a757a537660d6a98",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - September 4, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-04-2026.html",
-    "summary": "Add co-presenters in Google Meet with one clickPreviously, adding a co-presenter in Google Meet required multiple manual steps. Now, Gemini will intelligently suggest a co-presenter in the Ask Gemini in Meet panel, and with just one click, a user can allow another user to co-present their Google...",
-    "date": "2026-09-04T19:08:03+00:00"
-  },
-  {
-    "id": "7b4f9528d86cfad5",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Linux",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "September 9 2026"
-  },
-  {
-    "id": "d61b5ed28aa1712e",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 beta 8 (26A5425a)",
-    "link": "https://developer.apple.com/news/releases/?id=08312026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-08-31T17:00:00+00:00"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "September 8 2026"
-  },
-  {
-    "id": "32ef78e1bf10bb89",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing comprehensive audit logs for Gemini Notebook in the Workspace Admin console",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/introducing-comprehensive-audit-logs-for-Gemini-Notebook-in-the-Workspace-Admin-console.html",
-    "summary": "Google Workspace administrators can now access comprehensive audit logs for Gemini Notebook in the Admin console, providing greater insights into how the application is used across their organizations. This update introduces full visibility into Gemini Notebook actions, allowing administrators to...",
-    "date": "2026-09-03T21:48:05+00:00"
-  },
-  {
-    "id": "ccc07798c60174fa",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New built-in interoperability between Google Meet and Microsoft Teams on Android (AOSP) devices, now in Early Preview",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/new-built-in-interoperability-between-Google-Meet-and-Microsoft-Teams-on-Android-AOSP-devices-now-in-Early-Preview.html",
-    "summary": "We’re introducing video conferencing device interoperability between Google Meet and Microsoft Teams, which will allow you to:Join Microsoft Teams meetings from Android (AOSP)-based Google Meet hardware devicesJoin Google Meet meetings from Android (AOSP)-based Microsoft Teams Rooms devicesPlease...",
-    "date": "2026-09-02T17:50:51+00:00"
-  },
-  {
-    "id": "5a1ea089b4372fc7",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password SaaS Manager",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "September 3 2026"
   }
 ]
