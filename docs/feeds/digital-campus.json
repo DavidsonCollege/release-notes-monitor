@@ -550,6 +550,16 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "77c21f416234d302",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Release Preview Builds 26100.9539/26200.9539",
+    "link": "https://blogs.windows.com/windows-insider/2026/09/10/announcing-windows-11-release-preview-builds-26100-9539-26200-9539/",
+    "summary": "Hello Windows Insiders, Today we’re releasing build Builds 26100.9539/26200.9539 for Release Preview for Windows 11, version 24H2/25H2. Release notes can be found over in the Announcing Windows 11 Release Preview Builds 26100.9539/26200.9539 appeared first on Windows Insider Blog.",
+    "date": "2026-09-10T17:11:27+00:00"
+  },
+  {
     "id": "b1c187f70824aab2",
     "product_id": "windows",
     "product_name": "Windows",
@@ -588,16 +598,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/08/21/announcing-new-builds-for-21-august-2026/",
     "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental Channels. Experimental Feature Flags We’ve fixed the issue causing the Feature Flags list to show empty for Ins The post Announcing new builds for 21 August 2026 appeared first on...",
     "date": "2026-08-21T17:09:32+00:00"
-  },
-  {
-    "id": "649811031122b561",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 17 August 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/08/17/announcing-new-builds-for-17-august-2026/",
-    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental Channels. This post also includes reminders about renewed flight certificates and the current Feature Flags settings issue in the Exp The post Announcing new builds for 17 August 2026...",
-    "date": "2026-08-17T21:19:57+00:00"
   },
   {
     "id": "4452b7b2961849dc",
@@ -748,6 +748,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
     "date": "2026-08-19T18:48:41.246217+00:00"
+  },
+  {
+    "id": "649811031122b561",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 17 August 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/08/17/announcing-new-builds-for-17-august-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental Channels. This post also includes reminders about renewed flight certificates and the current Feature Flags settings issue in the Exp The post Announcing new builds for 17 August 2026...",
+    "date": "2026-08-17T21:19:57+00:00"
   },
   {
     "id": "ee471d9e880a13c9",
@@ -988,15 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "September 3 2026"
-  },
-  {
-    "id": "2c7de5d5d7431544",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new Release Preview builds for 14 August 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/08/14/announcing-new-release-preview-builds-for-14-august-2026/",
-    "summary": "Hello Windows Insiders, Today we’re releasing new builds for Release Preview across our supported versions of Windows 11. Please see the build numbers and links to the release notes below: Windows 11 version 24H2/25H2: Announcing new Release Preview builds for 14 August 2026 appeared first on...",
-    "date": "2026-08-14T17:22:16+00:00"
   }
 ]
