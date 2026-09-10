@@ -330,6 +330,36 @@
     "date": "2026-08-27T13:00:57+00:00"
   },
   {
+    "id": "f1042284903c053e",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "24.1.10",
+    "link": "https://www.papercut.com/products/mf/release-history/24-1/",
+    "summary": "Important PaperCut MF version 24 contains significant changes including internet connection requirements and licensing implications for all customers upgrading to version 24. Please review Important points to know about PaperCut MF version 24 before upgrading. Copier / Device Integration HP (OXP):...",
+    "date": "2026-09-10T00:00:00+00:00"
+  },
+  {
+    "id": "25d5265a8926f4c1",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.13",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2026-09-10T00:00:00+00:00"
+  },
+  {
+    "id": "06b74b373d1d0e88",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "26.0.5",
+    "link": "https://www.papercut.com/products/mf/release-history/26-0/",
+    "summary": "Important upgrade information Version 25 and above includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components. Upgrading from version 24.x? Please review Important points to know about PaperCut MF...",
+    "date": "2026-09-10T00:00:00+00:00"
+  },
+  {
     "id": "5a36061fb32af699",
     "product_id": "papercut",
     "product_name": "PaperCut",
@@ -348,36 +378,6 @@
     "link": "https://www.papercut.com/products/mf/release-history/26-0/",
     "summary": "Important upgrade information Version 25 and above includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components. Upgrading from version 24.x? Please review Important points to know about PaperCut MF...",
     "date": "2026-06-30T00:00:00+00:00"
-  },
-  {
-    "id": "192f3d32a50553a3",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.11",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2026-05-05T00:00:00+00:00"
-  },
-  {
-    "id": "4c648a6b3f65d207",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.10",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2026-03-31T00:00:00+00:00"
-  },
-  {
-    "id": "29b118fba425721c",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.9",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2026-03-26T00:00:00+00:00"
   },
   {
     "id": "06a1b6a05e1c3232",
@@ -710,46 +710,6 @@
     "date": "2026-08-14T14:16:58.978118+00:00"
   },
   {
-    "id": "ca023babef112cd9",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your act",
-    "link": "https://gemini.google/mac/",
-    "summary": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
-    "date": "2026-09-06T11:14:03.544678+00:00"
-  },
-  {
-    "id": "c31440c5be7f2778",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes s",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
-    "date": "2026-09-06T11:14:03.544718+00:00"
-  },
-  {
-    "id": "46a4095c941d315e",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks li",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analysing several documents or multi-step projects like building a working prototype with the Canvas tool. We're excited to bring this model to all...",
-    "date": "2026-09-06T11:14:03.544726+00:00"
-  },
-  {
-    "id": "58b9d9ddb34c22df",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater c",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
-    "date": "2026-09-06T11:14:03.544732+00:00"
-  },
-  {
     "id": "1d48e7a689257710",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -788,6 +748,76 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
     "date": "2026-08-14T14:16:58.978170+00:00"
+  },
+  {
+    "id": "192f3d32a50553a3",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.11",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2026-05-05T00:00:00+00:00"
+  },
+  {
+    "id": "4c648a6b3f65d207",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.10",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2026-03-31T00:00:00+00:00"
+  },
+  {
+    "id": "29b118fba425721c",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.9",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2026-03-26T00:00:00+00:00"
+  },
+  {
+    "id": "ca023babef112cd9",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your act",
+    "link": "https://gemini.google/mac/",
+    "summary": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
+    "date": "2026-09-06T11:14:03.544678+00:00"
+  },
+  {
+    "id": "c31440c5be7f2778",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes s",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
+    "date": "2026-09-06T11:14:03.544718+00:00"
+  },
+  {
+    "id": "46a4095c941d315e",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks li",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analysing several documents or multi-step projects like building a working prototype with the Canvas tool. We're excited to bring this model to all...",
+    "date": "2026-09-06T11:14:03.544726+00:00"
+  },
+  {
+    "id": "58b9d9ddb34c22df",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater c",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
+    "date": "2026-09-06T11:14:03.544732+00:00"
   },
   {
     "id": "7dd9f9e5d46fcab2",
@@ -968,35 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/custom-instructions-for-gemini-in-Workspace-now-available-in-more-apps.html",
     "summary": "Earlier this year, we introduced the ability for Workspace users to set persistent custom instructions for Gemini in Google Docs. We're now expanding support for these custom instructions to additional Gemini in Workspace surfaces, specifically:Ask Gemini in DriveAsk Gemini in ChatGemini side panel...",
     "date": "2026-09-02T16:22:23+00:00"
-  },
-  {
-    "id": "ec9f082b54aa6c47",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Automate Drive, Gmail, and Google Chat actions with new steps in Workspace Studio",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/automate-drive-gmail-and-google-chat-actions-with-new-steps-in-Workspace-Studio.html",
-    "summary": "To help teams automate everyday work and seamlessly connect tasks across Google Workspace, we are introducing four new automation steps in Workspace Studio Flows: Move Drive file, Copy Drive file, Send a Chat reply, and Reply to email.These new steps give end users greater control over document...",
-    "date": "2026-09-02T16:18:26+00:00"
-  },
-  {
-    "id": "ac260aa0b2ca5716",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "July 31, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/52026436342932-July-31-2026",
-    "summary": "",
-    "date": "2026-08-01T12:57:55Z"
-  },
-  {
-    "id": "32f33ae82449bb7e",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Linux Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "August 27 2026"
   }
 ]
