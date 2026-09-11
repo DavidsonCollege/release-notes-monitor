@@ -550,6 +550,16 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "6a0b9c8fe613a488",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 11 September 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/09/11/announcing-new-builds-for-11-september-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta, Experimental, and Release Preview channels. New builds this week Select your channel below to view its release notes: B The post Announcing new builds for 11 September 2026 appeared first on Windows...",
+    "date": "2026-09-11T17:11:03+00:00"
+  },
+  {
     "id": "77c21f416234d302",
     "product_id": "windows",
     "product_name": "Windows",
@@ -588,16 +598,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/08/27/releasing-windows-11-version-26h2-to-the-release-preview-channel/",
     "summary": "[Update 31 August 2026: ISOs are now available] Hello Windows Insiders! Today, we are making this year’s annual feature update, Windows 11, version 26H2 (Build 26300.9278), available in the Release Preview Ch The post Releasing Windows 11, version 26H2 to the Release Preview Channel appeared first...",
     "date": "2026-08-27T17:00:37+00:00"
-  },
-  {
-    "id": "debb78a5394a0501",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 21 August 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/08/21/announcing-new-builds-for-21-august-2026/",
-    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental Channels. Experimental Feature Flags We’ve fixed the issue causing the Feature Flags list to show empty for Ins The post Announcing new builds for 21 August 2026 appeared first on...",
-    "date": "2026-08-21T17:09:32+00:00"
   },
   {
     "id": "4452b7b2961849dc",
@@ -748,6 +748,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
     "date": "2026-08-19T18:48:41.246217+00:00"
+  },
+  {
+    "id": "debb78a5394a0501",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 21 August 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/08/21/announcing-new-builds-for-21-august-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental Channels. Experimental Feature Flags We’ve fixed the issue causing the Feature Flags list to show empty for Ins The post Announcing new builds for 21 August 2026 appeared first on...",
+    "date": "2026-08-21T17:09:32+00:00"
   },
   {
     "id": "123c10f78f16293c",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
     "summary": "",
     "date": "2026-08-18T02:54:18.337779+00:00"
-  },
-  {
-    "id": "11083138bb0d83b5",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "De qué se trata: Presentamos una nueva forma de trabajar con Gemini usando solo tu voz, directamente desde donde estés. Mantén presionada la tecla F",
-    "link": "https://gemini.google/mac/",
-    "summary": "De qué se trata: Presentamos una nueva forma de trabajar con Gemini usando solo tu voz, directamente desde donde estés. Mantén presionada la tecla Fn para dictar en tu ventana activa y que Gemini transcriba tus palabras en texto limpio y pulido directamente en la ubicación del cursor. También...",
-    "date": "2026-08-18T02:54:18.337822+00:00"
   }
 ]
