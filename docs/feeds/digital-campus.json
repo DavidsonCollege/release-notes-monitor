@@ -20,6 +20,16 @@
     "date": "2026-08-20T17:11:45.962622+00:00"
   },
   {
+    "id": "e1c255bacaad0fe5",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "September 11, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/53476248689172-September-11-2026",
+    "summary": "",
+    "date": "2026-09-11T15:52:27Z"
+  },
+  {
     "id": "955840806905a111",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/52518263974420-August-14-2026",
     "summary": "",
     "date": "2026-08-21T21:10:16Z"
-  },
-  {
-    "id": "123c10f78f16293c",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "August 7, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/52248332257300-August-7-2026",
-    "summary": "",
-    "date": "2026-08-14T18:40:52Z"
   },
   {
     "id": "c5b58b7cc95f6495",
@@ -120,6 +120,26 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "a34296ebbaffc577",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Seamlessly import your team and data from Microsoft to Google Workspace during setup",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/seamlessly-import-your-team-and-data-from-Microsoft-to-Google-Workspace-during-setup.html",
+    "summary": "We’re excited to announce the GA release of a new, simplified way for small businesses to import their users and their business data from Microsoft while setting up Google Workspace with our data import tool.This new feature allows these businesses and educational institutions to copy their...",
+    "date": "2026-09-11T15:44:25+00:00"
+  },
+  {
+    "id": "95c1c6118b3a3b3a",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "The Gemini desktop app is now available for Windows",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/the-gemini-desktop-app-is-now-available-for-Windows.html",
+    "summary": "Today, we’re launching the Gemini desktop app for Windows 10 and 11. This new application is designed to operate seamlessly alongside users’ favorite tools, providing instant assistance without disrupting their workflows.The Gemini app for Windows provides users with a variety of ways to enhance...",
+    "date": "2026-09-11T15:06:16+00:00"
+  },
+  {
     "id": "3d0ffff423c53661",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/doubled-cell-limits-in-google-sheets-now-generally-available.html",
     "summary": "We’re committed to continuously improving Sheets to ensure it is a powerful, responsive, and scalable spreadsheet tool for your needs. To that end, we’ve increased the cell limit in Google Sheets from up to 10 million cells to up to 20 million cells. This limit applies to new, existing, and...",
     "date": "2026-09-10T18:21:19+00:00"
-  },
-  {
-    "id": "682abdb9581abeb9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create and edit calculated fields in Google Sheets pivot tables with an improved editor",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/create-and-edit-calculated-fields-in-Google-Sheets-pivot-tables-with-an-improved-editor.html",
-    "summary": "We are introducing a new, dedicated formula editor dialog for creating and editing calculated fields within pivot tables in Google Sheets. This update streamlines how you build custom formulas and derived metrics, making data analysis faster and more accurate.Specifically, this new update...",
-    "date": "2026-09-09T19:59:50+00:00"
-  },
-  {
-    "id": "a9fb810255599230",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Automatic room check-in for Google Meet available on mobile devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/automatic-room-check-in-for-google-meet-available-on-mobile-devices.html",
-    "summary": "In January 2026, we introduced Automatic room check-in for Google Meet available on mobile to organizations on the Rapid Release track enrolled in Early Preview Rooms. We’re excited to announce that this feature is now rolling out to all Workspace customers with Google Meet hardware. This feature...",
-    "date": "2026-09-09T19:15:38+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,36 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "123c10f78f16293c",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "August 7, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/52248332257300-August-7-2026",
+    "summary": "",
+    "date": "2026-08-14T18:40:52Z"
+  },
+  {
+    "id": "682abdb9581abeb9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create and edit calculated fields in Google Sheets pivot tables with an improved editor",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/create-and-edit-calculated-fields-in-Google-Sheets-pivot-tables-with-an-improved-editor.html",
+    "summary": "We are introducing a new, dedicated formula editor dialog for creating and editing calculated fields within pivot tables in Google Sheets. This update streamlines how you build custom formulas and derived metrics, making data analysis faster and more accurate.Specifically, this new update...",
+    "date": "2026-09-09T19:59:50+00:00"
+  },
+  {
+    "id": "a9fb810255599230",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Automatic room check-in for Google Meet available on mobile devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/automatic-room-check-in-for-google-meet-available-on-mobile-devices.html",
+    "summary": "In January 2026, we introduced Automatic room check-in for Google Meet available on mobile to organizations on the Rapid Release track enrolled in Early Preview Rooms. We’re excited to announce that this feature is now rolling out to all Workspace customers with Google Meet hardware. This feature...",
+    "date": "2026-09-09T19:15:38+00:00"
+  },
+  {
     "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
@@ -968,35 +998,5 @@
     "link": "https://gemini.google/mac/",
     "summary": "De qué se trata: Presentamos una nueva forma de trabajar con Gemini usando solo tu voz, directamente desde donde estés. Mantén presionada la tecla Fn para dictar en tu ventana activa y que Gemini transcriba tus palabras en texto limpio y pulido directamente en la ubicación del cursor. También...",
     "date": "2026-08-18T02:54:18.337822+00:00"
-  },
-  {
-    "id": "b7b93b37991554a6",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Por qué lo hacemos: Cuando dices lo que piensas, puedes trabajar a la velocidad del pensamiento, lo que te permite divagar, dudar o corregirte mient",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Por qué lo hacemos: Cuando dices lo que piensas, puedes trabajar a la velocidad del pensamiento, lo que te permite divagar, dudar o corregirte mientras Gemini les da sentido a tus palabras con facilidad. Para ayudarte a mantener la concentración, Gemini trabaja contigo teniendo en cuenta el...",
-    "date": "2026-08-18T02:54:18.337837+00:00"
-  },
-  {
-    "id": "4ee34c7500a23fa2",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New endpoint for Report API",
-    "link": "https://developers.zoom.us/changelog/canvas/august-31-2026",
-    "summary": "Tags: api-release | Added new endpoint for Report API.",
-    "date": "2026-08-31T00:00:00+00:00"
-  },
-  {
-    "id": "19747fafdaaf2ae8",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.8.0",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.8.0",
-    "summary": "Tags: sdk-version | Includes rendering optimizations. Addresses several synchronization and display issues across different browsers and devices.",
-    "date": "2026-08-31T00:00:00+00:00"
   }
 ]
