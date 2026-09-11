@@ -120,6 +120,16 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "037a17e9302cb0e6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - September 11, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-11-2026.html",
+    "summary": "Use custom web fonts in Google Sheets chartsGoogle Sheets now supports the full Google Fonts web font library directly within charts. Users can now select “More fonts” from any font dropdown inside the chart editor sidebar to search, add, and apply custom web fonts across key chart text elements. |...",
+    "date": "2026-09-11T19:19:37+00:00"
+  },
+  {
     "id": "a34296ebbaffc577",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/manage-external-sharing-for-gemini-notebook-in-the-Admin-console.html",
     "summary": "Google Workspace administrators can now enable external sharing for Gemini Notebook using granular controls in the Admin console. Previously, administrators only had a single high-level toggle to turn Gemini Notebook completely on or off for their entire organization. This update introduces four...",
     "date": "2026-09-10T18:27:38+00:00"
-  },
-  {
-    "id": "fdb7d6cd862a3ed9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Doubled cell limits in Google Sheets now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/doubled-cell-limits-in-google-sheets-now-generally-available.html",
-    "summary": "We’re committed to continuously improving Sheets to ensure it is a powerful, responsive, and scalable spreadsheet tool for your needs. To that end, we’ve increased the cell limit in Google Sheets from up to 10 million cells to up to 20 million cells. This limit applies to new, existing, and...",
-    "date": "2026-09-10T18:21:19+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "fdb7d6cd862a3ed9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Doubled cell limits in Google Sheets now generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/doubled-cell-limits-in-google-sheets-now-generally-available.html",
+    "summary": "We’re committed to continuously improving Sheets to ensure it is a powerful, responsive, and scalable spreadsheet tool for your needs. To that end, we’ve increased the cell limit in Google Sheets from up to 10 million cells to up to 20 million cells. This limit applies to new, existing, and...",
+    "date": "2026-09-10T18:21:19+00:00"
+  },
+  {
     "id": "debb78a5394a0501",
     "product_id": "windows",
     "product_name": "Windows",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
     "date": "2026-09-06T11:14:03.544732+00:00"
-  },
-  {
-    "id": "7dd9f9e5d46fcab2",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Probar Gemini",
-    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
-    "summary": "",
-    "date": "2026-08-18T02:54:18.337779+00:00"
   }
 ]
