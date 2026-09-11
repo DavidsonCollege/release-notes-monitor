@@ -330,6 +330,56 @@
     "date": "2026-08-27T13:00:57+00:00"
   },
   {
+    "id": "f1042284903c053e",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "24.1.10",
+    "link": "https://www.papercut.com/products/mf/release-history/24-1/",
+    "summary": "Important PaperCut MF version 24 contains significant changes including internet connection requirements and licensing implications for all customers upgrading to version 24. Please review Important points to know about PaperCut MF version 24 before upgrading. Copier / Device Integration HP (OXP):...",
+    "date": "2026-09-10T00:00:00+00:00"
+  },
+  {
+    "id": "25d5265a8926f4c1",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "25.0.13",
+    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
+    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
+    "date": "2026-09-10T00:00:00+00:00"
+  },
+  {
+    "id": "06b74b373d1d0e88",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "26.0.5",
+    "link": "https://www.papercut.com/products/mf/release-history/26-0/",
+    "summary": "Important upgrade information Version 25 and above includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components. Upgrading from version 24.x? Please review Important points to know about PaperCut MF...",
+    "date": "2026-09-10T00:00:00+00:00"
+  },
+  {
+    "id": "5a36061fb32af699",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "26.0.3",
+    "link": "https://www.papercut.com/products/mf/release-history/26-0/",
+    "summary": "Important upgrade information Version 25 and above includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components. Upgrading from version 24.x? Please review Important points to know about PaperCut MF...",
+    "date": "2026-07-28T00:00:00+00:00"
+  },
+  {
+    "id": "11333264bfc0aec6",
+    "product_id": "papercut",
+    "product_name": "PaperCut",
+    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
+    "title": "26.0.2",
+    "link": "https://www.papercut.com/products/mf/release-history/26-0/",
+    "summary": "Important upgrade information Version 25 and above includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components. Upgrading from version 24.x? Please review Important points to know about PaperCut MF...",
+    "date": "2026-06-30T00:00:00+00:00"
+  },
+  {
     "id": "06a1b6a05e1c3232",
     "product_id": "screencloud",
     "product_name": "ScreenCloud",
@@ -698,56 +748,6 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
     "date": "2026-08-19T18:48:41.246217+00:00"
-  },
-  {
-    "id": "f1042284903c053e",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "24.1.10",
-    "link": "https://www.papercut.com/products/mf/release-history/24-1/",
-    "summary": "Important PaperCut MF version 24 contains significant changes including internet connection requirements and licensing implications for all customers upgrading to version 24. Please review Important points to know about PaperCut MF version 24 before upgrading. Copier / Device Integration HP (OXP):...",
-    "date": "2026-09-10T00:00:00+00:00"
-  },
-  {
-    "id": "25d5265a8926f4c1",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.13",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2026-09-10T00:00:00+00:00"
-  },
-  {
-    "id": "06b74b373d1d0e88",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "26.0.5",
-    "link": "https://www.papercut.com/products/mf/release-history/26-0/",
-    "summary": "Important upgrade information Version 25 and above includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components. Upgrading from version 24.x? Please review Important points to know about PaperCut MF...",
-    "date": "2026-09-10T00:00:00+00:00"
-  },
-  {
-    "id": "5a36061fb32af699",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "26.0.3",
-    "link": "https://www.papercut.com/products/mf/release-history/26-0/",
-    "summary": "Important upgrade information Version 25 and above includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components. Upgrading from version 24.x? Please review Important points to know about PaperCut MF...",
-    "date": "2026-07-28T00:00:00+00:00"
-  },
-  {
-    "id": "11333264bfc0aec6",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "26.0.2",
-    "link": "https://www.papercut.com/products/mf/release-history/26-0/",
-    "summary": "Important upgrade information Version 25 and above includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components. Upgrading from version 24.x? Please review Important points to know about PaperCut MF...",
-    "date": "2026-06-30T00:00:00+00:00"
   },
   {
     "id": "6d56b23b13e370cb",
