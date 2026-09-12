@@ -700,6 +700,56 @@
     "date": "2026-08-25T00:00:00+00:00"
   },
   {
+    "id": "7dd9f9e5d46fcab2",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Probar Gemini",
+    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
+    "summary": "",
+    "date": "2026-09-12T02:44:54.405500+00:00"
+  },
+  {
+    "id": "3e39e455706a307a",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Qué: La app de Gemini ya está disponible en Windows. Presiona Alt + Espacio para abrir Gemini al instante desde cualquier lugar de tu PC cuando lo n",
+    "link": "https://gemini.google/desktop/",
+    "summary": "Qué: La app de Gemini ya está disponible en Windows. Presiona Alt + Espacio para abrir Gemini al instante desde cualquier lugar de tu PC cuando lo necesites. Puedes obtener respuestas rápidas, redactar mensajes y generar ideas junto con tus aplicaciones activas. Tienes acceso a todo lo que te...",
+    "date": "2026-09-12T02:44:54.405533+00:00"
+  },
+  {
+    "id": "40cb89b7f19466ed",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Por qué: Tu computadora es el lugar donde trabajas. Llevar Gemini directamente a tu PC con acceso instantáneo a través de un acceso directo te permi",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Por qué: Tu computadora es el lugar donde trabajas. Llevar Gemini directamente a tu PC con acceso instantáneo a través de un acceso directo te permite mantener tu flujo de trabajo, ya que te ayuda a obtener respuestas y crear imágenes junto con tus herramientas cotidianas de forma sencilla.",
+    "date": "2026-09-12T02:44:54.405542+00:00"
+  },
+  {
+    "id": "1d48e7a689257710",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We’re introducing a dedicated student hub in the Gemini app to help students easily manage classes and create personalized study notebooks fro",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "What: We’re introducing a dedicated student hub in the Gemini app to help students easily manage classes and create personalized study notebooks from their own course materials like syllabi. Study notebooks—first launched on desktop in June—are now available on mobile to help students get...",
+    "date": "2026-08-19T18:48:41.246191+00:00"
+  },
+  {
+    "id": "44ae6dfce0aea52f",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a p",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
+    "date": "2026-08-19T18:48:41.246217+00:00"
+  },
+  {
     "id": "2005c82e484167da",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -728,26 +778,6 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Your desktop is where you get work done. Bringing Gemini straight to your PC with instant shortcut access keeps you in your flow, making it simple to get answers and create visuals right alongside your everyday tools.",
     "date": "2026-09-10T15:39:41.367136+00:00"
-  },
-  {
-    "id": "1d48e7a689257710",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We’re introducing a dedicated student hub in the Gemini app to help students easily manage classes and create personalized study notebooks fro",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "What: We’re introducing a dedicated student hub in the Gemini app to help students easily manage classes and create personalized study notebooks from their own course materials like syllabi. Study notebooks—first launched on desktop in June—are now available on mobile to help students get...",
-    "date": "2026-08-19T18:48:41.246191+00:00"
-  },
-  {
-    "id": "44ae6dfce0aea52f",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a p",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
-    "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
     "id": "fdb7d6cd862a3ed9",
@@ -968,35 +998,5 @@
     "link": "https://gemini.google/mac/",
     "summary": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
     "date": "2026-09-06T11:14:03.544678+00:00"
-  },
-  {
-    "id": "c31440c5be7f2778",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes s",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
-    "date": "2026-09-06T11:14:03.544718+00:00"
-  },
-  {
-    "id": "46a4095c941d315e",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks li",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "What: We're introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analysing several documents or multi-step projects like building a working prototype with the Canvas tool. We're excited to bring this model to all...",
-    "date": "2026-09-06T11:14:03.544726+00:00"
-  },
-  {
-    "id": "58b9d9ddb34c22df",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater c",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
-    "date": "2026-09-06T11:14:03.544732+00:00"
   }
 ]
