@@ -862,6 +862,13 @@
       "num_members": 3
     },
     {
+      "id": "C0C1JHA2V45",
+      "name": "temp-papercut-upgrade-woes",
+      "is_private": false,
+      "topic": "",
+      "num_members": 5
+    },
+    {
       "id": "C3D661EVA",
       "name": "test-slackapi",
       "is_private": false,
@@ -988,6 +995,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-09-14T12:48:08.895982+00:00",
+  "last_updated": "2026-09-14T13:17:01.305229+00:00",
   "fetch_status": "success"
 }
