@@ -222,7 +222,7 @@
       "name": "general",
       "is_private": false,
       "topic": "Company-wide announcements and work-based matters",
-      "num_members": 79
+      "num_members": 62
     },
     {
       "id": "C2ETFB938",
@@ -264,7 +264,7 @@
       "name": "ideas",
       "is_private": false,
       "topic": "Ideas for IT@Davidson",
-      "num_members": 40
+      "num_members": 30
     },
     {
       "id": "C07QZEBRGFL",
@@ -334,7 +334,7 @@
       "name": "outages",
       "is_private": false,
       "topic": "",
-      "num_members": 79
+      "num_members": 56
     },
     {
       "id": "CFA3D26NL",
@@ -474,7 +474,7 @@
       "name": "proj-network-closet-cleanup",
       "is_private": false,
       "topic": "",
-      "num_members": 2
+      "num_members": 1
     },
     {
       "id": "C04TYSNKPEJ",
@@ -593,7 +593,7 @@
       "name": "random",
       "is_private": false,
       "topic": "\r\n",
-      "num_members": 70
+      "num_members": 59
     },
     {
       "id": "C35AAKFNU",
@@ -684,7 +684,7 @@
       "name": "summersquad-2",
       "is_private": false,
       "topic": "",
-      "num_members": 12
+      "num_members": 11
     },
     {
       "id": "C07S55DHXJS",
@@ -810,7 +810,7 @@
       "name": "team-support-center",
       "is_private": false,
       "topic": "",
-      "num_members": 62
+      "num_members": 43
     },
     {
       "id": "C685C8F6K",
@@ -995,6 +995,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-09-15T20:37:02.087746+00:00",
+  "last_updated": "2026-09-15T21:14:06.288521+00:00",
   "fetch_status": "success"
 }
