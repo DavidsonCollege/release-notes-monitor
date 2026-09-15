@@ -222,7 +222,7 @@
       "name": "general",
       "is_private": false,
       "topic": "Company-wide announcements and work-based matters",
-      "num_members": 80
+      "num_members": 79
     },
     {
       "id": "C2ETFB938",
@@ -593,7 +593,7 @@
       "name": "random",
       "is_private": false,
       "topic": "\r\n",
-      "num_members": 71
+      "num_members": 70
     },
     {
       "id": "C35AAKFNU",
@@ -995,6 +995,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-09-15T19:36:49.777395+00:00",
+  "last_updated": "2026-09-15T20:15:51.792676+00:00",
   "fetch_status": "success"
 }
