@@ -120,6 +120,26 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "fecc891bb7c3595c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gmail Search’s AI Overviews now available globally",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/gmail-searchs-ai-overviews-now-available-globally.html",
+    "summary": "We recently announced the launch of AI Overviews in Gmail search which allows users to ask natural language questions in Gmail’s search bar and get concise summaries and answers without digging through emails. Starting today, we are expanding access to AI Overviews in Gmail search to global users...",
+    "date": "2026-09-15T17:08:18+00:00"
+  },
+  {
+    "id": "88ac238de9ce55d8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Set up sharing boundaries for Google Drive with unified data protection rules",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/set-up-sharing-boundaries-for-google-Drive-with-unified-data-protection-rules.html",
+    "summary": "We’re introducing a new capability that allows Google Workspace administrators to configure audience sharing and sensitivity-based data conditions in a single, unified rule. This unified rule flow helps organizations elevate their security posture to proactively mitigate insider risks, prevent data...",
+    "date": "2026-09-15T16:52:47+00:00"
+  },
+  {
     "id": "037a17e9302cb0e6",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/the-gemini-desktop-app-is-now-available-for-Windows.html",
     "summary": "Today, we’re launching the Gemini desktop app for Windows 10 and 11. This new application is designed to operate seamlessly alongside users’ favorite tools, providing instant assistance without disrupting their workflows.The Gemini app for Windows provides users with a variety of ways to enhance...",
     "date": "2026-09-11T15:06:16+00:00"
-  },
-  {
-    "id": "3d0ffff423c53661",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini in Google Sheets is now available on Android devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/08/gemini-in-google-sheets-is-now-available-on-Android-devices.html",
-    "summary": "Building upon the power of Gemini in Sheets on the web, we’re excited to announce that you can now use Gemini in Google Sheets on your Android device to quickly analyze and understand your data while on the go.Simply tap on the Gemini spark icon, and you can ask questions about your data, generate...",
-    "date": "2026-09-10T18:32:26+00:00"
-  },
-  {
-    "id": "eb02511a2d2f4987",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Manage external sharing for Gemini Notebook in the Admin console",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/manage-external-sharing-for-gemini-notebook-in-the-Admin-console.html",
-    "summary": "Google Workspace administrators can now enable external sharing for Gemini Notebook using granular controls in the Admin console. Previously, administrators only had a single high-level toggle to turn Gemini Notebook completely on or off for their entire organization. This update introduces four...",
-    "date": "2026-09-10T18:27:38+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,26 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "3d0ffff423c53661",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini in Google Sheets is now available on Android devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/08/gemini-in-google-sheets-is-now-available-on-Android-devices.html",
+    "summary": "Building upon the power of Gemini in Sheets on the web, we’re excited to announce that you can now use Gemini in Google Sheets on your Android device to quickly analyze and understand your data while on the go.Simply tap on the Gemini spark icon, and you can ask questions about your data, generate...",
+    "date": "2026-09-10T18:32:26+00:00"
+  },
+  {
+    "id": "eb02511a2d2f4987",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Manage external sharing for Gemini Notebook in the Admin console",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/manage-external-sharing-for-gemini-notebook-in-the-Admin-console.html",
+    "summary": "Google Workspace administrators can now enable external sharing for Gemini Notebook using granular controls in the Admin console. Previously, administrators only had a single high-level toggle to turn Gemini Notebook completely on or off for their entire organization. This update introduces four...",
+    "date": "2026-09-10T18:27:38+00:00"
+  },
+  {
     "id": "f9c006bd67d749e5",
     "product_id": "claude",
     "product_name": "Claude",
@@ -978,25 +998,5 @@
     "link": "https://gemini.google/mac/",
     "summary": "What: We’re introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
     "date": "2026-08-14T14:16:58.978159+00:00"
-  },
-  {
-    "id": "2754336d1efcf5fc",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes se",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: Speaking your thoughts lets you work at the speed of thought—allowing you to ramble, hesitate, or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
-    "date": "2026-08-14T14:16:58.978170+00:00"
-  },
-  {
-    "id": "192f3d32a50553a3",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "25.0.11",
-    "link": "https://www.papercut.com/products/mf/release-history/25-0/",
-    "summary": "Important upgrade information Version 25 includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components.Upgrading from version 24.x? Please review Important points to know about PaperCut MF version...",
-    "date": "2026-05-05T00:00:00+00:00"
   }
 ]
