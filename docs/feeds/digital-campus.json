@@ -260,14 +260,14 @@
     "date": "2026-07-02T21:30:00+00:00"
   },
   {
-    "id": "65c42655d2ca4030",
+    "id": "2bbdecb00416fd4a",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 (26A428)",
-    "link": "https://developer.apple.com/news/releases/?id=09142026c",
+    "title": "macOS 27.2 beta (26B5086k)",
+    "link": "https://developer.apple.com/news/releases/?id=09162026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-09-14T17:00:00+00:00"
+    "date": "2026-09-16T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "65c42655d2ca4030",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 27.0 (26A428)",
+    "link": "https://developer.apple.com/news/releases/?id=09142026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-09-14T17:00:00+00:00"
+  },
+  {
     "id": "88ac238de9ce55d8",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/context-aware-access-controls-are-available-for-Gemini-Enterprise-in-the-Admin-console.html",
     "summary": "To help organizations elevate their security posture, we are introducing context-aware access (CAA) policies in the Admin console for Gemini Enterprise. Google Workspace administrators can select granular security attributes for Gemini Enterprise access, including device security and location...",
     "date": "2026-09-08T17:50:47+00:00"
-  },
-  {
-    "id": "b51cce9cededdef9",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Scan and sort your library with new list view",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "August 10, 2026"
   }
 ]
