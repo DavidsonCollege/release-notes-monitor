@@ -716,7 +716,7 @@
     "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
     "title": "What: The Gemini app is now available on Windows. Press Alt + Space to summon Gemini instantly from anywhere on your PC whenever you need it. You ca",
     "link": "https://gemini.google/desktop/",
-    "summary": "What: The Gemini app is now available on Windows. Press Alt + Space to summon Gemini instantly from anywhere on your PC whenever you need it. You can get quick answers, draft messages and brainstorm ideas right alongside your active applications. Inside your dedicated desktop workspace, you have...",
+    "summary": "What: The Gemini app is now available on Windows. Press Alt + Space to summon Gemini instantly from anywhere on your PC whenever you need it. You can get quick answers, draft messages, and brainstorm ideas right alongside your active applications. Inside your dedicated desktop workspace, you have...",
     "date": "2026-09-10T15:39:41.367114+00:00"
   },
   {
@@ -728,26 +728,6 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Your desktop is where you get work done. Bringing Gemini straight to your PC with instant shortcut access keeps you in your flow, making it simple to get answers and create visuals right alongside your everyday tools.",
     "date": "2026-09-10T15:39:41.367136+00:00"
-  },
-  {
-    "id": "ca023babef112cd9",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your act",
-    "link": "https://gemini.google/mac/",
-    "summary": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
-    "date": "2026-09-16T04:44:02.888268+00:00"
-  },
-  {
-    "id": "c31440c5be7f2778",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes s",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
-    "date": "2026-09-16T04:44:02.888293+00:00"
   },
   {
     "id": "1d48e7a689257710",
@@ -768,6 +748,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
     "date": "2026-08-19T18:48:41.246217+00:00"
+  },
+  {
+    "id": "ca023babef112cd9",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your act",
+    "link": "https://gemini.google/mac/",
+    "summary": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
+    "date": "2026-09-16T04:44:02.888268+00:00"
+  },
+  {
+    "id": "c31440c5be7f2778",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes s",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
+    "date": "2026-09-16T04:44:02.888293+00:00"
   },
   {
     "id": "a34296ebbaffc577",
