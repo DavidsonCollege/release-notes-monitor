@@ -120,6 +120,16 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "1cfe4c05ee290eb8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "View conference room and meeting location details directly on the Google Meet homepage",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/view-conference-room-and-meeting-location-details-directly-on-the-Google-Meet-homepage.html",
+    "summary": "Earlier this year, we introduced the refreshed Google Meet homepage on the web to help you stay organized and prepared throughout your entire meeting workflow. Starting today, we’re enhancing the Meet homepage experience by displaying conference room and physical meeting locations directly on...",
+    "date": "2026-09-16T15:09:16+00:00"
+  },
+  {
     "id": "77ad91cda68ac7ef",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/gmail-searchs-ai-overviews-now-available-globally.html",
     "summary": "We recently announced the launch of AI Overviews in Gmail search which allows users to ask natural language questions in Gmail’s search bar and get concise summaries and answers without digging through emails. Starting today, we are expanding access to AI Overviews in Gmail search to global users...",
     "date": "2026-09-15T17:08:18+00:00"
-  },
-  {
-    "id": "88ac238de9ce55d8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Set up sharing boundaries for Google Drive with unified data protection rules",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/set-up-sharing-boundaries-for-google-Drive-with-unified-data-protection-rules.html",
-    "summary": "We’re introducing a new capability that allows Google Workspace administrators to configure audience sharing and sensitivity-based data conditions in a single, unified rule. This unified rule flow helps organizations elevate their security posture to proactively mitigate insider risks, prevent data...",
-    "date": "2026-09-15T16:52:47+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "88ac238de9ce55d8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Set up sharing boundaries for Google Drive with unified data protection rules",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/set-up-sharing-boundaries-for-google-Drive-with-unified-data-protection-rules.html",
+    "summary": "We’re introducing a new capability that allows Google Workspace administrators to configure audience sharing and sensitivity-based data conditions in a single, unified rule. This unified rule flow helps organizations elevate their security posture to proactively mitigate insider risks, prevent data...",
+    "date": "2026-09-15T16:52:47+00:00"
+  },
+  {
     "id": "037a17e9302cb0e6",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -987,16 +997,6 @@
     "title": "Scan and sort your library with new list view",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "August 10, 2026"
-  },
-  {
-    "id": "2041822393aa11b0",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Scan and sort your library with new list view",
-    "link": "https://scribe.launchnotes.io/announcements/scan-and-sort-your-library-with-new-list-view",
-    "summary": "Loading...",
     "date": "August 10, 2026"
   }
 ]
