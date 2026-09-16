@@ -120,6 +120,16 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "77ad91cda68ac7ef",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Data regions support for Google Apps Script now generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/data-regions-support-for-google-apps-script-now-generally-available.html",
+    "summary": "Data regions are critical for helping organizations meet internal compliance, legal, regulatory, and data sovereignty obligations by controlling the geographic location of covered data at rest and through data processing. Expanding these controls to Apps Script allows organizations—including those...",
+    "date": "2026-09-16T09:21:31+00:00"
+  },
+  {
     "id": "b6ab966bab0bb8d4",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/set-up-sharing-boundaries-for-google-Drive-with-unified-data-protection-rules.html",
     "summary": "We’re introducing a new capability that allows Google Workspace administrators to configure audience sharing and sensitivity-based data conditions in a single, unified rule. This unified rule flow helps organizations elevate their security posture to proactively mitigate insider risks, prevent data...",
     "date": "2026-09-15T16:52:47+00:00"
-  },
-  {
-    "id": "037a17e9302cb0e6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - September 11, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-11-2026.html",
-    "summary": "Use custom web fonts in Google Sheets chartsGoogle Sheets now supports the full Google Fonts web font library directly within charts. Users can now select “More fonts” from any font dropdown inside the chart editor sidebar to search, add, and apply custom web fonts across key chart text elements. |...",
-    "date": "2026-09-11T19:19:37+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "037a17e9302cb0e6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - September 11, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-11-2026.html",
+    "summary": "Use custom web fonts in Google Sheets chartsGoogle Sheets now supports the full Google Fonts web font library directly within charts. Users can now select “More fonts” from any font dropdown inside the chart editor sidebar to search, add, and apply custom web fonts across key chart text elements. |...",
+    "date": "2026-09-11T19:19:37+00:00"
+  },
+  {
     "id": "ca023babef112cd9",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -988,15 +998,5 @@
     "link": "https://scribe.launchnotes.io/announcements/scan-and-sort-your-library-with-new-list-view",
     "summary": "Loading...",
     "date": "August 10, 2026"
-  },
-  {
-    "id": "86dfa57862128416",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "All Plans",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-08-04T03:11:10.096326+00:00"
   }
 ]
