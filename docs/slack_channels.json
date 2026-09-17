@@ -764,13 +764,6 @@
       "num_members": 8
     },
     {
-      "id": "CVDGKNWBT",
-      "name": "team-finance-and-admin",
-      "is_private": false,
-      "topic": "",
-      "num_members": 5
-    },
-    {
       "id": "C64R0G4UT",
       "name": "team-id",
       "is_private": false,
@@ -995,6 +988,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-09-17T15:16:41.810833+00:00",
+  "last_updated": "2026-09-17T15:38:02.385082+00:00",
   "fetch_status": "success"
 }
