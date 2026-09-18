@@ -20,6 +20,16 @@
     "date": "2026-08-20T17:11:45.962622+00:00"
   },
   {
+    "id": "8a3a59ba366b4e32",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "September 18, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/53707869182996-September-18-2026",
+    "summary": "",
+    "date": "2026-09-18T18:50:08Z"
+  },
+  {
     "id": "e1c255bacaad0fe5",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/52769826639252-August-21-2026",
     "summary": "",
     "date": "2026-08-28T17:26:05Z"
-  },
-  {
-    "id": "436afad157af2a4d",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "August 14, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/52518263974420-August-14-2026",
-    "summary": "",
-    "date": "2026-08-21T21:10:16Z"
   },
   {
     "id": "c5b58b7cc95f6495",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "436afad157af2a4d",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "August 14, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/52518263974420-August-14-2026",
+    "summary": "",
+    "date": "2026-08-21T21:10:16Z"
+  },
+  {
     "id": "30970f24fb94fd43",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-08-25T00:00:00+00:00"
-  },
-  {
-    "id": "3f3925a31de62d42",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 RC (26A428)",
-    "link": "https://developer.apple.com/news/releases/?id=09092026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-09-09T17:00:00+00:00"
   }
 ]
