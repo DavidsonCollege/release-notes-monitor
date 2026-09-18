@@ -120,6 +120,36 @@
     "date": "2026-08-14T00:34:15.269769+00:00"
   },
   {
+    "id": "68710986c316c868",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Notebooks in Gemini: a dedicated workspace for focused, organized work, now for schools and organizations",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/notebooks-in-gemini-dedicated-workspace-for-focused-organized-work-now-for-schools-and-organizations.html",
+    "summary": "In April, we announced notebooks in Gemini as a dedicated, focused space for individual users to organize their projects and conversations. Now, students of all ages, educators, and professionals can access notebooks to keep conversations about a topic organized in one place. For example:Students...",
+    "date": "2026-09-17T20:07:42+00:00"
+  },
+  {
+    "id": "a2b4c0cc769e3aa1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Automate workflows with custom starters and steps, third-party integrations, and webhooks in Workspace Studio",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/automate-workflows-with-custom-starters-and-steps-third-party-integrations-and-webhooks-in-Workspace-Studio.html",
+    "summary": "To expand the capabilities of Workspace Studio and help teams build powerful, custom automations, we are introducing four new features for flows in Workspace Studio: custom starters, custom steps, third-party (3P) integrations, and webhooks. These new capabilities empower users to seamlessly...",
+    "date": "2026-09-17T17:42:35+00:00"
+  },
+  {
+    "id": "06a9a94a549374aa",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing Expert Intelligence in Gemini Notebook",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/introducing-expert-intelligence-in-Gemini-Notebook.html",
+    "summary": "We’re introducing Expert Intelligence, a cross Google initiative that helps users engage with trusted sources through Google AI products, starting with Gemini Notebook. Featuring more than 100,000 books from major publishers, employees and students can now incorporate insights from leading authors,...",
+    "date": "2026-09-17T16:21:01+00:00"
+  },
+  {
     "id": "1cfe4c05ee290eb8",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -138,36 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/data-regions-support-for-google-apps-script-now-generally-available.html",
     "summary": "Data regions are critical for helping organizations meet internal compliance, legal, regulatory, and data sovereignty obligations by controlling the geographic location of covered data at rest and through data processing. Expanding these controls to Apps Script allows organizations—including those...",
     "date": "2026-09-16T09:21:31+00:00"
-  },
-  {
-    "id": "b6ab966bab0bb8d4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Connect to Google Meet hardware with room codes now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/connect-to-google-meet-hardware-with-room-codes-now-generally-available.html",
-    "summary": "Google Meet users can now connect to nearby conference room hardware by entering a 5-character room code on their personal device. Building on the recent Connect Room launch that uses proximity-based detection to identify nearby hardware, this update provides a reliable manual fallback when...",
-    "date": "2026-09-15T19:53:45+00:00"
-  },
-  {
-    "id": "77f03eeac67525cd",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Connect to more tools with Gemini in Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/connect-to-more-tools-with-gemini-in-Google-Workspace.html",
-    "summary": "Users will now be able to use Gemini in Workspace to directly interact with Asana, Atlassian Rovo, HubSpot, Intuit Mailchimp, Intuit Quickbooks, Monday, and Salesforce through Model Context Protocol (MCP) integrations. This will enable them to access information directly without needing to switch...",
-    "date": "2026-09-15T19:50:43+00:00"
-  },
-  {
-    "id": "fecc891bb7c3595c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gmail Search’s AI Overviews now available globally",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/gmail-searchs-ai-overviews-now-available-globally.html",
-    "summary": "We recently announced the launch of AI Overviews in Gmail search which allows users to ask natural language questions in Gmail’s search bar and get concise summaries and answers without digging through emails. Starting today, we are expanding access to AI Overviews in Gmail search to global users...",
-    "date": "2026-09-15T17:08:18+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,36 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "b6ab966bab0bb8d4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Connect to Google Meet hardware with room codes now generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/connect-to-google-meet-hardware-with-room-codes-now-generally-available.html",
+    "summary": "Google Meet users can now connect to nearby conference room hardware by entering a 5-character room code on their personal device. Building on the recent Connect Room launch that uses proximity-based detection to identify nearby hardware, this update provides a reliable manual fallback when...",
+    "date": "2026-09-15T19:53:45+00:00"
+  },
+  {
+    "id": "77f03eeac67525cd",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Connect to more tools with Gemini in Google Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/connect-to-more-tools-with-gemini-in-Google-Workspace.html",
+    "summary": "Users will now be able to use Gemini in Workspace to directly interact with Asana, Atlassian Rovo, HubSpot, Intuit Mailchimp, Intuit Quickbooks, Monday, and Salesforce through Model Context Protocol (MCP) integrations. This will enable them to access information directly without needing to switch...",
+    "date": "2026-09-15T19:50:43+00:00"
+  },
+  {
+    "id": "fecc891bb7c3595c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gmail Search’s AI Overviews now available globally",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/gmail-searchs-ai-overviews-now-available-globally.html",
+    "summary": "We recently announced the launch of AI Overviews in Gmail search which allows users to ask natural language questions in Gmail’s search bar and get concise summaries and answers without digging through emails. Starting today, we are expanding access to AI Overviews in Gmail search to global users...",
+    "date": "2026-09-15T17:08:18+00:00"
+  },
+  {
     "id": "7dd9f9e5d46fcab2",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -968,35 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "September 9 2026"
-  },
-  {
-    "id": "6d56b23b13e370cb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create content, schedule events, and coordinate tasks across Workspace regardless of what app you are in",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/create-content-schedule-events-and-coordinate-tasks-across-Workspace-regardless-of-what-app-you-are-in.html",
-    "summary": "Completing a single task shouldn't mean breaking your focus or switching apps. To keep you in the flow of work, Gemini can tackle complex tasks behind the scenes, working as an intelligent orchestrator across Workspace using the power of Workspace Intelligence. You can prompt Gemini to help from...",
-    "date": "2026-09-09T17:42:25+00:00"
-  },
-  {
-    "id": "af1d744e694fa0b5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Pick up where you left off with persistent drafts in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/pick-up-where-you-left-off-with-persistent-drafts-in-Google-Chat.html",
-    "summary": "We are introducing persistent drafts in Google Chat. Unsent messages are now automatically saved so you can finish and send later, and are also synchronized across your devices, allowing you to start composing a message on one device and finish or send it from another.With this update, you can...",
-    "date": "2026-09-08T18:25:30+00:00"
-  },
-  {
-    "id": "16ba5baf9691928b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Context-aware access controls are available for Gemini Enterprise in the Admin console",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/context-aware-access-controls-are-available-for-Gemini-Enterprise-in-the-Admin-console.html",
-    "summary": "To help organizations elevate their security posture, we are introducing context-aware access (CAA) policies in the Admin console for Gemini Enterprise. Google Workspace administrators can select granular security attributes for Gemini Enterprise access, including device security and location...",
-    "date": "2026-09-08T17:50:47+00:00"
   }
 ]
