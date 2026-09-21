@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268991+00:00"
   },
   {
+    "id": "99e0341146bbee74",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Use AI to supercharge your financial analysis with Workday for Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/use-ai-to-supercharge-your-financial-analysis-with-Workday-for-Google-Sheets.html",
+    "summary": "Workday for Google Sheets is a new add-on available in the Google Workspace Marketplace that connects Workday Adaptive Planning directly to Google Sheets and Slides. Deeply integrated with the AI-powered “Ask Workday” feature in Adaptive Planning, this add-on eliminates the need for manual CSV...",
+    "date": "2026-09-21T17:18:06+00:00"
+  },
+  {
     "id": "9cf1e460503ea9fb",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/automate-workflows-with-custom-starters-and-steps-third-party-integrations-and-webhooks-in-Workspace-Studio.html",
     "summary": "To expand the capabilities of Workspace Studio and help teams build powerful, custom automations, we are introducing four new features for flows in Workspace Studio: custom starters, custom steps, third-party (3P) integrations, and webhooks. These new capabilities empower users to seamlessly...",
     "date": "2026-09-17T17:42:35+00:00"
-  },
-  {
-    "id": "06a9a94a549374aa",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing Expert Intelligence in Gemini Notebook",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/introducing-expert-intelligence-in-Gemini-Notebook.html",
-    "summary": "We’re introducing Expert Intelligence, a cross Google initiative that helps users engage with trusted sources through Google AI products, starting with Gemini Notebook. Featuring more than 100,000 books from major publishers, employees and students can now incorporate insights from leading authors,...",
-    "date": "2026-09-17T16:21:01+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "06a9a94a549374aa",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing Expert Intelligence in Gemini Notebook",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/introducing-expert-intelligence-in-Gemini-Notebook.html",
+    "summary": "We’re introducing Expert Intelligence, a cross Google initiative that helps users engage with trusted sources through Google AI products, starting with Gemini Notebook. Featuring more than 100,000 books from major publishers, employees and students can now incorporate insights from leading authors,...",
+    "date": "2026-09-17T16:21:01+00:00"
+  },
+  {
     "id": "2bbdecb00416fd4a",
     "product_id": "macos",
     "product_name": "macOS",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/connect-to-google-meet-hardware-with-room-codes-now-generally-available.html",
     "summary": "Google Meet users can now connect to nearby conference room hardware by entering a 5-character room code on their personal device. Building on the recent Connect Room launch that uses proximity-based detection to identify nearby hardware, this update provides a reliable manual fallback when...",
     "date": "2026-09-15T19:53:45+00:00"
-  },
-  {
-    "id": "77f03eeac67525cd",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Connect to more tools with Gemini in Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/connect-to-more-tools-with-gemini-in-Google-Workspace.html",
-    "summary": "Users will now be able to use Gemini in Workspace to directly interact with Asana, Atlassian Rovo, HubSpot, Intuit Mailchimp, Intuit Quickbooks, Monday, and Salesforce through Model Context Protocol (MCP) integrations. This will enable them to access information directly without needing to switch...",
-    "date": "2026-09-15T19:50:43+00:00"
   }
 ]
