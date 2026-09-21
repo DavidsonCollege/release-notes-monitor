@@ -70,54 +70,54 @@
     "date": "2026-08-28T17:26:05Z"
   },
   {
-    "id": "c5b58b7cc95f6495",
+    "id": "9efec03da8cc38cf",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "New preview APIs are available: Create image-to-design import job and Get image-to-design import job. These APIs let you convert an image already in a",
+    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/design-imports/create-image-to-design-import-job/",
+    "summary": "New preview APIs are available: Create image-to-design import job and Get image-to-design import job. These APIs let you convert an image already in a user's Canva account into an editable design using Magic Layers.",
+    "date": "2026-09-21T03:23:12.268955+00:00"
+  },
+  {
+    "id": "58fc460ab73f8a13",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Get design dataset API and Get brand template dataset API now return sheet data fields for autofillable tabular sheet data.",
+    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/designs/get-design-dataset/",
+    "summary": "",
+    "date": "2026-09-21T03:23:12.268982+00:00"
+  },
+  {
+    "id": "b4dfd5c332df4574",
     "product_id": "canva",
     "product_name": "Canva",
     "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
     "title": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no lo",
-    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
+    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/autofills/create-design-autofill-job/",
     "summary": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no longer in preview, and are now generally available.",
-    "date": "2026-08-28T00:33:33.619546+00:00"
+    "date": "2026-09-21T03:23:12.268987+00:00"
   },
   {
-    "id": "f47f9be6b9ad443f",
+    "id": "402e0eeae67b8ad2",
     "product_id": "canva",
     "product_name": "Canva",
     "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
     "title": "The Get design dataset API is no longer in preview, and is now generally available.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-dataset/",
+    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/designs/get-design-dataset/",
     "summary": "",
-    "date": "2026-08-28T00:33:33.619573+00:00"
+    "date": "2026-09-21T03:23:12.268991+00:00"
   },
   {
-    "id": "4efcf3bff8ee4b0d",
+    "id": "35b83f99346f125c",
     "product_id": "canva",
     "product_name": "Canva",
     "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
     "title": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an impo",
-    "link": "https://www.canva.dev/docs/connect/api-reference/assets/get-asset/",
+    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/assets/get-asset/",
     "summary": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an import filename. This issue has been fixed, and the API now returns the asset with an empty name.",
-    "date": "2026-08-17T05:46:06.436359+00:00"
-  },
-  {
-    "id": "610018693117fd7e",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "Previously, the List folder items API returned a 500 Internal Server Error when a folder contained an image that didn't have a title or an import file",
-    "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
-    "summary": "Previously, the List folder items API returned a 500 Internal Server Error when a folder contained an image that didn't have a title or an import filename. This issue has been fixed, and the API now returns the image with an empty name.",
-    "date": "2026-08-17T05:46:06.436385+00:00"
-  },
-  {
-    "id": "fc203cbbb45411e3",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Get folder API, Delete folder API, and Move folder item API now return a 400 error with the invalid_field code when the supplied folder ID isn't a",
-    "link": "https://www.canva.dev/docs/connect/api-reference/folders/get-folder/",
-    "summary": "The Get folder API, Delete folder API, and Move folder item API now return a 400 error with the invalid_field code when the supplied folder ID isn't a valid folder ID. These requests previously returned a 500 error.",
-    "date": "2026-08-14T00:34:15.269769+00:00"
+    "date": "2026-09-21T03:23:12.269002+00:00"
   },
   {
     "id": "9cf1e460503ea9fb",
@@ -750,6 +750,56 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "c5b58b7cc95f6495",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no lo",
+    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
+    "summary": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no longer in preview, and are now generally available.",
+    "date": "2026-08-28T00:33:33.619546+00:00"
+  },
+  {
+    "id": "f47f9be6b9ad443f",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Get design dataset API is no longer in preview, and is now generally available.",
+    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-dataset/",
+    "summary": "",
+    "date": "2026-08-28T00:33:33.619573+00:00"
+  },
+  {
+    "id": "4efcf3bff8ee4b0d",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an impo",
+    "link": "https://www.canva.dev/docs/connect/api-reference/assets/get-asset/",
+    "summary": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an import filename. This issue has been fixed, and the API now returns the asset with an empty name.",
+    "date": "2026-08-17T05:46:06.436359+00:00"
+  },
+  {
+    "id": "610018693117fd7e",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "Previously, the List folder items API returned a 500 Internal Server Error when a folder contained an image that didn't have a title or an import file",
+    "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
+    "summary": "Previously, the List folder items API returned a 500 Internal Server Error when a folder contained an image that didn't have a title or an import filename. This issue has been fixed, and the API now returns the image with an empty name.",
+    "date": "2026-08-17T05:46:06.436385+00:00"
+  },
+  {
+    "id": "fc203cbbb45411e3",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Get folder API, Delete folder API, and Move folder item API now return a 400 error with the invalid_field code when the supplied folder ID isn't a",
+    "link": "https://www.canva.dev/docs/connect/api-reference/folders/get-folder/",
+    "summary": "The Get folder API, Delete folder API, and Move folder item API now return a 400 error with the invalid_field code when the supplied folder ID isn't a valid folder ID. These requests previously returned a 500 error.",
+    "date": "2026-08-14T00:34:15.269769+00:00"
+  },
+  {
     "id": "14ad73a3673252a0",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -948,55 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=09142026c",
     "summary": "View downloadsView release notes",
     "date": "2026-09-14T17:00:00+00:00"
-  },
-  {
-    "id": "88ac238de9ce55d8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Set up sharing boundaries for Google Drive with unified data protection rules",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/set-up-sharing-boundaries-for-google-Drive-with-unified-data-protection-rules.html",
-    "summary": "We’re introducing a new capability that allows Google Workspace administrators to configure audience sharing and sensitivity-based data conditions in a single, unified rule. This unified rule flow helps organizations elevate their security posture to proactively mitigate insider risks, prevent data...",
-    "date": "2026-09-15T16:52:47+00:00"
-  },
-  {
-    "id": "037a17e9302cb0e6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - September 11, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-11-2026.html",
-    "summary": "Use custom web fonts in Google Sheets chartsGoogle Sheets now supports the full Google Fonts web font library directly within charts. Users can now select “More fonts” from any font dropdown inside the chart editor sidebar to search, add, and apply custom web fonts across key chart text elements. |...",
-    "date": "2026-09-11T19:19:37+00:00"
-  },
-  {
-    "id": "ca023babef112cd9",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your act",
-    "link": "https://gemini.google/mac/",
-    "summary": "What: We're introducing a new way to work with Gemini using just your voice, right where you are. Press and hold the Fn key to dictate into your active window and have Gemini transcribe your spoken words into clean, polished text directly at your cursor. You can also enable Gemini reasoning in the...",
-    "date": "2026-09-16T04:44:02.888268+00:00"
-  },
-  {
-    "id": "c31440c5be7f2778",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes s",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: Speaking your thoughts lets you work at the speed of thought – allowing you to ramble, hesitate or self-correct while Gemini seamlessly makes sense of it. By taking in your screen context and outputting results directly at your cursor in any app, Gemini works right alongside you to keep you in...",
-    "date": "2026-09-16T04:44:02.888293+00:00"
-  },
-  {
-    "id": "a34296ebbaffc577",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Seamlessly import your team and data from Microsoft to Google Workspace during setup",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/seamlessly-import-your-team-and-data-from-Microsoft-to-Google-Workspace-during-setup.html",
-    "summary": "We’re excited to announce the GA release of a new, simplified way for small businesses to import their users and their business data from Microsoft while setting up Google Workspace with our data import tool.This new feature allows these businesses and educational institutions to copy their...",
-    "date": "2026-09-11T15:44:25+00:00"
   }
 ]
