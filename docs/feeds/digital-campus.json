@@ -80,6 +80,16 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "d8b5ba04215ef25a",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "When using the Create design export job API to export a design as an MP4, the quality parameter is now a target number of pixels rather than a fixed",
+    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/exports/create-design-export-job/",
+    "summary": "When using the Create design export job API to export a design as an MP4, the quality parameter is now a target number of pixels rather than a fixed output size. The exported video keeps the design's own aspect ratio, so a design whose aspect ratio doesn't match the requested quality is no longer...",
+    "date": "2026-09-21T06:38:55.335756+00:00"
+  },
+  {
     "id": "58fc460ab73f8a13",
     "product_id": "canva",
     "product_name": "Canva",
@@ -108,16 +118,6 @@
     "link": "https://www.canva.dev/docs/apps/rest-apis/reference/designs/get-design-dataset/",
     "summary": "",
     "date": "2026-09-21T03:23:12.268991+00:00"
-  },
-  {
-    "id": "35b83f99346f125c",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an impo",
-    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/assets/get-asset/",
-    "summary": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an import filename. This issue has been fixed, and the API now returns the asset with an empty name.",
-    "date": "2026-09-21T03:23:12.269002+00:00"
   },
   {
     "id": "9cf1e460503ea9fb",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "35b83f99346f125c",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an impo",
+    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/assets/get-asset/",
+    "summary": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an import filename. This issue has been fixed, and the API now returns the asset with an empty name.",
+    "date": "2026-09-21T03:23:12.269002+00:00"
+  },
+  {
     "id": "c5b58b7cc95f6495",
     "product_id": "canva",
     "product_name": "Canva",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Por qué: Tu computadora es el lugar donde trabajas. Llevar Gemini directamente a tu PC con acceso instantáneo a través de un acceso directo te permite mantener tu flujo de trabajo, ya que te ayuda a obtener respuestas y crear imágenes junto con tus herramientas cotidianas de forma sencilla.",
     "date": "2026-09-12T02:44:54.405542+00:00"
-  },
-  {
-    "id": "65c42655d2ca4030",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0 (26A428)",
-    "link": "https://developer.apple.com/news/releases/?id=09142026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-09-14T17:00:00+00:00"
   }
 ]
