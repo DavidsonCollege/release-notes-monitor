@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268991+00:00"
   },
   {
+    "id": "1ab4327cbab4633d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New manual calculation setting in Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/new-manual-calculation-setting-in-Google-Sheets.html",
+    "summary": "We’re introducing a new manual calculation setting in Google Sheets to give you precise control over when formulas and other references update. The new manual calculation setting allows editors of complex or data-dense spreadsheets to pause automatic recalculation, batch their edits, and trigger a...",
+    "date": "2026-09-21T18:54:14+00:00"
+  },
+  {
     "id": "99e0341146bbee74",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/notebooks-in-gemini-dedicated-workspace-for-focused-organized-work-now-for-schools-and-organizations.html",
     "summary": "In April, we announced notebooks in Gemini as a dedicated, focused space for individual users to organize their projects and conversations. Now, students of all ages, educators, and professionals can access notebooks to keep conversations about a topic organized in one place. For example:Students...",
     "date": "2026-09-17T20:07:42+00:00"
-  },
-  {
-    "id": "a2b4c0cc769e3aa1",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Automate workflows with custom starters and steps, third-party integrations, and webhooks in Workspace Studio",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/automate-workflows-with-custom-starters-and-steps-third-party-integrations-and-webhooks-in-Workspace-Studio.html",
-    "summary": "To expand the capabilities of Workspace Studio and help teams build powerful, custom automations, we are introducing four new features for flows in Workspace Studio: custom starters, custom steps, third-party (3P) integrations, and webhooks. These new capabilities empower users to seamlessly...",
-    "date": "2026-09-17T17:42:35+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "a2b4c0cc769e3aa1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Automate workflows with custom starters and steps, third-party integrations, and webhooks in Workspace Studio",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/automate-workflows-with-custom-starters-and-steps-third-party-integrations-and-webhooks-in-Workspace-Studio.html",
+    "summary": "To expand the capabilities of Workspace Studio and help teams build powerful, custom automations, we are introducing four new features for flows in Workspace Studio: custom starters, custom steps, third-party (3P) integrations, and webhooks. These new capabilities empower users to seamlessly...",
+    "date": "2026-09-17T17:42:35+00:00"
+  },
+  {
     "id": "7dd9f9e5d46fcab2",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/data-regions-support-for-google-apps-script-now-generally-available.html",
     "summary": "Data regions are critical for helping organizations meet internal compliance, legal, regulatory, and data sovereignty obligations by controlling the geographic location of covered data at rest and through data processing. Expanding these controls to Apps Script allows organizations—including those...",
     "date": "2026-09-16T09:21:31+00:00"
-  },
-  {
-    "id": "b6ab966bab0bb8d4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Connect to Google Meet hardware with room codes now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/connect-to-google-meet-hardware-with-room-codes-now-generally-available.html",
-    "summary": "Google Meet users can now connect to nearby conference room hardware by entering a 5-character room code on their personal device. Building on the recent Connect Room launch that uses proximity-based detection to identify nearby hardware, this update provides a reliable manual fallback when...",
-    "date": "2026-09-15T19:53:45+00:00"
   }
 ]
