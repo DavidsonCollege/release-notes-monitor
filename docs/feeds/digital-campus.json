@@ -120,6 +120,26 @@
     "date": "2026-09-21T03:23:12.268991+00:00"
   },
   {
+    "id": "00fa68419c386c48",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Manually reorder and custom sort pivot tables in Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/manually-reorder-and-custom-sort-pivot.html",
+    "summary": "Google Sheets now supports custom sorting and manual reordering in pivot tables. Users can now drag and drop rows and columns on a pivot table to match specific presentation needs and custom business hierarchies, rather than being restricted to standard ascending or descending alphanumeric order....",
+    "date": "2026-09-22T15:58:11+00:00"
+  },
+  {
+    "id": "97277b0af99ab15e",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Study notebooks in Gemini are now available for Google Workspace accounts",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/study-notebooks-in-gemini-are-now-available-for-Google-Workspace-accounts.html",
+    "summary": "Earlier this year we introduced study notebooks, a dedicated space that turns Gemini into an interactive, adaptive learning platform. They offer personalized lessons based on your learning goal, whether that’s tackling a school course or learning a new skill. Now, we’re excited to share that users...",
+    "date": "2026-09-22T15:52:41+00:00"
+  },
+  {
     "id": "1ab4327cbab4633d",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-18-2026.html",
     "summary": "Set up sharing boundaries for Google Drive with unified data protection rulesWe’re introducing a new capability that allows Google Workspace administrators to configure audience sharing and sensitivity-based data conditions in a single, unified rule. This unified rule flow helps organizations...",
     "date": "2026-09-18T18:38:09+00:00"
-  },
-  {
-    "id": "d249c494cbb4d0a1",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New back-to-school features and learning tools available in Gemini Notebook",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/new-back-to-school-features-and-learning-tools-available-in-Gemini-Notebook.html",
-    "summary": "We’re introducing several updates to Gemini Notebook that give users a more personalized and powerful learning experience.Audio recorder: Users can now use a new audio recorder in the Gemini Notebook mobile app (Android/iOS) to capture lectures or record thoughts on the go, with these notes living...",
-    "date": "2026-09-18T15:25:59+00:00"
-  },
-  {
-    "id": "68710986c316c868",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Notebooks in Gemini: a dedicated workspace for focused, organized work, now for schools and organizations",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/notebooks-in-gemini-dedicated-workspace-for-focused-organized-work-now-for-schools-and-organizations.html",
-    "summary": "In April, we announced notebooks in Gemini as a dedicated, focused space for individual users to organize their projects and conversations. Now, students of all ages, educators, and professionals can access notebooks to keep conversations about a topic organized in one place. For example:Students...",
-    "date": "2026-09-17T20:07:42+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,26 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "d249c494cbb4d0a1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New back-to-school features and learning tools available in Gemini Notebook",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/new-back-to-school-features-and-learning-tools-available-in-Gemini-Notebook.html",
+    "summary": "We’re introducing several updates to Gemini Notebook that give users a more personalized and powerful learning experience.Audio recorder: Users can now use a new audio recorder in the Gemini Notebook mobile app (Android/iOS) to capture lectures or record thoughts on the go, with these notes living...",
+    "date": "2026-09-18T15:25:59+00:00"
+  },
+  {
+    "id": "68710986c316c868",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Notebooks in Gemini: a dedicated workspace for focused, organized work, now for schools and organizations",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/notebooks-in-gemini-dedicated-workspace-for-focused-organized-work-now-for-schools-and-organizations.html",
+    "summary": "In April, we announced notebooks in Gemini as a dedicated, focused space for individual users to organize their projects and conversations. Now, students of all ages, educators, and professionals can access notebooks to keep conversations about a topic organized in one place. For example:Students...",
+    "date": "2026-09-17T20:07:42+00:00"
+  },
+  {
     "id": "7dd9f9e5d46fcab2",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -978,25 +998,5 @@
     "link": "https://developers.zoom.us/changelog/phone/september-03-2026",
     "summary": "Tags: api-release | Added the ID response field to the Sites Settings APIs.",
     "date": "2026-09-03T00:00:00+00:00"
-  },
-  {
-    "id": "d4c8f6deeca94d26",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Releasing Windows 11, version 26H2 to the Release Preview Channel",
-    "link": "https://blogs.windows.com/windows-insider/2026/08/27/releasing-windows-11-version-26h2-to-the-release-preview-channel/",
-    "summary": "[Update 31 August 2026: ISOs are now available] Hello Windows Insiders! Today, we are making this year’s annual feature update, Windows 11, version 26H2 (Build 26300.9278), available in the Release Preview Ch The post Releasing Windows 11, version 26H2 to the Release Preview Channel appeared first...",
-    "date": "2026-08-27T17:00:37+00:00"
-  },
-  {
-    "id": "77ad91cda68ac7ef",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Data regions support for Google Apps Script now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/data-regions-support-for-google-apps-script-now-generally-available.html",
-    "summary": "Data regions are critical for helping organizations meet internal compliance, legal, regulatory, and data sovereignty obligations by controlling the geographic location of covered data at rest and through data processing. Expanding these controls to Apps Script allows organizations—including those...",
-    "date": "2026-09-16T09:21:31+00:00"
   }
 ]
