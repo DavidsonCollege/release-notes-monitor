@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268991+00:00"
   },
   {
+    "id": "47336dbf42af6b35",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New Google Meet 'Take notes for me' settings for admins and end users take effect September 29th",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users-take-effect-September-29th.html",
+    "summary": "Previously, we announced new admin and end user settings for Google Meet ‘Take notes for me’ pre-configuration. These settings will begin to take effect September 29th.Below is the previously communicated information about these new settings.Admin settingsPreviously, admins could only enable or...",
+    "date": "2026-09-22T20:06:18+00:00"
+  },
+  {
     "id": "86f89ca4566a0b2d",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/study-notebooks-in-gemini-are-now-available-for-Google-Workspace-accounts.html",
     "summary": "Earlier this year we introduced study notebooks, a dedicated space that turns Gemini into an interactive, adaptive learning platform. They offer personalized lessons based on your learning goal, whether that’s tackling a school course or learning a new skill. Now, we’re excited to share that users...",
     "date": "2026-09-22T15:52:41+00:00"
-  },
-  {
-    "id": "1ab4327cbab4633d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New manual calculation setting in Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/new-manual-calculation-setting-in-Google-Sheets.html",
-    "summary": "We’re introducing a new manual calculation setting in Google Sheets to give you precise control over when formulas and other references update. The new manual calculation setting allows editors of complex or data-dense spreadsheets to pause automatic recalculation, batch their edits, and trigger a...",
-    "date": "2026-09-21T18:54:14+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "1ab4327cbab4633d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New manual calculation setting in Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/new-manual-calculation-setting-in-Google-Sheets.html",
+    "summary": "We’re introducing a new manual calculation setting in Google Sheets to give you precise control over when formulas and other references update. The new manual calculation setting allows editors of complex or data-dense spreadsheets to pause automatic recalculation, batch their edits, and trigger a...",
+    "date": "2026-09-21T18:54:14+00:00"
+  },
+  {
     "id": "99e0341146bbee74",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/view-conference-room-and-meeting-location-details-directly-on-the-Google-Meet-homepage.html",
     "summary": "Earlier this year, we introduced the refreshed Google Meet homepage on the web to help you stay organized and prepared throughout your entire meeting workflow. Starting today, we’re enhancing the Meet homepage experience by displaying conference room and physical meeting locations directly on...",
     "date": "2026-09-16T15:09:16+00:00"
-  },
-  {
-    "id": "436afad157af2a4d",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "August 14, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/52518263974420-August-14-2026",
-    "summary": "",
-    "date": "2026-08-21T21:10:16Z"
   }
 ]
