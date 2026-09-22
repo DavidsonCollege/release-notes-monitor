@@ -650,6 +650,26 @@
     "date": "2026-09-16T00:00:00+00:00"
   },
   {
+    "id": "df400e34bdefac20",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Opus 5.5 launch",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-22T00:00:00+00:00"
+  },
+  {
+    "id": "b608e8d0761ac4ee",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Introducing Claude Opus 5.5",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-22T00:00:00+00:00"
+  },
+  {
     "id": "3d457eeb51818012",
     "product_id": "claude",
     "product_name": "Claude",
@@ -678,26 +698,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-09-10T00:00:00+00:00"
-  },
-  {
-    "id": "5287423c784e99c7",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Get started with smart reports",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-10T00:00:00+00:00"
-  },
-  {
-    "id": "3511cf28b94e8081",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Fable 5.1 and Claude Mythos 5.1 launch",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-01T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -748,6 +748,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
     "date": "2026-08-19T18:48:41.246217+00:00"
+  },
+  {
+    "id": "5287423c784e99c7",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Get started with smart reports",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-10T00:00:00+00:00"
+  },
+  {
+    "id": "3511cf28b94e8081",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1 launch",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-01T00:00:00+00:00"
   },
   {
     "id": "d249c494cbb4d0a1",
@@ -978,25 +998,5 @@
     "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.8.1",
     "summary": "Tags: bug-fix, sdk-version | Fixed the occasional page crash.",
     "date": "2026-09-07T00:00:00+00:00"
-  },
-  {
-    "id": "8ce74ef53a98581c",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Introducing Hub API",
-    "link": "https://developers.zoom.us/changelog/hub/september-07-2026",
-    "summary": "Tags: api-release, new-feature | Introducing Hub API.",
-    "date": "2026-09-07T00:00:00+00:00"
-  },
-  {
-    "id": "46b547504deeb1b0",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Add ID response field to Sites Settings APIs",
-    "link": "https://developers.zoom.us/changelog/phone/september-03-2026",
-    "summary": "Tags: api-release | Added the ID response field to the Sites Settings APIs.",
-    "date": "2026-09-03T00:00:00+00:00"
   }
 ]
