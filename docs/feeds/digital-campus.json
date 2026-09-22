@@ -120,6 +120,26 @@
     "date": "2026-09-21T03:23:12.268991+00:00"
   },
   {
+    "id": "86f89ca4566a0b2d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Quick notes in Take notes for me",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/quick-notes-in-take-notes-for-me.html",
+    "summary": "Introducing Quick notes – high-level overview of main takeaways from your meetings that empowers you to quickly review essential information without diving into every single detail. Designed specifically for the efficient consumption of knowledge, the content fits onto a single page and is strictly...",
+    "date": "2026-09-22T19:31:46+00:00"
+  },
+  {
+    "id": "778ba96ffca4b9a6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing the new Confluence integration with Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/new-confluence-app-for-google-chat.html",
+    "summary": "Confluence by Atlassian is designed for teams to store and share ideas, docs, and knowledge. Workspace customers can now use Confluence for Google Chat to bring relevant project context and information from Confluence directly into Chat conversations. This integration, which is part of the...",
+    "date": "2026-09-22T17:40:16+00:00"
+  },
+  {
     "id": "00fa68419c386c48",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/new-manual-calculation-setting-in-Google-Sheets.html",
     "summary": "We’re introducing a new manual calculation setting in Google Sheets to give you precise control over when formulas and other references update. The new manual calculation setting allows editors of complex or data-dense spreadsheets to pause automatic recalculation, batch their edits, and trigger a...",
     "date": "2026-09-21T18:54:14+00:00"
-  },
-  {
-    "id": "99e0341146bbee74",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use AI to supercharge your financial analysis with Workday for Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/use-ai-to-supercharge-your-financial-analysis-with-Workday-for-Google-Sheets.html",
-    "summary": "Workday for Google Sheets is a new add-on available in the Google Workspace Marketplace that connects Workday Adaptive Planning directly to Google Sheets and Slides. Deeply integrated with the AI-powered “Ask Workday” feature in Adaptive Planning, this add-on eliminates the need for manual CSV...",
-    "date": "2026-09-21T17:18:06+00:00"
-  },
-  {
-    "id": "9cf1e460503ea9fb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - September 18, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-18-2026.html",
-    "summary": "Set up sharing boundaries for Google Drive with unified data protection rulesWe’re introducing a new capability that allows Google Workspace administrators to configure audience sharing and sensitivity-based data conditions in a single, unified rule. This unified rule flow helps organizations...",
-    "date": "2026-09-18T18:38:09+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,26 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "99e0341146bbee74",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Use AI to supercharge your financial analysis with Workday for Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/use-ai-to-supercharge-your-financial-analysis-with-Workday-for-Google-Sheets.html",
+    "summary": "Workday for Google Sheets is a new add-on available in the Google Workspace Marketplace that connects Workday Adaptive Planning directly to Google Sheets and Slides. Deeply integrated with the AI-powered “Ask Workday” feature in Adaptive Planning, this add-on eliminates the need for manual CSV...",
+    "date": "2026-09-21T17:18:06+00:00"
+  },
+  {
+    "id": "9cf1e460503ea9fb",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - September 18, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-18-2026.html",
+    "summary": "Set up sharing boundaries for Google Drive with unified data protection rulesWe’re introducing a new capability that allows Google Workspace administrators to configure audience sharing and sensitivity-based data conditions in a single, unified rule. This unified rule flow helps organizations...",
+    "date": "2026-09-18T18:38:09+00:00"
+  },
+  {
     "id": "5287423c784e99c7",
     "product_id": "claude",
     "product_name": "Claude",
@@ -978,25 +998,5 @@
     "link": "https://help.adastra.live/hc/en-us/articles/52518263974420-August-14-2026",
     "summary": "",
     "date": "2026-08-21T21:10:16Z"
-  },
-  {
-    "id": "30970f24fb94fd43",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New data-connection-established webhook events in Meetings and Webinars",
-    "link": "https://developers.zoom.us/changelog/meetings/september-08-2026",
-    "summary": "Tags: api-release | New data-connection-established webhook events in Meetings and Webinars.",
-    "date": "2026-09-08T00:00:00+00:00"
-  },
-  {
-    "id": "c24617a1e0876449",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.8.1",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.8.1",
-    "summary": "Tags: bug-fix, sdk-version | Fixed the occasional page crash.",
-    "date": "2026-09-07T00:00:00+00:00"
   }
 ]
