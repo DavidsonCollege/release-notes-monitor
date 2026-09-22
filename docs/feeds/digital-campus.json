@@ -606,48 +606,48 @@
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
     "title": "Upcoming change: TLS version requirement",
     "link": "https://developers.zoom.us/changelog/rtms/upcoming-change-tls-version-requirement",
-    "summary": "Tags: breaking-change | After the September release, RTMS will require TLS version 1.2 or 1.3 on all connections.",
-    "date": "2026-09-27T00:00:00+00:00"
+    "summary": "Tags: breaking-change | Starting on November 15, 2026, RTMS will require TLS version 1.2 or 1.3 on all connections.",
+    "date": "2026-11-15T00:00:00+00:00"
   },
   {
-    "id": "6c7252421c77dbe1",
+    "id": "d2f00e28916c16be",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New External Connections API endpoints",
-    "link": "https://developers.zoom.us/changelog/chat/september-17-2026",
-    "summary": "Tags: api-release | Added external connections endpoints for external users, internal users, and accounts.",
-    "date": "2026-09-17T00:00:00+00:00"
+    "title": "New SSO endpoints and new request and response fields",
+    "link": "https://developers.zoom.us/changelog/accounts/september-21-2026",
+    "summary": "Tags: api-release | Added new SSO API endpoints for managing SSO configurations. Added response and request fields for endpoints and webhooks.",
+    "date": "2026-09-21T00:00:00+00:00"
   },
   {
-    "id": "a4dd136cd9148d75",
+    "id": "f3aa1280ed8270e5",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New sensitive_label endpoint",
-    "link": "https://developers.zoom.us/changelog/users/september-17-2026",
-    "summary": "Tags: api-release | Added `sensitive_label` endpoint and response field.",
-    "date": "2026-09-17T00:00:00+00:00"
+    "title": "September 2026 release",
+    "link": "https://developers.zoom.us/changelog/app-marketplace/september-21-2026",
+    "summary": "Tags: api-release | Added IP address feature, enabling app developers to provide a list of IP addresses their app uses to access Zoom APIs. The app administrator adds these addresses to their allowlist to ensure only approved IPs are allowed.",
+    "date": "2026-09-21T00:00:00+00:00"
   },
   {
-    "id": "9dfdebc038a71c47",
+    "id": "d8368431261281f2",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New AI API endpoints for workflow",
-    "link": "https://developers.zoom.us/changelog/workflow/september-17-2026",
-    "summary": "Tags: api-release | Added endpoints to support AI features in workflow.",
-    "date": "2026-09-17T00:00:00+00:00"
+    "title": "Add Chat External User APIs",
+    "link": "https://developers.zoom.us/changelog/chat/september-21-2026",
+    "summary": "Tags: api-release | Added APIs to retrieve internal and external Chat users. Added the allow_to_add_external_users field to the Chat Channels API.",
+    "date": "2026-09-21T00:00:00+00:00"
   },
   {
-    "id": "97cc6d1742d051ab",
+    "id": "132c0f80841bfac3",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 6.5.0",
-    "link": "https://developers.zoom.us/changelog/meeting-sdk/web/6.5.0",
-    "summary": "Tags: breaking-change, bug-fix, sdk-version | General improvements include 'audio_webrtc_mode' support in JWT tokens. Breaking change in client view requires external dependencies (React 18.3.1, Redux, and Lodash) to be loaded separately. New features include Clinical Note support, mobile resource...",
-    "date": "2026-09-16T00:00:00+00:00"
+    "title": "Version 3.9.0",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.9.0",
+    "summary": "Tags: sdk-version | Remote assist edit form mode and two-finger drag to pan viewport",
+    "date": "2026-09-21T00:00:00+00:00"
   },
   {
     "id": "df400e34bdefac20",
@@ -748,6 +748,46 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
     "date": "2026-08-19T18:48:41.246217+00:00"
+  },
+  {
+    "id": "6c7252421c77dbe1",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New External Connections API endpoints",
+    "link": "https://developers.zoom.us/changelog/chat/september-17-2026",
+    "summary": "Tags: api-release | Added external connections endpoints for external users, internal users, and accounts.",
+    "date": "2026-09-17T00:00:00+00:00"
+  },
+  {
+    "id": "a4dd136cd9148d75",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New sensitive_label endpoint",
+    "link": "https://developers.zoom.us/changelog/users/september-17-2026",
+    "summary": "Tags: api-release | Added `sensitive_label` endpoint and response field.",
+    "date": "2026-09-17T00:00:00+00:00"
+  },
+  {
+    "id": "9dfdebc038a71c47",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New AI API endpoints for workflow",
+    "link": "https://developers.zoom.us/changelog/workflow/september-17-2026",
+    "summary": "Tags: api-release | Added endpoints to support AI features in workflow.",
+    "date": "2026-09-17T00:00:00+00:00"
+  },
+  {
+    "id": "97cc6d1742d051ab",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 6.5.0",
+    "link": "https://developers.zoom.us/changelog/meeting-sdk/web/6.5.0",
+    "summary": "Tags: breaking-change, bug-fix, sdk-version | General improvements include 'audio_webrtc_mode' support in JWT tokens. Breaking change in client view requires external dependencies (React 18.3.1, Redux, and Lodash) to be loaded separately. New features include Clinical Note support, mobile resource...",
+    "date": "2026-09-16T00:00:00+00:00"
   },
   {
     "id": "1ab4327cbab4633d",
@@ -958,45 +998,5 @@
     "link": "https://gemini.google/desktop/",
     "summary": "Quoi : L'appli Gemini est maintenant offerte sur Windows. Appuyez sur Alt+Espace pour ouvrir instantanément Gemini n'importe où sur votre ordinateur chaque fois que vous en avez besoin. Vous pouvez obtenir des réponses rapides, rédiger des messages et faire du remue-méninges, le tout sans quitter...",
     "date": "2026-09-20T05:16:56.613913+00:00"
-  },
-  {
-    "id": "37a5f57cd1ccce54",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Pourquoi : Votre ordinateur est votre principal espace de travail. L'accès instantané à Gemini sur votre PC vous permet de garder le cap sur votre t",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Pourquoi : Votre ordinateur est votre principal espace de travail. L'accès instantané à Gemini sur votre PC vous permet de garder le cap sur votre travail, de trouver facilement des réponses et de créer des éléments visuels sans quitter les outils que vous utilisez tous les jours.",
-    "date": "2026-09-20T05:16:56.613936+00:00"
-  },
-  {
-    "id": "13f45c29fc1ac288",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Quoi : Nous lançons une nouvelle façon de travailler avec Gemini en utilisant uniquement votre voix, directement là où vous vous trouvez. Maintenez",
-    "link": "https://gemini.google/mac/",
-    "summary": "Quoi : Nous lançons une nouvelle façon de travailler avec Gemini en utilisant uniquement votre voix, directement là où vous vous trouvez. Maintenez la touche Fn enfoncée pour dicter du texte dans votre fenêtre active et laissez Gemini transcrire vos paroles en un texte clair et soigné directement à...",
-    "date": "2026-09-20T05:16:56.613946+00:00"
-  },
-  {
-    "id": "fd59d4be42027511",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Pourquoi : Exprimer vos pensées vous permet de travailler à la vitesse de la pensée, ce qui vous permet de divaguer, d'hésiter ou de vous corriger p",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Pourquoi : Exprimer vos pensées vous permet de travailler à la vitesse de la pensée, ce qui vous permet de divaguer, d'hésiter ou de vous corriger pendant que Gemini donne un sens à ce que vous lui dites. En tenant compte du contexte de votre écran et en affichant les résultats directement à...",
-    "date": "2026-09-20T05:16:56.613953+00:00"
-  },
-  {
-    "id": "1cfe4c05ee290eb8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "View conference room and meeting location details directly on the Google Meet homepage",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/view-conference-room-and-meeting-location-details-directly-on-the-Google-Meet-homepage.html",
-    "summary": "Earlier this year, we introduced the refreshed Google Meet homepage on the web to help you stay organized and prepared throughout your entire meeting workflow. Starting today, we’re enhancing the Meet homepage experience by displaying conference room and physical meeting locations directly on...",
-    "date": "2026-09-16T15:09:16+00:00"
   }
 ]
