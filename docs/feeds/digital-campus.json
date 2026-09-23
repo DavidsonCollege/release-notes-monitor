@@ -100,6 +100,16 @@
     "date": "2026-09-21T03:23:12.268982+00:00"
   },
   {
+    "id": "ac268fcf61ce4ca3",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "New preview APIs are available: Create image transformation job and Get image transformation job. These APIs let you apply transformations, such as ba",
+    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/image-transformations/create-image-transformation-job/",
+    "summary": "New preview APIs are available: Create image transformation job and Get image transformation job. These APIs let you apply transformations, such as background removal, to an image asset, producing a new image asset. Starting a job consumes the user's AI credit allowance⁠(opens in a new tab or...",
+    "date": "2026-09-23T00:43:47.837728+00:00"
+  },
+  {
     "id": "b4dfd5c332df4574",
     "product_id": "canva",
     "product_name": "Canva",
@@ -108,16 +118,6 @@
     "link": "https://www.canva.dev/docs/apps/rest-apis/reference/autofills/create-design-autofill-job/",
     "summary": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no longer in preview, and are now generally available.",
     "date": "2026-09-21T03:23:12.268987+00:00"
-  },
-  {
-    "id": "402e0eeae67b8ad2",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Get design dataset API is no longer in preview, and is now generally available.",
-    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/designs/get-design-dataset/",
-    "summary": "",
-    "date": "2026-09-21T03:23:12.268991+00:00"
   },
   {
     "id": "47336dbf42af6b35",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "402e0eeae67b8ad2",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Get design dataset API is no longer in preview, and is now generally available.",
+    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/designs/get-design-dataset/",
+    "summary": "",
+    "date": "2026-09-21T03:23:12.268991+00:00"
+  },
+  {
     "id": "6c7252421c77dbe1",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
     "summary": "",
     "date": "2026-09-20T05:16:56.613883+00:00"
-  },
-  {
-    "id": "e2f5fe86cd914672",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Quoi : L'appli Gemini est maintenant offerte sur Windows. Appuyez sur Alt+Espace pour ouvrir instantanément Gemini n'importe où sur votre ordinateur",
-    "link": "https://gemini.google/desktop/",
-    "summary": "Quoi : L'appli Gemini est maintenant offerte sur Windows. Appuyez sur Alt+Espace pour ouvrir instantanément Gemini n'importe où sur votre ordinateur chaque fois que vous en avez besoin. Vous pouvez obtenir des réponses rapides, rédiger des messages et faire du remue-méninges, le tout sans quitter...",
-    "date": "2026-09-20T05:16:56.613913+00:00"
   }
 ]
