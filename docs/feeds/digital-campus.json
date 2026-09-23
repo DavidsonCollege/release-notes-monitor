@@ -120,6 +120,26 @@
     "date": "2026-09-23T00:43:47.837728+00:00"
   },
   {
+    "id": "b37aa3cbf254a38e",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Ground AI prompts in Google Docs on existing sources from Gemini Notebook",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/ground-ai-prompts-in-google-docs-on-existing-sources-from-Gemini-Notebook.html",
+    "summary": "We are introducing the ability to use Gemini Notebook as a context source in Google Docs. Building on our Workspace Intelligence foundation, this feature bridges the gap between deep research and content creation by grounding your drafts in a curated knowledge base – all without the need to switch...",
+    "date": "2026-09-23T18:26:49+00:00"
+  },
+  {
+    "id": "f0565d8319ec7d5d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Seamlessly import your emails from any IMAP server to Google Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/seamlessly-import-your-emails-from-any-IMAP-server-to-Google-Workspace.html",
+    "summary": "We’re excited to announce the GA release of a new, simplified way for Workspace admins to import their past emails from any IMAP-based email provider while setting up Google Workspace.By using this new feature, Google Workspace admins can import past emails seamlessly in a few clicks from multiple...",
+    "date": "2026-09-23T18:07:20+00:00"
+  },
+  {
     "id": "47bfa5f0a81447c1",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/quick-notes-in-take-notes-for-me.html",
     "summary": "Introducing Quick notes – high-level overview of main takeaways from your meetings that empowers you to quickly review essential information without diving into every single detail. Designed specifically for the efficient consumption of knowledge, the content fits onto a single page and is strictly...",
     "date": "2026-09-22T19:31:46+00:00"
-  },
-  {
-    "id": "778ba96ffca4b9a6",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing the new Confluence integration with Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/new-confluence-app-for-google-chat.html",
-    "summary": "Confluence by Atlassian is designed for teams to store and share ideas, docs, and knowledge. Workspace customers can now use Confluence for Google Chat to bring relevant project context and information from Confluence directly into Chat conversations. This integration, which is part of the...",
-    "date": "2026-09-22T17:40:16+00:00"
-  },
-  {
-    "id": "00fa68419c386c48",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Manually reorder and custom sort pivot tables in Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/manually-reorder-and-custom-sort-pivot.html",
-    "summary": "Google Sheets now supports custom sorting and manual reordering in pivot tables. Users can now drag and drop rows and columns on a pivot table to match specific presentation needs and custom business hierarchies, rather than being restricted to standard ascending or descending alphanumeric order....",
-    "date": "2026-09-22T15:58:11+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,26 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "778ba96ffca4b9a6",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing the new Confluence integration with Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/new-confluence-app-for-google-chat.html",
+    "summary": "Confluence by Atlassian is designed for teams to store and share ideas, docs, and knowledge. Workspace customers can now use Confluence for Google Chat to bring relevant project context and information from Confluence directly into Chat conversations. This integration, which is part of the...",
+    "date": "2026-09-22T17:40:16+00:00"
+  },
+  {
+    "id": "00fa68419c386c48",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Manually reorder and custom sort pivot tables in Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/manually-reorder-and-custom-sort-pivot.html",
+    "summary": "Google Sheets now supports custom sorting and manual reordering in pivot tables. Users can now drag and drop rows and columns on a pivot table to match specific presentation needs and custom business hierarchies, rather than being restricted to standard ascending or descending alphanumeric order....",
+    "date": "2026-09-22T15:58:11+00:00"
+  },
+  {
     "id": "97277b0af99ab15e",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
     "summary": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no longer in preview, and are now generally available.",
     "date": "2026-08-28T00:33:33.619546+00:00"
-  },
-  {
-    "id": "f47f9be6b9ad443f",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Get design dataset API is no longer in preview, and is now generally available.",
-    "link": "https://www.canva.dev/docs/connect/api-reference/designs/get-design-dataset/",
-    "summary": "",
-    "date": "2026-08-28T00:33:33.619573+00:00"
-  },
-  {
-    "id": "4efcf3bff8ee4b0d",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an impo",
-    "link": "https://www.canva.dev/docs/connect/api-reference/assets/get-asset/",
-    "summary": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an import filename. This issue has been fixed, and the API now returns the asset with an empty name.",
-    "date": "2026-08-17T05:46:06.436359+00:00"
   }
 ]
