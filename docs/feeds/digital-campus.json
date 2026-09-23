@@ -70,6 +70,16 @@
     "date": "2026-08-28T17:26:05Z"
   },
   {
+    "id": "7fe076a07c89b84c",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Autofill APIs are now available to apps acting on behalf of users on a Canva Pro or Canva Teams plan, in addition to Canva Enterprise.",
+    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/autofills/",
+    "summary": "",
+    "date": "2026-09-23T01:27:39.424512+00:00"
+  },
+  {
     "id": "9efec03da8cc38cf",
     "product_id": "canva",
     "product_name": "Canva",
@@ -108,16 +118,6 @@
     "link": "https://www.canva.dev/docs/apps/rest-apis/reference/image-transformations/create-image-transformation-job/",
     "summary": "New preview APIs are available: Create image transformation job and Get image transformation job. These APIs let you apply transformations, such as background removal, to an image asset, producing a new image asset. Starting a job consumes the user's AI credit allowance⁠(opens in a new tab or...",
     "date": "2026-09-23T00:43:47.837728+00:00"
-  },
-  {
-    "id": "b4dfd5c332df4574",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no lo",
-    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/autofills/create-design-autofill-job/",
-    "summary": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no longer in preview, and are now generally available.",
-    "date": "2026-09-21T03:23:12.268987+00:00"
   },
   {
     "id": "47336dbf42af6b35",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "b4dfd5c332df4574",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no lo",
+    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/autofills/create-design-autofill-job/",
+    "summary": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no longer in preview, and are now generally available.",
+    "date": "2026-09-21T03:23:12.268987+00:00"
+  },
+  {
     "id": "402e0eeae67b8ad2",
     "product_id": "canva",
     "product_name": "Canva",
@@ -988,15 +998,5 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/folders/get-folder/",
     "summary": "The Get folder API, Delete folder API, and Move folder item API now return a 400 error with the invalid_field code when the supplied folder ID isn't a valid folder ID. These requests previously returned a 500 error.",
     "date": "2026-08-14T00:34:15.269769+00:00"
-  },
-  {
-    "id": "14ad73a3673252a0",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Essayez Gemini",
-    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
-    "summary": "",
-    "date": "2026-09-20T05:16:56.613883+00:00"
   }
 ]
