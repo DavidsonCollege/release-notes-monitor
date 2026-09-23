@@ -1,13 +1,13 @@
 [
   {
-    "id": "c510432506c56d94",
+    "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password in the browser",
+    "title": "1Password for Android Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "September 11 2026"
+    "date": "September 23 2026"
   },
   {
     "id": "87c02b09c4a21c48",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "c510432506c56d94",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password in the browser",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "September 11 2026"
+  },
+  {
     "id": "7dd9f9e5d46fcab2",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -988,15 +998,5 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
     "summary": "Previously, the List folder items API returned a 500 Internal Server Error when a folder contained an image that didn't have a title or an import filename. This issue has been fixed, and the API now returns the image with an empty name.",
     "date": "2026-08-17T05:46:06.436385+00:00"
-  },
-  {
-    "id": "fc203cbbb45411e3",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Get folder API, Delete folder API, and Move folder item API now return a 400 error with the invalid_field code when the supplied folder ID isn't a",
-    "link": "https://www.canva.dev/docs/connect/api-reference/folders/get-folder/",
-    "summary": "The Get folder API, Delete folder API, and Move folder item API now return a 400 error with the invalid_field code when the supplied folder ID isn't a valid folder ID. These requests previously returned a 500 error.",
-    "date": "2026-08-14T00:34:15.269769+00:00"
   }
 ]
