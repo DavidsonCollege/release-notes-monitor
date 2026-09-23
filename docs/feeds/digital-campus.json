@@ -120,6 +120,16 @@
     "date": "2026-09-23T00:43:47.837728+00:00"
   },
   {
+    "id": "f16e5dd8784d90b8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini Omni 1.1 Flash now in Vids with improved extension quality, 1080p, and duration control",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/gemini-omni-11-flash-now-in-vids-with-improved-extension-quality-1080p-and-duration-control.html",
+    "summary": "Users now have access to Gemini Omni 1.1 Flash directly within Google Vids. Omni 1.1 provides higher quality video extension with significant improvements in character and audio consistency. Additionally, Vids now supports generating AI videos and upscaling AI videos to 1080p to be publish...",
+    "date": "2026-09-23T19:02:00+00:00"
+  },
+  {
     "id": "b37aa3cbf254a38e",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users-take-effect-September-29th.html",
     "summary": "Previously, we announced new admin and end user settings for Google Meet ‘Take notes for me’ pre-configuration. These settings will begin to take effect September 29th.Below is the previously communicated information about these new settings.Admin settingsPreviously, admins could only enable or...",
     "date": "2026-09-22T20:06:18+00:00"
-  },
-  {
-    "id": "86f89ca4566a0b2d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Quick notes in Take notes for me",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/quick-notes-in-take-notes-for-me.html",
-    "summary": "Introducing Quick notes – high-level overview of main takeaways from your meetings that empowers you to quickly review essential information without diving into every single detail. Designed specifically for the efficient consumption of knowledge, the content fits onto a single page and is strictly...",
-    "date": "2026-09-22T19:31:46+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "86f89ca4566a0b2d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Quick notes in Take notes for me",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/quick-notes-in-take-notes-for-me.html",
+    "summary": "Introducing Quick notes – high-level overview of main takeaways from your meetings that empowers you to quickly review essential information without diving into every single detail. Designed specifically for the efficient consumption of knowledge, the content fits onto a single page and is strictly...",
+    "date": "2026-09-22T19:31:46+00:00"
+  },
+  {
     "id": "778ba96ffca4b9a6",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://www.canva.dev/docs/apps/rest-apis/reference/assets/get-asset/",
     "summary": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an import filename. This issue has been fixed, and the API now returns the asset with an empty name.",
     "date": "2026-09-21T03:23:12.269002+00:00"
-  },
-  {
-    "id": "c5b58b7cc95f6495",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no lo",
-    "link": "https://www.canva.dev/docs/connect/api-reference/autofills/create-design-autofill-job/",
-    "summary": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no longer in preview, and are now generally available.",
-    "date": "2026-08-28T00:33:33.619546+00:00"
   }
 ]
