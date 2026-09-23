@@ -120,6 +120,16 @@
     "date": "2026-09-23T00:43:47.837728+00:00"
   },
   {
+    "id": "47bfa5f0a81447c1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Occupancy counting now available for Google Meet on Logitech room hardware",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/occupancy-counting-now-available-for-Google-Meet-on-Logitech-room-hardware.html",
+    "summary": "Occupancy counting is now available for Android-based Logitech Gen 2 room hardware (starting with Logitech Rally Board 65) to help measure how meeting rooms are used. This feature brings the same occupancy counting capabilities found on ChromeOS devices to Android-based hardware. Support for...",
+    "date": "2026-09-23T14:14:06+00:00"
+  },
+  {
     "id": "47336dbf42af6b35",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/manually-reorder-and-custom-sort-pivot.html",
     "summary": "Google Sheets now supports custom sorting and manual reordering in pivot tables. Users can now drag and drop rows and columns on a pivot table to match specific presentation needs and custom business hierarchies, rather than being restricted to standard ascending or descending alphanumeric order....",
     "date": "2026-09-22T15:58:11+00:00"
-  },
-  {
-    "id": "97277b0af99ab15e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Study notebooks in Gemini are now available for Google Workspace accounts",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/study-notebooks-in-gemini-are-now-available-for-Google-Workspace-accounts.html",
-    "summary": "Earlier this year we introduced study notebooks, a dedicated space that turns Gemini into an interactive, adaptive learning platform. They offer personalized lessons based on your learning goal, whether that’s tackling a school course or learning a new skill. Now, we’re excited to share that users...",
-    "date": "2026-09-22T15:52:41+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "97277b0af99ab15e",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Study notebooks in Gemini are now available for Google Workspace accounts",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/study-notebooks-in-gemini-are-now-available-for-Google-Workspace-accounts.html",
+    "summary": "Earlier this year we introduced study notebooks, a dedicated space that turns Gemini into an interactive, adaptive learning platform. They offer personalized lessons based on your learning goal, whether that’s tackling a school course or learning a new skill. Now, we’re excited to share that users...",
+    "date": "2026-09-22T15:52:41+00:00"
+  },
+  {
     "id": "c510432506c56d94",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "https://www.canva.dev/docs/connect/api-reference/assets/get-asset/",
     "summary": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an import filename. This issue has been fixed, and the API now returns the asset with an empty name.",
     "date": "2026-08-17T05:46:06.436359+00:00"
-  },
-  {
-    "id": "610018693117fd7e",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "Previously, the List folder items API returned a 500 Internal Server Error when a folder contained an image that didn't have a title or an import file",
-    "link": "https://www.canva.dev/docs/connect/api-reference/folders/list-folder-items/",
-    "summary": "Previously, the List folder items API returned a 500 Internal Server Error when a folder contained an image that didn't have a title or an import filename. This issue has been fixed, and the API now returns the image with an empty name.",
-    "date": "2026-08-17T05:46:06.436385+00:00"
   }
 ]
