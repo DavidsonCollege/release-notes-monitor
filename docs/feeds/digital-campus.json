@@ -120,6 +120,16 @@
     "date": "2026-09-23T00:43:47.837728+00:00"
   },
   {
+    "id": "6cbab0281c1482e3",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Assign temporary administrator roles in the Google Admin console",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/assign-temporary-administrator-roles-in-the-Google-Admin-console.html",
+    "summary": "Admins can now assign administrator roles to users, groups, or service accounts for a defined period of time. Once the expiration time is reached, the access granted by the role is automatically revoked.This feature helps minimize security risks by reducing standing privileges and ambient access...",
+    "date": "2026-09-23T21:23:09+00:00"
+  },
+  {
     "id": "f16e5dd8784d90b8",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/occupancy-counting-now-available-for-Google-Meet-on-Logitech-room-hardware.html",
     "summary": "Occupancy counting is now available for Android-based Logitech Gen 2 room hardware (starting with Logitech Rally Board 65) to help measure how meeting rooms are used. This feature brings the same occupancy counting capabilities found on ChromeOS devices to Android-based hardware. Support for...",
     "date": "2026-09-23T14:14:06+00:00"
-  },
-  {
-    "id": "47336dbf42af6b35",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New Google Meet 'Take notes for me' settings for admins and end users take effect September 29th",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users-take-effect-September-29th.html",
-    "summary": "Previously, we announced new admin and end user settings for Google Meet ‘Take notes for me’ pre-configuration. These settings will begin to take effect September 29th.Below is the previously communicated information about these new settings.Admin settingsPreviously, admins could only enable or...",
-    "date": "2026-09-22T20:06:18+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "47336dbf42af6b35",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New Google Meet 'Take notes for me' settings for admins and end users take effect September 29th",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users-take-effect-September-29th.html",
+    "summary": "Previously, we announced new admin and end user settings for Google Meet ‘Take notes for me’ pre-configuration. These settings will begin to take effect September 29th.Below is the previously communicated information about these new settings.Admin settingsPreviously, admins could only enable or...",
+    "date": "2026-09-22T20:06:18+00:00"
+  },
+  {
     "id": "86f89ca4566a0b2d",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=09162026c",
     "summary": "View downloadsView release notes",
     "date": "2026-09-16T17:00:00+00:00"
-  },
-  {
-    "id": "35b83f99346f125c",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an impo",
-    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/assets/get-asset/",
-    "summary": "Previously, the Get asset API⁠(opens in a new tab or window) returned a 500 Internal Server Error for image assets that didn't have a title or an import filename. This issue has been fixed, and the API now returns the asset with an empty name.",
-    "date": "2026-09-21T03:23:12.269002+00:00"
   }
 ]
