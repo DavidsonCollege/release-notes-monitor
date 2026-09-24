@@ -670,34 +670,34 @@
     "date": "2026-09-22T00:00:00+00:00"
   },
   {
-    "id": "3d457eeb51818012",
+    "id": "5012055a9c2700bb",
     "product_id": "claude",
     "product_name": "Claude",
     "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Launching Salesforce in Claude (beta)",
+    "title": "Claude Cowork comes to every conversation",
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
-    "date": "2026-09-15T00:00:00+00:00"
+    "date": "2026-09-16T00:00:00+00:00"
   },
   {
-    "id": "7181df3db15401fe",
+    "id": "de460d2683ec284f",
     "product_id": "claude",
     "product_name": "Claude",
     "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Bringing Salesforce into Claude",
+    "title": "Claude Cowork and chat are one Claude",
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
-    "date": "2026-09-15T00:00:00+00:00"
+    "date": "2026-09-16T00:00:00+00:00"
   },
   {
-    "id": "0c90824591792dd9",
+    "id": "d61b8e3398409311",
     "product_id": "claude",
     "product_name": "Claude",
     "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Smart reports (beta)",
+    "title": "Create designs, decks, and docs in any conversation",
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
-    "date": "2026-09-10T00:00:00+00:00"
+    "date": "2026-09-16T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -748,6 +748,36 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
     "date": "2026-08-19T18:48:41.246217+00:00"
+  },
+  {
+    "id": "3d457eeb51818012",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Launching Salesforce in Claude (beta)",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-15T00:00:00+00:00"
+  },
+  {
+    "id": "7181df3db15401fe",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Bringing Salesforce into Claude",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-15T00:00:00+00:00"
+  },
+  {
+    "id": "0c90824591792dd9",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Smart reports (beta)",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-10T00:00:00+00:00"
   },
   {
     "id": "68bf4e06214d3b4d",
@@ -968,35 +998,5 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-09-10T00:00:00+00:00"
-  },
-  {
-    "id": "3511cf28b94e8081",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Fable 5.1 and Claude Mythos 5.1 launch",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-01T00:00:00+00:00"
-  },
-  {
-    "id": "d249c494cbb4d0a1",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New back-to-school features and learning tools available in Gemini Notebook",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/new-back-to-school-features-and-learning-tools-available-in-Gemini-Notebook.html",
-    "summary": "We’re introducing several updates to Gemini Notebook that give users a more personalized and powerful learning experience.Audio recorder: Users can now use a new audio recorder in the Gemini Notebook mobile app (Android/iOS) to capture lectures or record thoughts on the go, with these notes living...",
-    "date": "2026-09-18T15:25:59+00:00"
-  },
-  {
-    "id": "68710986c316c868",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Notebooks in Gemini: a dedicated workspace for focused, organized work, now for schools and organizations",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/notebooks-in-gemini-dedicated-workspace-for-focused-organized-work-now-for-schools-and-organizations.html",
-    "summary": "In April, we announced notebooks in Gemini as a dedicated, focused space for individual users to organize their projects and conversations. Now, students of all ages, educators, and professionals can access notebooks to keep conversations about a topic organized in one place. For example:Students...",
-    "date": "2026-09-17T20:07:42+00:00"
   }
 ]
