@@ -210,6 +210,16 @@
     "date": "2026-05-21T08:24:45+00:00"
   },
   {
+    "id": "e3341b8f124f7097",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Improvements to Dataset Level Permissions",
+    "link": "https://announcekit.app/kuali/announcements/improvements-to-dataset-level-permissions-4qAafS",
+    "summary": "We’ve made dataset-level permissions clearer and easier to understand. When we introduced dataset-level permissions, we heard from many of y...",
+    "date": "2026-09-24T22:30:00+00:00"
+  },
+  {
     "id": "857939dbd7fd18a7",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -248,16 +258,6 @@
     "link": "https://announcekit.app/kuali/announcements/june-release-update-2njgOc",
     "summary": "improvements We've now released Versions and Document History for all Build users. This makes Revisions function detailed below, as well as...",
     "date": "2026-07-06T17:00:00+00:00"
-  },
-  {
-    "id": "e4d262db0e28e51d",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "New: Propose Revisions to Completed Documents",
-    "link": "https://announcekit.app/kuali/announcements/new-propose-revisions-to-completed-documents-4lWg36",
-    "summary": "You now have another way to update existing documents. In addition to editing a document directly or creating a new version, you can now pro...",
-    "date": "2026-07-02T21:30:00+00:00"
   },
   {
     "id": "004559ede25c638f",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "e4d262db0e28e51d",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "New: Propose Revisions to Completed Documents",
+    "link": "https://announcekit.app/kuali/announcements/new-propose-revisions-to-completed-documents-4lWg36",
+    "summary": "You now have another way to update existing documents. In addition to editing a document directly or creating a new version, you can now pro...",
+    "date": "2026-07-02T21:30:00+00:00"
+  },
+  {
     "id": "3d457eeb51818012",
     "product_id": "claude",
     "product_name": "Claude",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-18-2026.html",
     "summary": "Set up sharing boundaries for Google Drive with unified data protection rulesWe’re introducing a new capability that allows Google Workspace administrators to configure audience sharing and sensitivity-based data conditions in a single, unified rule. This unified rule flow helps organizations...",
     "date": "2026-09-18T18:38:09+00:00"
-  },
-  {
-    "id": "5287423c784e99c7",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Get started with smart reports",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-10T00:00:00+00:00"
   }
 ]
