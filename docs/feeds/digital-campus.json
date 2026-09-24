@@ -1,13 +1,13 @@
 [
   {
-    "id": "68bf4e06214d3b4d",
+    "id": "85fa3f89a4f80853",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
+    "title": "1Password CLI Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "September 23 2026"
+    "date": "September 24 2026"
   },
   {
     "id": "87c02b09c4a21c48",
@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268982+00:00"
   },
   {
+    "id": "9f41d50efebce386",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Now in beta: Import and convert your PowerPoint files to client-side encrypted Slides",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/now-in-beta-import-and-convert-your.html",
+    "summary": "Eligible customers can now import PowerPoint files as client-side encrypted (CSE) Slides, allowing users to access and edit content. This enables interoperability with Microsoft Office, with this launch PowerPoint files are encrypted on the client before the content is imported to Workspace, and...",
+    "date": "2026-09-24T18:06:25+00:00"
+  },
+  {
     "id": "6cbab0281c1482e3",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/seamlessly-import-your-emails-from-any-IMAP-server-to-Google-Workspace.html",
     "summary": "We’re excited to announce the GA release of a new, simplified way for Workspace admins to import their past emails from any IMAP-based email provider while setting up Google Workspace.By using this new feature, Google Workspace admins can import past emails seamlessly in a few clicks from multiple...",
     "date": "2026-09-23T18:07:20+00:00"
-  },
-  {
-    "id": "47bfa5f0a81447c1",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Occupancy counting now available for Google Meet on Logitech room hardware",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/occupancy-counting-now-available-for-Google-Meet-on-Logitech-room-hardware.html",
-    "summary": "Occupancy counting is now available for Android-based Logitech Gen 2 room hardware (starting with Logitech Rally Board 65) to help measure how meeting rooms are used. This feature brings the same occupancy counting capabilities found on ChromeOS devices to Android-based hardware. Support for...",
-    "date": "2026-09-23T14:14:06+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,26 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "68bf4e06214d3b4d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "September 23 2026"
+  },
+  {
+    "id": "47bfa5f0a81447c1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Occupancy counting now available for Google Meet on Logitech room hardware",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/occupancy-counting-now-available-for-Google-Meet-on-Logitech-room-hardware.html",
+    "summary": "Occupancy counting is now available for Android-based Logitech Gen 2 room hardware (starting with Logitech Rally Board 65) to help measure how meeting rooms are used. This feature brings the same occupancy counting capabilities found on ChromeOS devices to Android-based hardware. Support for...",
+    "date": "2026-09-23T14:14:06+00:00"
+  },
+  {
     "id": "ac268fcf61ce4ca3",
     "product_id": "canva",
     "product_name": "Canva",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/notebooks-in-gemini-dedicated-workspace-for-focused-organized-work-now-for-schools-and-organizations.html",
     "summary": "In April, we announced notebooks in Gemini as a dedicated, focused space for individual users to organize their projects and conversations. Now, students of all ages, educators, and professionals can access notebooks to keep conversations about a topic organized in one place. For example:Students...",
     "date": "2026-09-17T20:07:42+00:00"
-  },
-  {
-    "id": "a2b4c0cc769e3aa1",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Automate workflows with custom starters and steps, third-party integrations, and webhooks in Workspace Studio",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/automate-workflows-with-custom-starters-and-steps-third-party-integrations-and-webhooks-in-Workspace-Studio.html",
-    "summary": "To expand the capabilities of Workspace Studio and help teams build powerful, custom automations, we are introducing four new features for flows in Workspace Studio: custom starters, custom steps, third-party (3P) integrations, and webhooks. These new capabilities empower users to seamlessly...",
-    "date": "2026-09-17T17:42:35+00:00"
-  },
-  {
-    "id": "06a9a94a549374aa",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing Expert Intelligence in Gemini Notebook",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/introducing-expert-intelligence-in-Gemini-Notebook.html",
-    "summary": "We’re introducing Expert Intelligence, a cross Google initiative that helps users engage with trusted sources through Google AI products, starting with Gemini Notebook. Featuring more than 100,000 books from major publishers, employees and students can now incorporate insights from leading authors,...",
-    "date": "2026-09-17T16:21:01+00:00"
   }
 ]
