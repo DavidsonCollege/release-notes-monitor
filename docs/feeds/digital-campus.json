@@ -650,6 +650,16 @@
     "date": "2026-09-22T00:00:00+00:00"
   },
   {
+    "id": "dbf0ac3ae4544cb3",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Build plugins for Claude",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-25T00:00:00+00:00"
+  },
+  {
     "id": "df400e34bdefac20",
     "product_id": "claude",
     "product_name": "Claude",
@@ -675,26 +685,6 @@
     "product_name": "Claude",
     "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
     "title": "Claude Cowork comes to every conversation",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-16T00:00:00+00:00"
-  },
-  {
-    "id": "de460d2683ec284f",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Cowork and chat are one Claude",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-16T00:00:00+00:00"
-  },
-  {
-    "id": "d61b8e3398409311",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Create designs, decks, and docs in any conversation",
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-09-16T00:00:00+00:00"
@@ -748,6 +738,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
     "date": "2026-08-19T18:48:41.246217+00:00"
+  },
+  {
+    "id": "de460d2683ec284f",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Cowork and chat are one Claude",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-16T00:00:00+00:00"
+  },
+  {
+    "id": "d61b8e3398409311",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Create designs, decks, and docs in any conversation",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-16T00:00:00+00:00"
   },
   {
     "id": "d2f00e28916c16be",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Por qué: Tu computadora es el lugar donde trabajas. Llevar Gemini directamente a tu PC con acceso instantáneo a través de un acceso directo te permite mantener tu flujo de trabajo, ya que te ayuda a obtener respuestas y crear imágenes junto con tus herramientas cotidianas de forma sencilla.",
     "date": "2026-09-12T02:44:54.405542+00:00"
-  },
-  {
-    "id": "b4dfd5c332df4574",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no lo",
-    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/autofills/create-design-autofill-job/",
-    "summary": "The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no longer in preview, and are now generally available.",
-    "date": "2026-09-21T03:23:12.268987+00:00"
   }
 ]
