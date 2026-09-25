@@ -5,63 +5,63 @@
     <description>Combined release notes from all teams</description>
     <link>https://davidsoncollege.github.io/release-notes-monitor/feeds/all.xml</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 20:41:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:17:41 +0000</lastBuildDate>
     <atom:link href="https://davidsoncollege.github.io/release-notes-monitor/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>1Password - 1Password CLI Beta</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">85fa3f89a4f80853</guid>
-      <pubDate>Fri, 25 Sep 2026 20:41:14 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 21:17:41 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password for Android Beta</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">68bf4e06214d3b4d</guid>
-      <pubDate>Fri, 25 Sep 2026 20:41:14 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 21:17:41 +0000</pubDate>
     </item>
     <item>
       <title>1Password - 1Password in the browser</title>
       <link>https://releases.1password.com/</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=1password.com&amp;sz=64&quot; alt=&quot;1Password&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;1Password&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;All Mac iOS&lt;/p&gt;&lt;a href=&quot;https://releases.1password.com/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">c510432506c56d94</guid>
-      <pubDate>Fri, 25 Sep 2026 20:41:14 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 21:17:41 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Customize Optimize workflows to match how your team works</title>
       <link>https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading... Loading...&lt;/p&gt;&lt;a href=&quot;https://www.launchnotes.com/powered-by?company=ScribeHow&amp;utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&amp;utm_content=project-release-index&amp;utm_medium=powered-by&amp;utm_source=in-app&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">76bfe466a5a9fa43</guid>
-      <pubDate>Fri, 25 Sep 2026 20:41:14 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 21:17:41 +0000</pubDate>
     </item>
     <item>
       <title>Scribe - Customize Optimize workflows to match how your team works</title>
       <link>https://scribe.launchnotes.io/announcements/customize-optimize-workflows-to-match-how-your-team-works</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=scribehow.com&amp;sz=64&quot; alt=&quot;Scribe&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Scribe&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Loading...&lt;/p&gt;&lt;a href=&quot;https://scribe.launchnotes.io/announcements/customize-optimize-workflows-to-match-how-your-team-works&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">accbde209ebd5ae0</guid>
-      <pubDate>Fri, 25 Sep 2026 20:41:14 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 21:17:41 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.9.0</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New: Amazon Signage Stick (ASS) dedicated player. Previously ran Amazon Fire OS player on ASS device.&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">e1dab31261398830</guid>
-      <pubDate>Fri, 25 Sep 2026 20:41:14 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 21:17:41 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.7.16</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Rollback release fixing issues introduced in v4.7.12. Released at 50% for Fire OS players alongside v4.6.30.&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">25cbe092cc1d040f</guid>
-      <pubDate>Fri, 25 Sep 2026 20:41:14 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 21:17:41 +0000</pubDate>
     </item>
     <item>
       <title>ScreenCloud - 4.11.2</title>
       <link>https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=screencloud.com&amp;sz=64&quot; alt=&quot;ScreenCloud&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;ScreenCloud&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;New: Support for Amazon’s Remote Device Management (RDM) for Signage Sticks, including:Screen/TV mute and unmute via HDMI-CECScreen/TV power on and off via HDMI-CECDevice rebootScreenshot and full-screen captureDeep cache clearing (player app and Android system cache)Player app restartCPU and GPU...&lt;/p&gt;&lt;a href=&quot;https://help.screencloud.com/en/articles/10120269-screencloud-player-software-changelogs&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">06a1b6a05e1c3232</guid>
-      <pubDate>Fri, 25 Sep 2026 20:41:14 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 21:17:41 +0000</pubDate>
     </item>
     <item>
       <title>Zoom - Upcoming change: TLS version requirement</title>
@@ -69,6 +69,13 @@
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: breaking-change | Starting on November 15, 2026, RTMS will require TLS version 1.2 or 1.3 on all connections.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/rtms/upcoming-change-tls-version-requirement&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">4452b7b2961849dc</guid>
       <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoom - Enhanced SMS Consent Settings</title>
+      <link>https://developers.zoom.us/changelog/number-management/september-24-2026</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: api-release | Added request and response fields to SMS Consent APIs to support consent handling, opt-in/out, disclaimers, help messages, message frequency, and messaging with unknown numbers.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/number-management/september-24-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">acb76c68f25d1e44</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Google Workspace - Google Workspace Weekly Recap - September 25, 2026</title>
@@ -118,6 +125,20 @@
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=canva.com&amp;sz=64&quot; alt=&quot;Canva&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Canva&lt;/strong&gt;&lt;/div&gt;&lt;a href=&quot;https://www.canva.dev/docs/apps/rest-apis/reference/brand-templates/get-brand-template-dataset/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">f8a73266374a9790</guid>
       <pubDate>Thu, 24 Sep 2026 03:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoom - Bug fix in Webinars API</title>
+      <link>https://developers.zoom.us/changelog/meetings/september-24-2026</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: api-release, bug-fix | Bug fix in Webinars API.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/meetings/september-24-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">09f4564acc8fe9e7</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zoom - Added new Cases API</title>
+      <link>https://developers.zoom.us/changelog/quality-management/september-24-2026</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: api-release | New Cases API endpoint.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/quality-management/september-24-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">b959084ffeb46b9c</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Google Workspace - Assign temporary administrator roles in the Google Admin console</title>
@@ -204,6 +225,13 @@
       <pubDate>Tue, 22 Sep 2026 15:52:41 +0000</pubDate>
     </item>
     <item>
+      <title>Zoom - Version 7.2.0</title>
+      <link>https://developers.zoom.us/changelog/plugin-sdk/macos/7.2.0</link>
+      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: bug-fix, sdk-version | Technical enhancements and bug fixes.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/plugin-sdk/macos/7.2.0&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
+      <guid isPermaLink="false">8d4c7e2440e9a2e8</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude - Claude Opus 5.5 launch</title>
       <link>https://support.claude.com/en/articles/12138966-release-notes</link>
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=claude.ai&amp;sz=64&quot; alt=&quot;Claude&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Claude&lt;/strong&gt;&lt;/div&gt;&lt;a href=&quot;https://support.claude.com/en/articles/12138966-release-notes&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
@@ -230,13 +258,6 @@
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=canva.com&amp;sz=64&quot; alt=&quot;Canva&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Canva&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;When using the Create design export job API to export a design as an MP4, the quality parameter is now a target number of pixels rather than a fixed output size. The exported video keeps the design's own aspect ratio, so a design whose aspect ratio doesn't match the requested quality is no longer...&lt;/p&gt;&lt;a href=&quot;https://www.canva.dev/docs/apps/rest-apis/reference/exports/create-design-export-job/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">d8b5ba04215ef25a</guid>
       <pubDate>Mon, 21 Sep 2026 06:38:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canva - The Get design dataset API is no longer in preview, and is now generally available.</title>
-      <link>https://www.canva.dev/docs/apps/rest-apis/reference/designs/get-design-dataset/</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=canva.com&amp;sz=64&quot; alt=&quot;Canva&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Canva&lt;/strong&gt;&lt;/div&gt;&lt;a href=&quot;https://www.canva.dev/docs/apps/rest-apis/reference/designs/get-design-dataset/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">402e0eeae67b8ad2</guid>
-      <pubDate>Mon, 21 Sep 2026 03:23:12 +0000</pubDate>
     </item>
     <item>
       <title>Canva - The create_from_design and update_design job types, and the chart, sheet, and video data field types, for the Create design autofill job API are no lo</title>
@@ -300,27 +321,6 @@
       <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=64&quot; alt=&quot;Windows&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Windows&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 18 September 2026 appeared first on Windows Insider Blog.&lt;/p&gt;&lt;a href=&quot;https://blogs.windows.com/windows-insider/2026/09/18/announcing-new-builds-for-18-september-2026/&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">09a5c880dcda5cb5</guid>
       <pubDate>Fri, 18 Sep 2026 17:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zoom - New External Connections API endpoints</title>
-      <link>https://developers.zoom.us/changelog/chat/september-17-2026</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: api-release | Added external connections endpoints for external users, internal users, and accounts.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/chat/september-17-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">6c7252421c77dbe1</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zoom - New sensitive_label endpoint</title>
-      <link>https://developers.zoom.us/changelog/users/september-17-2026</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: api-release | Added `sensitive_label` endpoint and response field.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/users/september-17-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">a4dd136cd9148d75</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zoom - New AI API endpoints for workflow</title>
-      <link>https://developers.zoom.us/changelog/workflow/september-17-2026</link>
-      <description>&lt;div style=&quot;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;max-width:600px;padding:12px;border:1px solid #e0e0e0;border-radius:8px;background:#ffffff;&quot;&gt;&lt;div style=&quot;display:flex;align-items:center;margin-bottom:8px;&quot;&gt;&lt;img src=&quot;https://www.google.com/s2/favicons?domain=zoom.us&amp;sz=64&quot; alt=&quot;Zoom&quot; width=&quot;32&quot; height=&quot;32&quot; style=&quot;border-radius:6px;margin-right:10px;&quot;/&gt;&lt;strong style=&quot;font-size:15px;color:#1a1a1a;&quot;&gt;Zoom&lt;/strong&gt;&lt;/div&gt;&lt;p style=&quot;margin:0 0 10px;color:#444;font-size:14px;line-height:1.5;&quot;&gt;Tags: api-release | Added endpoints to support AI features in workflow.&lt;/p&gt;&lt;a href=&quot;https://developers.zoom.us/changelog/workflow/september-17-2026&quot; style=&quot;color:#3b82f6;font-size:13px;text-decoration:none;&quot;&gt;View release notes →&lt;/a&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">9dfdebc038a71c47</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Claude - Claude Cowork comes to every conversation</title>
