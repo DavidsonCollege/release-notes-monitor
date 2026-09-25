@@ -120,6 +120,26 @@
     "date": "2026-09-21T03:23:12.268982+00:00"
   },
   {
+    "id": "a701930c8a6c9310",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - September 25, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-25-2026.html",
+    "summary": "Use AI to supercharge your financial analysis with Workday for Google SheetsUse AI to supercharge your financial analysis with Workday for Google Sheets Google Sheets Rapid Release Scheduled Release Workday for Google Sheets is a new add-on available in the Google Workspace Marketplace that...",
+    "date": "2026-09-25T19:00:43+00:00"
+  },
+  {
+    "id": "fec6e6e8d7b6eb74",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "View up to three time zones in Google Calendar on the web",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/view-up-to-three-time-zones-in-google-Calendar-on-the-web.html",
+    "summary": "We’re making it easier to schedule and coordinate meetings across global teams by expanding time zone support in Google Calendar on the web. You can now configure and display up to three time zones—a primary, secondary, and new tertiary time zone—directly on your calendar grid. Previously, users...",
+    "date": "2026-09-25T16:37:17+00:00"
+  },
+  {
     "id": "9f41d50efebce386",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/gemini-omni-11-flash-now-in-vids-with-improved-extension-quality-1080p-and-duration-control.html",
     "summary": "Users now have access to Gemini Omni 1.1 Flash directly within Google Vids. Omni 1.1 provides higher quality video extension with significant improvements in character and audio consistency. Additionally, Vids now supports generating AI videos and upscaling AI videos to 1080p to be publish...",
     "date": "2026-09-23T19:02:00+00:00"
-  },
-  {
-    "id": "b37aa3cbf254a38e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Ground AI prompts in Google Docs on existing sources from Gemini Notebook",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/ground-ai-prompts-in-google-docs-on-existing-sources-from-Gemini-Notebook.html",
-    "summary": "We are introducing the ability to use Gemini Notebook as a context source in Google Docs. Building on our Workspace Intelligence foundation, this feature bridges the gap between deep research and content creation by grounding your drafts in a curated knowledge base – all without the need to switch...",
-    "date": "2026-09-23T18:26:49+00:00"
-  },
-  {
-    "id": "f0565d8319ec7d5d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Seamlessly import your emails from any IMAP server to Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/seamlessly-import-your-emails-from-any-IMAP-server-to-Google-Workspace.html",
-    "summary": "We’re excited to announce the GA release of a new, simplified way for Workspace admins to import their past emails from any IMAP-based email provider while setting up Google Workspace.By using this new feature, Google Workspace admins can import past emails seamlessly in a few clicks from multiple...",
-    "date": "2026-09-23T18:07:20+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,26 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "b37aa3cbf254a38e",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Ground AI prompts in Google Docs on existing sources from Gemini Notebook",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/ground-ai-prompts-in-google-docs-on-existing-sources-from-Gemini-Notebook.html",
+    "summary": "We are introducing the ability to use Gemini Notebook as a context source in Google Docs. Building on our Workspace Intelligence foundation, this feature bridges the gap between deep research and content creation by grounding your drafts in a curated knowledge base – all without the need to switch...",
+    "date": "2026-09-23T18:26:49+00:00"
+  },
+  {
+    "id": "f0565d8319ec7d5d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Seamlessly import your emails from any IMAP server to Google Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/seamlessly-import-your-emails-from-any-IMAP-server-to-Google-Workspace.html",
+    "summary": "We’re excited to announce the GA release of a new, simplified way for Workspace admins to import their past emails from any IMAP-based email provider while setting up Google Workspace.By using this new feature, Google Workspace admins can import past emails seamlessly in a few clicks from multiple...",
+    "date": "2026-09-23T18:07:20+00:00"
+  },
+  {
     "id": "a1398cf90f6226c3",
     "product_id": "windows",
     "product_name": "Windows",
@@ -978,25 +998,5 @@
     "link": "https://developers.zoom.us/changelog/workflow/september-17-2026",
     "summary": "Tags: api-release | Added endpoints to support AI features in workflow.",
     "date": "2026-09-17T00:00:00+00:00"
-  },
-  {
-    "id": "97cc6d1742d051ab",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 6.5.0",
-    "link": "https://developers.zoom.us/changelog/meeting-sdk/web/6.5.0",
-    "summary": "Tags: breaking-change, bug-fix, sdk-version | General improvements include 'audio_webrtc_mode' support in JWT tokens. Breaking change in client view requires external dependencies (React 18.3.1, Redux, and Lodash) to be loaded separately. New features include Clinical Note support, mobile resource...",
-    "date": "2026-09-16T00:00:00+00:00"
-  },
-  {
-    "id": "1ab4327cbab4633d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New manual calculation setting in Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/new-manual-calculation-setting-in-Google-Sheets.html",
-    "summary": "We’re introducing a new manual calculation setting in Google Sheets to give you precise control over when formulas and other references update. The new manual calculation setting allows editors of complex or data-dense spreadsheets to pause automatic recalculation, batch their edits, and trigger a...",
-    "date": "2026-09-21T18:54:14+00:00"
   }
 ]
