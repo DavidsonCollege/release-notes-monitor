@@ -20,6 +20,16 @@
     "date": "2026-08-20T17:11:45.962622+00:00"
   },
   {
+    "id": "8afe7263b92d0200",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "September 25, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/53932025258644-September-25-2026",
+    "summary": "",
+    "date": "2026-09-25T15:54:32Z"
+  },
+  {
     "id": "8a3a59ba366b4e32",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/53005059257876-August-28-2026",
     "summary": "",
     "date": "2026-09-02T13:25:51Z"
-  },
-  {
-    "id": "72359246fbd1110c",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "August 21, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/52769826639252-August-21-2026",
-    "summary": "",
-    "date": "2026-08-28T17:26:05Z"
   },
   {
     "id": "f8a73266374a9790",
@@ -750,6 +750,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "72359246fbd1110c",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "August 21, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/52769826639252-August-21-2026",
+    "summary": "",
+    "date": "2026-08-28T17:26:05Z"
+  },
+  {
     "id": "e4d262db0e28e51d",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/use-ai-to-supercharge-your-financial-analysis-with-Workday-for-Google-Sheets.html",
     "summary": "Workday for Google Sheets is a new add-on available in the Google Workspace Marketplace that connects Workday Adaptive Planning directly to Google Sheets and Slides. Deeply integrated with the AI-powered “Ask Workday” feature in Adaptive Planning, this add-on eliminates the need for manual CSV...",
     "date": "2026-09-21T17:18:06+00:00"
-  },
-  {
-    "id": "9cf1e460503ea9fb",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - September 18, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-18-2026.html",
-    "summary": "Set up sharing boundaries for Google Drive with unified data protection rulesWe’re introducing a new capability that allows Google Workspace administrators to configure audience sharing and sensitivity-based data conditions in a single, unified rule. This unified rule flow helps organizations...",
-    "date": "2026-09-18T18:38:09+00:00"
   }
 ]
