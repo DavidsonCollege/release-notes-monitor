@@ -550,6 +550,16 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "9adf5aece095f7d0",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 25 September 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/09/25/announcing-new-builds-for-25-september-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 25 September 2026 appeared first on Windows Insider Blog.",
+    "date": "2026-09-25T17:02:08+00:00"
+  },
+  {
     "id": "09a5c880dcda5cb5",
     "product_id": "windows",
     "product_name": "Windows",
@@ -588,16 +598,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/09/08/announcing-new-builds-for-8-september-2026/",
     "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 8 September 2026 appeared first on Windows Insider Blog.",
     "date": "2026-09-08T17:05:10+00:00"
-  },
-  {
-    "id": "a1398cf90f6226c3",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 31 August 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/08/31/announcing-new-builds-for-31-august-2026/",
-    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds for Windows 11, version 26H1 to the Beta and Experimental channels. Please see the release notes for each channel below: Beta (26H1): Announcing new builds for 31 August 2026 appeared first on Windows Insider Blog.",
-    "date": "2026-08-31T21:00:52+00:00"
   },
   {
     "id": "4452b7b2961849dc",
@@ -748,6 +748,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
     "date": "2026-08-19T18:48:41.246217+00:00"
+  },
+  {
+    "id": "a1398cf90f6226c3",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 31 August 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/08/31/announcing-new-builds-for-31-august-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds for Windows 11, version 26H1 to the Beta and Experimental channels. Please see the release notes for each channel below: Beta (26H1): Announcing new builds for 31 August 2026 appeared first on Windows Insider Blog.",
+    "date": "2026-08-31T21:00:52+00:00"
   },
   {
     "id": "72359246fbd1110c",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/new-manual-calculation-setting-in-Google-Sheets.html",
     "summary": "We’re introducing a new manual calculation setting in Google Sheets to give you precise control over when formulas and other references update. The new manual calculation setting allows editors of complex or data-dense spreadsheets to pause automatic recalculation, batch their edits, and trigger a...",
     "date": "2026-09-21T18:54:14+00:00"
-  },
-  {
-    "id": "99e0341146bbee74",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use AI to supercharge your financial analysis with Workday for Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/use-ai-to-supercharge-your-financial-analysis-with-Workday-for-Google-Sheets.html",
-    "summary": "Workday for Google Sheets is a new add-on available in the Google Workspace Marketplace that connects Workday Adaptive Planning directly to Google Sheets and Slides. Deeply integrated with the AI-powered “Ask Workday” feature in Adaptive Planning, this add-on eliminates the need for manual CSV...",
-    "date": "2026-09-21T17:18:06+00:00"
   }
 ]
