@@ -260,14 +260,14 @@
     "date": "2026-07-06T17:00:00+00:00"
   },
   {
-    "id": "004559ede25c638f",
+    "id": "3b844d81e81a8177",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.2 beta 2 (26B5091g)",
-    "link": "https://developer.apple.com/news/releases/?id=09212026c",
+    "title": "macOS 27.0.1 (26A434)",
+    "link": "https://developer.apple.com/news/releases/?id=09282026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-09-21T17:00:00+00:00"
+    "date": "2026-09-28T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -650,6 +650,26 @@
     "date": "2026-09-22T00:00:00+00:00"
   },
   {
+    "id": "7d2b228c217d7163",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Sonnet 5.5 launch",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-28T00:00:00+00:00"
+  },
+  {
+    "id": "d8e8b4d565eaff36",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Introducing Claude Sonnet 5.5",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-28T00:00:00+00:00"
+  },
+  {
     "id": "dbf0ac3ae4544cb3",
     "product_id": "claude",
     "product_name": "Claude",
@@ -668,26 +688,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-09-22T00:00:00+00:00"
-  },
-  {
-    "id": "b608e8d0761ac4ee",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Introducing Claude Opus 5.5",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-22T00:00:00+00:00"
-  },
-  {
-    "id": "5012055a9c2700bb",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Cowork comes to every conversation",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-16T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -738,6 +738,36 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
     "date": "2026-08-19T18:48:41.246217+00:00"
+  },
+  {
+    "id": "004559ede25c638f",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 27.2 beta 2 (26B5091g)",
+    "link": "https://developer.apple.com/news/releases/?id=09212026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-09-21T17:00:00+00:00"
+  },
+  {
+    "id": "b608e8d0761ac4ee",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Introducing Claude Opus 5.5",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-22T00:00:00+00:00"
+  },
+  {
+    "id": "5012055a9c2700bb",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Cowork comes to every conversation",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-16T00:00:00+00:00"
   },
   {
     "id": "de460d2683ec284f",
@@ -968,35 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "September 11 2026"
-  },
-  {
-    "id": "7dd9f9e5d46fcab2",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Probar Gemini",
-    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
-    "summary": "",
-    "date": "2026-09-12T02:44:54.405500+00:00"
-  },
-  {
-    "id": "3e39e455706a307a",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Qué: La app de Gemini ya está disponible en Windows. Presiona Alt + Espacio para abrir Gemini al instante desde cualquier lugar de tu PC cuando lo n",
-    "link": "https://gemini.google/desktop/",
-    "summary": "Qué: La app de Gemini ya está disponible en Windows. Presiona Alt + Espacio para abrir Gemini al instante desde cualquier lugar de tu PC cuando lo necesites. Puedes obtener respuestas rápidas, redactar mensajes y generar ideas junto con tus aplicaciones activas. Tienes acceso a todo lo que te...",
-    "date": "2026-09-12T02:44:54.405533+00:00"
-  },
-  {
-    "id": "40cb89b7f19466ed",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Por qué: Tu computadora es el lugar donde trabajas. Llevar Gemini directamente a tu PC con acceso instantáneo a través de un acceso directo te permi",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Por qué: Tu computadora es el lugar donde trabajas. Llevar Gemini directamente a tu PC con acceso instantáneo a través de un acceso directo te permite mantener tu flujo de trabajo, ya que te ayuda a obtener respuestas y crear imágenes junto con tus herramientas cotidianas de forma sencilla.",
-    "date": "2026-09-12T02:44:54.405542+00:00"
   }
 ]
