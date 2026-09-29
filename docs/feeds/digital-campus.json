@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268982+00:00"
   },
   {
+    "id": "ee3f8175d1f4a17c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create more natural, expressive AI voiceovers in Google Vids with upgraded Gemini 3.8 Flash Lite TTS",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/create-more-natural-expressive-ai-voiceovers-in-Google-Vids-with-upgraded-Gemini-3.8-Flash-Lite-TTS.html",
+    "summary": "We are upgrading the underlying text-to-speech (TTS) engine powering AI voiceovers and avatar narration in Google Vids to the latest Gemini 3.8 Flash Lite TTS model.High-quality voiceover is essential for compelling video communication. With this model upgrade, Google Vids creators will...",
+    "date": "2026-09-29T16:18:59+00:00"
+  },
+  {
     "id": "a701930c8a6c9310",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/assign-temporary-administrator-roles-in-the-Google-Admin-console.html",
     "summary": "Admins can now assign administrator roles to users, groups, or service accounts for a defined period of time. Once the expiration time is reached, the access granted by the role is automatically revoked.This feature helps minimize security risks by reducing standing privileges and ambient access...",
     "date": "2026-09-23T21:23:09+00:00"
-  },
-  {
-    "id": "f16e5dd8784d90b8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini Omni 1.1 Flash now in Vids with improved extension quality, 1080p, and duration control",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/gemini-omni-11-flash-now-in-vids-with-improved-extension-quality-1080p-and-duration-control.html",
-    "summary": "Users now have access to Gemini Omni 1.1 Flash directly within Google Vids. Omni 1.1 provides higher quality video extension with significant improvements in character and audio consistency. Additionally, Vids now supports generating AI videos and upscaling AI videos to 1080p to be publish...",
-    "date": "2026-09-23T19:02:00+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -740,6 +740,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "f16e5dd8784d90b8",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini Omni 1.1 Flash now in Vids with improved extension quality, 1080p, and duration control",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/gemini-omni-11-flash-now-in-vids-with-improved-extension-quality-1080p-and-duration-control.html",
+    "summary": "Users now have access to Gemini Omni 1.1 Flash directly within Google Vids. Omni 1.1 provides higher quality video extension with significant improvements in character and audio consistency. Additionally, Vids now supports generating AI videos and upscaling AI videos to 1080p to be publish...",
+    "date": "2026-09-23T19:02:00+00:00"
+  },
+  {
     "id": "acb76c68f25d1e44",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users-take-effect-September-29th.html",
     "summary": "Previously, we announced new admin and end user settings for Google Meet ‘Take notes for me’ pre-configuration. These settings will begin to take effect September 29th.Below is the previously communicated information about these new settings.Admin settingsPreviously, admins could only enable or...",
     "date": "2026-09-22T20:06:18+00:00"
-  },
-  {
-    "id": "86f89ca4566a0b2d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Quick notes in Take notes for me",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/quick-notes-in-take-notes-for-me.html",
-    "summary": "Introducing Quick notes – high-level overview of main takeaways from your meetings that empowers you to quickly review essential information without diving into every single detail. Designed specifically for the efficient consumption of knowledge, the content fits onto a single page and is strictly...",
-    "date": "2026-09-22T19:31:46+00:00"
   }
 ]
