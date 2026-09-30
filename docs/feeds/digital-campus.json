@@ -120,6 +120,16 @@
     "date": "2026-09-21T06:38:55.335756+00:00"
   },
   {
+    "id": "c3ac279e918bfa04",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing skills in the Gemini app and Workspace, plus what’s next for Gems",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
+    "summary": "We recently introduced skills—reusable prompts that guide Gemini—in the Gemini app and Google Workspace. Over the coming weeks, skills will roll out to Workspace users and eventually replace Gems as the tool for tailoring instructions for specific tasks.Read on for more details on skills, plus...",
+    "date": "2026-09-30T16:11:32+00:00"
+  },
+  {
     "id": "ee3f8175d1f4a17c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/now-in-beta-import-and-convert-your.html",
     "summary": "Eligible customers can now import PowerPoint files as client-side encrypted (CSE) Slides, allowing users to access and edit content. This enables interoperability with Microsoft Office, with this launch PowerPoint files are encrypted on the client before the content is imported to Workspace, and...",
     "date": "2026-09-24T18:06:25+00:00"
-  },
-  {
-    "id": "6cbab0281c1482e3",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Assign temporary administrator roles in the Google Admin console",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/assign-temporary-administrator-roles-in-the-Google-Admin-console.html",
-    "summary": "Admins can now assign administrator roles to users, groups, or service accounts for a defined period of time. Once the expiration time is reached, the access granted by the role is automatically revoked.This feature helps minimize security risks by reducing standing privileges and ambient access...",
-    "date": "2026-09-23T21:23:09+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "6cbab0281c1482e3",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Assign temporary administrator roles in the Google Admin console",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/assign-temporary-administrator-roles-in-the-Google-Admin-console.html",
+    "summary": "Admins can now assign administrator roles to users, groups, or service accounts for a defined period of time. Once the expiration time is reached, the access granted by the role is automatically revoked.This feature helps minimize security risks by reducing standing privileges and ambient access...",
+    "date": "2026-09-23T21:23:09+00:00"
+  },
+  {
     "id": "1d48e7a689257710",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -988,15 +998,5 @@
     "link": "https://announcekit.app/kuali/announcements/new-propose-revisions-to-completed-documents-4lWg36",
     "summary": "You now have another way to update existing documents. In addition to editing a document directly or creating a new version, you can now pro...",
     "date": "2026-07-02T21:30:00+00:00"
-  },
-  {
-    "id": "3d457eeb51818012",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Launching Salesforce in Claude (beta)",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-15T00:00:00+00:00"
   }
 ]
