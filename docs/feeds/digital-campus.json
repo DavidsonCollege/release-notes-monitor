@@ -700,6 +700,26 @@
     "date": "2026-08-14T14:16:58.978118+00:00"
   },
   {
+    "id": "a4d0b145582bb304",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: Today we’re rolling out skills directly into the Gemini chat globally1. Skills are a reusable set of instructions that tell Gemini how to hand",
+    "link": "https://support.google.com/gemini?p=gems_to_skills",
+    "summary": "What: Today we’re rolling out skills directly into the Gemini chat globally1. Skills are a reusable set of instructions that tell Gemini how to handle specific tasks. Think of them as saved shortcuts to faster prompting. Gemini can now help you build custom skills from your chats and automatically...",
+    "date": "2026-09-30T16:21:55.619180+00:00"
+  },
+  {
+    "id": "e26f8c20eb14b39a",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: We want to help you spend less time prompting and more time doing. With skills, you can save your most-used instructions once and run them endl",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: We want to help you spend less time prompting and more time doing. With skills, you can save your most-used instructions once and run them endlessly – so you can skip the repetitive prompting and jump straight to the results.",
+    "date": "2026-09-30T16:21:55.619205+00:00"
+  },
+  {
     "id": "0a7ded8ac4c47805",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -978,25 +998,5 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-09-15T00:00:00+00:00"
-  },
-  {
-    "id": "7181df3db15401fe",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Bringing Salesforce into Claude",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-15T00:00:00+00:00"
-  },
-  {
-    "id": "0c90824591792dd9",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Smart reports (beta)",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-10T00:00:00+00:00"
   }
 ]
