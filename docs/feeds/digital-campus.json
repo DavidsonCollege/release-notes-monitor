@@ -70,6 +70,16 @@
     "date": "2026-09-02T13:25:51Z"
   },
   {
+    "id": "faea5aff341f79a0",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "New preview APIs are available: Create design generation job v2 and Get design generation job v2. These APIs let you generate a Canva document, presen",
+    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/generations/create-design-generation-job-v2/",
+    "summary": "New preview APIs are available: Create design generation job v2 and Get design generation job v2. These APIs let you generate a Canva document, presentation, or whiteboard from a text brief and optional images or brand templates.",
+    "date": "2026-09-30T06:31:25.537175+00:00"
+  },
+  {
     "id": "f8a73266374a9790",
     "product_id": "canva",
     "product_name": "Canva",
@@ -108,16 +118,6 @@
     "link": "https://www.canva.dev/docs/apps/rest-apis/reference/exports/create-design-export-job/",
     "summary": "When using the Create design export job API to export a design as an MP4, the quality parameter is now a target number of pixels rather than a fixed output size. The exported video keeps the design's own aspect ratio, so a design whose aspect ratio doesn't match the requested quality is no longer...",
     "date": "2026-09-21T06:38:55.335756+00:00"
-  },
-  {
-    "id": "58fc460ab73f8a13",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Get design dataset API and Get brand template dataset API now return sheet data fields for autofillable tabular sheet data.",
-    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/designs/get-design-dataset/",
-    "summary": "",
-    "date": "2026-09-21T03:23:12.268982+00:00"
   },
   {
     "id": "ee3f8175d1f4a17c",
@@ -740,6 +740,16 @@
     "date": "2026-08-19T18:48:41.246217+00:00"
   },
   {
+    "id": "58fc460ab73f8a13",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "The Get design dataset API and Get brand template dataset API now return sheet data fields for autofillable tabular sheet data.",
+    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/designs/get-design-dataset/",
+    "summary": "",
+    "date": "2026-09-21T03:23:12.268982+00:00"
+  },
+  {
     "id": "7dd9f9e5d46fcab2",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -988,15 +998,5 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-09-10T00:00:00+00:00"
-  },
-  {
-    "id": "68bf4e06214d3b4d",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "September 23 2026"
   }
 ]
