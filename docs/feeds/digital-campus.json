@@ -1,13 +1,13 @@
 [
   {
-    "id": "9b4a49c55cd1a750",
+    "id": "5a1ea089b4372fc7",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
+    "title": "1Password SaaS Manager",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "September 29 2026"
+    "date": "September 30 2026"
   },
   {
     "id": "87c02b09c4a21c48",
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "9b4a49c55cd1a750",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "September 29 2026"
+  },
+  {
     "id": "ee3f8175d1f4a17c",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -758,16 +768,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-25-2026.html",
     "summary": "Use AI to supercharge your financial analysis with Workday for Google SheetsUse AI to supercharge your financial analysis with Workday for Google Sheets Google Sheets Rapid Release Scheduled Release Workday for Google Sheets is a new add-on available in the Google Workspace Marketplace that...",
     "date": "2026-09-25T19:00:43+00:00"
-  },
-  {
-    "id": "5a1ea089b4372fc7",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password SaaS Manager",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "September 29 2026"
   },
   {
     "id": "85fa3f89a4f80853",
