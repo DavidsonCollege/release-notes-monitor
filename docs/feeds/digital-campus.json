@@ -120,6 +120,16 @@
     "date": "2026-09-21T06:38:55.335756+00:00"
   },
   {
+    "id": "5e30f2f8acb7cbb4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Built-in interoperability between Google Meet and Microsoft Teams on Android (AOSP) devices, now generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/built-in-interoperability-between-Google-Meet-and-Microsoft-Teams-on-Android-AOSP-devices-now-generally-available.html",
+    "summary": "We are making video conferencing device interoperability between Google Meet and Microsoft Teams generally available. It was previously available in preview. This launch will enable you to:Join Microsoft Teams meetings from Android (AOSP)-based Google Meet hardware devices.Join Google Meet meetings...",
+    "date": "2026-10-01T19:34:11+00:00"
+  },
+  {
     "id": "f9ef1db7ba35f467",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/customize-style-of-your-captions-in-Google-Vids.html",
     "summary": "Captions in Google Vids are now fully customizable. Until now, captions came in a set style. You can now change their font and typography, where they sit on screen, and how they animate, so they match your brand or the look of your video.Captions make videos easier to follow when the sound is off...",
     "date": "2026-09-30T19:53:44+00:00"
-  },
-  {
-    "id": "c3ac279e918bfa04",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing skills in the Gemini app and Workspace, plus what’s next for Gems",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
-    "summary": "We recently introduced skills—reusable prompts that guide Gemini—in the Gemini app and Google Workspace. Over the coming weeks, skills will roll out to Workspace users and eventually replace Gems as the tool for tailoring instructions for specific tasks.Read on for more details on skills, plus...",
-    "date": "2026-09-30T16:11:32+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "c3ac279e918bfa04",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Introducing skills in the Gemini app and Workspace, plus what’s next for Gems",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
+    "summary": "We recently introduced skills—reusable prompts that guide Gemini—in the Gemini app and Google Workspace. Over the coming weeks, skills will roll out to Workspace users and eventually replace Gems as the tool for tailoring instructions for specific tasks.Read on for more details on skills, plus...",
+    "date": "2026-09-30T16:11:32+00:00"
+  },
+  {
     "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
@@ -987,16 +997,6 @@
     "title": "September 2026 release",
     "link": "https://developers.zoom.us/changelog/app-marketplace/september-21-2026",
     "summary": "Tags: api-release | Added IP address feature, enabling app developers to provide a list of IP addresses their app uses to access Zoom APIs. The app administrator adds these addresses to their allowlist to ensure only approved IPs are allowed.",
-    "date": "2026-09-21T00:00:00+00:00"
-  },
-  {
-    "id": "d8368431261281f2",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Add Chat External User APIs",
-    "link": "https://developers.zoom.us/changelog/chat/september-21-2026",
-    "summary": "Tags: api-release | Added APIs to retrieve internal and external Chat users. Added the allow_to_add_external_users field to the Chat Channels API.",
     "date": "2026-09-21T00:00:00+00:00"
   }
 ]
