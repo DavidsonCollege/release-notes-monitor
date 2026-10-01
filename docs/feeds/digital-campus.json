@@ -120,6 +120,26 @@
     "date": "2026-09-21T06:38:55.335756+00:00"
   },
   {
+    "id": "f9ef1db7ba35f467",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Find your learning tools all in one place with the student hub in Gemini",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/find-your-learning-tools-all-in-one-place-with-the-student-hub-in-Gemini.html",
+    "summary": "We recently announced a new, dedicated hub in the Gemini app to help get students started with all of Gemini's learning tools. Initially available in personal accounts, the Gemini student hub is now available to Google Workspace for Education users of all ages. The hub helps keep students...",
+    "date": "2026-10-01T16:22:17+00:00"
+  },
+  {
+    "id": "a42af6f9c318bf07",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Simple setup option for Workspace Client-side encryption",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/simple-setup-option-for-workspace-client-side-encryption.html",
+    "summary": "We are introducing a new option which can make the initial setup of Google Workspace Client-side encryption (CSE) significantly easier and faster for admins.CSE now supports a simple setup path in the Admin console which can help customers get up and running with CSE in minutes. By combining Cloud...",
+    "date": "2026-10-01T16:03:07+00:00"
+  },
+  {
     "id": "6c694b45b6fcf1bc",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
     "summary": "We recently introduced skills—reusable prompts that guide Gemini—in the Gemini app and Google Workspace. Over the coming weeks, skills will roll out to Workspace users and eventually replace Gems as the tool for tailoring instructions for specific tasks.Read on for more details on skills, plus...",
     "date": "2026-09-30T16:11:32+00:00"
-  },
-  {
-    "id": "ee3f8175d1f4a17c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create more natural, expressive AI voiceovers in Google Vids with upgraded Gemini 3.8 Flash Lite TTS",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/create-more-natural-expressive-ai-voiceovers-in-Google-Vids-with-upgraded-Gemini-3.8-Flash-Lite-TTS.html",
-    "summary": "We are upgrading the underlying text-to-speech (TTS) engine powering AI voiceovers and avatar narration in Google Vids to the latest Gemini 3.8 Flash Lite TTS model.High-quality voiceover is essential for compelling video communication. With this model upgrade, Google Vids creators will...",
-    "date": "2026-09-29T16:18:59+00:00"
-  },
-  {
-    "id": "a701930c8a6c9310",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - September 25, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-25-2026.html",
-    "summary": "Use AI to supercharge your financial analysis with Workday for Google SheetsUse AI to supercharge your financial analysis with Workday for Google Sheets Google Sheets Rapid Release Scheduled Release Workday for Google Sheets is a new add-on available in the Google Workspace Marketplace that...",
-    "date": "2026-09-25T19:00:43+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -740,6 +740,26 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "ee3f8175d1f4a17c",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create more natural, expressive AI voiceovers in Google Vids with upgraded Gemini 3.8 Flash Lite TTS",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/create-more-natural-expressive-ai-voiceovers-in-Google-Vids-with-upgraded-Gemini-3.8-Flash-Lite-TTS.html",
+    "summary": "We are upgrading the underlying text-to-speech (TTS) engine powering AI voiceovers and avatar narration in Google Vids to the latest Gemini 3.8 Flash Lite TTS model.High-quality voiceover is essential for compelling video communication. With this model upgrade, Google Vids creators will...",
+    "date": "2026-09-29T16:18:59+00:00"
+  },
+  {
+    "id": "a701930c8a6c9310",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - September 25, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-25-2026.html",
+    "summary": "Use AI to supercharge your financial analysis with Workday for Google SheetsUse AI to supercharge your financial analysis with Workday for Google Sheets Google Sheets Rapid Release Scheduled Release Workday for Google Sheets is a new add-on available in the Google Workspace Marketplace that...",
+    "date": "2026-09-25T19:00:43+00:00"
+  },
+  {
     "id": "5a1ea089b4372fc7",
     "product_id": "1password",
     "product_name": "1Password",
@@ -978,25 +998,5 @@
     "link": "https://developers.zoom.us/changelog/chat/september-21-2026",
     "summary": "Tags: api-release | Added APIs to retrieve internal and external Chat users. Added the allow_to_add_external_users field to the Chat Channels API.",
     "date": "2026-09-21T00:00:00+00:00"
-  },
-  {
-    "id": "132c0f80841bfac3",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.9.0",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.9.0",
-    "summary": "Tags: sdk-version | Remote assist edit form mode and two-finger drag to pan viewport",
-    "date": "2026-09-21T00:00:00+00:00"
-  },
-  {
-    "id": "b37aa3cbf254a38e",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Ground AI prompts in Google Docs on existing sources from Gemini Notebook",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/ground-ai-prompts-in-google-docs-on-existing-sources-from-Gemini-Notebook.html",
-    "summary": "We are introducing the ability to use Gemini Notebook as a context source in Google Docs. Building on our Workspace Intelligence foundation, this feature bridges the gap between deep research and content creation by grounding your drafts in a curated knowledge base – all without the need to switch...",
-    "date": "2026-09-23T18:26:49+00:00"
   }
 ]
