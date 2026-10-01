@@ -726,7 +726,7 @@
       "name": "team-admin-services",
       "is_private": false,
       "topic": "",
-      "num_members": 21
+      "num_members": 20
     },
     {
       "id": "C034RJXRM50",
@@ -1002,6 +1002,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-10-01T14:18:51.633639+00:00",
+  "last_updated": "2026-10-01T14:43:27.440458+00:00",
   "fetch_status": "success"
 }
