@@ -1,10 +1,10 @@
 [
   {
-    "id": "5a1ea089b4372fc7",
+    "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password SaaS Manager",
+    "title": "1Password for Android",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "September 29 2026"
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "5a1ea089b4372fc7",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password SaaS Manager",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "September 29 2026"
+  },
+  {
     "id": "85fa3f89a4f80853",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/ground-ai-prompts-in-google-docs-on-existing-sources-from-Gemini-Notebook.html",
     "summary": "We are introducing the ability to use Gemini Notebook as a context source in Google Docs. Building on our Workspace Intelligence foundation, this feature bridges the gap between deep research and content creation by grounding your drafts in a curated knowledge base – all without the need to switch...",
     "date": "2026-09-23T18:26:49+00:00"
-  },
-  {
-    "id": "f0565d8319ec7d5d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Seamlessly import your emails from any IMAP server to Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/seamlessly-import-your-emails-from-any-IMAP-server-to-Google-Workspace.html",
-    "summary": "We’re excited to announce the GA release of a new, simplified way for Workspace admins to import their past emails from any IMAP-based email provider while setting up Google Workspace.By using this new feature, Google Workspace admins can import past emails seamlessly in a few clicks from multiple...",
-    "date": "2026-09-23T18:07:20+00:00"
   }
 ]
