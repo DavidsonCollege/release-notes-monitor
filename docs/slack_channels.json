@@ -691,7 +691,7 @@
       "name": "summersquad-2",
       "is_private": false,
       "topic": "",
-      "num_members": 11
+      "num_members": 10
     },
     {
       "id": "C07S55DHXJS",
@@ -1002,6 +1002,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-10-02T13:42:20.822122+00:00",
+  "last_updated": "2026-10-02T14:18:25.537307+00:00",
   "fetch_status": "success"
 }
