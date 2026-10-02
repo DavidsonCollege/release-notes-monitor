@@ -1,13 +1,13 @@
 [
   {
-    "id": "5a1ea089b4372fc7",
+    "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password SaaS Manager",
+    "title": "1Password for Android Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "September 30 2026"
+    "date": "October 2 2026"
   },
   {
     "id": "87c02b09c4a21c48",
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "5a1ea089b4372fc7",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password SaaS Manager",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "September 30 2026"
+  },
+  {
     "id": "faea5aff341f79a0",
     "product_id": "canva",
     "product_name": "Canva",
@@ -988,15 +998,5 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-09-22T00:00:00+00:00"
-  },
-  {
-    "id": "5012055a9c2700bb",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Cowork comes to every conversation",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-16T00:00:00+00:00"
   }
 ]
