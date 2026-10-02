@@ -550,6 +550,16 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "60064d266b183c91",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 2 October 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/10/02/announcing-new-builds-for-2-october-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 2 October 2026 appeared first on Windows Insider Blog.",
+    "date": "2026-10-02T17:04:36+00:00"
+  },
+  {
     "id": "9adf5aece095f7d0",
     "product_id": "windows",
     "product_name": "Windows",
@@ -588,16 +598,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/09/10/announcing-windows-11-release-preview-builds-26100-9539-26200-9539/",
     "summary": "Hello Windows Insiders, Today we’re releasing build Builds 26100.9539/26200.9539 for Release Preview for Windows 11, version 24H2/25H2. Release notes can be found over in the Announcing Windows 11 Release Preview Builds 26100.9539/26200.9539 appeared first on Windows Insider Blog.",
     "date": "2026-09-10T17:11:27+00:00"
-  },
-  {
-    "id": "b1c187f70824aab2",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 8 September 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/09/08/announcing-new-builds-for-8-september-2026/",
-    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 8 September 2026 appeared first on Windows Insider Blog.",
-    "date": "2026-09-08T17:05:10+00:00"
   },
   {
     "id": "4452b7b2961849dc",
@@ -738,6 +738,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Your desktop is where you get work done. Bringing Gemini straight to your PC with instant shortcut access keeps you in your flow, making it simple to get answers and create visuals right alongside your everyday tools.",
     "date": "2026-09-10T15:39:41.367136+00:00"
+  },
+  {
+    "id": "b1c187f70824aab2",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 8 September 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/09/08/announcing-new-builds-for-8-september-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 8 September 2026 appeared first on Windows Insider Blog.",
+    "date": "2026-09-08T17:05:10+00:00"
   },
   {
     "id": "5a1ea089b4372fc7",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=09212026c",
     "summary": "View downloadsView release notes",
     "date": "2026-09-21T17:00:00+00:00"
-  },
-  {
-    "id": "b608e8d0761ac4ee",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Introducing Claude Opus 5.5",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-22T00:00:00+00:00"
   }
 ]
