@@ -20,6 +20,16 @@
     "date": "2026-08-20T17:11:45.962622+00:00"
   },
   {
+    "id": "93e59d2240cf9c12",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "October 02, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/54179578994708-October-02-2026",
+    "summary": "",
+    "date": "2026-10-02T19:00:45Z"
+  },
+  {
     "id": "8afe7263b92d0200",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -27,7 +37,7 @@
     "title": "September 25, 2026",
     "link": "https://help.adastra.live/hc/en-us/articles/53932025258644-September-25-2026",
     "summary": "",
-    "date": "2026-10-02T11:16:58Z"
+    "date": "2026-10-02T18:49:17Z"
   },
   {
     "id": "8a3a59ba366b4e32",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/53264707434644-September-04-2026",
     "summary": "",
     "date": "2026-09-04T19:13:40Z"
-  },
-  {
-    "id": "a2b9a252c3492a0d",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "August 28, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/53005059257876-August-28-2026",
-    "summary": "",
-    "date": "2026-09-02T13:25:51Z"
   },
   {
     "id": "a8d10664dbe6e48b",
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "a2b9a252c3492a0d",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "August 28, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/53005059257876-August-28-2026",
+    "summary": "",
+    "date": "2026-09-02T13:25:51Z"
+  },
+  {
     "id": "b1c187f70824aab2",
     "product_id": "windows",
     "product_name": "Windows",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/plugin-sdk/macos/7.2.0",
     "summary": "Tags: bug-fix, sdk-version | Technical enhancements and bug fixes.",
     "date": "2026-09-22T00:00:00+00:00"
-  },
-  {
-    "id": "004559ede25c638f",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.2 beta 2 (26B5091g)",
-    "link": "https://developer.apple.com/news/releases/?id=09212026c",
-    "summary": "View downloadsView release notes",
-    "date": "2026-09-21T17:00:00+00:00"
   }
 ]
