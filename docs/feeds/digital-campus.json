@@ -690,14 +690,14 @@
     "date": "2026-09-22T00:00:00+00:00"
   },
   {
-    "id": "2005c82e484167da",
+    "id": "14ad73a3673252a0",
     "product_id": "gemini",
     "product_name": "Gemini",
     "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Try Gemini",
+    "title": "Essayez Gemini",
     "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
     "summary": "",
-    "date": "2026-08-14T14:16:58.978118+00:00"
+    "date": "2026-10-02T22:17:31.606289+00:00"
   },
   {
     "id": "a4d0b145582bb304",
@@ -718,6 +718,36 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to help you spend less time prompting and more time doing. With skills, you can save your most-used instructions once and run them endlessly – so you can skip the repetitive prompting and jump straight to the results.",
     "date": "2026-09-30T16:21:55.619205+00:00"
+  },
+  {
+    "id": "e2f5fe86cd914672",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Quoi : L'appli Gemini est maintenant offerte sur Windows. Appuyez sur Alt+Espace pour ouvrir instantanément Gemini n'importe où sur votre ordinateur",
+    "link": "https://gemini.google/desktop/",
+    "summary": "Quoi : L'appli Gemini est maintenant offerte sur Windows. Appuyez sur Alt+Espace pour ouvrir instantanément Gemini n'importe où sur votre ordinateur chaque fois que vous en avez besoin. Vous pouvez obtenir des réponses rapides, rédiger des messages et faire du remue-méninges, le tout sans quitter...",
+    "date": "2026-10-02T22:17:31.606338+00:00"
+  },
+  {
+    "id": "37a5f57cd1ccce54",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Pourquoi : Votre ordinateur est votre principal espace de travail. L'accès instantané à Gemini sur votre PC vous permet de garder le cap sur votre t",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Pourquoi : Votre ordinateur est votre principal espace de travail. L'accès instantané à Gemini sur votre PC vous permet de garder le cap sur votre travail, de trouver facilement des réponses et de créer des éléments visuels sans quitter les outils que vous utilisez tous les jours.",
+    "date": "2026-10-02T22:17:31.606347+00:00"
+  },
+  {
+    "id": "2005c82e484167da",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Try Gemini",
+    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
+    "summary": "",
+    "date": "2026-08-14T14:16:58.978118+00:00"
   },
   {
     "id": "0a7ded8ac4c47805",
@@ -968,35 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/gemini-omni-11-flash-now-in-vids-with-improved-extension-quality-1080p-and-duration-control.html",
     "summary": "Users now have access to Gemini Omni 1.1 Flash directly within Google Vids. Omni 1.1 provides higher quality video extension with significant improvements in character and audio consistency. Additionally, Vids now supports generating AI videos and upscaling AI videos to 1080p to be publish...",
     "date": "2026-09-23T19:02:00+00:00"
-  },
-  {
-    "id": "acb76c68f25d1e44",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Enhanced SMS Consent Settings",
-    "link": "https://developers.zoom.us/changelog/number-management/september-24-2026",
-    "summary": "Tags: api-release | Added request and response fields to SMS Consent APIs to support consent handling, opt-in/out, disclaimers, help messages, message frequency, and messaging with unknown numbers.",
-    "date": "2026-09-26T00:00:00+00:00"
-  },
-  {
-    "id": "09f4564acc8fe9e7",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Bug fix in Webinars API",
-    "link": "https://developers.zoom.us/changelog/meetings/september-24-2026",
-    "summary": "Tags: api-release, bug-fix | Bug fix in Webinars API.",
-    "date": "2026-09-24T00:00:00+00:00"
-  },
-  {
-    "id": "b959084ffeb46b9c",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added new Cases API",
-    "link": "https://developers.zoom.us/changelog/quality-management/september-24-2026",
-    "summary": "Tags: api-release | New Cases API endpoint.",
-    "date": "2026-09-24T00:00:00+00:00"
   }
 ]
