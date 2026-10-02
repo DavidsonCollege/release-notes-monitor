@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "e7635a5d3e20a71a",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - October 2, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-02-2026.html",
+    "summary": "Create more natural, expressive AI voiceovers in Google Vids with upgraded Gemini 3.8 Flash Lite TTSWe are upgrading the underlying text-to-speech (TTS) engine powering AI voiceovers and avatar narration in Google Vids to the latest Gemini 3.8 Flash Lite TTS model. | Learn more.Introducing skills...",
+    "date": "2026-10-02T18:43:57+00:00"
+  },
+  {
     "id": "5e30f2f8acb7cbb4",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/programmatic-comment-and-suggestion.html",
     "summary": "Developers can now programmatically create, read, and manage comments across Google Docs, Sheets, and Slides using their respective developer APIs. In Google Docs, this update also introduces API support for suggested edits, allowing automated tools and third-party systems to propose document...",
     "date": "2026-09-30T21:26:19+00:00"
-  },
-  {
-    "id": "88fa4f199c0ee779",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Customize the style of your captions in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/customize-style-of-your-captions-in-Google-Vids.html",
-    "summary": "Captions in Google Vids are now fully customizable. Until now, captions came in a set style. You can now change their font and typography, where they sit on screen, and how they animate, so they match your brand or the look of your video.Captions make videos easier to follow when the sound is off...",
-    "date": "2026-09-30T19:53:44+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "88fa4f199c0ee779",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Customize the style of your captions in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/customize-style-of-your-captions-in-Google-Vids.html",
+    "summary": "Captions in Google Vids are now fully customizable. Until now, captions came in a set style. You can now change their font and typography, where they sit on screen, and how they animate, so they match your brand or the look of your video.Captions make videos easier to follow when the sound is off...",
+    "date": "2026-09-30T19:53:44+00:00"
+  },
+  {
     "id": "a2b9a252c3492a0d",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/quality-management/september-24-2026",
     "summary": "Tags: api-release | New Cases API endpoint.",
     "date": "2026-09-24T00:00:00+00:00"
-  },
-  {
-    "id": "8d4c7e2440e9a2e8",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 7.2.0",
-    "link": "https://developers.zoom.us/changelog/plugin-sdk/macos/7.2.0",
-    "summary": "Tags: bug-fix, sdk-version | Technical enhancements and bug fixes.",
-    "date": "2026-09-22T00:00:00+00:00"
   }
 ]
