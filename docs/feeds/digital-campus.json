@@ -600,6 +600,56 @@
     "date": "2026-09-10T17:11:27+00:00"
   },
   {
+    "id": "4452b7b2961849dc",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Upcoming change: TLS version requirement",
+    "link": "https://developers.zoom.us/changelog/rtms/upcoming-change-tls-version-requirement",
+    "summary": "Tags: breaking-change | Starting on November 15, 2026, RTMS will require TLS version 1.2 or 1.3 on all connections.",
+    "date": "2026-11-15T00:00:00+00:00"
+  },
+  {
+    "id": "7f00f54f1be93c4f",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New API endpoints",
+    "link": "https://developers.zoom.us/changelog/accounts/september-28-2026",
+    "summary": "Tags: api-release | Added new waiting_room_branding endpoints for accounts settings API.",
+    "date": "2026-09-28T00:00:00+00:00"
+  },
+  {
+    "id": "d32c8637775e5a02",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Added four new AI-credits billing APIs",
+    "link": "https://developers.zoom.us/changelog/billing/september-28-2026",
+    "summary": "Tags: api-release | Added four new AI-credits billing APIs.",
+    "date": "2026-09-28T00:00:00+00:00"
+  },
+  {
+    "id": "f1548a1f0dc8f1ca",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New Comment APIs",
+    "link": "https://developers.zoom.us/changelog/canvas/september-28-2026",
+    "summary": "Tags: api-release | Added new endpoints for Comment APIs.",
+    "date": "2026-09-28T00:00:00+00:00"
+  },
+  {
+    "id": "1fb5384f82a9fba4",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 5.9.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/android/5.9.0",
+    "summary": "Tags: new-feature, sdk-version | Add support for passing user context from Android apps into Zoom Contact Center chat, Zoom Virtual Agent, and video engagements.",
+    "date": "2026-09-28T00:00:00+00:00"
+  },
+  {
     "id": "7d2b228c217d7163",
     "product_id": "claude",
     "product_name": "Claude",
@@ -690,16 +740,6 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
-    "id": "4452b7b2961849dc",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Upcoming change: TLS version requirement",
-    "link": "https://developers.zoom.us/changelog/rtms/upcoming-change-tls-version-requirement",
-    "summary": "Tags: breaking-change | Starting on November 15, 2026, RTMS will require TLS version 1.2 or 1.3 on all connections.",
-    "date": "2026-11-15T00:00:00+00:00"
-  },
-  {
     "id": "f7ce6204bd90f8ac",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -718,26 +758,6 @@
     "link": "https://developers.zoom.us/changelog/rooms/october-01-2026",
     "summary": "Tags: api-release | Added `head` and `style` response fields.",
     "date": "2026-10-01T00:00:00+00:00"
-  },
-  {
-    "id": "7f00f54f1be93c4f",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New API endpoints",
-    "link": "https://developers.zoom.us/changelog/accounts/september-28-2026",
-    "summary": "Tags: api-release | Added new waiting_room_branding endpoints for accounts settings API.",
-    "date": "2026-09-28T00:00:00+00:00"
-  },
-  {
-    "id": "d32c8637775e5a02",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added four new AI-credits billing APIs",
-    "link": "https://developers.zoom.us/changelog/billing/september-28-2026",
-    "summary": "Tags: api-release | Added four new AI-credits billing APIs.",
-    "date": "2026-09-28T00:00:00+00:00"
   },
   {
     "id": "14ad73a3673252a0",
@@ -818,26 +838,6 @@
     "link": "https://www.canva.dev/docs/apps/rest-apis/reference/generations/create-design-generation-job-v2/",
     "summary": "New preview APIs are available: Create design generation job v2 and Get design generation job v2. These APIs let you generate a Canva document, presentation, or whiteboard from a text brief and optional images or brand templates.",
     "date": "2026-09-30T06:31:25.537175+00:00"
-  },
-  {
-    "id": "f1548a1f0dc8f1ca",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Comment APIs",
-    "link": "https://developers.zoom.us/changelog/canvas/september-28-2026",
-    "summary": "Tags: api-release | Added new endpoints for Comment APIs.",
-    "date": "2026-09-28T00:00:00+00:00"
-  },
-  {
-    "id": "1fb5384f82a9fba4",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 5.9.0",
-    "link": "https://developers.zoom.us/changelog/contact-center/android/5.9.0",
-    "summary": "Tags: new-feature, sdk-version | Add support for passing user context from Android apps into Zoom Contact Center chat, Zoom Virtual Agent, and video engagements.",
-    "date": "2026-09-28T00:00:00+00:00"
   },
   {
     "id": "d8b5ba04215ef25a",
