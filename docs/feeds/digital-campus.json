@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "216814b46b3d0b34",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Use stock charts in Sheets to better visualize price movements",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/use-stock-charts-in-sheets-to-better-visualize-price-movements.html",
+    "summary": "Google Sheets now supports new types of stock charts, making it easier to visualize price movement over time. Stock charts condense several price points for each time period into a single marker, so you can read a security's full trading range at a glance rather than interpreting separate line...",
+    "date": "2026-10-05T20:42:28+00:00"
+  },
+  {
     "id": "c5089c4dcc7ec2ec",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/built-in-interoperability-between-Google-Meet-and-Microsoft-Teams-on-Android-AOSP-devices-now-generally-available.html",
     "summary": "We are making video conferencing device interoperability between Google Meet and Microsoft Teams generally available. It was previously available in preview. This launch will enable you to:Join Microsoft Teams meetings from Android (AOSP)-based Google Meet hardware devices.Join Google Meet meetings...",
     "date": "2026-10-01T19:34:11+00:00"
-  },
-  {
-    "id": "f9ef1db7ba35f467",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Find your learning tools all in one place with the student hub in Gemini",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/find-your-learning-tools-all-in-one-place-with-the-student-hub-in-Gemini.html",
-    "summary": "We recently announced a new, dedicated hub in the Gemini app to help get students started with all of Gemini's learning tools. Initially available in personal accounts, the Gemini student hub is now available to Google Workspace for Education users of all ages. The hub helps keep students...",
-    "date": "2026-10-01T16:22:17+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "f9ef1db7ba35f467",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Find your learning tools all in one place with the student hub in Gemini",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/find-your-learning-tools-all-in-one-place-with-the-student-hub-in-Gemini.html",
+    "summary": "We recently announced a new, dedicated hub in the Gemini app to help get students started with all of Gemini's learning tools. Initially available in personal accounts, the Gemini student hub is now available to Google Workspace for Education users of all ages. The hub helps keep students...",
+    "date": "2026-10-01T16:22:17+00:00"
+  },
+  {
     "id": "a42af6f9c318bf07",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
     "date": "2026-08-19T18:48:41.246217+00:00"
-  },
-  {
-    "id": "58fc460ab73f8a13",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "The Get design dataset API and Get brand template dataset API now return sheet data fields for autofillable tabular sheet data.",
-    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/designs/get-design-dataset/",
-    "summary": "",
-    "date": "2026-09-21T03:23:12.268982+00:00"
   }
 ]
