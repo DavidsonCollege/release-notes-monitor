@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "c5089c4dcc7ec2ec",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Preview, edit and collaborate on Markdown (.md) files natively across Drive and Docs",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/preview-edit-and-collaborate-on-Markdown-files-natively-across-Drive-and-Docs.html",
+    "summary": "We are introducing the ability to view, edit, and collaborate on Markdown (.md or .markdown) files directly in Google Docs, as well as view rendered previews in Google Drive.Markdown is a standard text format widely used by Large Language Models (LLMs) to preserve structured content, like tables,...",
+    "date": "2026-10-05T18:15:32+00:00"
+  },
+  {
     "id": "7862c2da045b4af5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/find-your-learning-tools-all-in-one-place-with-the-student-hub-in-Gemini.html",
     "summary": "We recently announced a new, dedicated hub in the Gemini app to help get students started with all of Gemini's learning tools. Initially available in personal accounts, the Gemini student hub is now available to Google Workspace for Education users of all ages. The hub helps keep students...",
     "date": "2026-10-01T16:22:17+00:00"
-  },
-  {
-    "id": "a42af6f9c318bf07",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Simple setup option for Workspace Client-side encryption",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/simple-setup-option-for-workspace-client-side-encryption.html",
-    "summary": "We are introducing a new option which can make the initial setup of Google Workspace Client-side encryption (CSE) significantly easier and faster for admins.CSE now supports a simple setup path in the Admin console which can help customers get up and running with CSE in minutes. By combining Cloud...",
-    "date": "2026-10-01T16:03:07+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "a42af6f9c318bf07",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Simple setup option for Workspace Client-side encryption",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/simple-setup-option-for-workspace-client-side-encryption.html",
+    "summary": "We are introducing a new option which can make the initial setup of Google Workspace Client-side encryption (CSE) significantly easier and faster for admins.CSE now supports a simple setup path in the Admin console which can help customers get up and running with CSE in minutes. By combining Cloud...",
+    "date": "2026-10-01T16:03:07+00:00"
+  },
+  {
     "id": "3b844d81e81a8177",
     "product_id": "macos",
     "product_name": "macOS",
@@ -988,15 +998,5 @@
     "link": "https://www.canva.dev/docs/apps/rest-apis/reference/designs/get-design-dataset/",
     "summary": "",
     "date": "2026-09-21T03:23:12.268982+00:00"
-  },
-  {
-    "id": "7dd9f9e5d46fcab2",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Probar Gemini",
-    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
-    "summary": "",
-    "date": "2026-09-30T04:22:50.037428+00:00"
   }
 ]
