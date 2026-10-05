@@ -768,7 +768,7 @@
       "name": "team-field-services",
       "is_private": false,
       "topic": "",
-      "num_members": 7
+      "num_members": 5
     },
     {
       "id": "C64R0G4UT",
@@ -1002,6 +1002,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-10-05T12:28:09.222904+00:00",
+  "last_updated": "2026-10-05T12:55:55.540557+00:00",
   "fetch_status": "success"
 }
