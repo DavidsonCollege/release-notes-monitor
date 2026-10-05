@@ -260,14 +260,14 @@
     "date": "2026-07-06T17:00:00+00:00"
   },
   {
-    "id": "3b844d81e81a8177",
+    "id": "5dea78a4253a32e6",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0.1 (26A434)",
-    "link": "https://developer.apple.com/news/releases/?id=09282026c",
-    "summary": "View downloads",
-    "date": "2026-09-28T17:00:00+00:00"
+    "title": "macOS 27.2 beta 3 (26B5101f)",
+    "link": "https://developer.apple.com/news/releases/?id=10052026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-10-05T18:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "3b844d81e81a8177",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 27.0.1 (26A434)",
+    "link": "https://developer.apple.com/news/releases/?id=09282026c",
+    "summary": "View downloads",
+    "date": "2026-09-28T17:00:00+00:00"
+  },
+  {
     "id": "6c694b45b6fcf1bc",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
     "summary": "",
     "date": "2026-09-30T04:22:50.037428+00:00"
-  },
-  {
-    "id": "3e39e455706a307a",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Qué: La app de Gemini ya está disponible en Windows. Presiona Alt + Espacio para abrir Gemini al instante desde cualquier lugar de tu PC cuando lo n",
-    "link": "https://gemini.google/desktop/",
-    "summary": "Qué: La app de Gemini ya está disponible en Windows. Presiona Alt + Espacio para abrir Gemini al instante desde cualquier lugar de tu PC cuando lo necesites. Puedes obtener respuestas rápidas, redactar mensajes y generar ideas junto con tus aplicaciones activas. Tienes acceso a todo lo que te...",
-    "date": "2026-09-30T04:22:50.037453+00:00"
   }
 ]
