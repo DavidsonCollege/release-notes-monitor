@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "7862c2da045b4af5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Secondary calendars will now follow the lifecycle of their owner",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/secondary-calendars-will-now-follow-the-lifecycle-of-their-owner.html",
+    "summary": "As announced earlier this year, we are now rolling out the secondary calendar lifecycle changes for non-personal Workspace accounts: secondary calendars will now follow the lifecycle of their owner, meaning that when a user account is deleted, any secondary calendars owned by that user will be...",
+    "date": "2026-10-05T17:16:27+00:00"
+  },
+  {
     "id": "e7635a5d3e20a71a",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/simple-setup-option-for-workspace-client-side-encryption.html",
     "summary": "We are introducing a new option which can make the initial setup of Google Workspace Client-side encryption (CSE) significantly easier and faster for admins.CSE now supports a simple setup path in the Admin console which can help customers get up and running with CSE in minutes. By combining Cloud...",
     "date": "2026-10-01T16:03:07+00:00"
-  },
-  {
-    "id": "6c694b45b6fcf1bc",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Programmatic comment and suggestion support now available in the Google Docs, Sheets, and Slides APIs",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/programmatic-comment-and-suggestion.html",
-    "summary": "Developers can now programmatically create, read, and manage comments across Google Docs, Sheets, and Slides using their respective developer APIs. In Google Docs, this update also introduces API support for suggested edits, allowing automated tools and third-party systems to propose document...",
-    "date": "2026-09-30T21:26:19+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "6c694b45b6fcf1bc",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Programmatic comment and suggestion support now available in the Google Docs, Sheets, and Slides APIs",
+    "link": "http://workspaceupdates.googleblog.com/2026/09/programmatic-comment-and-suggestion.html",
+    "summary": "Developers can now programmatically create, read, and manage comments across Google Docs, Sheets, and Slides using their respective developer APIs. In Google Docs, this update also introduces API support for suggested edits, allowing automated tools and third-party systems to propose document...",
+    "date": "2026-09-30T21:26:19+00:00"
+  },
+  {
     "id": "52f738cd5b52c231",
     "product_id": "slack",
     "product_name": "Slack",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google/desktop/",
     "summary": "Qué: La app de Gemini ya está disponible en Windows. Presiona Alt + Espacio para abrir Gemini al instante desde cualquier lugar de tu PC cuando lo necesites. Puedes obtener respuestas rápidas, redactar mensajes y generar ideas junto con tus aplicaciones activas. Tienes acceso a todo lo que te...",
     "date": "2026-09-30T04:22:50.037453+00:00"
-  },
-  {
-    "id": "40cb89b7f19466ed",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Por qué: Tu computadora es el lugar donde trabajas. Llevar Gemini directamente a tu PC con acceso instantáneo a través de un acceso directo te permi",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Por qué: Tu computadora es el lugar donde trabajas. Llevar Gemini directamente a tu PC con acceso instantáneo a través de un acceso directo te permite mantener tu flujo de trabajo, ya que te ayuda a obtener respuestas y crear imágenes junto con tus herramientas cotidianas de forma sencilla.",
-    "date": "2026-09-30T04:22:50.037471+00:00"
   }
 ]
