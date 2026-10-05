@@ -1,13 +1,13 @@
 [
   {
-    "id": "68bf4e06214d3b4d",
+    "id": "9b4a49c55cd1a750",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
+    "title": "1Password for Android",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "October 2 2026"
+    "date": "October 5 2026"
   },
   {
     "id": "87c02b09c4a21c48",
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "68bf4e06214d3b4d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "October 2 2026"
+  },
+  {
     "id": "f7ce6204bd90f8ac",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -858,16 +868,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
     "summary": "We recently introduced skills—reusable prompts that guide Gemini—in the Gemini app and Google Workspace. Over the coming weeks, skills will roll out to Workspace users and eventually replace Gems as the tool for tailoring instructions for specific tasks.Read on for more details on skills, plus...",
     "date": "2026-09-30T16:11:32+00:00"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "September 29 2026"
   },
   {
     "id": "ee3f8175d1f4a17c",
