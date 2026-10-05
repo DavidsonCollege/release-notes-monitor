@@ -450,6 +450,16 @@
     "date": "2026-09-10T20:16:17.385405+00:00"
   },
   {
+    "id": "c7a1fea287b26a8d",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.9.0",
+    "link": "https://docs.slack.dev/changelog/2026/10/02/slack-cli",
+    "summary": "Version 4.9.0 of the Slack CLI is here!",
+    "date": "2026-10-02T00:00:00+00:00"
+  },
+  {
     "id": "9f49c6e08241ea25",
     "product_id": "slack",
     "product_name": "Slack",
@@ -487,16 +497,6 @@
     "title": "The next wave of Agent messaging experience",
     "link": "https://docs.slack.dev/changelog/2026/08/20/agent-updates",
     "summary": "We're rolling out a wave of updates to agents on Slack, along with an important heads-up about the road ahead for the Assistant messaging experience.",
-    "date": "2026-08-20T00:00:00+00:00"
-  },
-  {
-    "id": "52f738cd5b52c231",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Announcing Slack Code",
-    "link": "https://docs.slack.dev/changelog/2026/08/20/slack-code",
-    "summary": "An agent can answer a question in a thread, but some tasks become bigger than a single question. A coding agent may need to implement a change, share a prototype, and iterate on it. A research agent may need to gather information and work through decisions with the people involved. This kind of...",
     "date": "2026-08-20T00:00:00+00:00"
   },
   {
@@ -738,6 +738,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Your desktop is where you get work done. Bringing Gemini straight to your PC with instant shortcut access keeps you in your flow, making it simple to get answers and create visuals right alongside your everyday tools.",
     "date": "2026-09-10T15:39:41.367136+00:00"
+  },
+  {
+    "id": "52f738cd5b52c231",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Announcing Slack Code",
+    "link": "https://docs.slack.dev/changelog/2026/08/20/slack-code",
+    "summary": "An agent can answer a question in a thread, but some tasks become bigger than a single question. A coding agent may need to implement a change, share a prototype, and iterate on it. A research agent may need to gather information and work through decisions with the people involved. This kind of...",
+    "date": "2026-08-20T00:00:00+00:00"
   },
   {
     "id": "68bf4e06214d3b4d",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Por qué: Tu computadora es el lugar donde trabajas. Llevar Gemini directamente a tu PC con acceso instantáneo a través de un acceso directo te permite mantener tu flujo de trabajo, ya que te ayuda a obtener respuestas y crear imágenes junto con tus herramientas cotidianas de forma sencilla.",
     "date": "2026-09-30T04:22:50.037471+00:00"
-  },
-  {
-    "id": "f16e5dd8784d90b8",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini Omni 1.1 Flash now in Vids with improved extension quality, 1080p, and duration control",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/gemini-omni-11-flash-now-in-vids-with-improved-extension-quality-1080p-and-duration-control.html",
-    "summary": "Users now have access to Gemini Omni 1.1 Flash directly within Google Vids. Omni 1.1 provides higher quality video extension with significant improvements in character and audio consistency. Additionally, Vids now supports generating AI videos and upscaling AI videos to 1080p to be publish...",
-    "date": "2026-09-23T19:02:00+00:00"
   }
 ]
