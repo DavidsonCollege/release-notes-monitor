@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "3e27f9f6d44746d1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Point-in-time editing now available in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/point-in-time-editing-now-available-in-Google-Vids.html",
+    "summary": "Google Vids is improving the video creation experience with the introduction of point-in-time editing. This feature will help ensure that the canvas matches the video timeline 1:1. Previously, the canvas displayed all elements present across an entire scene all at the same time, regardless of when...",
+    "date": "2026-10-06T19:40:59+00:00"
+  },
+  {
     "id": "670469bbddc682d5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/secondary-calendars-will-now-follow-the-lifecycle-of-their-owner.html",
     "summary": "As announced earlier this year, we are now rolling out the secondary calendar lifecycle changes for non-personal Workspace accounts: secondary calendars will now follow the lifecycle of their owner, meaning that when a user account is deleted, any secondary calendars owned by that user will be...",
     "date": "2026-10-05T17:16:27+00:00"
-  },
-  {
-    "id": "e7635a5d3e20a71a",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - October 2, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-02-2026.html",
-    "summary": "Create more natural, expressive AI voiceovers in Google Vids with upgraded Gemini 3.8 Flash Lite TTSWe are upgrading the underlying text-to-speech (TTS) engine powering AI voiceovers and avatar narration in Google Vids to the latest Gemini 3.8 Flash Lite TTS model. | Learn more.Introducing skills...",
-    "date": "2026-10-02T18:43:57+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "e7635a5d3e20a71a",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - October 2, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-02-2026.html",
+    "summary": "Create more natural, expressive AI voiceovers in Google Vids with upgraded Gemini 3.8 Flash Lite TTSWe are upgrading the underlying text-to-speech (TTS) engine powering AI voiceovers and avatar narration in Google Vids to the latest Gemini 3.8 Flash Lite TTS model. | Learn more.Introducing skills...",
+    "date": "2026-10-02T18:43:57+00:00"
+  },
+  {
     "id": "76bfe466a5a9fa43",
     "product_id": "scribe",
     "product_name": "Scribe",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/create-more-natural-expressive-ai-voiceovers-in-Google-Vids-with-upgraded-Gemini-3.8-Flash-Lite-TTS.html",
     "summary": "We are upgrading the underlying text-to-speech (TTS) engine powering AI voiceovers and avatar narration in Google Vids to the latest Gemini 3.8 Flash Lite TTS model.High-quality voiceover is essential for compelling video communication. With this model upgrade, Google Vids creators will...",
     "date": "2026-09-29T16:18:59+00:00"
-  },
-  {
-    "id": "a701930c8a6c9310",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - September 25, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-25-2026.html",
-    "summary": "Use AI to supercharge your financial analysis with Workday for Google SheetsUse AI to supercharge your financial analysis with Workday for Google Sheets Google Sheets Rapid Release Scheduled Release Workday for Google Sheets is a new add-on available in the Google Workspace Marketplace that...",
-    "date": "2026-09-25T19:00:43+00:00"
   }
 ]
