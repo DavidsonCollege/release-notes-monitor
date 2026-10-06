@@ -27,7 +27,7 @@
     "title": "October 02, 2026",
     "link": "https://help.adastra.live/hc/en-us/articles/54179578994708-October-02-2026",
     "summary": "",
-    "date": "2026-10-06T16:40:33Z"
+    "date": "2026-10-06T17:44:30Z"
   },
   {
     "id": "8afe7263b92d0200",
@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "670469bbddc682d5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create Trello cards from Google Chat messages with Trello for Google Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/create-trello-cards-from-google-chat-messages-with-Trello-for-Google-Workspace.html",
+    "summary": "Trello for Google Workspace makes it easy to capture tasks and ideas from the conversations where they begin. With the app, you can create new Trello cards from emails and Google Chat messages, helping you keep Trello up to date without switching tabs or breaking your flow.The refreshed app...",
+    "date": "2026-10-06T17:37:16+00:00"
+  },
+  {
     "id": "216814b46b3d0b34",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-02-2026.html",
     "summary": "Create more natural, expressive AI voiceovers in Google Vids with upgraded Gemini 3.8 Flash Lite TTSWe are upgrading the underlying text-to-speech (TTS) engine powering AI voiceovers and avatar narration in Google Vids to the latest Gemini 3.8 Flash Lite TTS model. | Learn more.Introducing skills...",
     "date": "2026-10-02T18:43:57+00:00"
-  },
-  {
-    "id": "5e30f2f8acb7cbb4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Built-in interoperability between Google Meet and Microsoft Teams on Android (AOSP) devices, now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/built-in-interoperability-between-Google-Meet-and-Microsoft-Teams-on-Android-AOSP-devices-now-generally-available.html",
-    "summary": "We are making video conferencing device interoperability between Google Meet and Microsoft Teams generally available. It was previously available in preview. This launch will enable you to:Join Microsoft Teams meetings from Android (AOSP)-based Google Meet hardware devices.Join Google Meet meetings...",
-    "date": "2026-10-01T19:34:11+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "5e30f2f8acb7cbb4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Built-in interoperability between Google Meet and Microsoft Teams on Android (AOSP) devices, now generally available",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/built-in-interoperability-between-Google-Meet-and-Microsoft-Teams-on-Android-AOSP-devices-now-generally-available.html",
+    "summary": "We are making video conferencing device interoperability between Google Meet and Microsoft Teams generally available. It was previously available in preview. This launch will enable you to:Join Microsoft Teams meetings from Android (AOSP)-based Google Meet hardware devices.Join Google Meet meetings...",
+    "date": "2026-10-01T19:34:11+00:00"
+  },
+  {
     "id": "590e939e149b43e2",
     "product_id": "canva",
     "product_name": "Canva",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/assign-temporary-administrator-roles-in-the-Google-Admin-console.html",
     "summary": "Admins can now assign administrator roles to users, groups, or service accounts for a defined period of time. Once the expiration time is reached, the access granted by the role is automatically revoked.This feature helps minimize security risks by reducing standing privileges and ambient access...",
     "date": "2026-09-23T21:23:09+00:00"
-  },
-  {
-    "id": "1d48e7a689257710",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: We’re introducing a dedicated student hub in the Gemini app to help students easily manage classes and create personalized study notebooks fro",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "What: We’re introducing a dedicated student hub in the Gemini app to help students easily manage classes and create personalized study notebooks from their own course materials like syllabi. Study notebooks—first launched on desktop in June—are now available on mobile to help students get...",
-    "date": "2026-08-19T18:48:41.246191+00:00"
   }
 ]

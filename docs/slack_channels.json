@@ -113,11 +113,25 @@
       "num_members": 2
     },
     {
+      "id": "C01BSRZ55JQ",
+      "name": "charter-leganto",
+      "is_private": false,
+      "topic": "",
+      "num_members": 5
+    },
+    {
       "id": "CCV121SGK",
       "name": "classroom_and_edtech",
       "is_private": false,
       "topic": "",
       "num_members": 8
+    },
+    {
+      "id": "C01Q2JR6F6Z",
+      "name": "client-davidson-college",
+      "is_private": false,
+      "topic": "",
+      "num_members": 24
     },
     {
       "id": "C02BTE9AC5D",
@@ -988,6 +1002,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-10-06T17:39:39.464015+00:00",
+  "last_updated": "2026-10-06T18:20:59.954639+00:00",
   "fetch_status": "success"
 }
