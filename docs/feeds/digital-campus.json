@@ -80,14 +80,14 @@
     "date": "2026-10-01T23:39:42.502088+00:00"
   },
   {
-    "id": "590e939e149b43e2",
+    "id": "1774f1b0c2390710",
     "product_id": "canva",
     "product_name": "Canva",
     "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "New preview APIs are available: Create design generation job v2 and Get design generation job v2. These APIs let you generate a Canva document or pres",
+    "title": "New preview APIs are available: Create design generation job API and Get design generation job API. These APIs let you generate a Canva document or pr",
     "link": "https://www.canva.dev/docs/apps/rest-apis/reference/generations/create-design-generation-job/",
-    "summary": "New preview APIs are available: Create design generation job v2 and Get design generation job v2. These APIs let you generate a Canva document or presentation from a text brief.",
-    "date": "2026-10-02T01:33:57.458812+00:00"
+    "summary": "New preview APIs are available: Create design generation job API and Get design generation job API. These APIs let you generate a Canva document or presentation from a text brief.",
+    "date": "2026-10-06T07:00:54.117763+00:00"
   },
   {
     "id": "f8a73266374a9790",
@@ -740,6 +740,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "590e939e149b43e2",
+    "product_id": "canva",
+    "product_name": "Canva",
+    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
+    "title": "New preview APIs are available: Create design generation job v2 and Get design generation job v2. These APIs let you generate a Canva document or pres",
+    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/generations/create-design-generation-job/",
+    "summary": "New preview APIs are available: Create design generation job v2 and Get design generation job v2. These APIs let you generate a Canva document or presentation from a text brief.",
+    "date": "2026-10-02T01:33:57.458812+00:00"
+  },
+  {
     "id": "f9ef1db7ba35f467",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "What: We’re introducing a dedicated student hub in the Gemini app to help students easily manage classes and create personalized study notebooks from their own course materials like syllabi. Study notebooks—first launched on desktop in June—are now available on mobile to help students get...",
     "date": "2026-08-19T18:48:41.246191+00:00"
-  },
-  {
-    "id": "44ae6dfce0aea52f",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a p",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: By bringing study notebooks to mobile, creating a centralized student hub, and providing a student plan, we are helping students learn with a personalized study partner.",
-    "date": "2026-08-19T18:48:41.246217+00:00"
   }
 ]
