@@ -410,44 +410,44 @@
     "date": "March 28, 2024"
   },
   {
-    "id": "76bfe466a5a9fa43",
+    "id": "b13a77d75ce13e7e",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Customize Optimize workflows to match how your team works",
+    "title": "Capture workflows automatically with Autocapture, no pressing start or stop.",
     "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
     "summary": "Loading... Loading...",
-    "date": "September 10, 2026"
+    "date": "October 6, 2026"
   },
   {
-    "id": "accbde209ebd5ae0",
+    "id": "0ee1d22a81fffb6c",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Customize Optimize workflows to match how your team works",
-    "link": "https://scribe.launchnotes.io/announcements/customize-optimize-workflows-to-match-how-your-team-works",
+    "title": "Capture workflows automatically with Autocapture, no pressing start or stop.",
+    "link": "https://scribe.launchnotes.io/announcements/capture-workflows-automatically-with-autocapture-no-pressing-start-or-stop",
     "summary": "Loading...",
-    "date": "September 10, 2026"
+    "date": "October 6, 2026"
   },
   {
-    "id": "452ba901a01755b1",
+    "id": "103c411d3112749e",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Optimize",
+    "title": "Capture workflows automatically with Autocapture, no pressing start or stop.",
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
-    "date": "2026-09-10T20:16:17.385384+00:00"
+    "date": "2026-10-06T20:19:57.190385+00:00"
   },
   {
-    "id": "25ba8f2c7ebb97ad",
+    "id": "771ce6896110061b",
     "product_id": "scribe",
     "product_name": "Scribe",
     "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Customize Optimize workflows to match how your team works",
+    "title": "What's new? Autocapture surfaces how work actually happens across your approved business apps and turns it into structured, ready-to-review Scr",
     "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-09-10T20:16:17.385405+00:00"
+    "summary": "What's new? Autocapture surfaces how work actually happens across your approved business apps and turns it into structured, ready-to-review Scribes and...",
+    "date": "2026-10-06T20:19:57.190404+00:00"
   },
   {
     "id": "c7a1fea287b26a8d",
@@ -740,6 +740,46 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "76bfe466a5a9fa43",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Customize Optimize workflows to match how your team works",
+    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
+    "summary": "Loading... Loading...",
+    "date": "September 10, 2026"
+  },
+  {
+    "id": "accbde209ebd5ae0",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Customize Optimize workflows to match how your team works",
+    "link": "https://scribe.launchnotes.io/announcements/customize-optimize-workflows-to-match-how-your-team-works",
+    "summary": "Loading...",
+    "date": "September 10, 2026"
+  },
+  {
+    "id": "452ba901a01755b1",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Optimize",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-09-10T20:16:17.385384+00:00"
+  },
+  {
+    "id": "25ba8f2c7ebb97ad",
+    "product_id": "scribe",
+    "product_name": "Scribe",
+    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
+    "title": "Customize Optimize workflows to match how your team works",
+    "link": "https://scribe.launchnotes.io/",
+    "summary": "",
+    "date": "2026-09-10T20:16:17.385405+00:00"
+  },
+  {
     "id": "5e30f2f8acb7cbb4",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -958,45 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/weekly-recap-09-25-2026.html",
     "summary": "Use AI to supercharge your financial analysis with Workday for Google SheetsUse AI to supercharge your financial analysis with Workday for Google Sheets Google Sheets Rapid Release Scheduled Release Workday for Google Sheets is a new add-on available in the Google Workspace Marketplace that...",
     "date": "2026-09-25T19:00:43+00:00"
-  },
-  {
-    "id": "85fa3f89a4f80853",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "September 24 2026"
-  },
-  {
-    "id": "fec6e6e8d7b6eb74",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "View up to three time zones in Google Calendar on the web",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/view-up-to-three-time-zones-in-google-Calendar-on-the-web.html",
-    "summary": "We’re making it easier to schedule and coordinate meetings across global teams by expanding time zone support in Google Calendar on the web. You can now configure and display up to three time zones—a primary, secondary, and new tertiary time zone—directly on your calendar grid. Previously, users...",
-    "date": "2026-09-25T16:37:17+00:00"
-  },
-  {
-    "id": "9f41d50efebce386",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Now in beta: Import and convert your PowerPoint files to client-side encrypted Slides",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/now-in-beta-import-and-convert-your.html",
-    "summary": "Eligible customers can now import PowerPoint files as client-side encrypted (CSE) Slides, allowing users to access and edit content. This enables interoperability with Microsoft Office, with this launch PowerPoint files are encrypted on the client before the content is imported to Workspace, and...",
-    "date": "2026-09-24T18:06:25+00:00"
-  },
-  {
-    "id": "6cbab0281c1482e3",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Assign temporary administrator roles in the Google Admin console",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/assign-temporary-administrator-roles-in-the-Google-Admin-console.html",
-    "summary": "Admins can now assign administrator roles to users, groups, or service accounts for a defined period of time. Once the expiration time is reached, the access granted by the role is automatically revoked.This feature helps minimize security risks by reducing standing privileges and ambient access...",
-    "date": "2026-09-23T21:23:09+00:00"
   }
 ]
