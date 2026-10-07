@@ -450,6 +450,16 @@
     "date": "2026-10-06T20:19:57.190404+00:00"
   },
   {
+    "id": "622b2c008f8877f3",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Slack Code for developers",
+    "link": "https://docs.slack.dev/changelog/2026/10/07/slack-code-for-devs",
+    "summary": "Slack Code enables even more collaboration between humans and agents in Slack by creating dedicated channels for deeper work. Agents can now create ephemeral channels from existing conversations, providing agents and their human collaborators a shared, visible place to work.",
+    "date": "2026-10-07T00:00:00+00:00"
+  },
+  {
     "id": "c7a1fea287b26a8d",
     "product_id": "slack",
     "product_name": "Slack",
@@ -488,16 +498,6 @@
     "link": "https://docs.slack.dev/changelog/2026/08/28/slack-cli",
     "summary": "Version 4.7.0 of the Slack CLI has been released!",
     "date": "2026-08-31T00:00:00+00:00"
-  },
-  {
-    "id": "7613252f36fcff97",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "The next wave of Agent messaging experience",
-    "link": "https://docs.slack.dev/changelog/2026/08/20/agent-updates",
-    "summary": "We're rolling out a wave of updates to agents on Slack, along with an important heads-up about the road ahead for the Assistant messaging experience.",
-    "date": "2026-08-20T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -738,6 +738,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Your desktop is where you get work done. Bringing Gemini straight to your PC with instant shortcut access keeps you in your flow, making it simple to get answers and create visuals right alongside your everyday tools.",
     "date": "2026-09-10T15:39:41.367136+00:00"
+  },
+  {
+    "id": "7613252f36fcff97",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "The next wave of Agent messaging experience",
+    "link": "https://docs.slack.dev/changelog/2026/08/20/agent-updates",
+    "summary": "We're rolling out a wave of updates to agents on Slack, along with an important heads-up about the road ahead for the Assistant messaging experience.",
+    "date": "2026-08-20T00:00:00+00:00"
   },
   {
     "id": "9b4a49c55cd1a750",
@@ -988,15 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "September 30 2026"
-  },
-  {
-    "id": "faea5aff341f79a0",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "New preview APIs are available: Create design generation job v2 and Get design generation job v2. These APIs let you generate a Canva document, presen",
-    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/generations/create-design-generation-job-v2/",
-    "summary": "New preview APIs are available: Create design generation job v2 and Get design generation job v2. These APIs let you generate a Canva document, presentation, or whiteboard from a text brief and optional images or brand templates.",
-    "date": "2026-09-30T06:31:25.537175+00:00"
   }
 ]
