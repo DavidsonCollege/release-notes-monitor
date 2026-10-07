@@ -690,14 +690,14 @@
     "date": "2026-09-22T00:00:00+00:00"
   },
   {
-    "id": "2005c82e484167da",
+    "id": "7dd9f9e5d46fcab2",
     "product_id": "gemini",
     "product_name": "Gemini",
     "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Try Gemini",
+    "title": "Probar Gemini",
     "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
     "summary": "",
-    "date": "2026-08-14T14:16:58.978118+00:00"
+    "date": "2026-10-07T14:44:44.166208+00:00"
   },
   {
     "id": "a4d0b145582bb304",
@@ -718,6 +718,36 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to help you spend less time prompting and more time doing. With skills, you can save your most-used instructions once and run them endlessly – so you can skip the repetitive prompting and jump straight to the results.",
     "date": "2026-09-30T16:21:55.619205+00:00"
+  },
+  {
+    "id": "3e39e455706a307a",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Qué: La app de Gemini ya está disponible en Windows. Presiona Alt + Espacio para abrir Gemini al instante desde cualquier lugar de tu PC cuando lo n",
+    "link": "https://gemini.google/desktop/",
+    "summary": "Qué: La app de Gemini ya está disponible en Windows. Presiona Alt + Espacio para abrir Gemini al instante desde cualquier lugar de tu PC cuando lo necesites. Puedes obtener respuestas rápidas, redactar mensajes y generar ideas junto con tus aplicaciones activas. Tienes acceso a todo lo que te...",
+    "date": "2026-10-07T14:44:44.166272+00:00"
+  },
+  {
+    "id": "40cb89b7f19466ed",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Por qué: Tu computadora es el lugar donde trabajas. Llevar Gemini directamente a tu PC con acceso instantáneo a través de un acceso directo te permi",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Por qué: Tu computadora es el lugar donde trabajas. Llevar Gemini directamente a tu PC con acceso instantáneo a través de un acceso directo te permite mantener tu flujo de trabajo, ya que te ayuda a obtener respuestas y crear imágenes junto con tus herramientas cotidianas de forma sencilla.",
+    "date": "2026-10-07T14:44:44.166282+00:00"
+  },
+  {
+    "id": "2005c82e484167da",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Try Gemini",
+    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
+    "summary": "",
+    "date": "2026-08-14T14:16:58.978118+00:00"
   },
   {
     "id": "0a7ded8ac4c47805",
@@ -968,35 +998,5 @@
     "link": "https://www.canva.dev/docs/apps/rest-apis/reference/generations/create-design-generation-job-v2/",
     "summary": "New preview APIs are available: Create design generation job v2 and Get design generation job v2. These APIs let you generate a Canva document, presentation, or whiteboard from a text brief and optional images or brand templates.",
     "date": "2026-09-30T06:31:25.537175+00:00"
-  },
-  {
-    "id": "d8b5ba04215ef25a",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "When using the Create design export job API to export a design as an MP4, the quality parameter is now a target number of pixels rather than a fixed",
-    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/exports/create-design-export-job/",
-    "summary": "When using the Create design export job API to export a design as an MP4, the quality parameter is now a target number of pixels rather than a fixed output size. The exported video keeps the design's own aspect ratio, so a design whose aspect ratio doesn't match the requested quality is no longer...",
-    "date": "2026-09-21T06:38:55.335756+00:00"
-  },
-  {
-    "id": "c3ac279e918bfa04",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Introducing skills in the Gemini app and Workspace, plus what’s next for Gems",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
-    "summary": "We recently introduced skills—reusable prompts that guide Gemini—in the Gemini app and Google Workspace. Over the coming weeks, skills will roll out to Workspace users and eventually replace Gems as the tool for tailoring instructions for specific tasks.Read on for more details on skills, plus...",
-    "date": "2026-09-30T16:11:32+00:00"
-  },
-  {
-    "id": "ee3f8175d1f4a17c",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create more natural, expressive AI voiceovers in Google Vids with upgraded Gemini 3.8 Flash Lite TTS",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/create-more-natural-expressive-ai-voiceovers-in-Google-Vids-with-upgraded-Gemini-3.8-Flash-Lite-TTS.html",
-    "summary": "We are upgrading the underlying text-to-speech (TTS) engine powering AI voiceovers and avatar narration in Google Vids to the latest Gemini 3.8 Flash Lite TTS model.High-quality voiceover is essential for compelling video communication. With this model upgrade, Google Vids creators will...",
-    "date": "2026-09-29T16:18:59+00:00"
   }
 ]
