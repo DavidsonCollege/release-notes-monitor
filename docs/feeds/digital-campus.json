@@ -550,6 +550,16 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "dc2569cbd0e1ee9b",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 7 October 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/10/07/announcing-new-builds-for-7-october-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels! Coming straight off the back of our Windows + Surface event, we have some exciting new features entering the Windows Inside The post Announcing new builds for 7 October 2026...",
+    "date": "2026-10-07T18:10:17+00:00"
+  },
+  {
     "id": "60064d266b183c91",
     "product_id": "windows",
     "product_name": "Windows",
@@ -588,16 +598,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/09/11/announcing-new-builds-for-11-september-2026/",
     "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta, Experimental, and Release Preview channels. New builds this week Select your channel below to view its release notes: B The post Announcing new builds for 11 September 2026 appeared first on Windows...",
     "date": "2026-09-11T17:11:03+00:00"
-  },
-  {
-    "id": "77c21f416234d302",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Release Preview Builds 26100.9539/26200.9539",
-    "link": "https://blogs.windows.com/windows-insider/2026/09/10/announcing-windows-11-release-preview-builds-26100-9539-26200-9539/",
-    "summary": "Hello Windows Insiders, Today we’re releasing build Builds 26100.9539/26200.9539 for Release Preview for Windows 11, version 24H2/25H2. Release notes can be found over in the Announcing Windows 11 Release Preview Builds 26100.9539/26200.9539 appeared first on Windows Insider Blog.",
-    "date": "2026-09-10T17:11:27+00:00"
   },
   {
     "id": "4452b7b2961849dc",
@@ -650,6 +650,46 @@
     "date": "2026-09-28T00:00:00+00:00"
   },
   {
+    "id": "9d2c5ca9fba32267",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Haiku 5.5 launch",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-10-07T00:00:00+00:00"
+  },
+  {
+    "id": "2a8bdf454f0a595d",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Haiku 5.5",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-10-07T00:00:00+00:00"
+  },
+  {
+    "id": "deff2c4b8b98a262",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Monthly API credits for Max and Team plans",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-10-07T00:00:00+00:00"
+  },
+  {
+    "id": "6f7bcfbcc4c8f38b",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Settings > Billing",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-10-07T00:00:00+00:00"
+  },
+  {
     "id": "7d2b228c217d7163",
     "product_id": "claude",
     "product_name": "Claude",
@@ -658,36 +698,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-09-28T00:00:00+00:00"
-  },
-  {
-    "id": "d8e8b4d565eaff36",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Introducing Claude Sonnet 5.5",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-28T00:00:00+00:00"
-  },
-  {
-    "id": "dbf0ac3ae4544cb3",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Build plugins for Claude",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-25T00:00:00+00:00"
-  },
-  {
-    "id": "df400e34bdefac20",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Opus 5.5 launch",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-22T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -738,6 +748,46 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Your desktop is where you get work done. Bringing Gemini straight to your PC with instant shortcut access keeps you in your flow, making it simple to get answers and create visuals right alongside your everyday tools.",
     "date": "2026-09-10T15:39:41.367136+00:00"
+  },
+  {
+    "id": "77c21f416234d302",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing Windows 11 Release Preview Builds 26100.9539/26200.9539",
+    "link": "https://blogs.windows.com/windows-insider/2026/09/10/announcing-windows-11-release-preview-builds-26100-9539-26200-9539/",
+    "summary": "Hello Windows Insiders, Today we’re releasing build Builds 26100.9539/26200.9539 for Release Preview for Windows 11, version 24H2/25H2. Release notes can be found over in the Announcing Windows 11 Release Preview Builds 26100.9539/26200.9539 appeared first on Windows Insider Blog.",
+    "date": "2026-09-10T17:11:27+00:00"
+  },
+  {
+    "id": "d8e8b4d565eaff36",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Introducing Claude Sonnet 5.5",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-28T00:00:00+00:00"
+  },
+  {
+    "id": "dbf0ac3ae4544cb3",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Build plugins for Claude",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-25T00:00:00+00:00"
+  },
+  {
+    "id": "df400e34bdefac20",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Opus 5.5 launch",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-22T00:00:00+00:00"
   },
   {
     "id": "7613252f36fcff97",
@@ -948,55 +998,5 @@
     "link": "https://gemini.google/desktop/",
     "summary": "Quoi : L'appli Gemini est maintenant offerte sur Windows. Appuyez sur Alt+Espace pour ouvrir instantanément Gemini n'importe où sur votre ordinateur chaque fois que vous en avez besoin. Vous pouvez obtenir des réponses rapides, rédiger des messages et faire du remue-méninges, le tout sans quitter...",
     "date": "2026-10-02T22:17:31.606338+00:00"
-  },
-  {
-    "id": "37a5f57cd1ccce54",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Pourquoi : Votre ordinateur est votre principal espace de travail. L'accès instantané à Gemini sur votre PC vous permet de garder le cap sur votre t",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Pourquoi : Votre ordinateur est votre principal espace de travail. L'accès instantané à Gemini sur votre PC vous permet de garder le cap sur votre travail, de trouver facilement des réponses et de créer des éléments visuels sans quitter les outils que vous utilisez tous les jours.",
-    "date": "2026-10-02T22:17:31.606347+00:00"
-  },
-  {
-    "id": "88fa4f199c0ee779",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Customize the style of your captions in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/customize-style-of-your-captions-in-Google-Vids.html",
-    "summary": "Captions in Google Vids are now fully customizable. Until now, captions came in a set style. You can now change their font and typography, where they sit on screen, and how they animate, so they match your brand or the look of your video.Captions make videos easier to follow when the sound is off...",
-    "date": "2026-09-30T19:53:44+00:00"
-  },
-  {
-    "id": "a2b9a252c3492a0d",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "August 28, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/53005059257876-August-28-2026",
-    "summary": "",
-    "date": "2026-09-02T13:25:51Z"
-  },
-  {
-    "id": "b1c187f70824aab2",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 8 September 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/09/08/announcing-new-builds-for-8-september-2026/",
-    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 8 September 2026 appeared first on Windows Insider Blog.",
-    "date": "2026-09-08T17:05:10+00:00"
-  },
-  {
-    "id": "5a1ea089b4372fc7",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password SaaS Manager",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "September 30 2026"
   }
 ]

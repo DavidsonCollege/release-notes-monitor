@@ -866,7 +866,7 @@
       "name": "temp-papercut-upgrade-woes",
       "is_private": false,
       "topic": "",
-      "num_members": 4
+      "num_members": 3
     },
     {
       "id": "C3D661EVA",
@@ -1002,6 +1002,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-10-07T17:41:59.265871+00:00",
+  "last_updated": "2026-10-07T18:22:03.750814+00:00",
   "fetch_status": "success"
 }
