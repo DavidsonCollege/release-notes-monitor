@@ -1,13 +1,13 @@
 [
   {
-    "id": "68bf4e06214d3b4d",
+    "id": "85fa3f89a4f80853",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
+    "title": "1Password CLI Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "October 7 2026"
+    "date": "October 8 2026"
   },
   {
     "id": "87c02b09c4a21c48",
@@ -750,6 +750,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "68bf4e06214d3b4d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "October 7 2026"
+  },
+  {
     "id": "7862c2da045b4af5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/09/programmatic-comment-and-suggestion.html",
     "summary": "Developers can now programmatically create, read, and manage comments across Google Docs, Sheets, and Slides using their respective developer APIs. In Google Docs, this update also introduces API support for suggested edits, allowing automated tools and third-party systems to propose document...",
     "date": "2026-09-30T21:26:19+00:00"
-  },
-  {
-    "id": "52f738cd5b52c231",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Announcing Slack Code",
-    "link": "https://docs.slack.dev/changelog/2026/08/20/slack-code",
-    "summary": "An agent can answer a question in a thread, but some tasks become bigger than a single question. A coding agent may need to implement a change, share a prototype, and iterate on it. A research agent may need to gather information and work through decisions with the people involved. This kind of...",
-    "date": "2026-08-20T00:00:00+00:00"
   }
 ]
