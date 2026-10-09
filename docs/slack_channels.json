@@ -267,6 +267,13 @@
       "num_members": 28
     },
     {
+      "id": "C0C86FQJR52",
+      "name": "incident-eduroam-connection-issues",
+      "is_private": false,
+      "topic": "",
+      "num_members": 1
+    },
+    {
       "id": "C07QZEBRGFL",
       "name": "integration-testing",
       "is_private": false,
@@ -1002,6 +1009,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-10-09T13:44:16.726310+00:00",
+  "last_updated": "2026-10-09T14:18:38.792798+00:00",
   "fetch_status": "success"
 }
