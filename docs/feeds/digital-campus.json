@@ -20,6 +20,16 @@
     "date": "2026-08-20T17:11:45.962622+00:00"
   },
   {
+    "id": "b60bc5ebea9429a0",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "October 9, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/54424548700820-October-9-2026",
+    "summary": "",
+    "date": "2026-10-09T19:21:25Z"
+  },
+  {
     "id": "93e59d2240cf9c12",
     "product_id": "ad-astra",
     "product_name": "Ad Astra",
@@ -58,16 +68,6 @@
     "link": "https://help.adastra.live/hc/en-us/articles/53476248689172-September-11-2026",
     "summary": "",
     "date": "2026-09-11T15:52:27Z"
-  },
-  {
-    "id": "955840806905a111",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "September 04, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/53264707434644-September-04-2026",
-    "summary": "",
-    "date": "2026-09-04T19:13:40Z"
   },
   {
     "id": "a8d10664dbe6e48b",
@@ -120,6 +120,26 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "6aee34ad0ca9c2ea",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - October 9, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-09-2026.html",
+    "summary": "Secondary calendars will now follow the lifecycle of their ownerAs announced earlier this year, we are now rolling out the secondary calendar lifecycle changes for non-personal Workspace accounts: secondary calendars will now follow the lifecycle of their owner, meaning that when a user account is...",
+    "date": "2026-10-09T19:13:14+00:00"
+  },
+  {
+    "id": "5c7418b1b691c8c4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New logic and search steps in Workspace Studio help expand automation capabilities",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/new-logic-and-search-steps-in-workspace-Studio-help-expand-automation-capabilities.html",
+    "summary": "We are introducing several new feature enhancements to Google Workspace Studio as part of the October 2026 feature release. These additions expand automation capabilities across Gmail, Google Meet, Google Drive, and custom control logic, giving users more flexibility to build sophisticated...",
+    "date": "2026-10-09T17:55:30+00:00"
+  },
+  {
     "id": "1cdb82dd459afee0",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/create-trello-cards-from-google-chat-messages-with-Trello-for-Google-Workspace.html",
     "summary": "Trello for Google Workspace makes it easy to capture tasks and ideas from the conversations where they begin. With the app, you can create new Trello cards from emails and Google Chat messages, helping you keep Trello up to date without switching tabs or breaking your flow.The refreshed app...",
     "date": "2026-10-06T17:37:16+00:00"
-  },
-  {
-    "id": "216814b46b3d0b34",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use stock charts in Sheets to better visualize price movements",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/use-stock-charts-in-sheets-to-better-visualize-price-movements.html",
-    "summary": "Google Sheets now supports new types of stock charts, making it easier to visualize price movement over time. Stock charts condense several price points for each time period into a single marker, so you can read a security's full trading range at a glance rather than interpreting separate line...",
-    "date": "2026-10-05T20:42:28+00:00"
-  },
-  {
-    "id": "c5089c4dcc7ec2ec",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Preview, edit and collaborate on Markdown (.md) files natively across Drive and Docs",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/preview-edit-and-collaborate-on-Markdown-files-natively-across-Drive-and-Docs.html",
-    "summary": "We are introducing the ability to view, edit, and collaborate on Markdown (.md or .markdown) files directly in Google Docs, as well as view rendered previews in Google Drive.Markdown is a standard text format widely used by Large Language Models (LLMs) to preserve structured content, like tables,...",
-    "date": "2026-10-05T18:15:32+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -736,7 +736,7 @@
     "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
     "title": "What: The Gemini app is now available on Windows. Press Alt + Space to summon Gemini instantly from anywhere on your PC whenever you need it. You ca",
     "link": "https://gemini.google/desktop/",
-    "summary": "What: The Gemini app is now available on Windows. Press Alt + Space to summon Gemini instantly from anywhere on your PC whenever you need it. You can get quick answers, draft messages, and brainstorm ideas right alongside your active applications. Inside your dedicated desktop workspace, you have...",
+    "summary": "What: The Gemini app is now available on Windows. Press Alt + Space to summon Gemini instantly from anywhere on your PC whenever you need it. You can get quick answers, draft messages and brainstorm ideas right alongside your active applications. Inside your dedicated desktop workspace, you have...",
     "date": "2026-09-10T15:39:41.367114+00:00"
   },
   {
@@ -748,6 +748,36 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: Your desktop is where you get work done. Bringing Gemini straight to your PC with instant shortcut access keeps you in your flow, making it simple to get answers and create visuals right alongside your everyday tools.",
     "date": "2026-09-10T15:39:41.367136+00:00"
+  },
+  {
+    "id": "955840806905a111",
+    "product_id": "ad-astra",
+    "product_name": "Ad Astra",
+    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
+    "title": "September 04, 2026",
+    "link": "https://help.adastra.live/hc/en-us/articles/53264707434644-September-04-2026",
+    "summary": "",
+    "date": "2026-09-04T19:13:40Z"
+  },
+  {
+    "id": "216814b46b3d0b34",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Use stock charts in Sheets to better visualize price movements",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/use-stock-charts-in-sheets-to-better-visualize-price-movements.html",
+    "summary": "Google Sheets now supports new types of stock charts, making it easier to visualize price movement over time. Stock charts condense several price points for each time period into a single marker, so you can read a security's full trading range at a glance rather than interpreting separate line...",
+    "date": "2026-10-05T20:42:28+00:00"
+  },
+  {
+    "id": "c5089c4dcc7ec2ec",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Preview, edit and collaborate on Markdown (.md) files natively across Drive and Docs",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/preview-edit-and-collaborate-on-Markdown-files-natively-across-Drive-and-Docs.html",
+    "summary": "We are introducing the ability to view, edit, and collaborate on Markdown (.md or .markdown) files directly in Google Docs, as well as view rendered previews in Google Drive.Markdown is a standard text format widely used by Large Language Models (LLMs) to preserve structured content, like tables,...",
+    "date": "2026-10-05T18:15:32+00:00"
   },
   {
     "id": "14ad73a3673252a0",
@@ -968,35 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/find-your-learning-tools-all-in-one-place-with-the-student-hub-in-Gemini.html",
     "summary": "We recently announced a new, dedicated hub in the Gemini app to help get students started with all of Gemini's learning tools. Initially available in personal accounts, the Gemini student hub is now available to Google Workspace for Education users of all ages. The hub helps keep students...",
     "date": "2026-10-01T16:22:17+00:00"
-  },
-  {
-    "id": "a42af6f9c318bf07",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Simple setup option for Workspace Client-side encryption",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/simple-setup-option-for-workspace-client-side-encryption.html",
-    "summary": "We are introducing a new option which can make the initial setup of Google Workspace Client-side encryption (CSE) significantly easier and faster for admins.CSE now supports a simple setup path in the Admin console which can help customers get up and running with CSE in minutes. By combining Cloud...",
-    "date": "2026-10-01T16:03:07+00:00"
-  },
-  {
-    "id": "3b844d81e81a8177",
-    "product_id": "macos",
-    "product_name": "macOS",
-    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.0.1 (26A434)",
-    "link": "https://developer.apple.com/news/releases/?id=09282026c",
-    "summary": "View downloads",
-    "date": "2026-09-28T17:00:00+00:00"
-  },
-  {
-    "id": "6c694b45b6fcf1bc",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Programmatic comment and suggestion support now available in the Google Docs, Sheets, and Slides APIs",
-    "link": "http://workspaceupdates.googleblog.com/2026/09/programmatic-comment-and-suggestion.html",
-    "summary": "Developers can now programmatically create, read, and manage comments across Google Docs, Sheets, and Slides using their respective developer APIs. In Google Docs, this update also introduces API support for suggested edits, allowing automated tools and third-party systems to propose document...",
-    "date": "2026-09-30T21:26:19+00:00"
   }
 ]
