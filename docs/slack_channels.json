@@ -803,7 +803,7 @@
       "name": "team-oracle-operations",
       "is_private": false,
       "topic": "",
-      "num_members": 14
+      "num_members": 15
     },
     {
       "id": "C0BEGST8GLV",
@@ -1009,6 +1009,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-10-09T17:40:30.271258+00:00",
+  "last_updated": "2026-10-09T18:21:01.652622+00:00",
   "fetch_status": "success"
 }
