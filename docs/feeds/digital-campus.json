@@ -120,6 +120,26 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "7b01a7dd681f5c18",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Find your routine next steps on the post-meeting screen in Google Meet",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+    "summary": "We are introducing next steps in Google Meet. Powered by Gemini and Workspace Studio, our new capability allows users to automate repetitive post-meeting tasks directly within Google Workspace. Next steps help you transform meeting discussions into definitive actions, like drafting follow-up emails...",
+    "date": "2026-10-12T19:17:43+00:00"
+  },
+  {
+    "id": "a78bae7de5f07c82",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Configure Access Management and Access Approvals policies using classification labels with rules in Assured Controls",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/configure-access-management-and-access-Approvals-policies-using-classification-labels-with-rules-in-Assured-Controls.html",
+    "summary": "We’re introducing Assured Controls rules in the Google Workspace Admin Console, giving administrators a more granular, resource-centric way to enforce Access Management and Access Approvals policies on Google Drive files.Previously, Access Management and Access Approvals policies could only be...",
+    "date": "2026-10-12T18:28:27+00:00"
+  },
+  {
     "id": "251f17edc1e10249",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/new-logic-and-search-steps-in-workspace-Studio-help-expand-automation-capabilities.html",
     "summary": "We are introducing several new feature enhancements to Google Workspace Studio as part of the October 2026 feature release. These additions expand automation capabilities across Gmail, Google Meet, Google Drive, and custom control logic, giving users more flexibility to build sophisticated...",
     "date": "2026-10-09T17:55:30+00:00"
-  },
-  {
-    "id": "1cdb82dd459afee0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Carrier Link for Google Voice available in 14 additional countries",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/carrier-link-for-google-voice-available-in-14-additional-countries.html",
-    "summary": "In June, we launched Carrier Link in 20 countries where Google Voice service was not otherwise available. Today, we are making Carrier Link available in an additional 14 countries (the US, Canada, and much of Europe). Previously, customers in these countries could purchase Google Voice with a first...",
-    "date": "2026-10-08T15:34:24+00:00"
-  },
-  {
-    "id": "3e27f9f6d44746d1",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Point-in-time editing now available in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/point-in-time-editing-now-available-in-Google-Vids.html",
-    "summary": "Google Vids is improving the video creation experience with the introduction of point-in-time editing. This feature will help ensure that the canvas matches the video timeline 1:1. Previously, the canvas displayed all elements present across an entire scene all at the same time, regardless of when...",
-    "date": "2026-10-06T19:40:59+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,26 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "1cdb82dd459afee0",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Carrier Link for Google Voice available in 14 additional countries",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/carrier-link-for-google-voice-available-in-14-additional-countries.html",
+    "summary": "In June, we launched Carrier Link in 20 countries where Google Voice service was not otherwise available. Today, we are making Carrier Link available in an additional 14 countries (the US, Canada, and much of Europe). Previously, customers in these countries could purchase Google Voice with a first...",
+    "date": "2026-10-08T15:34:24+00:00"
+  },
+  {
+    "id": "3e27f9f6d44746d1",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Point-in-time editing now available in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/point-in-time-editing-now-available-in-Google-Vids.html",
+    "summary": "Google Vids is improving the video creation experience with the introduction of point-in-time editing. This feature will help ensure that the canvas matches the video timeline 1:1. Previously, the canvas displayed all elements present across an entire scene all at the same time, regardless of when...",
+    "date": "2026-10-06T19:40:59+00:00"
+  },
+  {
     "id": "670469bbddc682d5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "https://scribe.launchnotes.io/",
     "summary": "",
     "date": "2026-09-10T20:16:17.385384+00:00"
-  },
-  {
-    "id": "25ba8f2c7ebb97ad",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Customize Optimize workflows to match how your team works",
-    "link": "https://scribe.launchnotes.io/",
-    "summary": "",
-    "date": "2026-09-10T20:16:17.385405+00:00"
-  },
-  {
-    "id": "5e30f2f8acb7cbb4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Built-in interoperability between Google Meet and Microsoft Teams on Android (AOSP) devices, now generally available",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/built-in-interoperability-between-Google-Meet-and-Microsoft-Teams-on-Android-AOSP-devices-now-generally-available.html",
-    "summary": "We are making video conferencing device interoperability between Google Meet and Microsoft Teams generally available. It was previously available in preview. This launch will enable you to:Join Microsoft Teams meetings from Android (AOSP)-based Google Meet hardware devices.Join Google Meet meetings...",
-    "date": "2026-10-01T19:34:11+00:00"
   }
 ]
