@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "251f17edc1e10249",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Meet now uses post-quantum cryptography",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/google-meet-now-uses-post-quantum-cryptography.html",
+    "summary": "Calls in Google Meet will use post-quantum cryptography (PQC) for extra protection, starting now with laptop web clients and meeting room hardware, with mobile support coming soon. There are no visible changes, and you can continue using Meet normally. The updated encryption protects your data...",
+    "date": "2026-10-12T15:54:33+00:00"
+  },
+  {
     "id": "6aee34ad0ca9c2ea",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/point-in-time-editing-now-available-in-Google-Vids.html",
     "summary": "Google Vids is improving the video creation experience with the introduction of point-in-time editing. This feature will help ensure that the canvas matches the video timeline 1:1. Previously, the canvas displayed all elements present across an entire scene all at the same time, regardless of when...",
     "date": "2026-10-06T19:40:59+00:00"
-  },
-  {
-    "id": "670469bbddc682d5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create Trello cards from Google Chat messages with Trello for Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/create-trello-cards-from-google-chat-messages-with-Trello-for-Google-Workspace.html",
-    "summary": "Trello for Google Workspace makes it easy to capture tasks and ideas from the conversations where they begin. With the app, you can create new Trello cards from emails and Google Chat messages, helping you keep Trello up to date without switching tabs or breaking your flow.The refreshed app...",
-    "date": "2026-10-06T17:37:16+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-09-10T15:39:41.367136+00:00"
   },
   {
+    "id": "670469bbddc682d5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create Trello cards from Google Chat messages with Trello for Google Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/create-trello-cards-from-google-chat-messages-with-Trello-for-Google-Workspace.html",
+    "summary": "Trello for Google Workspace makes it easy to capture tasks and ideas from the conversations where they begin. With the app, you can create new Trello cards from emails and Google Chat messages, helping you keep Trello up to date without switching tabs or breaking your flow.The refreshed app...",
+    "date": "2026-10-06T17:37:16+00:00"
+  },
+  {
     "id": "11333264bfc0aec6",
     "product_id": "papercut",
     "product_name": "PaperCut",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/built-in-interoperability-between-Google-Meet-and-Microsoft-Teams-on-Android-AOSP-devices-now-generally-available.html",
     "summary": "We are making video conferencing device interoperability between Google Meet and Microsoft Teams generally available. It was previously available in preview. This launch will enable you to:Join Microsoft Teams meetings from Android (AOSP)-based Google Meet hardware devices.Join Google Meet meetings...",
     "date": "2026-10-01T19:34:11+00:00"
-  },
-  {
-    "id": "590e939e149b43e2",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "New preview APIs are available: Create design generation job v2 and Get design generation job v2. These APIs let you generate a Canva document or pres",
-    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/generations/create-design-generation-job/",
-    "summary": "New preview APIs are available: Create design generation job v2 and Get design generation job v2. These APIs let you generate a Canva document or presentation from a text brief.",
-    "date": "2026-10-02T01:33:57.458812+00:00"
   }
 ]
