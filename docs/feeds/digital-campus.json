@@ -450,6 +450,16 @@
     "date": "2026-10-06T20:19:57.190404+00:00"
   },
   {
+    "id": "32967ddf99aa6dc9",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.10.0",
+    "link": "https://docs.slack.dev/changelog/2026/10/13/slack-cli",
+    "summary": "Version 4.10.0 of the developer tools for the Slack platform has landed!",
+    "date": "2026-10-13T00:00:00+00:00"
+  },
+  {
     "id": "622b2c008f8877f3",
     "product_id": "slack",
     "product_name": "Slack",
@@ -488,16 +498,6 @@
     "link": "https://docs.slack.dev/changelog/2026/09/01/slack-marketplace-install-requirement",
     "summary": "As of July 2026, we require that apps submitting to the Slack Marketplace have at least 10 installations on active workspaces, up from the temporary lower threshold. Your app needs to stay at 10 or more installed workspaces throughout the entire duration of the review.",
     "date": "2026-09-01T00:00:00+00:00"
-  },
-  {
-    "id": "d9767bd9dcae2b7d",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.7.0",
-    "link": "https://docs.slack.dev/changelog/2026/08/28/slack-cli",
-    "summary": "Version 4.7.0 of the Slack CLI has been released!",
-    "date": "2026-08-31T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -750,6 +750,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "d9767bd9dcae2b7d",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.7.0",
+    "link": "https://docs.slack.dev/changelog/2026/08/28/slack-cli",
+    "summary": "Version 4.7.0 of the Slack CLI has been released!",
+    "date": "2026-08-31T00:00:00+00:00"
+  },
+  {
     "id": "a4d0b145582bb304",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -988,15 +998,5 @@
     "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
     "summary": "",
     "date": "2026-10-07T14:44:44.166208+00:00"
-  },
-  {
-    "id": "3e39e455706a307a",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Qué: La app de Gemini ya está disponible en Windows. Presiona Alt + Espacio para abrir Gemini al instante desde cualquier lugar de tu PC cuando lo n",
-    "link": "https://gemini.google/desktop/",
-    "summary": "Qué: La app de Gemini ya está disponible en Windows. Presiona Alt + Espacio para abrir Gemini al instante desde cualquier lugar de tu PC cuando lo necesites. Puedes obtener respuestas rápidas, redactar mensajes y generar ideas junto con tus aplicaciones activas. Tienes acceso a todo lo que te...",
-    "date": "2026-10-07T14:44:44.166272+00:00"
   }
 ]
