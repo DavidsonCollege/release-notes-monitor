@@ -710,6 +710,46 @@
     "date": "2026-08-14T14:16:58.978118+00:00"
   },
   {
+    "id": "e4609627f6b38519",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: We want to make Gemini the most helpful AI assistant for everyone. With the frontier performance of Gemini 4 Argon, you can now turn your most",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: We want to make Gemini the most helpful AI assistant for everyone. With the frontier performance of Gemini 4 Argon, you can now turn your most ambitious ideas into real projects.",
+    "date": "2026-10-13T16:21:16.896818+00:00"
+  },
+  {
+    "id": "bd81d8a8bdc399e7",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: Google Antigravity is now built into the Gemini macOS app, so go straight from brainstorming in chat to coding apps, building web experiences,",
+    "link": "https://gemini.google/desktop/",
+    "summary": "What: Google Antigravity is now built into the Gemini macOS app, so go straight from brainstorming in chat to coding apps, building web experiences, and prototyping ideas. Spin up a coding agent in Antigravity, approve its plan, and head right back to your Gemini chat. The agent builds and tests...",
+    "date": "2026-10-13T16:21:16.896840+00:00"
+  },
+  {
+    "id": "9e35f4ccab2a906c",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: We want to help you turn ambitious ideas into working code and prototypes faster, right where you already work on your Mac. With Antigravity bu",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: We want to help you turn ambitious ideas into working code and prototypes faster, right where you already work on your Mac. With Antigravity built into the Gemini app, you get an agentic coding partner that plans, builds, and verifies complex code, making it easier to bring your projects to...",
+    "date": "2026-10-13T16:21:16.896847+00:00"
+  },
+  {
+    "id": "4b76b3bb6505f022",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: We want to make Gemini work the way you do. By bringing your favorite apps and custom skills together in a single conversation, Gemini helps yo",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: We want to make Gemini work the way you do. By bringing your favorite apps and custom skills together in a single conversation, Gemini helps you skip the context switching and get more done, faster and easier. Customize is rolling out globally across web, mobile, and the Gemini desktop app on...",
+    "date": "2026-10-13T16:21:16.896852+00:00"
+  },
+  {
     "id": "a4d0b145582bb304",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -958,45 +998,5 @@
     "link": "https://gemini.google/desktop/",
     "summary": "Qué: La app de Gemini ya está disponible en Windows. Presiona Alt + Espacio para abrir Gemini al instante desde cualquier lugar de tu PC cuando lo necesites. Puedes obtener respuestas rápidas, redactar mensajes y generar ideas junto con tus aplicaciones activas. Tienes acceso a todo lo que te...",
     "date": "2026-10-07T14:44:44.166272+00:00"
-  },
-  {
-    "id": "40cb89b7f19466ed",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Por qué: Tu computadora es el lugar donde trabajas. Llevar Gemini directamente a tu PC con acceso instantáneo a través de un acceso directo te permi",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Por qué: Tu computadora es el lugar donde trabajas. Llevar Gemini directamente a tu PC con acceso instantáneo a través de un acceso directo te permite mantener tu flujo de trabajo, ya que te ayuda a obtener respuestas y crear imágenes junto con tus herramientas cotidianas de forma sencilla.",
-    "date": "2026-10-07T14:44:44.166282+00:00"
-  },
-  {
-    "id": "e7635a5d3e20a71a",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - October 2, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-02-2026.html",
-    "summary": "Create more natural, expressive AI voiceovers in Google Vids with upgraded Gemini 3.8 Flash Lite TTSWe are upgrading the underlying text-to-speech (TTS) engine powering AI voiceovers and avatar narration in Google Vids to the latest Gemini 3.8 Flash Lite TTS model. | Learn more.Introducing skills...",
-    "date": "2026-10-02T18:43:57+00:00"
-  },
-  {
-    "id": "76bfe466a5a9fa43",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Customize Optimize workflows to match how your team works",
-    "link": "https://www.launchnotes.com/powered-by?company=ScribeHow&utm_campaign=https%3A%2F%2Fscribe.launchnotes.io%2F&utm_content=project-release-index&utm_medium=powered-by&utm_source=in-app",
-    "summary": "Loading... Loading...",
-    "date": "September 10, 2026"
-  },
-  {
-    "id": "accbde209ebd5ae0",
-    "product_id": "scribe",
-    "product_name": "Scribe",
-    "icon_url": "https://www.google.com/s2/favicons?domain=scribehow.com&sz=64",
-    "title": "Customize Optimize workflows to match how your team works",
-    "link": "https://scribe.launchnotes.io/announcements/customize-optimize-workflows-to-match-how-your-team-works",
-    "summary": "Loading...",
-    "date": "September 10, 2026"
   }
 ]
