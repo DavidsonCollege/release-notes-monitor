@@ -550,6 +550,56 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "dc2569cbd0e1ee9b",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 7 October 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/10/07/announcing-new-builds-for-7-october-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels! Coming straight off the back of our Windows + Surface event, we have some exciting new features entering the Windows Inside The post Announcing new builds for 7 October 2026...",
+    "date": "2026-10-07T18:10:17+00:00"
+  },
+  {
+    "id": "60064d266b183c91",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 2 October 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/10/02/announcing-new-builds-for-2-october-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 2 October 2026 appeared first on Windows Insider Blog.",
+    "date": "2026-10-02T17:04:36+00:00"
+  },
+  {
+    "id": "9adf5aece095f7d0",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 25 September 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/09/25/announcing-new-builds-for-25-september-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 25 September 2026 appeared first on Windows Insider Blog.",
+    "date": "2026-09-25T17:02:08+00:00"
+  },
+  {
+    "id": "09a5c880dcda5cb5",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 18 September 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/09/18/announcing-new-builds-for-18-september-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 18 September 2026 appeared first on Windows Insider Blog.",
+    "date": "2026-09-18T17:02:07+00:00"
+  },
+  {
+    "id": "6a0b9c8fe613a488",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 11 September 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/09/11/announcing-new-builds-for-11-september-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta, Experimental, and Release Preview channels. New builds this week Select your channel below to view its release notes: B The post Announcing new builds for 11 September 2026 appeared first on Windows...",
+    "date": "2026-09-11T17:11:03+00:00"
+  },
+  {
     "id": "4452b7b2961849dc",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -738,56 +788,6 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "October 12 2026"
-  },
-  {
-    "id": "dc2569cbd0e1ee9b",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 7 October 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/10/07/announcing-new-builds-for-7-october-2026/",
-    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels! Coming straight off the back of our Windows + Surface event, we have some exciting new features entering the Windows Inside The post Announcing new builds for 7 October 2026...",
-    "date": "2026-10-07T18:10:17+00:00"
-  },
-  {
-    "id": "60064d266b183c91",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 2 October 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/10/02/announcing-new-builds-for-2-october-2026/",
-    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 2 October 2026 appeared first on Windows Insider Blog.",
-    "date": "2026-10-02T17:04:36+00:00"
-  },
-  {
-    "id": "9adf5aece095f7d0",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 25 September 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/09/25/announcing-new-builds-for-25-september-2026/",
-    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 25 September 2026 appeared first on Windows Insider Blog.",
-    "date": "2026-09-25T17:02:08+00:00"
-  },
-  {
-    "id": "09a5c880dcda5cb5",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 18 September 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/09/18/announcing-new-builds-for-18-september-2026/",
-    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 18 September 2026 appeared first on Windows Insider Blog.",
-    "date": "2026-09-18T17:02:07+00:00"
-  },
-  {
-    "id": "6a0b9c8fe613a488",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 11 September 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/09/11/announcing-new-builds-for-11-september-2026/",
-    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta, Experimental, and Release Preview channels. New builds this week Select your channel below to view its release notes: B The post Announcing new builds for 11 September 2026 appeared first on Windows...",
-    "date": "2026-09-11T17:11:03+00:00"
   },
   {
     "id": "d9767bd9dcae2b7d",
