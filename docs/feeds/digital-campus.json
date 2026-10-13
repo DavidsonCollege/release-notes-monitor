@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "78701870dda5cb40",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Switch from live stream viewer to contributor in Google Meet on Android",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/switch-from-live-stream-viewer-to-contributor-in-Google-Meet-on-Android.html",
+    "summary": "You can now switch from watching a Google Meet live stream to participating with audio and video directly on Android. This feature is available for viewers who have been invited to both the live stream and the main meeting.While watching a live stream on Android, you can switch roles using the...",
+    "date": "2026-10-13T19:19:34+00:00"
+  },
+  {
     "id": "7b01a7dd681f5c18",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-09-2026.html",
     "summary": "Secondary calendars will now follow the lifecycle of their ownerAs announced earlier this year, we are now rolling out the secondary calendar lifecycle changes for non-personal Workspace accounts: secondary calendars will now follow the lifecycle of their owner, meaning that when a user account is...",
     "date": "2026-10-09T19:13:14+00:00"
-  },
-  {
-    "id": "5c7418b1b691c8c4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "New logic and search steps in Workspace Studio help expand automation capabilities",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/new-logic-and-search-steps-in-workspace-Studio-help-expand-automation-capabilities.html",
-    "summary": "We are introducing several new feature enhancements to Google Workspace Studio as part of the October 2026 feature release. These additions expand automation capabilities across Gmail, Google Meet, Google Drive, and custom control logic, giving users more flexibility to build sophisticated...",
-    "date": "2026-10-09T17:55:30+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -700,6 +700,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "5c7418b1b691c8c4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "New logic and search steps in Workspace Studio help expand automation capabilities",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/new-logic-and-search-steps-in-workspace-Studio-help-expand-automation-capabilities.html",
+    "summary": "We are introducing several new feature enhancements to Google Workspace Studio as part of the October 2026 feature release. These additions expand automation capabilities across Gmail, Google Meet, Google Drive, and custom control logic, giving users more flexibility to build sophisticated...",
+    "date": "2026-10-09T17:55:30+00:00"
+  },
+  {
     "id": "92aca7ce8a209770",
     "product_id": "1password",
     "product_name": "1Password",
@@ -988,15 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "October 5 2026"
-  },
-  {
-    "id": "7dd9f9e5d46fcab2",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Probar Gemini",
-    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
-    "summary": "",
-    "date": "2026-10-07T14:44:44.166208+00:00"
   }
 ]
