@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "493efa2a25d77118",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "An update on the launch of skills in the Gemini app and Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+    "summary": "As previously announced, skills in the Gemini app are starting to roll out today, with an expected completion by mid-November. In the coming weeks, we’ll also introduce critical features like the ability to share Gemini app skills and an integration with Google Drive. We’ll post on the Workspace...",
+    "date": "2026-10-13T20:33:42+00:00"
+  },
+  {
     "id": "78701870dda5cb40",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/google-meet-now-uses-post-quantum-cryptography.html",
     "summary": "Calls in Google Meet will use post-quantum cryptography (PQC) for extra protection, starting now with laptop web clients and meeting room hardware, with mobile support coming soon. There are no visible changes, and you can continue using Meet normally. The updated encryption protects your data...",
     "date": "2026-10-12T15:54:33+00:00"
-  },
-  {
-    "id": "6aee34ad0ca9c2ea",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - October 9, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-09-2026.html",
-    "summary": "Secondary calendars will now follow the lifecycle of their ownerAs announced earlier this year, we are now rolling out the secondary calendar lifecycle changes for non-personal Workspace accounts: secondary calendars will now follow the lifecycle of their owner, meaning that when a user account is...",
-    "date": "2026-10-09T19:13:14+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -318,16 +318,6 @@
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes for Insiders, see the following articles:",
     "date": "2026-03-06T17:54:07.627705+00:00"
-  },
-  {
-    "id": "e279cf807341196a",
-    "product_id": "ninjaone",
-    "product_name": "NinjaOne",
-    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
-    "title": "NinjaOne 15.0: Dark Mode Is Here (and It’s Just the Start)",
-    "link": "https://www.ninjaone.com/blog/release-15-dark-mode-sla-tracking-ddm-chromeos/",
-    "summary": "The NinjaOne 15.0 release brings a fresh look and stronger control across the tools IT teams and MSPs use every day. The platform adds the dark theme customers have been asking for, built for the people who stare at NinjaOne all day. Ticketing also gets held to its service-level agreements (SLAs),...",
-    "date": "2026-08-27T13:00:57+00:00"
   },
   {
     "id": "686c63d338566d03",
@@ -700,6 +690,26 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "6aee34ad0ca9c2ea",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - October 9, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-09-2026.html",
+    "summary": "Secondary calendars will now follow the lifecycle of their ownerAs announced earlier this year, we are now rolling out the secondary calendar lifecycle changes for non-personal Workspace accounts: secondary calendars will now follow the lifecycle of their owner, meaning that when a user account is...",
+    "date": "2026-10-09T19:13:14+00:00"
+  },
+  {
+    "id": "e279cf807341196a",
+    "product_id": "ninjaone",
+    "product_name": "NinjaOne",
+    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
+    "title": "NinjaOne 15.0: Dark Mode Is Here (and It’s Just the Start)",
+    "link": "https://www.ninjaone.com/blog/release-15-dark-mode-sla-tracking-ddm-chromeos/",
+    "summary": "The NinjaOne 15.0 release brings a fresh look and stronger control across the tools IT teams and MSPs use every day. The platform adds the dark theme customers have been asking for, built for the people who stare at NinjaOne all day. Ticketing also gets held to its service-level agreements (SLAs),...",
+    "date": "2026-08-27T13:00:57+00:00"
+  },
+  {
     "id": "5c7418b1b691c8c4",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://docs.slack.dev/changelog/2026/08/20/agent-updates",
     "summary": "We're rolling out a wave of updates to agents on Slack, along with an important heads-up about the road ahead for the Assistant messaging experience.",
     "date": "2026-08-20T00:00:00+00:00"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "October 5 2026"
   }
 ]
