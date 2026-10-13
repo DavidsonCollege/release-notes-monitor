@@ -27,7 +27,7 @@
     "title": "October 9, 2026",
     "link": "https://help.adastra.live/hc/en-us/articles/54424548700820-October-9-2026",
     "summary": "",
-    "date": "2026-10-09T19:21:25Z"
+    "date": "2026-10-13T22:44:26Z"
   },
   {
     "id": "93e59d2240cf9c12",
@@ -318,6 +318,16 @@
     "link": "https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps",
     "summary": "For a complete list of release notes for Insiders, see the following articles:",
     "date": "2026-03-06T17:54:07.627705+00:00"
+  },
+  {
+    "id": "e279cf807341196a",
+    "product_id": "ninjaone",
+    "product_name": "NinjaOne",
+    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
+    "title": "NinjaOne 15.0: Dark Mode Is Here (and It’s Just the Start)",
+    "link": "https://www.ninjaone.com/blog/release-15-dark-mode-sla-tracking-ddm-chromeos/",
+    "summary": "The NinjaOne 15.0 release brings a fresh look and stronger control across the tools IT teams and MSPs use every day. The platform adds the dark theme customers have been asking for, built for the people who stare at NinjaOne all day. Ticketing also gets held to its service-level agreements (SLAs),...",
+    "date": "2026-08-27T13:00:57+00:00"
   },
   {
     "id": "686c63d338566d03",
@@ -708,16 +718,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-09-2026.html",
     "summary": "Secondary calendars will now follow the lifecycle of their ownerAs announced earlier this year, we are now rolling out the secondary calendar lifecycle changes for non-personal Workspace accounts: secondary calendars will now follow the lifecycle of their owner, meaning that when a user account is...",
     "date": "2026-10-09T19:13:14+00:00"
-  },
-  {
-    "id": "e279cf807341196a",
-    "product_id": "ninjaone",
-    "product_name": "NinjaOne",
-    "icon_url": "https://www.google.com/s2/favicons?domain=ninjaone.com&sz=64",
-    "title": "NinjaOne 15.0: Dark Mode Is Here (and It’s Just the Start)",
-    "link": "https://www.ninjaone.com/blog/release-15-dark-mode-sla-tracking-ddm-chromeos/",
-    "summary": "The NinjaOne 15.0 release brings a fresh look and stronger control across the tools IT teams and MSPs use every day. The platform adds the dark theme customers have been asking for, built for the people who stare at NinjaOne all day. Ticketing also gets held to its service-level agreements (SLAs),...",
-    "date": "2026-08-27T13:00:57+00:00"
   },
   {
     "id": "5c7418b1b691c8c4",
