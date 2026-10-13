@@ -1,13 +1,13 @@
 [
   {
-    "id": "92aca7ce8a209770",
+    "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI",
+    "title": "1Password for Android Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "October 12 2026"
+    "date": "October 13 2026"
   },
   {
     "id": "87c02b09c4a21c48",
@@ -700,6 +700,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "92aca7ce8a209770",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password CLI",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "October 12 2026"
+  },
+  {
     "id": "dc2569cbd0e1ee9b",
     "product_id": "windows",
     "product_name": "Windows",
@@ -908,16 +918,6 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Pourquoi : Votre ordinateur est votre principal espace de travail. L'accès instantané à Gemini sur votre PC vous permet de garder le cap sur votre travail, de trouver facilement des réponses et de créer des éléments visuels sans quitter les outils que vous utilisez tous les jours.",
     "date": "2026-10-08T15:45:36.368722+00:00"
-  },
-  {
-    "id": "68bf4e06214d3b4d",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "October 7 2026"
   },
   {
     "id": "7862c2da045b4af5",
