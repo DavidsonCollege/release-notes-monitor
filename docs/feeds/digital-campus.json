@@ -260,14 +260,14 @@
     "date": "2026-07-06T17:00:00+00:00"
   },
   {
-    "id": "5dea78a4253a32e6",
+    "id": "b7e66dad73370b0b",
     "product_id": "macos",
     "product_name": "macOS",
     "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
-    "title": "macOS 27.2 beta 3 (26B5101f)",
-    "link": "https://developer.apple.com/news/releases/?id=10052026c",
+    "title": "macOS 27.2 beta 4 (26B5112a)",
+    "link": "https://developer.apple.com/news/releases/?id=10132026c",
     "summary": "View downloadsView release notes",
-    "date": "2026-10-05T18:00:00+00:00"
+    "date": "2026-10-13T17:00:00+00:00"
   },
   {
     "id": "8f2885091136ab69",
@@ -690,6 +690,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "5dea78a4253a32e6",
+    "product_id": "macos",
+    "product_name": "macOS",
+    "icon_url": "https://www.google.com/s2/favicons?domain=apple.com&sz=64",
+    "title": "macOS 27.2 beta 3 (26B5101f)",
+    "link": "https://developer.apple.com/news/releases/?id=10052026c",
+    "summary": "View downloadsView release notes",
+    "date": "2026-10-05T18:00:00+00:00"
+  },
+  {
     "id": "6aee34ad0ca9c2ea",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-09-22T00:00:00+00:00"
-  },
-  {
-    "id": "7613252f36fcff97",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "The next wave of Agent messaging experience",
-    "link": "https://docs.slack.dev/changelog/2026/08/20/agent-updates",
-    "summary": "We're rolling out a wave of updates to agents on Slack, along with an important heads-up about the road ahead for the Assistant messaging experience.",
-    "date": "2026-08-20T00:00:00+00:00"
   }
 ]
