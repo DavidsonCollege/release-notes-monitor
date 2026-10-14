@@ -610,44 +610,44 @@
     "date": "2026-11-15T00:00:00+00:00"
   },
   {
-    "id": "7f00f54f1be93c4f",
+    "id": "d049bfec5d6e95e3",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New API endpoints",
-    "link": "https://developers.zoom.us/changelog/accounts/september-28-2026",
-    "summary": "Tags: api-release | Added new waiting_room_branding endpoints for accounts settings API.",
-    "date": "2026-09-28T00:00:00+00:00"
+    "title": "New response fields",
+    "link": "https://developers.zoom.us/changelog/accounts/october-12-2026",
+    "summary": "Tags: api-release | Added new response fields for accounts settings API endpoint.",
+    "date": "2026-10-12T00:00:00+00:00"
   },
   {
-    "id": "d32c8637775e5a02",
+    "id": "d2156f2aa146ac20",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added four new AI-credits billing APIs",
-    "link": "https://developers.zoom.us/changelog/billing/september-28-2026",
-    "summary": "Tags: api-release | Added four new AI-credits billing APIs.",
-    "date": "2026-09-28T00:00:00+00:00"
+    "title": "New MCP tools for Zoom Workflows and Zoom Room MCP servers",
+    "link": "https://developers.zoom.us/changelog/mcp/october-12-2026",
+    "summary": "Tags: api-release | Added MCP tools and associated scopes.",
+    "date": "2026-10-12T00:00:00+00:00"
   },
   {
-    "id": "f1548a1f0dc8f1ca",
+    "id": "7cc566d1d88d3313",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Comment APIs",
-    "link": "https://developers.zoom.us/changelog/canvas/september-28-2026",
-    "summary": "Tags: api-release | Added new endpoints for Comment APIs.",
-    "date": "2026-09-28T00:00:00+00:00"
+    "title": "Version 2.6.0",
+    "link": "https://developers.zoom.us/changelog/video-sdk/web/2.6.0",
+    "summary": "Tags: bug-fix, sdk-version | Introduces the ability to delete sent chat messages via chat.deleteMessage(), and several improvements to WebRTC connection recovery, WebCodecs fallback reliability, and audio device selection on mobile, plus expanded WebRTC video support for Firefox, Island Browser,...",
+    "date": "2026-10-12T00:00:00+00:00"
   },
   {
-    "id": "1fb5384f82a9fba4",
+    "id": "c07d08c8f61f5ec2",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 5.9.0",
-    "link": "https://developers.zoom.us/changelog/contact-center/android/5.9.0",
-    "summary": "Tags: new-feature, sdk-version | Add support for passing user context from Android apps into Zoom Contact Center chat, Zoom Virtual Agent, and video engagements.",
-    "date": "2026-09-28T00:00:00+00:00"
+    "title": "Deprecated MCP tools",
+    "link": "https://developers.zoom.us/changelog/mcp/october-05-2026",
+    "summary": "Tags: api-release | Removed global MCP tools for whiteboard.",
+    "date": "2026-10-05T00:00:00+00:00"
   },
   {
     "id": "9d2c5ca9fba32267",
@@ -748,6 +748,46 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini work the way you do. By bringing your favorite apps and custom skills together in a single conversation, Gemini helps you skip the context switching and get more done, faster and easier. Customize is rolling out globally across web, mobile, and the Gemini desktop app on...",
     "date": "2026-10-13T16:21:16.896852+00:00"
+  },
+  {
+    "id": "7f00f54f1be93c4f",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New API endpoints",
+    "link": "https://developers.zoom.us/changelog/accounts/september-28-2026",
+    "summary": "Tags: api-release | Added new waiting_room_branding endpoints for accounts settings API.",
+    "date": "2026-09-28T00:00:00+00:00"
+  },
+  {
+    "id": "d32c8637775e5a02",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Added four new AI-credits billing APIs",
+    "link": "https://developers.zoom.us/changelog/billing/september-28-2026",
+    "summary": "Tags: api-release | Added four new AI-credits billing APIs.",
+    "date": "2026-09-28T00:00:00+00:00"
+  },
+  {
+    "id": "f1548a1f0dc8f1ca",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New Comment APIs",
+    "link": "https://developers.zoom.us/changelog/canvas/september-28-2026",
+    "summary": "Tags: api-release | Added new endpoints for Comment APIs.",
+    "date": "2026-09-28T00:00:00+00:00"
+  },
+  {
+    "id": "1fb5384f82a9fba4",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 5.9.0",
+    "link": "https://developers.zoom.us/changelog/contact-center/android/5.9.0",
+    "summary": "Tags: new-feature, sdk-version | Add support for passing user context from Android apps into Zoom Contact Center chat, Zoom Virtual Agent, and video engagements.",
+    "date": "2026-09-28T00:00:00+00:00"
   },
   {
     "id": "14ad73a3673252a0",
@@ -958,45 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/secondary-calendars-will-now-follow-the-lifecycle-of-their-owner.html",
     "summary": "As announced earlier this year, we are now rolling out the secondary calendar lifecycle changes for non-personal Workspace accounts: secondary calendars will now follow the lifecycle of their owner, meaning that when a user account is deleted, any secondary calendars owned by that user will be...",
     "date": "2026-10-05T17:16:27+00:00"
-  },
-  {
-    "id": "77c21f416234d302",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing Windows 11 Release Preview Builds 26100.9539/26200.9539",
-    "link": "https://blogs.windows.com/windows-insider/2026/09/10/announcing-windows-11-release-preview-builds-26100-9539-26200-9539/",
-    "summary": "Hello Windows Insiders, Today we’re releasing build Builds 26100.9539/26200.9539 for Release Preview for Windows 11, version 24H2/25H2. Release notes can be found over in the Announcing Windows 11 Release Preview Builds 26100.9539/26200.9539 appeared first on Windows Insider Blog.",
-    "date": "2026-09-10T17:11:27+00:00"
-  },
-  {
-    "id": "d8e8b4d565eaff36",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Introducing Claude Sonnet 5.5",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-28T00:00:00+00:00"
-  },
-  {
-    "id": "dbf0ac3ae4544cb3",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Build plugins for Claude",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-25T00:00:00+00:00"
-  },
-  {
-    "id": "df400e34bdefac20",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Opus 5.5 launch",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-22T00:00:00+00:00"
   }
 ]
