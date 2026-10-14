@@ -700,14 +700,14 @@
     "date": "2026-09-28T00:00:00+00:00"
   },
   {
-    "id": "2005c82e484167da",
+    "id": "14ad73a3673252a0",
     "product_id": "gemini",
     "product_name": "Gemini",
     "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Try Gemini",
+    "title": "Essayez Gemini",
     "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
     "summary": "",
-    "date": "2026-08-14T14:16:58.978118+00:00"
+    "date": "2026-10-02T22:17:31.606289+00:00"
   },
   {
     "id": "e4609627f6b38519",
@@ -748,6 +748,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini work the way you do. By bringing your favorite apps and custom skills together in a single conversation, Gemini helps you skip the context switching and get more done, faster and easier. Customize is rolling out globally across web, mobile, and the Gemini desktop app on...",
     "date": "2026-10-13T16:21:16.896852+00:00"
+  },
+  {
+    "id": "2005c82e484167da",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Try Gemini",
+    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
+    "summary": "",
+    "date": "2026-08-14T14:16:58.978118+00:00"
   },
   {
     "id": "5dea78a4253a32e6",
@@ -918,16 +928,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/preview-edit-and-collaborate-on-Markdown-files-natively-across-Drive-and-Docs.html",
     "summary": "We are introducing the ability to view, edit, and collaborate on Markdown (.md or .markdown) files directly in Google Docs, as well as view rendered previews in Google Drive.Markdown is a standard text format widely used by Large Language Models (LLMs) to preserve structured content, like tables,...",
     "date": "2026-10-05T18:15:32+00:00"
-  },
-  {
-    "id": "14ad73a3673252a0",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Essayez Gemini",
-    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
-    "summary": "",
-    "date": "2026-10-02T22:17:31.606289+00:00"
   },
   {
     "id": "e2f5fe86cd914672",
