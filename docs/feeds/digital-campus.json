@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "7171b4f1661d8428",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Now generally available: Preview client-side encrypted PDF and image files directly in Google Drive",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/now-generally-available-preview-client-side-encrypted-PDF-and-image-files-directly-in-Google-Drive.html",
+    "summary": "Client-side encryption (CSE) gives organizations ultimate control over who can access their most confidential data, using customer-managed encryption keys that render the data unreadable to unauthorized third parties, including Google. Google Drive now supports previewing CSE files directly within...",
+    "date": "2026-10-15T16:59:58+00:00"
+  },
+  {
     "id": "493efa2a25d77118",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/configure-access-management-and-access-Approvals-policies-using-classification-labels-with-rules-in-Assured-Controls.html",
     "summary": "We’re introducing Assured Controls rules in the Google Workspace Admin Console, giving administrators a more granular, resource-centric way to enforce Access Management and Access Approvals policies on Google Drive files.Previously, Access Management and Access Approvals policies could only be...",
     "date": "2026-10-12T18:28:27+00:00"
-  },
-  {
-    "id": "251f17edc1e10249",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Meet now uses post-quantum cryptography",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/google-meet-now-uses-post-quantum-cryptography.html",
-    "summary": "Calls in Google Meet will use post-quantum cryptography (PQC) for extra protection, starting now with laptop web clients and meeting room hardware, with mobile support coming soon. There are no visible changes, and you can continue using Meet normally. The updated encryption protects your data...",
-    "date": "2026-10-12T15:54:33+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "251f17edc1e10249",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Meet now uses post-quantum cryptography",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/google-meet-now-uses-post-quantum-cryptography.html",
+    "summary": "Calls in Google Meet will use post-quantum cryptography (PQC) for extra protection, starting now with laptop web clients and meeting room hardware, with mobile support coming soon. There are no visible changes, and you can continue using Meet normally. The updated encryption protects your data...",
+    "date": "2026-10-12T15:54:33+00:00"
+  },
+  {
     "id": "14ad73a3673252a0",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -988,15 +998,5 @@
     "link": "https://help.adastra.live/hc/en-us/articles/53264707434644-September-04-2026",
     "summary": "",
     "date": "2026-09-04T19:13:40Z"
-  },
-  {
-    "id": "216814b46b3d0b34",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Use stock charts in Sheets to better visualize price movements",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/use-stock-charts-in-sheets-to-better-visualize-price-movements.html",
-    "summary": "Google Sheets now supports new types of stock charts, making it easier to visualize price movement over time. Stock charts condense several price points for each time period into a single marker, so you can read a security's full trading range at a glance rather than interpreting separate line...",
-    "date": "2026-10-05T20:42:28+00:00"
   }
 ]
