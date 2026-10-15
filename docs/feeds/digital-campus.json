@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "c728415c805cea38",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gmail’s AI Inbox is rolling out to paid Workspace users",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+    "summary": "Earlier this year, we launched AI Inbox in Gmail which helps users catch up on what matters most. Starting today, we’re expanding AI Inbox to paid Google Workspace users. By highlighting key actionable to-do’s and summarizing priority work updates across your emails, AI Inbox makes it easier to...",
+    "date": "2026-10-15T20:14:12+00:00"
+  },
+  {
     "id": "7171b4f1661d8428",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
     "summary": "We are introducing next steps in Google Meet. Powered by Gemini and Workspace Studio, our new capability allows users to automate repetitive post-meeting tasks directly within Google Workspace. Next steps help you transform meeting discussions into definitive actions, like drafting follow-up emails...",
     "date": "2026-10-12T19:17:43+00:00"
-  },
-  {
-    "id": "a78bae7de5f07c82",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Configure Access Management and Access Approvals policies using classification labels with rules in Assured Controls",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/configure-access-management-and-access-Approvals-policies-using-classification-labels-with-rules-in-Assured-Controls.html",
-    "summary": "We’re introducing Assured Controls rules in the Google Workspace Admin Console, giving administrators a more granular, resource-centric way to enforce Access Management and Access Approvals policies on Google Drive files.Previously, Access Management and Access Approvals policies could only be...",
-    "date": "2026-10-12T18:28:27+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "a78bae7de5f07c82",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Configure Access Management and Access Approvals policies using classification labels with rules in Assured Controls",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/configure-access-management-and-access-Approvals-policies-using-classification-labels-with-rules-in-Assured-Controls.html",
+    "summary": "We’re introducing Assured Controls rules in the Google Workspace Admin Console, giving administrators a more granular, resource-centric way to enforce Access Management and Access Approvals policies on Google Drive files.Previously, Access Management and Access Approvals policies could only be...",
+    "date": "2026-10-12T18:28:27+00:00"
+  },
+  {
     "id": "251f17edc1e10249",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://www.papercut.com/products/mf/release-history/26-0/",
     "summary": "Important upgrade information Version 25 and above includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components. Upgrading from version 24.x? Please review Important points to know about PaperCut MF...",
     "date": "2026-06-30T00:00:00+00:00"
-  },
-  {
-    "id": "955840806905a111",
-    "product_id": "ad-astra",
-    "product_name": "Ad Astra",
-    "icon_url": "https://www.google.com/s2/favicons?domain=aais.com&sz=64",
-    "title": "September 04, 2026",
-    "link": "https://help.adastra.live/hc/en-us/articles/53264707434644-September-04-2026",
-    "summary": "",
-    "date": "2026-09-04T19:13:40Z"
   }
 ]
