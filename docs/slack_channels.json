@@ -222,7 +222,7 @@
       "name": "general",
       "is_private": false,
       "topic": "Company-wide announcements and work-based matters",
-      "num_members": 60
+      "num_members": 63
     },
     {
       "id": "C2ETFB938",
@@ -264,7 +264,7 @@
       "name": "ideas",
       "is_private": false,
       "topic": "Ideas for IT@Davidson",
-      "num_members": 28
+      "num_members": 31
     },
     {
       "id": "C0C86FQJR52",
@@ -341,7 +341,7 @@
       "name": "outages",
       "is_private": false,
       "topic": "",
-      "num_members": 54
+      "num_members": 57
     },
     {
       "id": "CFA3D26NL",
@@ -607,7 +607,7 @@
       "name": "random",
       "is_private": false,
       "topic": "\r\n",
-      "num_members": 57
+      "num_members": 60
     },
     {
       "id": "C35AAKFNU",
@@ -1009,6 +1009,6 @@
       "num_members": 1
     }
   ],
-  "last_updated": "2026-10-15T17:38:35.586732+00:00",
+  "last_updated": "2026-10-15T18:19:31.194400+00:00",
   "fetch_status": "success"
 }
