@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "a28ade97ecd94ac9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gmail Live is rolling out to paid Workspace users",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+    "summary": "Finding critical information on the go often involves sifting through lengthy email threads and switching between multiple messages while your hands are busy commuting or multi-tasking. Following our initial rollout of conversational AI voice capabilities, we are bringing Gmail Live to Google...",
+    "date": "2026-10-15T21:19:41+00:00"
+  },
+  {
     "id": "c728415c805cea38",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/switch-from-live-stream-viewer-to-contributor-in-Google-Meet-on-Android.html",
     "summary": "You can now switch from watching a Google Meet live stream to participating with audio and video directly on Android. This feature is available for viewers who have been invited to both the live stream and the main meeting.While watching a live stream on Android, you can switch roles using the...",
     "date": "2026-10-13T19:19:34+00:00"
-  },
-  {
-    "id": "7b01a7dd681f5c18",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Find your routine next steps on the post-meeting screen in Google Meet",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
-    "summary": "We are introducing next steps in Google Meet. Powered by Gemini and Workspace Studio, our new capability allows users to automate repetitive post-meeting tasks directly within Google Workspace. Next steps help you transform meeting discussions into definitive actions, like drafting follow-up emails...",
-    "date": "2026-10-12T19:17:43+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -610,6 +610,16 @@
     "date": "2026-11-15T00:00:00+00:00"
   },
   {
+    "id": "49bf8a533df6ef4a",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New Summarization and Asset APIs",
+    "link": "https://developers.zoom.us/changelog/ai-services/october-15-2026",
+    "summary": "Tags: api-release | Added new endpoints for Summarization and Asset API as well as request and response fields for Scribe API.",
+    "date": "2026-10-15T00:00:00+00:00"
+  },
+  {
     "id": "d049bfec5d6e95e3",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -620,34 +630,24 @@
     "date": "2026-10-12T00:00:00+00:00"
   },
   {
-    "id": "d2156f2aa146ac20",
+    "id": "41cc8d7eb3443fdf",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New MCP tools for Zoom Workflows and Zoom Room MCP servers",
-    "link": "https://developers.zoom.us/changelog/mcp/october-12-2026",
-    "summary": "Tags: api-release | Added MCP tools and associated scopes.",
+    "title": "New VoiceAgent API",
+    "link": "https://developers.zoom.us/changelog/ai-services/october-12-2026",
+    "summary": "Tags: api-release | Added new VoiceAgent API.",
     "date": "2026-10-12T00:00:00+00:00"
   },
   {
-    "id": "7cc566d1d88d3313",
+    "id": "dd7829931a527c49",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 2.6.0",
-    "link": "https://developers.zoom.us/changelog/video-sdk/web/2.6.0",
-    "summary": "Tags: bug-fix, sdk-version | Introduces the ability to delete sent chat messages via chat.deleteMessage(), and several improvements to WebRTC connection recovery, WebCodecs fallback reliability, and audio device selection on mobile, plus expanded WebRTC video support for Firefox, Island Browser,...",
+    "title": "New Comments APIs",
+    "link": "https://developers.zoom.us/changelog/canvas/october-12-2026",
+    "summary": "Tags: api-release | Added new Comments APIs and new request fields for Export API.",
     "date": "2026-10-12T00:00:00+00:00"
-  },
-  {
-    "id": "c07d08c8f61f5ec2",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Deprecated MCP tools",
-    "link": "https://developers.zoom.us/changelog/mcp/october-05-2026",
-    "summary": "Tags: api-release | Removed global MCP tools for whiteboard.",
-    "date": "2026-10-05T00:00:00+00:00"
   },
   {
     "id": "9d2c5ca9fba32267",
@@ -748,6 +748,46 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini work the way you do. By bringing your favorite apps and custom skills together in a single conversation, Gemini helps you skip the context switching and get more done, faster and easier. Customize is rolling out globally across web, mobile, and the Gemini desktop app on...",
     "date": "2026-10-13T16:21:16.896852+00:00"
+  },
+  {
+    "id": "7b01a7dd681f5c18",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Find your routine next steps on the post-meeting screen in Google Meet",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+    "summary": "We are introducing next steps in Google Meet. Powered by Gemini and Workspace Studio, our new capability allows users to automate repetitive post-meeting tasks directly within Google Workspace. Next steps help you transform meeting discussions into definitive actions, like drafting follow-up emails...",
+    "date": "2026-10-12T19:17:43+00:00"
+  },
+  {
+    "id": "d2156f2aa146ac20",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New MCP tools for Zoom Workflows and Zoom Room MCP servers",
+    "link": "https://developers.zoom.us/changelog/mcp/october-12-2026",
+    "summary": "Tags: api-release | Added MCP tools and associated scopes.",
+    "date": "2026-10-12T00:00:00+00:00"
+  },
+  {
+    "id": "7cc566d1d88d3313",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.6.0",
+    "link": "https://developers.zoom.us/changelog/video-sdk/web/2.6.0",
+    "summary": "Tags: bug-fix, sdk-version | Introduces the ability to delete sent chat messages via chat.deleteMessage(), and several improvements to WebRTC connection recovery, WebCodecs fallback reliability, and audio device selection on mobile, plus expanded WebRTC video support for Firefox, Island Browser,...",
+    "date": "2026-10-12T00:00:00+00:00"
+  },
+  {
+    "id": "c07d08c8f61f5ec2",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Deprecated MCP tools",
+    "link": "https://developers.zoom.us/changelog/mcp/october-05-2026",
+    "summary": "Tags: api-release | Removed global MCP tools for whiteboard.",
+    "date": "2026-10-05T00:00:00+00:00"
   },
   {
     "id": "a78bae7de5f07c82",
@@ -958,45 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "October 8 2026"
-  },
-  {
-    "id": "1cdb82dd459afee0",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Carrier Link for Google Voice available in 14 additional countries",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/carrier-link-for-google-voice-available-in-14-additional-countries.html",
-    "summary": "In June, we launched Carrier Link in 20 countries where Google Voice service was not otherwise available. Today, we are making Carrier Link available in an additional 14 countries (the US, Canada, and much of Europe). Previously, customers in these countries could purchase Google Voice with a first...",
-    "date": "2026-10-08T15:34:24+00:00"
-  },
-  {
-    "id": "3e27f9f6d44746d1",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Point-in-time editing now available in Google Vids",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/point-in-time-editing-now-available-in-Google-Vids.html",
-    "summary": "Google Vids is improving the video creation experience with the introduction of point-in-time editing. This feature will help ensure that the canvas matches the video timeline 1:1. Previously, the canvas displayed all elements present across an entire scene all at the same time, regardless of when...",
-    "date": "2026-10-06T19:40:59+00:00"
-  },
-  {
-    "id": "670469bbddc682d5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create Trello cards from Google Chat messages with Trello for Google Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/create-trello-cards-from-google-chat-messages-with-Trello-for-Google-Workspace.html",
-    "summary": "Trello for Google Workspace makes it easy to capture tasks and ideas from the conversations where they begin. With the app, you can create new Trello cards from emails and Google Chat messages, helping you keep Trello up to date without switching tabs or breaking your flow.The refreshed app...",
-    "date": "2026-10-06T17:37:16+00:00"
-  },
-  {
-    "id": "11333264bfc0aec6",
-    "product_id": "papercut",
-    "product_name": "PaperCut",
-    "icon_url": "https://www.google.com/s2/favicons?domain=papercut.com&sz=64",
-    "title": "26.0.2",
-    "link": "https://www.papercut.com/products/mf/release-history/26-0/",
-    "summary": "Important upgrade information Version 25 and above includes significant updates, which may introduce breaking changes, new internet connection requirements, and mandatory updates for some optional components. Upgrading from version 24.x? Please review Important points to know about PaperCut MF...",
-    "date": "2026-06-30T00:00:00+00:00"
   }
 ]

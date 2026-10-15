@@ -276,7 +276,12 @@
     ],
     "zoom": [
       "4452b7b2961849dc",
+      "49bf8a533df6ef4a",
       "d049bfec5d6e95e3",
+      "41cc8d7eb3443fdf",
+      "dd7829931a527c49",
+      "0d2fdb2e75fb4f81",
+      "5bf6866f2c31a4ae",
       "d2156f2aa146ac20",
       "7cc566d1d88d3313",
       "c07d08c8f61f5ec2",
@@ -469,12 +474,7 @@
       "d9a43aaa804f9f2e",
       "963551a4c70ec51d",
       "fe6aa8dee7ecce3d",
-      "ac4dcdf82713529a",
-      "7fe0a1d9c3fde57e",
-      "de2ef4afc4404c21",
-      "34b3f3e838ba3c7b",
-      "e11c7de2c0687b16",
-      "d8a94c112a947ed7"
+      "ac4dcdf82713529a"
     ],
     "scribe": [
       "b13a77d75ce13e7e",
@@ -633,6 +633,7 @@
       "bb7993b77a1101a9"
     ],
     "google-workspace": [
+      "a28ade97ecd94ac9",
       "c728415c805cea38",
       "7171b4f1661d8428",
       "493efa2a25d77118",
@@ -831,8 +832,7 @@
       "26232b6896a039df",
       "96ffce0c4e805aea",
       "c097a4ca2eb60859",
-      "5e57d2137ed0f7ff",
-      "21151303413235af"
+      "5e57d2137ed0f7ff"
     ],
     "ninjaone": [
       "e279cf807341196a",
