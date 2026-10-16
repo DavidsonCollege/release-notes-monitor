@@ -480,24 +480,24 @@
     "date": "2026-10-02T00:00:00+00:00"
   },
   {
-    "id": "9f49c6e08241ea25",
+    "id": "1c5e3cc9d7c26567",
     "product_id": "slack",
     "product_name": "Slack",
     "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Slack CLI v4.8.0",
-    "link": "https://docs.slack.dev/changelog/2026/09/15/slack-cli",
-    "summary": "Version 4.8.0 of the Slack CLI is here!",
-    "date": "2026-09-15T00:00:00+00:00"
+    "title": "Release: Java SDK v1.52.0",
+    "link": "https://docs.slack.dev/changelog/2026/10/01/java-sdk",
+    "summary": "* We've added support for the TaskCardBlock layout block (task_card type) and related fields, as well as UrlSourceElement for the sources field.",
+    "date": "2026-10-01T00:00:00+00:00"
   },
   {
-    "id": "9c3d06b9f59f1579",
+    "id": "e15b1f3906c03e98",
     "product_id": "slack",
     "product_name": "Slack",
     "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Updated installation requirement for Slack Marketplace apps",
-    "link": "https://docs.slack.dev/changelog/2026/09/01/slack-marketplace-install-requirement",
-    "summary": "As of July 2026, we require that apps submitting to the Slack Marketplace have at least 10 installations on active workspaces, up from the temporary lower threshold. Your app needs to stay at 10 or more installed workspaces throughout the entire duration of the review.",
-    "date": "2026-09-01T00:00:00+00:00"
+    "title": "Release: Python SDK v3.45.0",
+    "link": "https://docs.slack.dev/changelog/2026/10/01/py-sdk",
+    "summary": "* We've added support for the ContainerBlock layout block (container type) and related fields.",
+    "date": "2026-10-01T00:00:00+00:00"
   },
   {
     "id": "d04afd8189d29908",
@@ -750,6 +750,26 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "9f49c6e08241ea25",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.8.0",
+    "link": "https://docs.slack.dev/changelog/2026/09/15/slack-cli",
+    "summary": "Version 4.8.0 of the Slack CLI is here!",
+    "date": "2026-09-15T00:00:00+00:00"
+  },
+  {
+    "id": "9c3d06b9f59f1579",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Updated installation requirement for Slack Marketplace apps",
+    "link": "https://docs.slack.dev/changelog/2026/09/01/slack-marketplace-install-requirement",
+    "summary": "As of July 2026, we require that apps submitting to the Slack Marketplace have at least 10 installations on active workspaces, up from the temporary lower threshold. Your app needs to stay at 10 or more installed workspaces throughout the entire duration of the review.",
+    "date": "2026-09-01T00:00:00+00:00"
+  },
+  {
     "id": "7b01a7dd681f5c18",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "https://gemini.google/desktop/",
     "summary": "What: The Gemini app is now available on Windows. Press Alt + Space to summon Gemini instantly from anywhere on your PC whenever you need it. You can get quick answers, draft messages, and brainstorm ideas right alongside your active applications. Inside your dedicated desktop workspace, you have...",
     "date": "2026-09-10T15:39:41.367114+00:00"
-  },
-  {
-    "id": "9061a5ebcc575a73",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: Your desktop is where you get work done. Bringing Gemini straight to your PC with instant shortcut access keeps you in your flow, making it sim",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: Your desktop is where you get work done. Bringing Gemini straight to your PC with instant shortcut access keeps you in your flow, making it simple to get answers and create visuals right alongside your everyday tools.",
-    "date": "2026-09-10T15:39:41.367136+00:00"
-  },
-  {
-    "id": "85fa3f89a4f80853",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password CLI Beta",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "October 8 2026"
   }
 ]
