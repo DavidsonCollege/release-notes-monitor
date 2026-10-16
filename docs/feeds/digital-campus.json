@@ -120,6 +120,16 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "a2ad1778493b81ce",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - October 16, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-16-2026.html",
+    "summary": "Google Meet now uses post-quantum cryptographyCalls in Google Meet will use post-quantum cryptography (PQC) for extra protection, starting now with laptop web clients and meeting room hardware, with mobile support coming soon. There are no visible changes, and you can continue using Meet normally....",
+    "date": "2026-10-16T18:44:55+00:00"
+  },
+  {
     "id": "a28ade97ecd94ac9",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
     "summary": "As previously announced, skills in the Gemini app are starting to roll out today, with an expected completion by mid-November. In the coming weeks, we’ll also introduce critical features like the ability to share Gemini app skills and an integration with Google Drive. We’ll post on the Workspace...",
     "date": "2026-10-13T20:33:42+00:00"
-  },
-  {
-    "id": "78701870dda5cb40",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Switch from live stream viewer to contributor in Google Meet on Android",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/switch-from-live-stream-viewer-to-contributor-in-Google-Meet-on-Android.html",
-    "summary": "You can now switch from watching a Google Meet live stream to participating with audio and video directly on Android. This feature is available for viewers who have been invited to both the live stream and the main meeting.While watching a live stream on Android, you can switch roles using the...",
-    "date": "2026-10-13T19:19:34+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "78701870dda5cb40",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Switch from live stream viewer to contributor in Google Meet on Android",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/switch-from-live-stream-viewer-to-contributor-in-Google-Meet-on-Android.html",
+    "summary": "You can now switch from watching a Google Meet live stream to participating with audio and video directly on Android. This feature is available for viewers who have been invited to both the live stream and the main meeting.While watching a live stream on Android, you can switch roles using the...",
+    "date": "2026-10-13T19:19:34+00:00"
+  },
+  {
     "id": "6a0b9c8fe613a488",
     "product_id": "windows",
     "product_name": "Windows",
@@ -988,15 +998,5 @@
     "link": "https://docs.slack.dev/changelog/2026/08/28/slack-cli",
     "summary": "Version 4.7.0 of the Slack CLI has been released!",
     "date": "2026-08-31T00:00:00+00:00"
-  },
-  {
-    "id": "a4d0b145582bb304",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: Today we’re rolling out skills directly into the Gemini chat globally1. Skills are a reusable set of instructions that tell Gemini how to hand",
-    "link": "https://support.google.com/gemini?p=gems_to_skills",
-    "summary": "What: Today we’re rolling out skills directly into the Gemini chat globally1. Skills are a reusable set of instructions that tell Gemini how to handle specific tasks. Think of them as saved shortcuts to faster prompting. Gemini can now help you build custom skills from your chats and automatically...",
-    "date": "2026-09-30T16:21:55.619180+00:00"
   }
 ]
