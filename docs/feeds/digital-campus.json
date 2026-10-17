@@ -720,36 +720,6 @@
     "date": "2026-10-13T16:21:16.896818+00:00"
   },
   {
-    "id": "de8a28959293afcc",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: Google Antigravity is now built into the Gemini macOS app, so go straight from brainstorming in chat to coding apps, building web experiences",
-    "link": "https://gemini.google/desktop/",
-    "summary": "What: Google Antigravity is now built into the Gemini macOS app, so go straight from brainstorming in chat to coding apps, building web experiences and prototyping ideas. Spin up a coding agent in Antigravity, approve its plan and head straight back to your Gemini chat. The agent builds and tests...",
-    "date": "2026-10-17T06:50:53.613728+00:00"
-  },
-  {
-    "id": "9e35f4ccab2a906c",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: We want to help you turn ambitious ideas into working code and prototypes faster, right where you already work on your Mac. With Antigravity bu",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: We want to help you turn ambitious ideas into working code and prototypes faster, right where you already work on your Mac. With Antigravity built into the Gemini app, you get an agentic coding partner that plans, builds and verifies complex code, making it easier to bring your projects to...",
-    "date": "2026-10-13T16:21:16.896847+00:00"
-  },
-  {
-    "id": "adc38c2affde19ea",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: We want to make Gemini work the way you do. By bringing your favourite apps and custom skills together in a single conversation, Gemini helps y",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: We want to make Gemini work the way you do. By bringing your favourite apps and custom skills together in a single conversation, Gemini helps you skip the context switching and get more done, faster and easier. Customise is rolling out globally across web, mobile, and the Gemini desktop app on...",
-    "date": "2026-10-17T06:50:53.613754+00:00"
-  },
-  {
     "id": "bd81d8a8bdc399e7",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -760,6 +730,16 @@
     "date": "2026-10-13T16:21:16.896840+00:00"
   },
   {
+    "id": "9e35f4ccab2a906c",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: We want to help you turn ambitious ideas into working code and prototypes faster, right where you already work on your Mac. With Antigravity bu",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: We want to help you turn ambitious ideas into working code and prototypes faster, right where you already work on your Mac. With Antigravity built into the Gemini app, you get an agentic coding partner that plans, builds, and verifies complex code, making it easier to bring your projects to...",
+    "date": "2026-10-13T16:21:16.896847+00:00"
+  },
+  {
     "id": "4b76b3bb6505f022",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -768,6 +748,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini work the way you do. By bringing your favorite apps and custom skills together in a single conversation, Gemini helps you skip the context switching and get more done, faster and easier. Customize is rolling out globally across web, mobile, and the Gemini desktop app on...",
     "date": "2026-10-13T16:21:16.896852+00:00"
+  },
+  {
+    "id": "de8a28959293afcc",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "What: Google Antigravity is now built into the Gemini macOS app, so go straight from brainstorming in chat to coding apps, building web experiences",
+    "link": "https://gemini.google/desktop/",
+    "summary": "What: Google Antigravity is now built into the Gemini macOS app, so go straight from brainstorming in chat to coding apps, building web experiences and prototyping ideas. Spin up a coding agent in Antigravity, approve its plan and head straight back to your Gemini chat. The agent builds and tests...",
+    "date": "2026-10-17T06:50:53.613728+00:00"
+  },
+  {
+    "id": "adc38c2affde19ea",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Why: We want to make Gemini work the way you do. By bringing your favourite apps and custom skills together in a single conversation, Gemini helps y",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Why: We want to make Gemini work the way you do. By bringing your favourite apps and custom skills together in a single conversation, Gemini helps you skip the context switching and get more done, faster and easier. Customise is rolling out globally across web, mobile, and the Gemini desktop app on...",
+    "date": "2026-10-17T06:50:53.613754+00:00"
   },
   {
     "id": "78701870dda5cb40",
