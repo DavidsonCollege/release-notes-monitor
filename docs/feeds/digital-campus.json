@@ -120,6 +120,26 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "e1c4c2c1850caaf2",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Teacher-led Gemini Notebook in Google Classroom now offers insight summaries for educators and updated sharing settings for admins, including trusted domains",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/teacher-led-gemini-notebook-in-google-Classroom-now-offers-insight-summaries-for-educators-and-updated-sharing-settings-for-admins-including-trusted-domains.html",
+    "summary": "Following the launch of teacher-led Gemini Notebook in Google Classroom, we are introducing insight summaries for educators. This update provides teachers with greater visibility into how students interact with assigned notebooks, helping gauge instructional value and inform lesson...",
+    "date": "2026-10-19T20:23:52+00:00"
+  },
+  {
+    "id": "0a8eb11ad0059aa4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Analyze BigQuery data using natural language with Gemini in Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/analyze-bigquery-data-using-natural-language-with-Gemini-in-Google-Sheets.html",
+    "summary": "We’re introducing a new way to analyze BigQuery data in Google Sheets. After connecting to BigQuery data with Connected Sheets, you can use Gemini to interact and analyze that data conversationally, right in Google Sheets. Gemini queries run against the full dataset in BigQuery, not just what’s...",
+    "date": "2026-10-19T20:19:13+00:00"
+  },
+  {
     "id": "949bf346656c7d43",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/follow-through-on-your-meeting-tasks-with-meeting-recaps-in-Google-Chat.html",
     "summary": "To make it easier for teams to move from planning to action, we’re introducing meeting recaps in Google Chat. Meeting recaps provide a convenient summary directly in Google Chat, including:Meeting summary: A high-level overview highlighting key discussion topics and takeaways.Direct artifact links:...",
     "date": "2026-10-19T15:37:48+00:00"
-  },
-  {
-    "id": "a2ad1778493b81ce",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Workspace Weekly Recap - October 16, 2026",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-16-2026.html",
-    "summary": "Google Meet now uses post-quantum cryptographyCalls in Google Meet will use post-quantum cryptography (PQC) for extra protection, starting now with laptop web clients and meeting room hardware, with mobile support coming soon. There are no visible changes, and you can continue using Meet normally....",
-    "date": "2026-10-16T18:44:55+00:00"
-  },
-  {
-    "id": "a28ade97ecd94ac9",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gmail Live is rolling out to paid Workspace users",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
-    "summary": "Finding critical information on the go often involves sifting through lengthy email threads and switching between multiple messages while your hands are busy commuting or multi-tasking. Following our initial rollout of conversational AI voice capabilities, we are bringing Gmail Live to Google...",
-    "date": "2026-10-15T21:19:41+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,26 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "a2ad1778493b81ce",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - October 16, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-16-2026.html",
+    "summary": "Google Meet now uses post-quantum cryptographyCalls in Google Meet will use post-quantum cryptography (PQC) for extra protection, starting now with laptop web clients and meeting room hardware, with mobile support coming soon. There are no visible changes, and you can continue using Meet normally....",
+    "date": "2026-10-16T18:44:55+00:00"
+  },
+  {
+    "id": "a28ade97ecd94ac9",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gmail Live is rolling out to paid Workspace users",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+    "summary": "Finding critical information on the go often involves sifting through lengthy email threads and switching between multiple messages while your hands are busy commuting or multi-tasking. Following our initial rollout of conversational AI voice capabilities, we are bringing Gmail Live to Google...",
+    "date": "2026-10-15T21:19:41+00:00"
+  },
+  {
     "id": "c728415c805cea38",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/google-meet-now-uses-post-quantum-cryptography.html",
     "summary": "Calls in Google Meet will use post-quantum cryptography (PQC) for extra protection, starting now with laptop web clients and meeting room hardware, with mobile support coming soon. There are no visible changes, and you can continue using Meet normally. The updated encryption protects your data...",
     "date": "2026-10-12T15:54:33+00:00"
-  },
-  {
-    "id": "7f00f54f1be93c4f",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New API endpoints",
-    "link": "https://developers.zoom.us/changelog/accounts/september-28-2026",
-    "summary": "Tags: api-release | Added new waiting_room_branding endpoints for accounts settings API.",
-    "date": "2026-09-28T00:00:00+00:00"
-  },
-  {
-    "id": "d32c8637775e5a02",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Added four new AI-credits billing APIs",
-    "link": "https://developers.zoom.us/changelog/billing/september-28-2026",
-    "summary": "Tags: api-release | Added four new AI-credits billing APIs.",
-    "date": "2026-09-28T00:00:00+00:00"
   }
 ]
