@@ -120,6 +120,26 @@
     "date": "2026-09-21T03:23:12.268955+00:00"
   },
   {
+    "id": "949bf346656c7d43",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Publish interactive apps from the Gemini app to Google Sites",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/publish-interactive-apps-from-gemini-app-to-Google-Sites.html",
+    "summary": "You can now export interactive apps built in the Gemini app directly to Google Sites. With one click, your app is added to a new, private site draft — fully interactive and ready to customize. From there, you can add more content, publish the site, and share it just like any other Google Site.This...",
+    "date": "2026-10-19T17:25:14+00:00"
+  },
+  {
+    "id": "7a170a5b10a7d03d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini in Google Sheets is now available on iOS devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/gemini-in-google-sheets-is-now-available-on-iOS-devices.html",
+    "summary": "Building upon the power of Gemini in Sheets on the web and our recent launch on Android devices, we’re excited to announce that you can now use Gemini in Google Sheets on your iOS device to quickly analyze and understand your data while on the go.Simply tap on the Gemini spark icon, and you can ask...",
+    "date": "2026-10-19T17:00:39+00:00"
+  },
+  {
     "id": "b6f8523a8188499b",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -148,26 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
     "summary": "Finding critical information on the go often involves sifting through lengthy email threads and switching between multiple messages while your hands are busy commuting or multi-tasking. Following our initial rollout of conversational AI voice capabilities, we are bringing Gmail Live to Google...",
     "date": "2026-10-15T21:19:41+00:00"
-  },
-  {
-    "id": "c728415c805cea38",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gmail’s AI Inbox is rolling out to paid Workspace users",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
-    "summary": "Earlier this year, we launched AI Inbox in Gmail which helps users catch up on what matters most. Starting today, we’re expanding AI Inbox to paid Google Workspace users. By highlighting key actionable to-do’s and summarizing priority work updates across your emails, AI Inbox makes it easier to...",
-    "date": "2026-10-15T20:14:12+00:00"
-  },
-  {
-    "id": "7171b4f1661d8428",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Now generally available: Preview client-side encrypted PDF and image files directly in Google Drive",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/now-generally-available-preview-client-side-encrypted-PDF-and-image-files-directly-in-Google-Drive.html",
-    "summary": "Client-side encryption (CSE) gives organizations ultimate control over who can access their most confidential data, using customer-managed encryption keys that render the data unreadable to unauthorized third parties, including Google. Google Drive now supports previewing CSE files directly within...",
-    "date": "2026-10-15T16:59:58+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,26 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "c728415c805cea38",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gmail’s AI Inbox is rolling out to paid Workspace users",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+    "summary": "Earlier this year, we launched AI Inbox in Gmail which helps users catch up on what matters most. Starting today, we’re expanding AI Inbox to paid Google Workspace users. By highlighting key actionable to-do’s and summarizing priority work updates across your emails, AI Inbox makes it easier to...",
+    "date": "2026-10-15T20:14:12+00:00"
+  },
+  {
+    "id": "7171b4f1661d8428",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Now generally available: Preview client-side encrypted PDF and image files directly in Google Drive",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/now-generally-available-preview-client-side-encrypted-PDF-and-image-files-directly-in-Google-Drive.html",
+    "summary": "Client-side encryption (CSE) gives organizations ultimate control over who can access their most confidential data, using customer-managed encryption keys that render the data unreadable to unauthorized third parties, including Google. Google Drive now supports previewing CSE files directly within...",
+    "date": "2026-10-15T16:59:58+00:00"
+  },
+  {
     "id": "b7e66dad73370b0b",
     "product_id": "macos",
     "product_name": "macOS",
@@ -977,26 +997,6 @@
     "title": "Added four new AI-credits billing APIs",
     "link": "https://developers.zoom.us/changelog/billing/september-28-2026",
     "summary": "Tags: api-release | Added four new AI-credits billing APIs.",
-    "date": "2026-09-28T00:00:00+00:00"
-  },
-  {
-    "id": "f1548a1f0dc8f1ca",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Comment APIs",
-    "link": "https://developers.zoom.us/changelog/canvas/september-28-2026",
-    "summary": "Tags: api-release | Added new endpoints for Comment APIs.",
-    "date": "2026-09-28T00:00:00+00:00"
-  },
-  {
-    "id": "1fb5384f82a9fba4",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 5.9.0",
-    "link": "https://developers.zoom.us/changelog/contact-center/android/5.9.0",
-    "summary": "Tags: new-feature, sdk-version | Add support for passing user context from Android apps into Zoom Contact Center chat, Zoom Virtual Agent, and video engagements.",
     "date": "2026-09-28T00:00:00+00:00"
   }
 ]
