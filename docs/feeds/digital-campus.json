@@ -610,44 +610,44 @@
     "date": "2026-11-15T00:00:00+00:00"
   },
   {
-    "id": "cd1624f268435e44",
+    "id": "d049bfec5d6e95e3",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Decisions APIs",
-    "link": "https://developers.zoom.us/changelog/ai-services/october-19-2026",
-    "summary": "Tags: api-release | Added new endpoint for Decisions API.",
-    "date": "2026-10-19T00:00:00+00:00"
+    "title": "New response fields",
+    "link": "https://developers.zoom.us/changelog/accounts/october-12-2026",
+    "summary": "Tags: api-release | Added new response fields for accounts settings API endpoint.",
+    "date": "2026-10-12T00:00:00+00:00"
   },
   {
-    "id": "1ac52ae48a4da3a7",
+    "id": "d2156f2aa146ac20",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New `user_id` request field",
-    "link": "https://developers.zoom.us/changelog/clips/october-19-2026",
-    "summary": "Tags: api-release | Added request field for Clips API.",
-    "date": "2026-10-19T00:00:00+00:00"
+    "title": "New MCP tools for Zoom Workflows and Zoom Room MCP servers",
+    "link": "https://developers.zoom.us/changelog/mcp/october-12-2026",
+    "summary": "Tags: api-release | Added MCP tools and associated scopes.",
+    "date": "2026-10-12T00:00:00+00:00"
   },
   {
-    "id": "3f8730d9c630c4e5",
+    "id": "7cc566d1d88d3313",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.10.0",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.10.0",
-    "summary": "Tags: sdk-version, bug-fix | Added gesture support and fixed toast style rendering.",
-    "date": "2026-10-19T00:00:00+00:00"
+    "title": "Version 2.6.0",
+    "link": "https://developers.zoom.us/changelog/video-sdk/web/2.6.0",
+    "summary": "Tags: bug-fix, sdk-version | Introduces the ability to delete sent chat messages via chat.deleteMessage(), and several improvements to WebRTC connection recovery, WebCodecs fallback reliability, and audio device selection on mobile, plus expanded WebRTC video support for Firefox, Island Browser,...",
+    "date": "2026-10-12T00:00:00+00:00"
   },
   {
-    "id": "98bd7ad629900afa",
+    "id": "c07d08c8f61f5ec2",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New request and response fields to Contact Center Users, Asset Library, and Analytics APIs and User webhook events.",
-    "link": "https://developers.zoom.us/changelog/contact-center/october-19-2026",
-    "summary": "Tags: api-release | Added request and response fields to Contact Center Users, Asset Library, and Analytics APIs and User webhook events.",
-    "date": "2026-10-19T00:00:00+00:00"
+    "title": "Deprecated MCP tools",
+    "link": "https://developers.zoom.us/changelog/mcp/october-05-2026",
+    "summary": "Tags: api-release | Removed global MCP tools for whiteboard.",
+    "date": "2026-10-05T00:00:00+00:00"
   },
   {
     "id": "9d2c5ca9fba32267",
@@ -750,44 +750,44 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
-    "id": "d049bfec5d6e95e3",
+    "id": "cd1624f268435e44",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New response fields",
-    "link": "https://developers.zoom.us/changelog/accounts/october-12-2026",
-    "summary": "Tags: api-release | Added new response fields for accounts settings API endpoint.",
-    "date": "2026-10-12T00:00:00+00:00"
+    "title": "New Decisions APIs",
+    "link": "https://developers.zoom.us/changelog/ai-services/october-19-2026",
+    "summary": "Tags: api-release | Added new endpoint for Decisions API.",
+    "date": "2026-10-19T00:00:00+00:00"
   },
   {
-    "id": "d2156f2aa146ac20",
+    "id": "1ac52ae48a4da3a7",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New MCP tools for Zoom Workflows and Zoom Room MCP servers",
-    "link": "https://developers.zoom.us/changelog/mcp/october-12-2026",
-    "summary": "Tags: api-release | Added MCP tools and associated scopes.",
-    "date": "2026-10-12T00:00:00+00:00"
+    "title": "New `user_id` request field",
+    "link": "https://developers.zoom.us/changelog/clips/october-19-2026",
+    "summary": "Tags: api-release | Added request field for Clips API.",
+    "date": "2026-10-19T00:00:00+00:00"
   },
   {
-    "id": "7cc566d1d88d3313",
+    "id": "3f8730d9c630c4e5",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 2.6.0",
-    "link": "https://developers.zoom.us/changelog/video-sdk/web/2.6.0",
-    "summary": "Tags: bug-fix, sdk-version | Introduces the ability to delete sent chat messages via chat.deleteMessage(), and several improvements to WebRTC connection recovery, WebCodecs fallback reliability, and audio device selection on mobile, plus expanded WebRTC video support for Firefox, Island Browser,...",
-    "date": "2026-10-12T00:00:00+00:00"
+    "title": "Version 3.10.0",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.10.0",
+    "summary": "Tags: sdk-version, bug-fix | Added gesture support and fixed toast style rendering.",
+    "date": "2026-10-19T00:00:00+00:00"
   },
   {
-    "id": "c07d08c8f61f5ec2",
+    "id": "98bd7ad629900afa",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Deprecated MCP tools",
-    "link": "https://developers.zoom.us/changelog/mcp/october-05-2026",
-    "summary": "Tags: api-release | Removed global MCP tools for whiteboard.",
-    "date": "2026-10-05T00:00:00+00:00"
+    "title": "New request and response fields to Contact Center Users, Asset Library, and Analytics APIs and User webhook events.",
+    "link": "https://developers.zoom.us/changelog/contact-center/october-19-2026",
+    "summary": "Tags: api-release | Added request and response fields to Contact Center Users, Asset Library, and Analytics APIs and User webhook events.",
+    "date": "2026-10-19T00:00:00+00:00"
   },
   {
     "id": "a2ad1778493b81ce",
