@@ -610,44 +610,44 @@
     "date": "2026-11-15T00:00:00+00:00"
   },
   {
-    "id": "d049bfec5d6e95e3",
+    "id": "cd1624f268435e44",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New response fields",
-    "link": "https://developers.zoom.us/changelog/accounts/october-12-2026",
-    "summary": "Tags: api-release | Added new response fields for accounts settings API endpoint.",
-    "date": "2026-10-12T00:00:00+00:00"
+    "title": "New Decisions APIs",
+    "link": "https://developers.zoom.us/changelog/ai-services/october-19-2026",
+    "summary": "Tags: api-release | Added new endpoint for Decisions API.",
+    "date": "2026-10-19T00:00:00+00:00"
   },
   {
-    "id": "d2156f2aa146ac20",
+    "id": "1ac52ae48a4da3a7",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New MCP tools for Zoom Workflows and Zoom Room MCP servers",
-    "link": "https://developers.zoom.us/changelog/mcp/october-12-2026",
-    "summary": "Tags: api-release | Added MCP tools and associated scopes.",
-    "date": "2026-10-12T00:00:00+00:00"
+    "title": "New `user_id` request field",
+    "link": "https://developers.zoom.us/changelog/clips/october-19-2026",
+    "summary": "Tags: api-release | Added request field for Clips API.",
+    "date": "2026-10-19T00:00:00+00:00"
   },
   {
-    "id": "7cc566d1d88d3313",
+    "id": "3f8730d9c630c4e5",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 2.6.0",
-    "link": "https://developers.zoom.us/changelog/video-sdk/web/2.6.0",
-    "summary": "Tags: bug-fix, sdk-version | Introduces the ability to delete sent chat messages via chat.deleteMessage(), and several improvements to WebRTC connection recovery, WebCodecs fallback reliability, and audio device selection on mobile, plus expanded WebRTC video support for Firefox, Island Browser,...",
-    "date": "2026-10-12T00:00:00+00:00"
+    "title": "Version 3.10.0",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.10.0",
+    "summary": "Tags: sdk-version, bug-fix | Added gesture support and fixed toast style rendering.",
+    "date": "2026-10-19T00:00:00+00:00"
   },
   {
-    "id": "c07d08c8f61f5ec2",
+    "id": "98bd7ad629900afa",
     "product_id": "zoom",
     "product_name": "Zoom",
     "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Deprecated MCP tools",
-    "link": "https://developers.zoom.us/changelog/mcp/october-05-2026",
-    "summary": "Tags: api-release | Removed global MCP tools for whiteboard.",
-    "date": "2026-10-05T00:00:00+00:00"
+    "title": "New request and response fields to Contact Center Users, Asset Library, and Analytics APIs and User webhook events.",
+    "link": "https://developers.zoom.us/changelog/contact-center/october-19-2026",
+    "summary": "Tags: api-release | Added request and response fields to Contact Center Users, Asset Library, and Analytics APIs and User webhook events.",
+    "date": "2026-10-19T00:00:00+00:00"
   },
   {
     "id": "9d2c5ca9fba32267",
@@ -748,6 +748,46 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini work the way you do. By bringing your favorite apps and custom skills together in a single conversation, Gemini helps you skip the context switching and get more done, faster and easier. Customize is rolling out globally across web, mobile, and the Gemini desktop app on...",
     "date": "2026-10-13T16:21:16.896852+00:00"
+  },
+  {
+    "id": "d049bfec5d6e95e3",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New response fields",
+    "link": "https://developers.zoom.us/changelog/accounts/october-12-2026",
+    "summary": "Tags: api-release | Added new response fields for accounts settings API endpoint.",
+    "date": "2026-10-12T00:00:00+00:00"
+  },
+  {
+    "id": "d2156f2aa146ac20",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New MCP tools for Zoom Workflows and Zoom Room MCP servers",
+    "link": "https://developers.zoom.us/changelog/mcp/october-12-2026",
+    "summary": "Tags: api-release | Added MCP tools and associated scopes.",
+    "date": "2026-10-12T00:00:00+00:00"
+  },
+  {
+    "id": "7cc566d1d88d3313",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 2.6.0",
+    "link": "https://developers.zoom.us/changelog/video-sdk/web/2.6.0",
+    "summary": "Tags: bug-fix, sdk-version | Introduces the ability to delete sent chat messages via chat.deleteMessage(), and several improvements to WebRTC connection recovery, WebCodecs fallback reliability, and audio device selection on mobile, plus expanded WebRTC video support for Firefox, Island Browser,...",
+    "date": "2026-10-12T00:00:00+00:00"
+  },
+  {
+    "id": "c07d08c8f61f5ec2",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Deprecated MCP tools",
+    "link": "https://developers.zoom.us/changelog/mcp/october-05-2026",
+    "summary": "Tags: api-release | Removed global MCP tools for whiteboard.",
+    "date": "2026-10-05T00:00:00+00:00"
   },
   {
     "id": "a2ad1778493b81ce",
@@ -958,45 +998,5 @@
     "link": "https://docs.slack.dev/changelog/2026/09/15/slack-cli",
     "summary": "Version 4.8.0 of the Slack CLI is here!",
     "date": "2026-09-15T00:00:00+00:00"
-  },
-  {
-    "id": "9c3d06b9f59f1579",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Updated installation requirement for Slack Marketplace apps",
-    "link": "https://docs.slack.dev/changelog/2026/09/01/slack-marketplace-install-requirement",
-    "summary": "As of July 2026, we require that apps submitting to the Slack Marketplace have at least 10 installations on active workspaces, up from the temporary lower threshold. Your app needs to stay at 10 or more installed workspaces throughout the entire duration of the review.",
-    "date": "2026-09-01T00:00:00+00:00"
-  },
-  {
-    "id": "7b01a7dd681f5c18",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Find your routine next steps on the post-meeting screen in Google Meet",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
-    "summary": "We are introducing next steps in Google Meet. Powered by Gemini and Workspace Studio, our new capability allows users to automate repetitive post-meeting tasks directly within Google Workspace. Next steps help you transform meeting discussions into definitive actions, like drafting follow-up emails...",
-    "date": "2026-10-12T19:17:43+00:00"
-  },
-  {
-    "id": "a78bae7de5f07c82",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Configure Access Management and Access Approvals policies using classification labels with rules in Assured Controls",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/configure-access-management-and-access-Approvals-policies-using-classification-labels-with-rules-in-Assured-Controls.html",
-    "summary": "We’re introducing Assured Controls rules in the Google Workspace Admin Console, giving administrators a more granular, resource-centric way to enforce Access Management and Access Approvals policies on Google Drive files.Previously, Access Management and Access Approvals policies could only be...",
-    "date": "2026-10-12T18:28:27+00:00"
-  },
-  {
-    "id": "251f17edc1e10249",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Google Meet now uses post-quantum cryptography",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/google-meet-now-uses-post-quantum-cryptography.html",
-    "summary": "Calls in Google Meet will use post-quantum cryptography (PQC) for extra protection, starting now with laptop web clients and meeting room hardware, with mobile support coming soon. There are no visible changes, and you can continue using Meet normally. The updated encryption protects your data...",
-    "date": "2026-10-12T15:54:33+00:00"
   }
 ]
