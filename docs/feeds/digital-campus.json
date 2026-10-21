@@ -650,6 +650,26 @@
     "date": "2026-10-19T00:00:00+00:00"
   },
   {
+    "id": "6b250a1925bae369",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Duet research preview for Pro and Max plans",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-10-21T00:00:00+00:00"
+  },
+  {
+    "id": "6f6bc550e4cc29ab",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Introducing Claude Duet",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-10-21T00:00:00+00:00"
+  },
+  {
     "id": "9d2c5ca9fba32267",
     "product_id": "claude",
     "product_name": "Claude",
@@ -678,26 +698,6 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-10-07T00:00:00+00:00"
-  },
-  {
-    "id": "6f7bcfbcc4c8f38b",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Settings > Billing",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-10-07T00:00:00+00:00"
-  },
-  {
-    "id": "7d2b228c217d7163",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Sonnet 5.5 launch",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-28T00:00:00+00:00"
   },
   {
     "id": "2005c82e484167da",
@@ -748,6 +748,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini work the way you do. By bringing your favorite apps and custom skills together in a single conversation, Gemini helps you skip the context switching and get more done, faster and easier. Customize is rolling out globally across web, mobile, and the Gemini desktop app on...",
     "date": "2026-10-13T16:21:16.896852+00:00"
+  },
+  {
+    "id": "6f7bcfbcc4c8f38b",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Settings > Billing",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-10-07T00:00:00+00:00"
+  },
+  {
+    "id": "7d2b228c217d7163",
+    "product_id": "claude",
+    "product_name": "Claude",
+    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
+    "title": "Claude Sonnet 5.5 launch",
+    "link": "https://support.claude.com/en/articles/12138966-release-notes",
+    "summary": "",
+    "date": "2026-09-28T00:00:00+00:00"
   },
   {
     "id": "949bf346656c7d43",
@@ -978,25 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
     "summary": "As previously announced, skills in the Gemini app are starting to roll out today, with an expected completion by mid-November. In the coming weeks, we’ll also introduce critical features like the ability to share Gemini app skills and an integration with Google Drive. We’ll post on the Workspace...",
     "date": "2026-10-13T20:33:42+00:00"
-  },
-  {
-    "id": "49bf8a533df6ef4a",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Summarization and Asset APIs",
-    "link": "https://developers.zoom.us/changelog/ai-services/october-15-2026",
-    "summary": "Tags: api-release | Added new endpoints for Summarization and Asset API as well as request and response fields for Scribe API.",
-    "date": "2026-10-15T00:00:00+00:00"
-  },
-  {
-    "id": "41cc8d7eb3443fdf",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New VoiceAgent API",
-    "link": "https://developers.zoom.us/changelog/ai-services/october-12-2026",
-    "summary": "Tags: api-release | Added new VoiceAgent API.",
-    "date": "2026-10-12T00:00:00+00:00"
   }
 ]
