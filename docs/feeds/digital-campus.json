@@ -120,6 +120,16 @@
     "date": "2026-09-23T01:27:39.424512+00:00"
   },
   {
+    "id": "b3e771261cfd1574",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create structured documents using just your voice with Docs Live in Google Docs on mobile",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/create-structured-documents-using-just-your-voice-with-Docs-Live-in-Google-Docs-on-mobile.html",
+    "summary": "Docs Live is now rolling out to eligible Workspace users of the Google Docs mobile app on Android and iOS. This new feature acts as a hands-free thought partner and co-writer that helps you build structured, context-aware documents on the fly using natural conversation.Starting a new document from...",
+    "date": "2026-10-21T21:56:27+00:00"
+  },
+  {
     "id": "25d3f845d3a37ca5",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/teacher-led-gemini-notebook-in-google-Classroom-now-offers-insight-summaries-for-educators-and-updated-sharing-settings-for-admins-including-trusted-domains.html",
     "summary": "Following the launch of teacher-led Gemini Notebook in Google Classroom, we are introducing insight summaries for educators. This update provides teachers with greater visibility into how students interact with assigned notebooks, helping gauge instructional value and inform lesson...",
     "date": "2026-10-19T20:23:52+00:00"
-  },
-  {
-    "id": "0a8eb11ad0059aa4",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Analyze BigQuery data using natural language with Gemini in Google Sheets",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/analyze-bigquery-data-using-natural-language-with-Gemini-in-Google-Sheets.html",
-    "summary": "We’re introducing a new way to analyze BigQuery data in Google Sheets. After connecting to BigQuery data with Connected Sheets, you can use Gemini to interact and analyze that data conversationally, right in Google Sheets. Gemini queries run against the full dataset in BigQuery, not just what’s...",
-    "date": "2026-10-19T20:19:13+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "0a8eb11ad0059aa4",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Analyze BigQuery data using natural language with Gemini in Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/analyze-bigquery-data-using-natural-language-with-Gemini-in-Google-Sheets.html",
+    "summary": "We’re introducing a new way to analyze BigQuery data in Google Sheets. After connecting to BigQuery data with Connected Sheets, you can use Gemini to interact and analyze that data conversationally, right in Google Sheets. Gemini queries run against the full dataset in BigQuery, not just what’s...",
+    "date": "2026-10-19T20:19:13+00:00"
+  },
+  {
     "id": "6f7bcfbcc4c8f38b",
     "product_id": "claude",
     "product_name": "Claude",
@@ -988,15 +998,5 @@
     "link": "https://developer.apple.com/news/releases/?id=10132026c",
     "summary": "View downloadsView release notes",
     "date": "2026-10-13T17:00:00+00:00"
-  },
-  {
-    "id": "493efa2a25d77118",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "An update on the launch of skills in the Gemini app and Workspace",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
-    "summary": "As previously announced, skills in the Gemini app are starting to roll out today, with an expected completion by mid-November. In the coming weeks, we’ll also introduce critical features like the ability to share Gemini app skills and an integration with Google Drive. We’ll post on the Workspace...",
-    "date": "2026-10-13T20:33:42+00:00"
   }
 ]
