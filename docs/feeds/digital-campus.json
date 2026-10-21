@@ -120,6 +120,36 @@
     "date": "2026-09-23T01:27:39.424512+00:00"
   },
   {
+    "id": "25d3f845d3a37ca5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gain more creative control over Slide Decks and Video Overviews in Gemini Notebook",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/gain-more-creative-control-over-slide-Decks-and-Video-Overviews-in-Gemini-Notebook.html",
+    "summary": "Gemini Notebook now gives you more creative control over Slide Decks and Video Overviews. Instead of jumping straight to a final output, Gemini Notebook can now walk you through a step-by-step creation flow so you can steer the content further and guide the visual style and format. Get started by...",
+    "date": "2026-10-21T17:09:27+00:00"
+  },
+  {
+    "id": "0223b42268e155e3",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Video tile pairing is now available on Google Meet mobile to improve accessibility for users and language interpreters",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/video-tile-pairing-is-now-available-on-Google-Meet-mobile-to-improve-accessibility-for-users-and-language-interpreters.html",
+    "summary": "Following our original feature announcement for the web, we are excited to expand video tile pairing in Google Meet to both iOS and Android mobile devices. This update allows users to pair their video tile with another meeting participant, ensuring both tiles are displayed side-by-side for other...",
+    "date": "2026-10-21T16:26:26+00:00"
+  },
+  {
+    "id": "cf3103fc4b355569",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "An easier way to customize how Gemini works for you",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/an-easier-way-to-customize-how-gemini-works-for-you.html",
+    "summary": "We’ve introduced a centralized ”customize” hub in the Gemini app, providing a single place to tailor how Gemini responds and connects with your tools. Users can discover apps and add skills to automate repetitive workflows such as adapting to your personal writing style or adhering to specific...",
+    "date": "2026-10-21T15:31:29+00:00"
+  },
+  {
     "id": "e1c4c2c1850caaf2",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -138,36 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/analyze-bigquery-data-using-natural-language-with-Gemini-in-Google-Sheets.html",
     "summary": "We’re introducing a new way to analyze BigQuery data in Google Sheets. After connecting to BigQuery data with Connected Sheets, you can use Gemini to interact and analyze that data conversationally, right in Google Sheets. Gemini queries run against the full dataset in BigQuery, not just what’s...",
     "date": "2026-10-19T20:19:13+00:00"
-  },
-  {
-    "id": "949bf346656c7d43",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Publish interactive apps from the Gemini app to Google Sites",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/publish-interactive-apps-from-gemini-app-to-Google-Sites.html",
-    "summary": "You can now export interactive apps built in the Gemini app directly to Google Sites. With one click, your app is added to a new, private site draft — fully interactive and ready to customize. From there, you can add more content, publish the site, and share it just like any other Google Site.This...",
-    "date": "2026-10-19T17:25:14+00:00"
-  },
-  {
-    "id": "7a170a5b10a7d03d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini in Google Sheets is now available on iOS devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/gemini-in-google-sheets-is-now-available-on-iOS-devices.html",
-    "summary": "Building upon the power of Gemini in Sheets on the web and our recent launch on Android devices, we’re excited to announce that you can now use Gemini in Google Sheets on your iOS device to quickly analyze and understand your data while on the go.Simply tap on the Gemini spark icon, and you can ask...",
-    "date": "2026-10-19T17:00:39+00:00"
-  },
-  {
-    "id": "b6f8523a8188499b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Follow through on your meeting tasks with meeting recaps in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/follow-through-on-your-meeting-tasks-with-meeting-recaps-in-Google-Chat.html",
-    "summary": "To make it easier for teams to move from planning to action, we’re introducing meeting recaps in Google Chat. Meeting recaps provide a convenient summary directly in Google Chat, including:Meeting summary: A high-level overview highlighting key discussion topics and takeaways.Direct artifact links:...",
-    "date": "2026-10-19T15:37:48+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,36 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "949bf346656c7d43",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Publish interactive apps from the Gemini app to Google Sites",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/publish-interactive-apps-from-gemini-app-to-Google-Sites.html",
+    "summary": "You can now export interactive apps built in the Gemini app directly to Google Sites. With one click, your app is added to a new, private site draft — fully interactive and ready to customize. From there, you can add more content, publish the site, and share it just like any other Google Site.This...",
+    "date": "2026-10-19T17:25:14+00:00"
+  },
+  {
+    "id": "7a170a5b10a7d03d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gemini in Google Sheets is now available on iOS devices",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/gemini-in-google-sheets-is-now-available-on-iOS-devices.html",
+    "summary": "Building upon the power of Gemini in Sheets on the web and our recent launch on Android devices, we’re excited to announce that you can now use Gemini in Google Sheets on your iOS device to quickly analyze and understand your data while on the go.Simply tap on the Gemini spark icon, and you can ask...",
+    "date": "2026-10-19T17:00:39+00:00"
+  },
+  {
+    "id": "b6f8523a8188499b",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Follow through on your meeting tasks with meeting recaps in Google Chat",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/follow-through-on-your-meeting-tasks-with-meeting-recaps-in-Google-Chat.html",
+    "summary": "To make it easier for teams to move from planning to action, we’re introducing meeting recaps in Google Chat. Meeting recaps provide a convenient summary directly in Google Chat, including:Meeting summary: A high-level overview highlighting key discussion topics and takeaways.Direct artifact links:...",
+    "date": "2026-10-19T15:37:48+00:00"
+  },
+  {
     "id": "14ad73a3673252a0",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -968,35 +998,5 @@
     "link": "https://developers.zoom.us/changelog/ai-services/october-12-2026",
     "summary": "Tags: api-release | Added new VoiceAgent API.",
     "date": "2026-10-12T00:00:00+00:00"
-  },
-  {
-    "id": "dd7829931a527c49",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New Comments APIs",
-    "link": "https://developers.zoom.us/changelog/canvas/october-12-2026",
-    "summary": "Tags: api-release | Added new Comments APIs and new request fields for Export API.",
-    "date": "2026-10-12T00:00:00+00:00"
-  },
-  {
-    "id": "de8a28959293afcc",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "What: Google Antigravity is now built into the Gemini macOS app, so go straight from brainstorming in chat to coding apps, building web experiences",
-    "link": "https://gemini.google/desktop/",
-    "summary": "What: Google Antigravity is now built into the Gemini macOS app, so go straight from brainstorming in chat to coding apps, building web experiences and prototyping ideas. Spin up a coding agent in Antigravity, approve its plan and head straight back to your Gemini chat. The agent builds and tests...",
-    "date": "2026-10-17T06:50:53.613728+00:00"
-  },
-  {
-    "id": "adc38c2affde19ea",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Why: We want to make Gemini work the way you do. By bringing your favourite apps and custom skills together in a single conversation, Gemini helps y",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Why: We want to make Gemini work the way you do. By bringing your favourite apps and custom skills together in a single conversation, Gemini helps you skip the context switching and get more done, faster and easier. Customise is rolling out globally across web, mobile, and the Gemini desktop app on...",
-    "date": "2026-10-17T06:50:53.613754+00:00"
   }
 ]
