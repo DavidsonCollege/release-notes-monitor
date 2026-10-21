@@ -700,56 +700,6 @@
     "date": "2026-09-28T00:00:00+00:00"
   },
   {
-    "id": "14ad73a3673252a0",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Essayez Gemini",
-    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
-    "summary": "",
-    "date": "2026-10-02T22:17:31.606289+00:00"
-  },
-  {
-    "id": "6f2efcbd877c4da6",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Quoi : À partir d'aujourd'hui, Gemini 4 Argon est déployé à l'échelle mondiale pour les abonnés à Google AI Pro et Ultra dans l'appli Gemini. 4 Argo",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Quoi : À partir d'aujourd'hui, Gemini 4 Argon est déployé à l'échelle mondiale pour les abonnés à Google AI Pro et Ultra dans l'appli Gemini. 4 Argon est notre modèle de frontière le plus récent, conçu pour vous aider à accomplir vos tâches les plus complexes du début à la fin. Que vous analysiez...",
-    "date": "2026-10-15T11:41:11.232337+00:00"
-  },
-  {
-    "id": "76a053872c6cbf9f",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Pourquoi : Nous voulons faire de Gemini l'assistant IA le plus utile pour tous. Grâce aux performances de pointe de Gemini 4 Argon, vous pouvez déso",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Pourquoi : Nous voulons faire de Gemini l'assistant IA le plus utile pour tous. Grâce aux performances de pointe de Gemini 4 Argon, vous pouvez désormais transformer vos idées les plus ambitieuses en projets réels.",
-    "date": "2026-10-15T11:41:11.232361+00:00"
-  },
-  {
-    "id": "7fb2416a0ef90883",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Quoi : Google Antigravity est maintenant intégré à l'appli Gemini pour macOS, ce qui vous permet de passer directement du remue-méninges dans le cla",
-    "link": "https://gemini.google/desktop/",
-    "summary": "Quoi : Google Antigravity est maintenant intégré à l'appli Gemini pour macOS, ce qui vous permet de passer directement du remue-méninges dans le clavardage au codage d'applis, à la création d'expériences Web et au prototypage d'idées. Lancez un agent de codage dans Antigravity, approuvez son plan...",
-    "date": "2026-10-15T11:41:11.232370+00:00"
-  },
-  {
-    "id": "032e38351e82d533",
-    "product_id": "gemini",
-    "product_name": "Gemini",
-    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
-    "title": "Pourquoi : Nous voulons vous aider à transformer plus rapidement des idées ambitieuses en code et en prototypes fonctionnels, directement là où vous",
-    "link": "https://gemini.google/release-notes/",
-    "summary": "Pourquoi : Nous voulons vous aider à transformer plus rapidement des idées ambitieuses en code et en prototypes fonctionnels, directement là où vous travaillez déjà sur votre Mac. Avec Antigravity intégré à l'appli Gemini, vous disposez d'un partenaire de codage agentique qui planifie, construit et...",
-    "date": "2026-10-15T11:41:11.232382+00:00"
-  },
-  {
     "id": "2005c82e484167da",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -798,6 +748,56 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini work the way you do. By bringing your favorite apps and custom skills together in a single conversation, Gemini helps you skip the context switching and get more done, faster and easier. Customize is rolling out globally across web, mobile, and the Gemini desktop app on...",
     "date": "2026-10-13T16:21:16.896852+00:00"
+  },
+  {
+    "id": "14ad73a3673252a0",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Essayez Gemini",
+    "link": "https://gemini.google.com/app/download/mobile?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page",
+    "summary": "",
+    "date": "2026-10-02T22:17:31.606289+00:00"
+  },
+  {
+    "id": "6f2efcbd877c4da6",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Quoi : À partir d'aujourd'hui, Gemini 4 Argon est déployé à l'échelle mondiale pour les abonnés à Google AI Pro et Ultra dans l'appli Gemini. 4 Argo",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Quoi : À partir d'aujourd'hui, Gemini 4 Argon est déployé à l'échelle mondiale pour les abonnés à Google AI Pro et Ultra dans l'appli Gemini. 4 Argon est notre modèle de frontière le plus récent, conçu pour vous aider à accomplir vos tâches les plus complexes du début à la fin. Que vous analysiez...",
+    "date": "2026-10-15T11:41:11.232337+00:00"
+  },
+  {
+    "id": "76a053872c6cbf9f",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Pourquoi : Nous voulons faire de Gemini l'assistant IA le plus utile pour tous. Grâce aux performances de pointe de Gemini 4 Argon, vous pouvez déso",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Pourquoi : Nous voulons faire de Gemini l'assistant IA le plus utile pour tous. Grâce aux performances de pointe de Gemini 4 Argon, vous pouvez désormais transformer vos idées les plus ambitieuses en projets réels.",
+    "date": "2026-10-15T11:41:11.232361+00:00"
+  },
+  {
+    "id": "7fb2416a0ef90883",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Quoi : Google Antigravity est maintenant intégré à l'appli Gemini pour macOS, ce qui vous permet de passer directement du remue-méninges dans le cla",
+    "link": "https://gemini.google/desktop/",
+    "summary": "Quoi : Google Antigravity est maintenant intégré à l'appli Gemini pour macOS, ce qui vous permet de passer directement du remue-méninges dans le clavardage au codage d'applis, à la création d'expériences Web et au prototypage d'idées. Lancez un agent de codage dans Antigravity, approuvez son plan...",
+    "date": "2026-10-15T11:41:11.232370+00:00"
+  },
+  {
+    "id": "032e38351e82d533",
+    "product_id": "gemini",
+    "product_name": "Gemini",
+    "icon_url": "https://www.google.com/s2/favicons?domain=gemini.google&sz=64",
+    "title": "Pourquoi : Nous voulons vous aider à transformer plus rapidement des idées ambitieuses en code et en prototypes fonctionnels, directement là où vous",
+    "link": "https://gemini.google/release-notes/",
+    "summary": "Pourquoi : Nous voulons vous aider à transformer plus rapidement des idées ambitieuses en code et en prototypes fonctionnels, directement là où vous travaillez déjà sur votre Mac. Avec Antigravity intégré à l'appli Gemini, vous disposez d'un partenaire de codage agentique qui planifie, construit et...",
+    "date": "2026-10-15T11:41:11.232382+00:00"
   },
   {
     "id": "9b4a49c55cd1a750",
