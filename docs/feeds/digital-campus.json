@@ -120,6 +120,16 @@
     "date": "2026-09-23T01:27:39.424512+00:00"
   },
   {
+    "id": "9df4fde5bae53a19",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create box and whisker charts in Google Sheets",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/create-box-and-whisker-charts-in-google-sheets.html",
+    "summary": "Google Sheets now natively supports box and whisker charts, a statistical chart type that shows how a dataset is distributed. Select a range of raw numeric values and Sheets calculates the minimum, first quartile, median, third quartile, maximum, mean, and outliers for you, with no helper formulas...",
+    "date": "2026-10-22T15:06:16+00:00"
+  },
+  {
     "id": "b3e771261cfd1574",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/an-easier-way-to-customize-how-gemini-works-for-you.html",
     "summary": "We’ve introduced a centralized ”customize” hub in the Gemini app, providing a single place to tailor how Gemini responds and connects with your tools. Users can discover apps and add skills to automate repetitive workflows such as adapting to your personal writing style or adhering to specific...",
     "date": "2026-10-21T15:31:29+00:00"
-  },
-  {
-    "id": "e1c4c2c1850caaf2",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Teacher-led Gemini Notebook in Google Classroom now offers insight summaries for educators and updated sharing settings for admins, including trusted domains",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/teacher-led-gemini-notebook-in-google-Classroom-now-offers-insight-summaries-for-educators-and-updated-sharing-settings-for-admins-including-trusted-domains.html",
-    "summary": "Following the launch of teacher-led Gemini Notebook in Google Classroom, we are introducing insight summaries for educators. This update provides teachers with greater visibility into how students interact with assigned notebooks, helping gauge instructional value and inform lesson...",
-    "date": "2026-10-19T20:23:52+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "e1c4c2c1850caaf2",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Teacher-led Gemini Notebook in Google Classroom now offers insight summaries for educators and updated sharing settings for admins, including trusted domains",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/teacher-led-gemini-notebook-in-google-Classroom-now-offers-insight-summaries-for-educators-and-updated-sharing-settings-for-admins-including-trusted-domains.html",
+    "summary": "Following the launch of teacher-led Gemini Notebook in Google Classroom, we are introducing insight summaries for educators. This update provides teachers with greater visibility into how students interact with assigned notebooks, helping gauge instructional value and inform lesson...",
+    "date": "2026-10-19T20:23:52+00:00"
+  },
+  {
     "id": "14ad73a3673252a0",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -988,15 +998,5 @@
     "link": "https://developers.zoom.us/changelog/video-sdk/web/2.6.0",
     "summary": "Tags: bug-fix, sdk-version | Introduces the ability to delete sent chat messages via chat.deleteMessage(), and several improvements to WebRTC connection recovery, WebCodecs fallback reliability, and audio device selection on mobile, plus expanded WebRTC video support for Firefox, Island Browser,...",
     "date": "2026-10-12T00:00:00+00:00"
-  },
-  {
-    "id": "c07d08c8f61f5ec2",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Deprecated MCP tools",
-    "link": "https://developers.zoom.us/changelog/mcp/october-05-2026",
-    "summary": "Tags: api-release | Removed global MCP tools for whiteboard.",
-    "date": "2026-10-05T00:00:00+00:00"
   }
 ]
