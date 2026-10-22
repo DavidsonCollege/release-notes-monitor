@@ -120,6 +120,16 @@
     "date": "2026-09-23T01:27:39.424512+00:00"
   },
   {
+    "id": "d0749d27f51e6e42",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Real-time speech translation in Google Meet expands to 63 languages with automatic language detection",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/real-time-speech-translation-in-google-Meet-expands-to-63-languages-with-automatic-language-detection.html",
+    "summary": "Gemini-powered speech translation in Google Meet will now support 63 languages across web and mobile devices (Android and iOS), with listening support on Google Meet hardware devices.Previously, speech translation supported a limited set of language pairs and required configuring a single language...",
+    "date": "2026-10-22T17:41:39+00:00"
+  },
+  {
     "id": "9df4fde5bae53a19",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/video-tile-pairing-is-now-available-on-Google-Meet-mobile-to-improve-accessibility-for-users-and-language-interpreters.html",
     "summary": "Following our original feature announcement for the web, we are excited to expand video tile pairing in Google Meet to both iOS and Android mobile devices. This update allows users to pair their video tile with another meeting participant, ensuring both tiles are displayed side-by-side for other...",
     "date": "2026-10-21T16:26:26+00:00"
-  },
-  {
-    "id": "cf3103fc4b355569",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "An easier way to customize how Gemini works for you",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/an-easier-way-to-customize-how-gemini-works-for-you.html",
-    "summary": "We’ve introduced a centralized ”customize” hub in the Gemini app, providing a single place to tailor how Gemini responds and connects with your tools. Users can discover apps and add skills to automate repetitive workflows such as adapting to your personal writing style or adhering to specific...",
-    "date": "2026-10-21T15:31:29+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "cf3103fc4b355569",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "An easier way to customize how Gemini works for you",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/an-easier-way-to-customize-how-gemini-works-for-you.html",
+    "summary": "We’ve introduced a centralized ”customize” hub in the Gemini app, providing a single place to tailor how Gemini responds and connects with your tools. Users can discover apps and add skills to automate repetitive workflows such as adapting to your personal writing style or adhering to specific...",
+    "date": "2026-10-21T15:31:29+00:00"
+  },
+  {
     "id": "e1c4c2c1850caaf2",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -987,16 +997,6 @@
     "title": "New MCP tools for Zoom Workflows and Zoom Room MCP servers",
     "link": "https://developers.zoom.us/changelog/mcp/october-12-2026",
     "summary": "Tags: api-release | Added MCP tools and associated scopes.",
-    "date": "2026-10-12T00:00:00+00:00"
-  },
-  {
-    "id": "7cc566d1d88d3313",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 2.6.0",
-    "link": "https://developers.zoom.us/changelog/video-sdk/web/2.6.0",
-    "summary": "Tags: bug-fix, sdk-version | Introduces the ability to delete sent chat messages via chat.deleteMessage(), and several improvements to WebRTC connection recovery, WebCodecs fallback reliability, and audio device selection on mobile, plus expanded WebRTC video support for Firefox, Island Browser,...",
     "date": "2026-10-12T00:00:00+00:00"
   }
 ]
