@@ -120,6 +120,16 @@
     "date": "2026-09-23T01:27:39.424512+00:00"
   },
   {
+    "id": "fbf539339e074f62",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Vault now supports filtered exports for Gemini in Workspace",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html",
+    "summary": "Google Vault now supports eDiscovery filtered exports for Gemini in Workspace. This update adds a new data source to our AI compliance capabilities, allowing administrators to filter and export users' Gemini in Workspace conversations across apps like Gmail, Drive, Docs, Sheets, Slides and Meet in...",
+    "date": "2026-10-22T22:08:28+00:00"
+  },
+  {
     "id": "d0749d27f51e6e42",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/gain-more-creative-control-over-slide-Decks-and-Video-Overviews-in-Gemini-Notebook.html",
     "summary": "Gemini Notebook now gives you more creative control over Slide Decks and Video Overviews. Instead of jumping straight to a final output, Gemini Notebook can now walk you through a step-by-step creation flow so you can steer the content further and guide the visual style and format. Get started by...",
     "date": "2026-10-21T17:09:27+00:00"
-  },
-  {
-    "id": "0223b42268e155e3",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Video tile pairing is now available on Google Meet mobile to improve accessibility for users and language interpreters",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/video-tile-pairing-is-now-available-on-Google-Meet-mobile-to-improve-accessibility-for-users-and-language-interpreters.html",
-    "summary": "Following our original feature announcement for the web, we are excited to expand video tile pairing in Google Meet to both iOS and Android mobile devices. This update allows users to pair their video tile with another meeting participant, ensuring both tiles are displayed side-by-side for other...",
-    "date": "2026-10-21T16:26:26+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "0223b42268e155e3",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Video tile pairing is now available on Google Meet mobile to improve accessibility for users and language interpreters",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/video-tile-pairing-is-now-available-on-Google-Meet-mobile-to-improve-accessibility-for-users-and-language-interpreters.html",
+    "summary": "Following our original feature announcement for the web, we are excited to expand video tile pairing in Google Meet to both iOS and Android mobile devices. This update allows users to pair their video tile with another meeting participant, ensuring both tiles are displayed side-by-side for other...",
+    "date": "2026-10-21T16:26:26+00:00"
+  },
+  {
     "id": "7dd9f9e5d46fcab2",
     "product_id": "gemini",
     "product_name": "Gemini",
@@ -987,16 +997,6 @@
     "title": "New response fields",
     "link": "https://developers.zoom.us/changelog/accounts/october-12-2026",
     "summary": "Tags: api-release | Added new response fields for accounts settings API endpoint.",
-    "date": "2026-10-12T00:00:00+00:00"
-  },
-  {
-    "id": "d2156f2aa146ac20",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New MCP tools for Zoom Workflows and Zoom Room MCP servers",
-    "link": "https://developers.zoom.us/changelog/mcp/october-12-2026",
-    "summary": "Tags: api-release | Added MCP tools and associated scopes.",
     "date": "2026-10-12T00:00:00+00:00"
   }
 ]
