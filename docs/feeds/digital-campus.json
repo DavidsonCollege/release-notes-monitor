@@ -550,6 +550,16 @@
     "date": "2022-01-25T00:00-06:00"
   },
   {
+    "id": "86204807df7202c3",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 23 October 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/10/23/announcing-new-builds-for-23-october-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 23 October 2026 appeared first on Windows Insider Blog.",
+    "date": "2026-10-23T17:05:25+00:00"
+  },
+  {
     "id": "96d38ea3accd1982",
     "product_id": "windows",
     "product_name": "Windows",
@@ -588,16 +598,6 @@
     "link": "https://blogs.windows.com/windows-insider/2026/09/25/announcing-new-builds-for-25-september-2026/",
     "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 25 September 2026 appeared first on Windows Insider Blog.",
     "date": "2026-09-25T17:02:08+00:00"
-  },
-  {
-    "id": "09a5c880dcda5cb5",
-    "product_id": "windows",
-    "product_name": "Windows",
-    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
-    "title": "Announcing new builds for 18 September 2026",
-    "link": "https://blogs.windows.com/windows-insider/2026/09/18/announcing-new-builds-for-18-september-2026/",
-    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 18 September 2026 appeared first on Windows Insider Blog.",
-    "date": "2026-09-18T17:02:07+00:00"
   },
   {
     "id": "4452b7b2961849dc",
@@ -748,6 +748,16 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini work the way you do. By bringing your favorite apps and custom skills together in a single conversation, Gemini helps you skip the context switching and get more done, faster and easier. Customize is rolling out globally across web, mobile, and the Gemini desktop app on...",
     "date": "2026-10-13T16:21:16.896852+00:00"
+  },
+  {
+    "id": "09a5c880dcda5cb5",
+    "product_id": "windows",
+    "product_name": "Windows",
+    "icon_url": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=64",
+    "title": "Announcing new builds for 18 September 2026",
+    "link": "https://blogs.windows.com/windows-insider/2026/09/18/announcing-new-builds-for-18-september-2026/",
+    "summary": "Hello Windows Insiders, Today, we’re releasing new Windows 11 Insider Preview builds to the Beta and Experimental channels. New builds this week Select your channel below to view its release notes: Beta: Announcing new builds for 18 September 2026 appeared first on Windows Insider Blog.",
+    "date": "2026-09-18T17:02:07+00:00"
   },
   {
     "id": "25d3f845d3a37ca5",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/follow-through-on-your-meeting-tasks-with-meeting-recaps-in-Google-Chat.html",
     "summary": "To make it easier for teams to move from planning to action, we’re introducing meeting recaps in Google Chat. Meeting recaps provide a convenient summary directly in Google Chat, including:Meeting summary: A high-level overview highlighting key discussion topics and takeaways.Direct artifact links:...",
     "date": "2026-10-19T15:37:48+00:00"
-  },
-  {
-    "id": "9b4a49c55cd1a750",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "October 20 2026"
   }
 ]
