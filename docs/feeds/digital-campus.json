@@ -120,6 +120,16 @@
     "date": "2026-09-23T01:27:39.424512+00:00"
   },
   {
+    "id": "6e9fe774975b80a3",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Extract audio tracks in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/extract-audio-tracks-in-google-vids.html",
+    "summary": "We are introducing the ability to decouple and extract the audio track from video clips directly within Google Vids. By separating audio from video, creators gain granular control over multimedia editing, making it simple to custom-tailor voiceovers, remove distracting background noise, and align...",
+    "date": "2026-10-23T16:26:52+00:00"
+  },
+  {
     "id": "4e3d6e09be8dc9c3",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/create-box-and-whisker-charts-in-google-sheets.html",
     "summary": "Google Sheets now natively supports box and whisker charts, a statistical chart type that shows how a dataset is distributed. Select a range of raw numeric values and Sheets calculates the minimum, first quartile, median, third quartile, maximum, mean, and outliers for you, with no helper formulas...",
     "date": "2026-10-22T15:06:16+00:00"
-  },
-  {
-    "id": "b3e771261cfd1574",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Create structured documents using just your voice with Docs Live in Google Docs on mobile",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/create-structured-documents-using-just-your-voice-with-Docs-Live-in-Google-Docs-on-mobile.html",
-    "summary": "Docs Live is now rolling out to eligible Workspace users of the Google Docs mobile app on Android and iOS. This new feature acts as a hands-free thought partner and co-writer that helps you build structured, context-aware documents on the fly using natural conversation.Starting a new document from...",
-    "date": "2026-10-21T21:56:27+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "b3e771261cfd1574",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Create structured documents using just your voice with Docs Live in Google Docs on mobile",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/create-structured-documents-using-just-your-voice-with-Docs-Live-in-Google-Docs-on-mobile.html",
+    "summary": "Docs Live is now rolling out to eligible Workspace users of the Google Docs mobile app on Android and iOS. This new feature acts as a hands-free thought partner and co-writer that helps you build structured, context-aware documents on the fly using natural conversation.Starting a new document from...",
+    "date": "2026-10-21T21:56:27+00:00"
+  },
+  {
     "id": "09a5c880dcda5cb5",
     "product_id": "windows",
     "product_name": "Windows",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/gemini-in-google-sheets-is-now-available-on-iOS-devices.html",
     "summary": "Building upon the power of Gemini in Sheets on the web and our recent launch on Android devices, we’re excited to announce that you can now use Gemini in Google Sheets on your iOS device to quickly analyze and understand your data while on the go.Simply tap on the Gemini spark icon, and you can ask...",
     "date": "2026-10-19T17:00:39+00:00"
-  },
-  {
-    "id": "b6f8523a8188499b",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Follow through on your meeting tasks with meeting recaps in Google Chat",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/follow-through-on-your-meeting-tasks-with-meeting-recaps-in-Google-Chat.html",
-    "summary": "To make it easier for teams to move from planning to action, we’re introducing meeting recaps in Google Chat. Meeting recaps provide a convenient summary directly in Google Chat, including:Meeting summary: A high-level overview highlighting key discussion topics and takeaways.Direct artifact links:...",
-    "date": "2026-10-19T15:37:48+00:00"
   }
 ]
