@@ -610,6 +610,26 @@
     "date": "2026-11-15T00:00:00+00:00"
   },
   {
+    "id": "52d62aa4eb21cb91",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New MCP tool for Zoom MCP server",
+    "link": "https://developers.zoom.us/changelog/mcp/october-22-2026",
+    "summary": "Tags: mcp-release | Added Ask tool.",
+    "date": "2026-10-22T00:00:00+00:00"
+  },
+  {
+    "id": "4877f4cf6ddd1bcf",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 6.10.0",
+    "link": "https://developers.zoom.us/changelog/meeting-sdk/web/6.10.0",
+    "summary": "Tags: breaking-change, bug-fix, sdk-version | Added ESM support. Added ESM support. Enhanced WebRTC reliability (connection recovery, video scope, and WebCodecs fallback), improved mobile audio device selection, and added audio denoising support across more devices and browsers. Breaking change...",
+    "date": "2026-10-21T00:00:00+00:00"
+  },
+  {
     "id": "cd1624f268435e44",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -627,26 +647,6 @@
     "title": "New `user_id` request field",
     "link": "https://developers.zoom.us/changelog/clips/october-19-2026",
     "summary": "Tags: api-release | Added request field for Clips API.",
-    "date": "2026-10-19T00:00:00+00:00"
-  },
-  {
-    "id": "3f8730d9c630c4e5",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "Version 3.10.0",
-    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.10.0",
-    "summary": "Tags: sdk-version, bug-fix | Added gesture support and fixed toast style rendering.",
-    "date": "2026-10-19T00:00:00+00:00"
-  },
-  {
-    "id": "98bd7ad629900afa",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New request and response fields to Contact Center Users, Asset Library, and Analytics APIs and User webhook events.",
-    "link": "https://developers.zoom.us/changelog/contact-center/october-19-2026",
-    "summary": "Tags: api-release | Added request and response fields to Contact Center Users, Asset Library, and Analytics APIs and User webhook events.",
     "date": "2026-10-19T00:00:00+00:00"
   },
   {
@@ -748,6 +748,26 @@
     "link": "https://gemini.google/release-notes/",
     "summary": "Why: We want to make Gemini work the way you do. By bringing your favorite apps and custom skills together in a single conversation, Gemini helps you skip the context switching and get more done, faster and easier. Customize is rolling out globally across web, mobile, and the Gemini desktop app on...",
     "date": "2026-10-13T16:21:16.896852+00:00"
+  },
+  {
+    "id": "3f8730d9c630c4e5",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "Version 3.10.0",
+    "link": "https://developers.zoom.us/changelog/cobrowse-sdk/web/3.10.0",
+    "summary": "Tags: sdk-version, bug-fix | Added gesture support and fixed toast style rendering.",
+    "date": "2026-10-19T00:00:00+00:00"
+  },
+  {
+    "id": "98bd7ad629900afa",
+    "product_id": "zoom",
+    "product_name": "Zoom",
+    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
+    "title": "New request and response fields to Contact Center Users, Asset Library, and Analytics APIs and User webhook events.",
+    "link": "https://developers.zoom.us/changelog/contact-center/october-19-2026",
+    "summary": "Tags: api-release | Added request and response fields to Contact Center Users, Asset Library, and Analytics APIs and User webhook events.",
+    "date": "2026-10-19T00:00:00+00:00"
   },
   {
     "id": "7dd9f9e5d46fcab2",
@@ -978,25 +998,5 @@
     "link": "https://docs.slack.dev/changelog/2026/10/01/py-sdk",
     "summary": "* We've added support for the ContainerBlock layout block (container type) and related fields.",
     "date": "2026-10-01T00:00:00+00:00"
-  },
-  {
-    "id": "5a1ea089b4372fc7",
-    "product_id": "1password",
-    "product_name": "1Password",
-    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password SaaS Manager",
-    "link": "https://releases.1password.com/",
-    "summary": "All Mac iOS",
-    "date": "October 14 2026"
-  },
-  {
-    "id": "d049bfec5d6e95e3",
-    "product_id": "zoom",
-    "product_name": "Zoom",
-    "icon_url": "https://www.google.com/s2/favicons?domain=zoom.us&sz=64",
-    "title": "New response fields",
-    "link": "https://developers.zoom.us/changelog/accounts/october-12-2026",
-    "summary": "Tags: api-release | Added new response fields for accounts settings API endpoint.",
-    "date": "2026-10-12T00:00:00+00:00"
   }
 ]
