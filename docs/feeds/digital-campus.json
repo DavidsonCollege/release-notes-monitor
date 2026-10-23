@@ -120,6 +120,16 @@
     "date": "2026-09-23T01:27:39.424512+00:00"
   },
   {
+    "id": "4e3d6e09be8dc9c3",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Adjust video clip playback speed directly in Google Vids",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/adjust-video-clip-playback-speed-directly-in-Google-Vids.html",
+    "summary": "We are introducing the ability to adjust the playback speed of individual video clips directly within Google Vids. This update gives creators precise control over pacing and scene timing, streamlining video editing so teams can optimize storytelling, improve audience engagement, and deliver...",
+    "date": "2026-10-23T16:12:34+00:00"
+  },
+  {
     "id": "fbf539339e074f62",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/create-structured-documents-using-just-your-voice-with-Docs-Live-in-Google-Docs-on-mobile.html",
     "summary": "Docs Live is now rolling out to eligible Workspace users of the Google Docs mobile app on Android and iOS. This new feature acts as a hands-free thought partner and co-writer that helps you build structured, context-aware documents on the fly using natural conversation.Starting a new document from...",
     "date": "2026-10-21T21:56:27+00:00"
-  },
-  {
-    "id": "25d3f845d3a37ca5",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gain more creative control over Slide Decks and Video Overviews in Gemini Notebook",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/gain-more-creative-control-over-slide-Decks-and-Video-Overviews-in-Gemini-Notebook.html",
-    "summary": "Gemini Notebook now gives you more creative control over Slide Decks and Video Overviews. Instead of jumping straight to a final output, Gemini Notebook can now walk you through a step-by-step creation flow so you can steer the content further and guide the visual style and format. Get started by...",
-    "date": "2026-10-21T17:09:27+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -450,6 +450,16 @@
     "date": "2026-10-06T20:19:57.190404+00:00"
   },
   {
+    "id": "e41eeabc008a1aaa",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Slack CLI v4.11.0",
+    "link": "https://docs.slack.dev/changelog/2026/10/22/slack-cli",
+    "summary": "Version 4.11.0 of the Slack CLI is here!",
+    "date": "2026-10-22T00:00:00+00:00"
+  },
+  {
     "id": "32967ddf99aa6dc9",
     "product_id": "slack",
     "product_name": "Slack",
@@ -487,16 +497,6 @@
     "title": "Release: Java Slack SDK v1.52.0",
     "link": "https://docs.slack.dev/changelog/2026/10/01/java-sdk",
     "summary": "* We've added support for the TaskCardBlock layout block (task_card type) and related fields, as well as UrlSourceElement for the sources field.",
-    "date": "2026-10-01T00:00:00+00:00"
-  },
-  {
-    "id": "c15dbcba680e7b78",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Python Slack SDK v3.45.0",
-    "link": "https://docs.slack.dev/changelog/2026/10/01/py-sdk",
-    "summary": "* We've added support for the ContainerBlock layout block (container type) and related fields.",
     "date": "2026-10-01T00:00:00+00:00"
   },
   {
@@ -750,6 +750,26 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "25d3f845d3a37ca5",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Gain more creative control over Slide Decks and Video Overviews in Gemini Notebook",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/gain-more-creative-control-over-slide-Decks-and-Video-Overviews-in-Gemini-Notebook.html",
+    "summary": "Gemini Notebook now gives you more creative control over Slide Decks and Video Overviews. Instead of jumping straight to a final output, Gemini Notebook can now walk you through a step-by-step creation flow so you can steer the content further and guide the visual style and format. Get started by...",
+    "date": "2026-10-21T17:09:27+00:00"
+  },
+  {
+    "id": "c15dbcba680e7b78",
+    "product_id": "slack",
+    "product_name": "Slack",
+    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
+    "title": "Release: Python Slack SDK v3.45.0",
+    "link": "https://docs.slack.dev/changelog/2026/10/01/py-sdk",
+    "summary": "* We've added support for the ContainerBlock layout block (container type) and related fields.",
+    "date": "2026-10-01T00:00:00+00:00"
+  },
+  {
     "id": "68bf4e06214d3b4d",
     "product_id": "1password",
     "product_name": "1Password",
@@ -978,25 +998,5 @@
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
     "date": "October 20 2026"
-  },
-  {
-    "id": "9efec03da8cc38cf",
-    "product_id": "canva",
-    "product_name": "Canva",
-    "icon_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=64",
-    "title": "New preview APIs are available: Create image-to-design import job and Get image-to-design import job. These APIs let you convert an image already in a",
-    "link": "https://www.canva.dev/docs/apps/rest-apis/reference/design-imports/create-image-to-design-import-job/",
-    "summary": "New preview APIs are available: Create image-to-design import job and Get image-to-design import job. These APIs let you convert an image already in a user's Canva account into an editable design using Magic Layers.",
-    "date": "2026-09-21T03:23:12.268955+00:00"
-  },
-  {
-    "id": "1c5e3cc9d7c26567",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Java SDK v1.52.0",
-    "link": "https://docs.slack.dev/changelog/2026/10/01/java-sdk",
-    "summary": "* We've added support for the TaskCardBlock layout block (task_card type) and related fields, as well as UrlSourceElement for the sources field.",
-    "date": "2026-10-01T00:00:00+00:00"
   }
 ]
