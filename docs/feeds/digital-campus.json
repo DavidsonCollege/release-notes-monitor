@@ -210,6 +210,16 @@
     "date": "2026-05-21T08:24:45+00:00"
   },
   {
+    "id": "df3744aeaa4a97d2",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "Coming Soon: New Features Arriving November 2nd!",
+    "link": "https://announcekit.app/kuali/announcements/coming-soon-new-features-arriving-november-2nd-2hM5LW",
+    "summary": "Exciting updates are on the way to Kuali! At the end of month, we're introducing new features to help you gain better insights into your dat...",
+    "date": "2026-10-23T19:30:00+00:00"
+  },
+  {
     "id": "e3341b8f124f7097",
     "product_id": "kuali-build",
     "product_name": "Kuali Build",
@@ -248,16 +258,6 @@
     "link": "https://announcekit.app/kuali/announcements/new-certification-and-inline-reviewer-enhancements-FMl6E",
     "summary": "We've made several enhancements that make it easier to collect certifications and review information from the right people during workflow—e...",
     "date": "2026-08-06T21:00:00+00:00"
-  },
-  {
-    "id": "17756a50ee75b5f6",
-    "product_id": "kuali-build",
-    "product_name": "Kuali Build",
-    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
-    "title": "June Release Update",
-    "link": "https://announcekit.app/kuali/announcements/june-release-update-2njgOc",
-    "summary": "improvements We've now released Versions and Document History for all Build users. This makes Revisions function detailed below, as well as...",
-    "date": "2026-07-06T17:00:00+00:00"
   },
   {
     "id": "d27edb484e2fb804",
@@ -750,6 +750,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "17756a50ee75b5f6",
+    "product_id": "kuali-build",
+    "product_name": "Kuali Build",
+    "icon_url": "https://www.google.com/s2/favicons?domain=kuali.com&sz=64",
+    "title": "June Release Update",
+    "link": "https://announcekit.app/kuali/announcements/june-release-update-2njgOc",
+    "summary": "improvements We've now released Versions and Document History for all Build users. This makes Revisions function detailed below, as well as...",
+    "date": "2026-07-06T17:00:00+00:00"
+  },
+  {
     "id": "b3e771261cfd1574",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/publish-interactive-apps-from-gemini-app-to-Google-Sites.html",
     "summary": "You can now export interactive apps built in the Gemini app directly to Google Sites. With one click, your app is added to a new, private site draft — fully interactive and ready to customize. From there, you can add more content, publish the site, and share it just like any other Google Site.This...",
     "date": "2026-10-19T17:25:14+00:00"
-  },
-  {
-    "id": "7a170a5b10a7d03d",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Gemini in Google Sheets is now available on iOS devices",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/gemini-in-google-sheets-is-now-available-on-iOS-devices.html",
-    "summary": "Building upon the power of Gemini in Sheets on the web and our recent launch on Android devices, we’re excited to announce that you can now use Gemini in Google Sheets on your iOS device to quickly analyze and understand your data while on the go.Simply tap on the Gemini spark icon, and you can ask...",
-    "date": "2026-10-19T17:00:39+00:00"
   }
 ]
