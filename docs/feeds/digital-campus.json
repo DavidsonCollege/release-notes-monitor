@@ -1,13 +1,13 @@
 [
   {
-    "id": "68bf4e06214d3b4d",
+    "id": "85fa3f89a4f80853",
     "product_id": "1password",
     "product_name": "1Password",
     "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
-    "title": "1Password for Android Beta",
+    "title": "1Password CLI Beta",
     "link": "https://releases.1password.com/",
     "summary": "All Mac iOS",
-    "date": "October 21 2026"
+    "date": "October 22 2026"
   },
   {
     "id": "87c02b09c4a21c48",
@@ -750,6 +750,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "68bf4e06214d3b4d",
+    "product_id": "1password",
+    "product_name": "1Password",
+    "icon_url": "https://www.google.com/s2/favicons?domain=1password.com&sz=64",
+    "title": "1Password for Android Beta",
+    "link": "https://releases.1password.com/",
+    "summary": "All Mac iOS",
+    "date": "October 21 2026"
+  },
+  {
     "id": "3f8730d9c630c4e5",
     "product_id": "zoom",
     "product_name": "Zoom",
@@ -987,16 +997,6 @@
     "title": "Release: Java SDK v1.52.0",
     "link": "https://docs.slack.dev/changelog/2026/10/01/java-sdk",
     "summary": "* We've added support for the TaskCardBlock layout block (task_card type) and related fields, as well as UrlSourceElement for the sources field.",
-    "date": "2026-10-01T00:00:00+00:00"
-  },
-  {
-    "id": "e15b1f3906c03e98",
-    "product_id": "slack",
-    "product_name": "Slack",
-    "icon_url": "https://www.google.com/s2/favicons?domain=slack.com&sz=64",
-    "title": "Release: Python SDK v3.45.0",
-    "link": "https://docs.slack.dev/changelog/2026/10/01/py-sdk",
-    "summary": "* We've added support for the ContainerBlock layout block (container type) and related fields.",
     "date": "2026-10-01T00:00:00+00:00"
   }
 ]
