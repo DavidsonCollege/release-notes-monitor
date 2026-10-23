@@ -120,6 +120,16 @@
     "date": "2026-09-23T01:27:39.424512+00:00"
   },
   {
+    "id": "4217c599a5a73c4d",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Google Workspace Weekly Recap - October 23, 2026",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/weekly-recap-10-23-2026.html",
+    "summary": "Follow through on your meeting tasks with meeting recaps in Google ChatTo make it easier for teams to move from planning to action, we’re introducing meeting recaps in Google Chat. Meeting recaps provide a convenient summary directly in Google Chat. | Learn more.Gemini in Google Sheets is now...",
+    "date": "2026-10-23T21:06:14+00:00"
+  },
+  {
     "id": "024e6980a199f251",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -158,16 +168,6 @@
     "link": "http://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html",
     "summary": "Google Vault now supports eDiscovery filtered exports for Gemini in Workspace. This update adds a new data source to our AI compliance capabilities, allowing administrators to filter and export users' Gemini in Workspace conversations across apps like Gmail, Drive, Docs, Sheets, Slides and Meet in...",
     "date": "2026-10-22T22:08:28+00:00"
-  },
-  {
-    "id": "d0749d27f51e6e42",
-    "product_id": "google-workspace",
-    "product_name": "Google Workspace",
-    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
-    "title": "Real-time speech translation in Google Meet expands to 63 languages with automatic language detection",
-    "link": "http://workspaceupdates.googleblog.com/2026/10/real-time-speech-translation-in-google-Meet-expands-to-63-languages-with-automatic-language-detection.html",
-    "summary": "Gemini-powered speech translation in Google Meet will now support 63 languages across web and mobile devices (Android and iOS), with listening support on Google Meet hardware devices.Previously, speech translation supported a limited set of language pairs and required configuring a single language...",
-    "date": "2026-10-22T17:41:39+00:00"
   },
   {
     "id": "f064858a90577a8b",
@@ -750,6 +750,16 @@
     "date": "2026-10-13T16:21:16.896852+00:00"
   },
   {
+    "id": "d0749d27f51e6e42",
+    "product_id": "google-workspace",
+    "product_name": "Google Workspace",
+    "icon_url": "https://www.google.com/s2/favicons?domain=workspace.google.com&sz=64",
+    "title": "Real-time speech translation in Google Meet expands to 63 languages with automatic language detection",
+    "link": "http://workspaceupdates.googleblog.com/2026/10/real-time-speech-translation-in-google-Meet-expands-to-63-languages-with-automatic-language-detection.html",
+    "summary": "Gemini-powered speech translation in Google Meet will now support 63 languages across web and mobile devices (Android and iOS), with listening support on Google Meet hardware devices.Previously, speech translation supported a limited set of language pairs and required configuring a single language...",
+    "date": "2026-10-22T17:41:39+00:00"
+  },
+  {
     "id": "9df4fde5bae53a19",
     "product_id": "google-workspace",
     "product_name": "Google Workspace",
@@ -988,15 +998,5 @@
     "link": "https://support.claude.com/en/articles/12138966-release-notes",
     "summary": "",
     "date": "2026-10-07T00:00:00+00:00"
-  },
-  {
-    "id": "7d2b228c217d7163",
-    "product_id": "claude",
-    "product_name": "Claude",
-    "icon_url": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-    "title": "Claude Sonnet 5.5 launch",
-    "link": "https://support.claude.com/en/articles/12138966-release-notes",
-    "summary": "",
-    "date": "2026-09-28T00:00:00+00:00"
   }
 ]
